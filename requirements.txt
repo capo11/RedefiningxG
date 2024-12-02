@@ -1,6 +1,6 @@
 mplsoccer
 joblib
-sklearn
+scikit-learn
 imblearn
 xgboost
 shap
