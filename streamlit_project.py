@@ -236,6 +236,7 @@ st.title("Serie A 2024/25")
 st.subheader("Filtra per Partita e Tiro per vedere la mappa dei tiri e le differenze di xG!")
 
 
+
 modelDescription = st.selectbox('Seleziona il Modello', ['Random Forest', 'XGBoost'], index=1)
 if modelDescription:
     if modelDescription == 'Random Forest':
@@ -266,146 +267,157 @@ if modelDescription:
 
 
     schedule = pd.read_csv('serieaSchedule.csv')
-    schedule = schedule.drop(columns='Unnamed: 0')
-    scheduleDone = schedule.loc[schedule['week']<=13]
-    descriptions = []
-    for i in scheduleDone.index:
-        description = str(scheduleDone.loc[i]['week']) + '° Giornata: ' + scheduleDone.loc[i]['home_team'] + ' - ' + scheduleDone.loc[i]['away_team'] + ' ' + str(int(scheduleDone.loc[i]['home_score'])) + ' - ' + str(int(scheduleDone.loc[i]['away_score']))
-        descriptions.append(description)
-    scheduleDone['description'] = descriptions
-    # print(scheduleDone.head())
+    
+    # selection = st.pills("Modalità", ['Seleziona Per Giornata', 'Seleziona Per Squadra'], selection_mode="single", default=)
 
+    # week = st.number_input("Seleziona la Giornata", value=1, placeholder="Numero Giornata")
+    # if week:
+    teams = np.unique(schedule['home_team'])
+    scheduleTeam = st.selectbox("Seleziona una Squadra", teams, index=None)
+    if scheduleTeam:
+        schedule = schedule.drop(columns='Unnamed: 0')
+        scheduleDone = schedule.loc[schedule['week']<=13]
+        # scheduleDone = schedule.loc[schedule['week']==week]
+        scheduleDone = scheduleDone.loc[(scheduleDone['home_team'] == scheduleTeam) | (scheduleDone['away_team'] == scheduleTeam)]
+        descriptions = []
+        for i in scheduleDone.index:
+            description = str(scheduleDone.loc[i]['week']) + '° Giornata: ' + scheduleDone.loc[i]['home_team'] + ' - ' + scheduleDone.loc[i]['away_team'] + ' ' + str(int(scheduleDone.loc[i]['home_score'])) + ' - ' + str(int(scheduleDone.loc[i]['away_score']))
+            # description = scheduleDone.loc[i]['home_team'] + ' - ' + scheduleDone.loc[i]['away_team'] + ' ' + str(int(scheduleDone.loc[i]['home_score'])) + ' - ' + str(int(scheduleDone.loc[i]['away_score']))
+            descriptions.append(description)
+        scheduleDone['description'] = descriptions
+        # print(scheduleDone.head())
+        # st.write(scheduleDone[['date', 'home_team', 'away_team', 'home_score', 'away_score']])
+        gameDescription = st.selectbox('Seleziona una Partita', scheduleDone['description'], index=None)
 
+        # gameDescription = st.selectbox('Seleziona una Partita', scheduleDone['description'], index=None)
+        if gameDescription:
+            gameIndex = scheduleDone.loc[scheduleDone['description'] == gameDescription].index[0]
+            st.error("xG Sofascore: " + str(statsDF.loc[gameIndex]['homeXg']) + ' - ' + str(statsDF.loc[gameIndex]['awayXg']))
+            st.info("xG Previsti dal Modello: " + str(statsDF.loc[gameIndex]['homeXgPred']) + ' - ' + str(statsDF.loc[gameIndex]['awayXgPred']))
+            # print(gameIndex)
+            stats = predictLocalGame(scheduleDone.loc[gameIndex], model)
+            gameShots = shotsDF.loc[shotsDF['gameIndex'] == gameIndex]
+            # print(gameShots.head())
+            pitch = VerticalPitch(pitch_type='statsbomb', pitch_color='#22312b', half=True)
+            fig,axs = pitch.draw(figsize=(8,4), ncols=2)
+            fig.set_facecolor('#22312b')
+            axs[0].patch.set_facecolor('#22312b')
+            axs[0].set_title("xG Sofascore", color="white")
+            axs[1].patch.set_facecolor('#22312b')
+            axs[1].set_title("xG Modello", color="white")
+            legend_elements = [
+                plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=10, label='xG Modello > xG Sofascore'),
+                plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=10, label='xG Modello = xG Sofascore'),
+                plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=10, label='xG Modello < xG Sofascore')
+            ]
 
-    gameDescription = st.selectbox('Seleziona una Partita', scheduleDone['description'], index=None)
-    if gameDescription:
-        gameIndex = scheduleDone.loc[scheduleDone['description'] == gameDescription].index[0]
-        st.error("xG Sofascore: " + str(statsDF.loc[gameIndex]['homeXg']) + ' - ' + str(statsDF.loc[gameIndex]['awayXg']))
-        st.info("xG Previsti dal Modello: " + str(statsDF.loc[gameIndex]['homeXgPred']) + ' - ' + str(statsDF.loc[gameIndex]['awayXgPred']))
-        # print(gameIndex)
-        stats = predictLocalGame(scheduleDone.loc[gameIndex], model)
-        gameShots = shotsDF.loc[shotsDF['gameIndex'] == gameIndex]
-        # print(gameShots.head())
-        pitch = VerticalPitch(pitch_type='statsbomb', pitch_color='#22312b', half=True)
-        fig,axs = pitch.draw(figsize=(8,4), ncols=2)
-        fig.set_facecolor('#22312b')
-        axs[0].patch.set_facecolor('#22312b')
-        axs[0].set_title("xG Sofascore", color="white")
-        axs[1].patch.set_facecolor('#22312b')
-        axs[1].set_title("xG Modello", color="white")
-        legend_elements = [
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=10, label='xG Modello > xG Sofascore'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=10, label='xG Modello = xG Sofascore'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=10, label='xG Modello < xG Sofascore')
-        ]
-
-        axs[1].legend(handles=legend_elements, loc='lower center', title='Legenda')
-        
-        home_team = scheduleDone.loc[gameIndex]['home_team']
-        away_team = scheduleDone.loc[gameIndex]['away_team']
-
-        selectedTeam = st.selectbox('Seleziona una Squadra', [home_team, away_team], index=None)
-        # print(home_team, away_team)
-
-        if selectedTeam:
-            teamShots = gameShots.loc[gameShots['team'] == selectedTeam].reset_index(drop=True)
-            # print(teamShots.head())
-            descriptions = []
-            for i in teamShots.index:
-                if(teamShots.loc[i]['goal'] == 0):
-                    shotOutcome = 'No Goal'
-                else:
-                    shotOutcome = 'Goal'
-                description = str(i+1) + ' - ' + teamShots.loc[i]['player'] + ' - ' + shotOutcome + ' (' + str(teamShots.loc[i]['xg']) + ' xG)'
-                # print(shotDescription)
-                descriptions.append(description)
-                x = 120-teamShots.loc[i]['x']
-                y = teamShots.loc[i]['y']
-                pitch.scatter(
-                    x=x, 
-                    y=y,
-                    ax=axs[0],
-                    s = shotsMultiplier*teamShots.loc[i]['xg'],
-                    c='black',
-                    edgecolors='white')
-                if(teamShots.loc[i]['xg']<teamShots.loc[i]['xgPred']):
-                    color='green'
-                elif(teamShots.loc[i]['xg']>teamShots.loc[i]['xgPred']):
-                    color='red'
-                else:
-                    color='yellow'
-                pitch.scatter(
-                    x=x, 
-                    y=y,
-                    ax=axs[1],
-                    s = shotsMultiplier*teamShots.loc[i]['xgPred'],
-                    c=color,
-                    edgecolors='white')
-            # fig_html = mpld3.fig_to_html(fig)
-            # size = fig.get_size_inches()
-            # width = int(size[0]) * 100+50
-            # height = int(size[1]) * 100+50
-            # components.html(fig_html, height=height, width=width)
-            st.pyplot(fig)
-        
-            teamShots['description'] = descriptions
-            shotDescription = st.selectbox('Seleziona un Tiro', teamShots['description'], index=None)
-            if shotDescription:
-                shotIndex = teamShots.loc[teamShots['description'] == shotDescription].index[0]
-                # print(shotIndex)
-
-                # pitch = VerticalPitch(pitch_type='statsbomb', pitch_color='#22312b', half=True)
-                # fig,ax = pitch.draw(figsize=(8,4))
-                # fig.set_facecolor('#22312b')
-                # ax.patch.set_facecolor('#22312b')
-                # for i in teamShots.index:
-                #     x = 120-teamShots.loc[i]['x']
-                #     y = teamShots.loc[i]['y']
-                #     if(i == shotIndex):
-                #         xg = teamShots.loc[i]['xg']
-                #         xgPred = teamShots.loc[i]['xgPred']
-                #         if(xg>xgPred):
-                #             pitch.scatter(
-                #             x=x, 
-                #             y=y,
-                #             ax=ax,
-                #             s = shotsMultiplier*xg,
-                #             c='red',
-                #             edgecolors='white')
-                #             pitch.scatter(
-                #                 x=x, 
-                #                 y=y,
-                #                 ax=ax,
-                #                 s = shotsMultiplier*xgPred,
-                #                 c='blue',
-                #                 edgecolors='white')
-                #         else:
-                #             pitch.scatter(
-                #                 x=x, 
-                #                 y=y,
-                #                 ax=ax,
-                #                 s = shotsMultiplier*xgPred,
-                #                 c='blue',
-                #                 edgecolors='white')
-                #             pitch.scatter(
-                #                 x=x, 
-                #                 y=y,
-                #                 ax=ax,
-                #                 s = shotsMultiplier*xg,
-                #                 c='blue',
-                #                 edgecolors='white')
-                # st.pyplot(fig)
-                
-                st.error("xG Sofascore: " + str(teamShots.loc[shotIndex]['xg']))
-                st.info("xG Previsto dal Modello: " + str(teamShots.loc[shotIndex]['xgPred']))
-                
-                if(selectedTeam == home_team):
-                    shot = stats['homeShots_clean'].loc[shotIndex]
-                elif(selectedTeam == away_team):
-                    shot = stats['awayShots_clean'].loc[shotIndex]
-                
-                shapValues = explainer(shot)
-                # st.pyplot(shap.plots.force(shapValues, matplotlib=True))
-                plotShap(shapValues)
-                    
+            axs[1].legend(handles=legend_elements, loc='lower center', title='Legenda')
             
+            home_team = scheduleDone.loc[gameIndex]['home_team']
+            away_team = scheduleDone.loc[gameIndex]['away_team']
+
+            selectedTeam = st.selectbox('Seleziona una Squadra', [home_team, away_team], index=None)
+            # print(home_team, away_team)
+
+            if selectedTeam:
+                teamShots = gameShots.loc[gameShots['team'] == selectedTeam].reset_index(drop=True)
+                # print(teamShots.head())
+                descriptions = []
+                for i in teamShots.index:
+                    if(teamShots.loc[i]['goal'] == 0):
+                        shotOutcome = 'No Goal'
+                    else:
+                        shotOutcome = 'Goal'
+                    description = str(i+1) + ' - ' + teamShots.loc[i]['player'] + ' - ' + shotOutcome + ' (' + str(teamShots.loc[i]['xg']) + ' xG)'
+                    # print(shotDescription)
+                    descriptions.append(description)
+                    x = 120-teamShots.loc[i]['x']
+                    y = teamShots.loc[i]['y']
+                    pitch.scatter(
+                        x=x, 
+                        y=y,
+                        ax=axs[0],
+                        s = shotsMultiplier*teamShots.loc[i]['xg'],
+                        c='black',
+                        edgecolors='white')
+                    if(teamShots.loc[i]['xg']<teamShots.loc[i]['xgPred']):
+                        color='green'
+                    elif(teamShots.loc[i]['xg']>teamShots.loc[i]['xgPred']):
+                        color='red'
+                    else:
+                        color='yellow'
+                    pitch.scatter(
+                        x=x, 
+                        y=y,
+                        ax=axs[1],
+                        s = shotsMultiplier*teamShots.loc[i]['xgPred'],
+                        c=color,
+                        edgecolors='white')
+                # fig_html = mpld3.fig_to_html(fig)
+                # size = fig.get_size_inches()
+                # width = int(size[0]) * 100+50
+                # height = int(size[1]) * 100+50
+                # components.html(fig_html, height=height, width=width)
+                st.pyplot(fig)
+            
+                teamShots['description'] = descriptions
+                shotDescription = st.selectbox('Seleziona un Tiro', teamShots['description'], index=None)
+                if shotDescription:
+                    shotIndex = teamShots.loc[teamShots['description'] == shotDescription].index[0]
+                    # print(shotIndex)
+
+                    # pitch = VerticalPitch(pitch_type='statsbomb', pitch_color='#22312b', half=True)
+                    # fig,ax = pitch.draw(figsize=(8,4))
+                    # fig.set_facecolor('#22312b')
+                    # ax.patch.set_facecolor('#22312b')
+                    # for i in teamShots.index:
+                    #     x = 120-teamShots.loc[i]['x']
+                    #     y = teamShots.loc[i]['y']
+                    #     if(i == shotIndex):
+                    #         xg = teamShots.loc[i]['xg']
+                    #         xgPred = teamShots.loc[i]['xgPred']
+                    #         if(xg>xgPred):
+                    #             pitch.scatter(
+                    #             x=x, 
+                    #             y=y,
+                    #             ax=ax,
+                    #             s = shotsMultiplier*xg,
+                    #             c='red',
+                    #             edgecolors='white')
+                    #             pitch.scatter(
+                    #                 x=x, 
+                    #                 y=y,
+                    #                 ax=ax,
+                    #                 s = shotsMultiplier*xgPred,
+                    #                 c='blue',
+                    #                 edgecolors='white')
+                    #         else:
+                    #             pitch.scatter(
+                    #                 x=x, 
+                    #                 y=y,
+                    #                 ax=ax,
+                    #                 s = shotsMultiplier*xgPred,
+                    #                 c='blue',
+                    #                 edgecolors='white')
+                    #             pitch.scatter(
+                    #                 x=x, 
+                    #                 y=y,
+                    #                 ax=ax,
+                    #                 s = shotsMultiplier*xg,
+                    #                 c='blue',
+                    #                 edgecolors='white')
+                    # st.pyplot(fig)
+                    
+                    st.error("xG Sofascore: " + str(teamShots.loc[shotIndex]['xg']))
+                    st.info("xG Previsto dal Modello: " + str(teamShots.loc[shotIndex]['xgPred']))
+                    
+                    if(selectedTeam == home_team):
+                        shot = stats['homeShots_clean'].loc[shotIndex]
+                    elif(selectedTeam == away_team):
+                        shot = stats['awayShots_clean'].loc[shotIndex]
+                    
+                    shapValues = explainer(shot)
+                    # st.pyplot(shap.plots.force(shapValues, matplotlib=True))
+                    plotShap(shapValues)
+                        
+                
