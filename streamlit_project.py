@@ -7,6 +7,8 @@ from imblearn.over_sampling import RandomOverSampler
 from imblearn.over_sampling import SMOTE
 from imblearn.over_sampling import ADASYN
 from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
+import numpy as np
 import xgboost
 import shap
 
@@ -76,9 +78,10 @@ def cleanDataset(df, elo=False):
   # x = x.drop(columns=['goal', 'player', 'team', 'keeper', 'opponent', 'isHome', 'x', 'y', 'xg', 'distance', 'angle'])
   return x, y
 
-def getXTrain(df, elo=False, over='smote', k=15, sampling_strategy='none', test_size=0.2):
+def getXTrain(df, elo=False, over='none', k=15, sampling_strategy='none', test_size=0.2):
     df = df.dropna(subset=['xg'])
     x,y = cleanDataset(df, elo)
+    X_train, X_test, y_train, y_test = train_test_split(x,y,test_size=test_size, random_state=42)
     if(over == "random"):
         oversample = RandomOverSampler(sampling_strategy=0.25, random_state=42)
         x,y = oversample.fit_resample(x,y)
@@ -95,7 +98,7 @@ def getXTrain(df, elo=False, over='smote', k=15, sampling_strategy='none', test_
         ada = ADASYN(random_state=42)
         x,y = ada.fit_resample(x,y)
     
-    X_train, X_test, y_train, y_test = train_test_split(x,y,test_size=test_size, random_state=42)
+    
     return X_train, x
 
 def predictLocalGame(game, model):
@@ -171,13 +174,73 @@ def predictLocalGame(game, model):
     stats['awayShots']['diff'] = round(stats['awayShots']['diff'], 2)
     return stats
 
+def plotShap(shapValues):
+    features = []
+    shap_values = []
+    values = []
+    for (i, feature) in enumerate(shapValues.data.index):
+        # print(i,feature)
+        features.append(feature)
+        shap_values.append(round(shapValues.values[i], 2))
+    for (i, value) in enumerate(shapValues.data):
+        # print(i, value)
+        if (i==0):
+            value = int(value)  #differenza goal
+        elif(i==1 or i==2):
+            value = int(value*100)  #ratings
+        elif(i==3):
+            value = value*120   #distanza
+        elif(i==4):
+            value = value*90    #angolo
+        else:
+            value = int(value)
+        values.append(value)
+    
+    # print(features)
+    # print(values)
+    features = ['Differenza Goal:', 'Rating Tiratore:', 'Rating Portiere:', 'Distanza:', 'Angolo:', 'Posizione - Difensore', 'Posizione - Attaccante', 'Posizione - Centrocampista', 'Situazione - Servito', 'Situazione - Corner', 'Situazione - Contropiede', 'Situazione - Punizione', 'Situazione - Rigore', 'Situazione - Regolare', 'Situazione - Calcio Piazzato', 'Situazione - Rimessa Laterale', 'Corpo - Testa', 'Corpo - Piede Sinistro', 'Corpo - Altro', 'Corpo - Piede Destro']
+    features_values = []
+    for i in range(0, len(features)):
+        if(i<=4):
+            features_values.append(str(features[i]) + ' ' + str(round(values[i], 2)))
+        else:
+            if(values[i] == 1):
+                features_values.append(str(features[i]) + ': Si')
+            else:
+                features_values.append(str(features[i]) + ': No')
+    # print(features_values)
+
+    shap_values = np.array(shap_values)
+    sorted_indices = np.argsort(np.abs(shap_values))[10:]
+    sorted_shap_values = shap_values[sorted_indices]
+    sorted_feature_names = [features_values[i] for i in sorted_indices]
+    plt.figure(figsize=(8, 6))
+    bars = plt.barh(sorted_feature_names, sorted_shap_values, color=["green" if v > 0 else "red" for v in sorted_shap_values])
+    plt.xlabel("Shapley Value", color="white")
+    plt.ylabel("Feature", color="white")
+    plt.title("Quali fattori influenzano il tiro?", color="white")
+    plt.axvline(0, color="white", linewidth=0.8, linestyle="--")  # Linea verticale per il riferimento a zero
+    # plt.grid(axis="x", linestyle="--", alpha=0.7)
+    plt.tick_params(axis='both', colors='white')
+    for pos in ['right', 'top', 'bottom', 'left']: 
+        plt.gca().spines[pos].set_visible(False) 
+
+
+    # Mostrare il grafico
+    # plt.show()
+    st.pyplot(transparent=True)
+
+
 st.title("Serie A 2024/25")
 st.subheader("Filtra per Partita e Tiro per vedere la mappa dei tiri e le differenze di xG!")
 
 
-modelDescription = st.selectbox('Seleziona la Tecnica di Oversampling', ['random', 'SMOTE', 'SMOTE_SS0.5', 'SMOTE_K15', 'ADASYN'], index=None)
+modelDescription = st.selectbox('Seleziona il Modello', ['Random Forest', 'XGBoost'], index=1)
 if modelDescription:
-    modelName = modelDescription
+    if modelDescription == 'Random Forest':
+        modelName = 'base_FOR'
+    elif modelDescription == 'XGBoost':
+        modelName = 'base_XGB'
 
 # modelName = "SMOTE_SS0.5"
 # modelName = "SMOTE_K15"
@@ -229,6 +292,13 @@ if modelDescription:
         axs[0].set_title("xG Sofascore", color="white")
         axs[1].patch.set_facecolor('#22312b')
         axs[1].set_title("xG Modello", color="white")
+        legend_elements = [
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=10, label='xG Modello > xG Sofascore'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=10, label='xG Modello = xG Sofascore'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=10, label='xG Modello < xG Sofascore')
+        ]
+
+        axs[1].legend(handles=legend_elements, loc='lower center', title='Legenda')
         
         home_team = scheduleDone.loc[gameIndex]['home_team']
         away_team = scheduleDone.loc[gameIndex]['away_team']
@@ -334,9 +404,7 @@ if modelDescription:
                     shot = stats['awayShots_clean'].loc[shotIndex]
                 
                 shapValues = explainer(shot)
-                # print(shapValues)
-                # st.pyplot(shap.plots.bar(shapValues))
-                st.pyplot(shap.plots.force(shapValues, matplotlib=True))
-
+                # st.pyplot(shap.plots.force(shapValues, matplotlib=True))
+                plotShap(shapValues)
                     
             
