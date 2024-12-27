@@ -5,3 +5,4 @@ imblearn
 xgboost
 shap
 openpyxl
+streamlit-option-menu
