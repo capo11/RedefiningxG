@@ -334,7 +334,7 @@ def plotShap(shapValues, elo):
                 features_values.append(str(features[i]) + ': ' + str(round(values[i], 2)))
             else:
                 if(values[i] == 1):
-                    features_values.append(str(features[i]) + ': Si')
+                    features_values.append(str(features[i]) + ': Yes')
                 else:
                     features_values.append(str(features[i]) + ': No')
     else:
@@ -343,7 +343,7 @@ def plotShap(shapValues, elo):
                 features_values.append(str(features[i]) + ': ' + str(round(values[i], 2)))
             else:
                 if(values[i] == 1):
-                    features_values.append(str(features[i]) + ': Si')
+                    features_values.append(str(features[i]) + ': Yes')
                 else:
                     features_values.append(str(features[i]) + ': No')
     # print(features_values)
