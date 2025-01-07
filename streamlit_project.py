@@ -797,9 +797,9 @@ def photoKeepers(shotsDF):
             displayCard(playerUrl, pName, pXG, pGoal, pDiff)
 
     col1, col2 = st.columns(2)
-    sofaUPdf = keepersDF.sort_values(by="Differenza (Sofascore)", ascending=True).drop(columns=['Model xG', 'Difference (Model)']).head(3)
+    sofaUPdf = keepersDF.sort_values(by="Difference (Sofascore)", ascending=True).drop(columns=['Model xG', 'Difference (Model)']).head(3)
     sofaUPdf = sofaUPdf.reset_index()
-    modelUPdf = keepersDF.sort_values(by="Differenza (Modello)", ascending=True).drop(columns=['Sofascore xG', 'Difference (Sofascore)']).head(3)
+    modelUPdf = keepersDF.sort_values(by="Difference (Model)", ascending=True).drop(columns=['Sofascore xG', 'Difference (Sofascore)']).head(3)
     modelUPdf = modelUPdf.reset_index()
     with col1:
         st.write("Underperformer based on Sofascore")
