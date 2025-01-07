@@ -11,4 +11,4 @@ The model's output has been confronted with the xG values produced by a "competi
 
 Eventually, the model has been analysed by looking at **feature importance** by looking at the *Shapley values*, in order to have a global view of the "reasoning" behind the model's predictions, but also to **have a specific explanation of a single prediction**, being able to **understand which features influence a specific prediction for a specific shot**.
 
-A website has been produced to show the results of this model. The results can be seen at redefiningxg.streamlit.app .
+A website has been produced to show the results of this model. The results can be seen at [redefiningxg.streamlit.app](https://redefiningxg.streamlit.app/) .
