@@ -783,11 +783,11 @@ def photoKeepers(shotsDF):
             # st.image(playerUrl, caption=caption)
             displayCard(playerUrl, pName, pXG, pGoal, pDiff)
         with c3:
-            playerUrl = "https://img.sofascore.com/api/v1/player/" + str(modelOPdf.loc[0]['Player ID']) + "/image"
+            playerUrl = "https://img.sofascore.com/api/v1/player/" + str(modelOPdf.loc[2]['Player ID']) + "/image"
             # response = requests.get(playerUrl)
             # image = Image.open(BytesIO(response.content))
             # output = remove(image)
-            p = modelOPdf.loc[0]
+            p = modelOPdf.loc[2]
             pName = str(p['Player'])
             pXG = str(round(p['Model xG'], 2))
             pGoal = str(p['Goal'])
