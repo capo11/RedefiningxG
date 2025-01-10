@@ -437,7 +437,7 @@ def showShots():
         scheduleDone = scheduleDone.loc[(scheduleDone['home_team'] == scheduleTeam) | (scheduleDone['away_team'] == scheduleTeam)]
         descriptions = []
         for i in scheduleDone.index:
-            description = str(scheduleDone.loc[i]['week']) + '° Giornata: ' + scheduleDone.loc[i]['home_team'] + ' - ' + scheduleDone.loc[i]['away_team'] + ' ' + str(int(scheduleDone.loc[i]['home_score'])) + ' - ' + str(int(scheduleDone.loc[i]['away_score']))
+            description = 'Round ' + str(scheduleDone.loc[i]['week']) + ': ' + scheduleDone.loc[i]['home_team'] + ' - ' + scheduleDone.loc[i]['away_team'] + ' ' + str(int(scheduleDone.loc[i]['home_score'])) + ' - ' + str(int(scheduleDone.loc[i]['away_score']))
             descriptions.append(description)
         scheduleDone['description'] = descriptions
         gameDescription = st.selectbox('Select a Match', scheduleDone['description'], index=None)
