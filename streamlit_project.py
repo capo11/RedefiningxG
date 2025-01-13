@@ -541,7 +541,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(sofaOPdf.loc[0]['Difference (Sofascore)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'seagreen')
         with c2:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(sofaOPdf.loc[1]['Player ID']) + "/image"
             p = sofaOPdf.loc[1]
@@ -551,7 +551,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(sofaOPdf.loc[1]['Difference (Sofascore)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'seagreen')
         with c3:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(sofaOPdf.loc[2]['Player ID']) + "/image"
             p = sofaOPdf.loc[2]
@@ -561,7 +561,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(sofaOPdf.loc[2]['Difference (Sofascore)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'seagreen')
     with col2:
         st.write("Overperformer based on the Model")
         # st.dataframe(modelOPdf, hide_index=True, use_container_width=True)
@@ -575,7 +575,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(p['Difference (Model)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'forestgreen')
         with c2:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(modelOPdf.loc[1]['Player ID']) + "/image"
             p = modelOPdf.loc[1]
@@ -585,7 +585,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(p['Difference (Model)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'forestgreen')
         with c3:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(modelOPdf.loc[2]['Player ID']) + "/image"
             p = modelOPdf.loc[2]
@@ -595,7 +595,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(p['Difference (Model)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'forestgreen')
     
     col1, col2 = st.columns(2)
     sofaUPdf = playersDF.sort_values(by="Difference (Sofascore)", ascending=True).drop(columns=['Model xG', 'Difference (Model)']).head(3)
@@ -615,7 +615,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(p['Difference (Sofascore)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'firebrick')
         with c2:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(sofaUPdf.loc[1]['Player ID']) + "/image"
             p = sofaUPdf.loc[1]
@@ -625,7 +625,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(p['Difference (Sofascore)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'firebrick')
         with c3:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(sofaUPdf.loc[2]['Player ID']) + "/image"
             p = sofaUPdf.loc[2]
@@ -635,7 +635,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(p['Difference (Sofascore)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'firebrick')
     with col2:
         st.write("Underperformer based on the Model")
         # st.dataframe(modelUPdf, hide_index=True, use_container_width=True)
@@ -652,7 +652,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(p['Difference (Model)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'red')
         with c2:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(modelUPdf.loc[1]['Player ID']) + "/image"
             p = modelUPdf.loc[1]
@@ -662,7 +662,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(p['Difference (Model)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'red')
         with c3:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(modelUPdf.loc[2]['Player ID']) + "/image"
             p = modelUPdf.loc[2]
@@ -672,7 +672,7 @@ def photoStrikers(shotsDF):
             pDiff = str(round(p['Difference (Model)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'red')
 
 
 def photoKeepers(shotsDF):
@@ -726,7 +726,7 @@ def photoKeepers(shotsDF):
             pDiff = str(round(p['Difference (Sofascore)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (-" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'seagreen')
         with c2:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(sofaOPdf.loc[1]['Player ID']) + "/image"
             # response = requests.get(playerUrl)
@@ -739,7 +739,7 @@ def photoKeepers(shotsDF):
             pDiff = str(round(p['Difference (Sofascore)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (-" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'seagreen')
         with c3:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(sofaOPdf.loc[2]['Player ID']) + "/image"
             # response = requests.get(playerUrl)
@@ -752,7 +752,7 @@ def photoKeepers(shotsDF):
             pDiff = str(round(p['Difference (Sofascore)'],2))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (-" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'seagreen')
     with col2:
         st.write("Overperformer based on the Model")
         # st.dataframe(modelOPdf, hide_index=True, use_container_width=True)
@@ -769,7 +769,7 @@ def photoKeepers(shotsDF):
             pDiff = str(abs(round(p['Difference (Model)'],2)))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (-" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'forestgreen')
         with c2:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(modelOPdf.loc[1]['Player ID']) + "/image"
             # response = requests.get(playerUrl)
@@ -782,7 +782,7 @@ def photoKeepers(shotsDF):
             pDiff = str(abs(round(p['Difference (Model)'],2)))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (-" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'forestgreen')
         with c3:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(modelOPdf.loc[2]['Player ID']) + "/image"
             # response = requests.get(playerUrl)
@@ -795,7 +795,7 @@ def photoKeepers(shotsDF):
             pDiff = str(abs(round(p['Difference (Model)'],2)))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (-" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'forestgreen')
 
     col1, col2 = st.columns(2)
     sofaUPdf = keepersDF.sort_values(by="Difference (Sofascore)", ascending=True).drop(columns=['Model xG', 'Difference (Model)']).head(3)
@@ -818,7 +818,7 @@ def photoKeepers(shotsDF):
             pDiff = str(abs(round(p['Difference (Sofascore)'],2)))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'firebrick')
         with c2:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(sofaUPdf.loc[1]['Player ID']) + "/image"
             # response = requests.get(playerUrl)
@@ -831,7 +831,7 @@ def photoKeepers(shotsDF):
             pDiff = str(abs(round(p['Difference (Sofascore)'],2)))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'firebrick')
         with c3:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(sofaUPdf.loc[2]['Player ID']) + "/image"
             # response = requests.get(playerUrl)
@@ -844,7 +844,7 @@ def photoKeepers(shotsDF):
             pDiff = str(abs(round(p['Difference (Sofascore)'],2)))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'firebrick')
     with col2:
         st.write("Underperformer based on the Model")
         # st.dataframe(modelUPdf, hide_index=True, use_container_width=True)
@@ -861,7 +861,7 @@ def photoKeepers(shotsDF):
             pDiff = str(abs(round(p['Difference (Model)'],2)))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'red')
         with c2:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(modelUPdf.loc[1]['Player ID']) + "/image"
             # response = requests.get(playerUrl)
@@ -874,7 +874,7 @@ def photoKeepers(shotsDF):
             pDiff = str(abs(round(p['Difference (Model)'],2)))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'red')
         with c3:
             playerUrl = "https://img.sofascore.com/api/v1/player/" + str(modelUPdf.loc[2]['Player ID']) + "/image"
             # response = requests.get(playerUrl)
@@ -887,13 +887,13 @@ def photoKeepers(shotsDF):
             pDiff = str(abs(round(p['Difference (Model)'],2)))
             caption = pName + ", " + pXG + " xG" + ", " + pGoal + " Goal" + " (+" + pDiff + ")"
             # st.image(playerUrl, caption=caption)
-            displayCard(playerUrl, pName, pXG, pGoal, pDiff)
+            displayCard(playerUrl, pName, pXG, pGoal, pDiff, 'red')
 
 
 
-def displayCard(url, name, xg, goal, diff):
+def displayCard(url, name, xg, goal, diff, bgcolor):
     card_html = f"""
-    <div class="card">
+    <div class="card" style="background-color: {bgcolor}">
         <img src="{url}" alt="Immagine della card">
         <div class="card-title">{name}</div>
         <div class="card-row">
