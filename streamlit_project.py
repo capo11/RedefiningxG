@@ -433,7 +433,8 @@ def showShots():
     scheduleTeam = st.selectbox("Select a Team", teams, index=None)
     if scheduleTeam:
         schedule = schedule.drop(columns='Unnamed: 0')
-        scheduleDone = schedule.loc[schedule['week']<=lastRound]
+        scheduleDone = schedule[schedule['home_score'].notna()]
+        # scheduleDone = schedule.loc[schedule['week']<=lastRound]
         scheduleDone = scheduleDone.loc[(scheduleDone['home_team'] == scheduleTeam) | (scheduleDone['away_team'] == scheduleTeam)]
         descriptions = []
         for i in scheduleDone.index:
