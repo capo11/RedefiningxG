@@ -13,6 +13,18 @@ import numpy as np
 import xgboost
 import shap
 from streamlit_option_menu import option_menu
+from browser_detection import browser_detection_engine
+
+deviceType = "desktop"
+value = browser_detection_engine()
+# st.write(value)
+
+if (value['isMobile'] == True):
+    deviceType = "mobile"
+elif (value['isDesktop'] == True):
+    deviceType = "desktop"
+elif (value['isTablet'] == True):
+    deviceType = "tablet"
 
 shotsMultiplier = 500
 lastRound = 18
@@ -215,7 +227,10 @@ def predictLocalGame(game, model, elo=False, minute=True):
 
 def plotShots(teamShots):
     pitch = VerticalPitch(pitch_type='statsbomb', pitch_color='#22312b', half=True)
-    fig,axs = pitch.draw(figsize=(8,4), ncols=2)
+    if deviceType == "desktop" or deviceType == "tablet":
+        fig,axs = pitch.draw(figsize=(8,4), ncols=2)
+    elif deviceType == "mobile":
+        fig,axs = pitch.draw(figsize=(8,4), nrows=2)
     fig.set_facecolor('#22312b')
     axs[0].patch.set_facecolor('#22312b')
     axs[0].set_title("Sofascore xG", color="white")
@@ -930,29 +945,11 @@ def displayCard(url, name, surname, xg, goal, diff, bgcolor):
     """
     st.markdown(card_html, unsafe_allow_html=True)
 
-st.markdown("""
-    <style>
-    .top-right-text {
-        position: absolute;
-        top: 10px;
-        right: 20px;
-        font-size: 16px;
-        font-weight: bold;
-        color: #007bff; /* Colore del testo */
-        background-color: #f9f9f9; /* Sfondo opzionale */
-        padding: 5px 10px; /* Padding opzionale */
-        border-radius: 5px; /* Arrotondamento opzionale */
-        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Ombreggiatura opzionale */
-    }
-    </style>
-    <div class="top-right-text">
-        Last Update: January 16th, 2025
-    </div>
-""", unsafe_allow_html=True)
 
 
 st.title("Serie A 2024/25")
 st.subheader("Filter for Match and Shot to see the shotmap and the xG differences!")
+st.write("Last Update: January 16th, 2025")
 
 optionMenu = option_menu(None, ["Shots Stats", "Player Stats"],
     icons=['1-circle', '2-circle'],
