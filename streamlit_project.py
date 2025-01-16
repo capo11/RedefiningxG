@@ -236,23 +236,39 @@ def plotShots(teamShots):
     axs[0].set_title("Sofascore xG", color="white")
     axs[1].patch.set_facecolor('#22312b')
     axs[1].set_title("Model xG", color="white")
-
-    legend1 = [
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=10, label='Strong Foot'),
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=10, label='Weak Foot'),
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=10, label='Head'),
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='blue', markersize=10, label='Other')
-    ]
+    if deviceType == "desktop" or deviceType == "tablet":
+        legend1 = [
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=10, label='Strong Foot'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=10, label='Weak Foot'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=10, label='Head'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='blue', markersize=10, label='Other')
+        ]
+        
+        legend2 = [
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=10, label='Model xG > Sofascore xG'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=10, label='Model xG = Sofascore xG'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=10, label='Model xG < Sofascore xG')
+        ]
     
-    legend2 = [
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=10, label='Model xG > Sofascore xG'),
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=10, label='Model xG = Sofascore xG'),
-        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=10, label='Model xG < Sofascore xG')
-    ]
-
-    axs[0].legend(handles=legend1, loc='lower center', title='Legenda')
-    axs[1].legend(handles=legend2, loc='lower center', title='Legenda')
-    descriptions = []
+        axs[0].legend(handles=legend1, loc='lower center', title='Legenda')
+        axs[1].legend(handles=legend2, loc='lower center', title='Legenda')
+    elif deviceType == "mobile":
+        legend1 = [
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=6, label='Strong Foot'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=6, label='Weak Foot'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=6, label='Head'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='blue', markersize=6, label='Other')
+        ]
+        
+        legend2 = [
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=6, label='Model xG > Sofascore xG'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=6, label='Model xG = Sofascore xG'),
+            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=6, label='Model xG < Sofascore xG')
+        ]
+    
+        axs[0].legend(handles=legend1, loc='lower center', title='Legenda', fontsize='small', title_fontsize='small')
+        axs[1].legend(handles=legend2, loc='lower center', title='Legenda', fontsize='small', title_fontsize='small')
+        descriptions = []
     for i in teamShots.index:
         if(teamShots.loc[i]['goal'] == 0):
             shotOutcome = 'No Goal'
