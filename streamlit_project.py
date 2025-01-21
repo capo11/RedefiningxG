@@ -13,18 +13,8 @@ import numpy as np
 import xgboost
 import shap
 from streamlit_option_menu import option_menu
-from browser_detection import browser_detection_engine
 
-deviceType = "desktop"
-value = browser_detection_engine()
-# st.write(value)
 
-if (value['isMobile'] == True):
-    deviceType = "mobile"
-elif (value['isDesktop'] == True):
-    deviceType = "desktop"
-elif (value['isTablet'] == True):
-    deviceType = "tablet"
 
 shotsMultiplier = 500
 lastRound = 18
@@ -144,7 +134,10 @@ def getXTrain(df, elo=False, minute=True, over='none', k=15, sampling_strategy='
     return X_train, x
 
 def predictLocalGame(game, model, elo=False, minute=True):
-  allShots = pd.read_csv('seriea2425_id.csv')
+  if optionMenu1 == "Serie A":
+    allShots = pd.read_csv('datasets/seriea2425_id.csv')
+  elif optionMenu1 == "Premier League":
+    allShots = pd.read_csv('datasets/bpl2425_id.csv')
   allShots = allShots.drop(columns=['playerID', 'keeperID'])
   shotmap = allShots.loc[(allShots['homeTeam'] == game['home_team']) & (allShots['awayTeam'] == game['away_team'])]
   shotmap = shotmap.reset_index()
@@ -164,8 +157,12 @@ def predictLocalGame(game, model, elo=False, minute=True):
   awayShots = awayShots.reset_index()
   awayShots = awayShots.drop(columns=['index'])
 
-  df = pd.read_csv('seriea_joined_new.csv')
-  df = df.drop(columns=['Unnamed: 0'])
+  if optionMenu1 == "Serie A":
+    df = pd.read_csv('datasets/seriea_joined_new.csv')
+    df = df.drop(columns=['Unnamed: 0'])
+  elif optionMenu1 == "Premier League":
+    df = pd.read_csv('datasets/bpl_joined_id.csv')
+    df = df.drop(columns=['Unnamed: 0', 'Unnamed: 0.1', 'playerID', 'keeperID'])
   if minute==False:
     df = df.drop(columns=['minute'])
   if elo==False:
@@ -227,48 +224,29 @@ def predictLocalGame(game, model, elo=False, minute=True):
 
 def plotShots(teamShots):
     pitch = VerticalPitch(pitch_type='statsbomb', pitch_color='#22312b', half=True)
-    if deviceType == "desktop" or deviceType == "tablet":
-        fig,axs = pitch.draw(figsize=(8,4), ncols=2)
-    elif deviceType == "mobile":
-        fig,axs = pitch.draw(figsize=(8,4), nrows=2)
+    fig,axs = pitch.draw(figsize=(8,4), ncols=2)
     fig.set_facecolor('#22312b')
     axs[0].patch.set_facecolor('#22312b')
     axs[0].set_title("Sofascore xG", color="white")
     axs[1].patch.set_facecolor('#22312b')
     axs[1].set_title("Model xG", color="white")
-    if deviceType == "desktop" or deviceType == "tablet":
-        legend1 = [
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=10, label='Strong Foot'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=10, label='Weak Foot'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=10, label='Head'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='blue', markersize=10, label='Other')
-        ]
-        
-        legend2 = [
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=10, label='Model xG > Sofascore xG'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=10, label='Model xG = Sofascore xG'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=10, label='Model xG < Sofascore xG')
-        ]
+
+    legend1 = [
+        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=6, label='Strong Foot'),
+        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=6, label='Weak Foot'),
+        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=6, label='Head'),
+        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='blue', markersize=6, label='Other')
+    ]
     
-        axs[0].legend(handles=legend1, loc='lower center', title='Legenda')
-        axs[1].legend(handles=legend2, loc='lower center', title='Legenda')
-    elif deviceType == "mobile":
-        legend1 = [
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=6, label='Strong Foot'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=6, label='Weak Foot'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=6, label='Head'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='blue', markersize=6, label='Other')
-        ]
-        
-        legend2 = [
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=6, label='Model xG > Sofascore xG'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=6, label='Model xG = Sofascore xG'),
-            plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=6, label='Model xG < Sofascore xG')
-        ]
-    
-        axs[0].legend(handles=legend1, loc='lower center', title='Legenda', fontsize='small', title_fontsize='small')
-        axs[1].legend(handles=legend2, loc='lower center', title='Legenda', fontsize='small', title_fontsize='small')
-        descriptions = []
+    legend2 = [
+        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='green', markersize=6, label='Model xG > Sofascore xG'),
+        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='yellow', markersize=6, label='Model xG = Sofascore xG'),
+        plt.Line2D([0], [0], marker='o', color='w', markerfacecolor='red', markersize=6, label='Model xG < Sofascore xG')
+    ]
+
+    axs[0].legend(handles=legend1, loc='lower center', title='Legenda', fontsize='small', title_fontsize='small')
+    axs[1].legend(handles=legend2, loc='lower center', title='Legenda', fontsize='small', title_fontsize='small')
+    descriptions = []
     for i in teamShots.index:
         if(teamShots.loc[i]['goal'] == 0):
             shotOutcome = 'No Goal'
@@ -365,7 +343,7 @@ def plotShap(shapValues, elo):
                 features_values.append(str(features[i]) + ': ' + str(round(values[i], 2)))
             else:
                 if(values[i] == 1):
-                    features_values.append(str(features[i]) + ': Yes')
+                    features_values.append(str(features[i]) + ': Si')
                 else:
                     features_values.append(str(features[i]) + ': No')
     else:
@@ -374,7 +352,7 @@ def plotShap(shapValues, elo):
                 features_values.append(str(features[i]) + ': ' + str(round(values[i], 2)))
             else:
                 if(values[i] == 1):
-                    features_values.append(str(features[i]) + ': Yes')
+                    features_values.append(str(features[i]) + ': Si')
                 else:
                     features_values.append(str(features[i]) + ': No')
     # print(features_values)
@@ -432,15 +410,27 @@ def plotShap(shapValues, elo):
     # st.plotly_chart(fig)
 
 def showShots():
-    df = pd.read_csv('seriea_joined_new.csv')
-    df = df.drop(columns=['Unnamed: 0'])
+    if optionMenu1 == "Serie A":
+        df = pd.read_csv('datasets/seriea_joined_new.csv')
+        df = df.drop(columns=['Unnamed: 0'])
+        # st.dataframe(df)
+    elif optionMenu1 == "Premier League":
+        df = pd.read_csv('datasets/bpl_joined_id.csv')
+        df = df.drop(columns=['Unnamed: 0', 'Unnamed: 0.1', 'playerID', 'keeperID'])
+        # st.dataframe(df)
     useElo = st.checkbox("Use the teams' Elo Ratings")
     if useElo == True:
         elo = True
-        modelName = 'base_XGB_full'
+        if optionMenu1 == "Serie A":
+            modelName = 'ITA_full'
+        elif optionMenu1 == "Premier League":
+            modelName = 'ENG_full'
     else:
         elo = False
-        modelName = 'base_XGB_minute'
+        if optionMenu1 == "Serie A":
+            modelName = 'ITA_minute'
+        elif optionMenu1 == "Premier League":
+            modelName = 'ENG_minute'
         df = df.drop(columns=['eloTeam', 'eloOpponent'])
     model = joblib.load('models/' + modelName + '.sav')
 
@@ -457,7 +447,10 @@ def showShots():
     statsDF = statsDF.drop(columns='Unnamed: 0')
 
 
-    schedule = pd.read_csv('serieaSchedule.csv')
+    if optionMenu1 == "Serie A":
+        schedule = pd.read_csv('serieaSchedule.csv')
+    elif optionMenu1 == "Premier League":
+        schedule = pd.read_csv('bplSchedule.csv')
 
     
     teams = np.unique(schedule['home_team'])
@@ -469,7 +462,7 @@ def showShots():
         scheduleDone = scheduleDone.loc[(scheduleDone['home_team'] == scheduleTeam) | (scheduleDone['away_team'] == scheduleTeam)]
         descriptions = []
         for i in scheduleDone.index:
-            description = 'Round ' + str(scheduleDone.loc[i]['week']) + ': ' + scheduleDone.loc[i]['home_team'] + ' - ' + scheduleDone.loc[i]['away_team'] + ' ' + str(int(scheduleDone.loc[i]['home_score'])) + ' - ' + str(int(scheduleDone.loc[i]['away_score']))
+            description = 'Round ' + str(scheduleDone.loc[i]['week']) + ': ' +  scheduleDone.loc[i]['home_team'] + ' - ' + scheduleDone.loc[i]['away_team'] + ' ' + str(int(scheduleDone.loc[i]['home_score'])) + ' - ' + str(int(scheduleDone.loc[i]['away_score']))
             descriptions.append(description)
         scheduleDone['description'] = descriptions
         gameDescription = st.selectbox('Select a Match', scheduleDone['description'], index=None)
@@ -511,10 +504,16 @@ def showPlayers():
     useElo = st.checkbox("Use the teams' Elo Ratings")
     if useElo == True:
         elo = True
-        modelName = 'base_XGB_full'
+        if optionMenu1 == "Serie A":
+            modelName = 'ITA_full'
+        elif optionMenu1 == "Premier League":
+            modelName = 'ENG_full'
     else:
         elo = False
-        modelName = 'base_XGB_minute'
+        if optionMenu1 == "Serie A":
+            modelName = 'ITA_minute'
+        elif optionMenu1 == "Premier League":
+            modelName = 'ENG_minute'
 
     shotsDF = pd.read_excel('allShots/allShots_' + modelName + '.xlsx')
     shotsDF = shotsDF.drop(columns=['Unnamed: 0'])
@@ -946,7 +945,6 @@ def photoKeepers(shotsDF):
 
 
 
-
 def displayCard(url, name, surname, xg, goal, diff, bgcolor):
     card_html = f"""
     <div class="card" style="background-color: {bgcolor}">
@@ -963,15 +961,20 @@ def displayCard(url, name, surname, xg, goal, diff, bgcolor):
 
 
 
-st.title("Serie A 2024/25")
-st.subheader("Filter for Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: January 16th, 2025")
+st.title("Serie A & Premier League 2024/25")
+st.subheader("Filter for League, Match and Shot to see the shotmap and the xG differences!")
+st.write("Last Update: January 21th, 2025")
 
-optionMenu = option_menu(None, ["Shots Stats", "Player Stats"],
-    icons=['1-circle', '2-circle'],
+optionMenu1 = option_menu("Pick a League", ["Serie A", "Premier League"],
+    icons=['1-circle', '2-circle'],menu_icon="trophy-fill",
     default_index=0, orientation="horizontal"
 )
-if optionMenu == "Shots Stats":
+
+optionMenu2 = option_menu(None, ["Shots Stats", "Player Stats"],
+    icons=['1-circle', '2-circle'], 
+    default_index=0, orientation="horizontal"
+)
+if optionMenu2 == "Shots Stats":
     showShots()
-elif optionMenu == "Player Stats":
+elif optionMenu2 == "Player Stats":
     showPlayers()
