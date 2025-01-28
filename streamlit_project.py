@@ -162,7 +162,7 @@ def predictLocalGame(game, model, elo=False, minute=True):
     df = df.drop(columns=['Unnamed: 0'])
   elif optionMenu1 == "Premier League":
     df = pd.read_csv('datasets/bpl_joined_id.csv')
-    df = df.drop(columns=['Unnamed: 0', 'Unnamed: 0.1', 'playerID', 'keeperID'])
+    df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
   if minute==False:
     df = df.drop(columns=['minute'])
   if elo==False:
@@ -416,7 +416,7 @@ def showShots():
         # st.dataframe(df)
     elif optionMenu1 == "Premier League":
         df = pd.read_csv('datasets/bpl_joined_id.csv')
-        df = df.drop(columns=['Unnamed: 0', 'Unnamed: 0.1', 'playerID', 'keeperID'])
+        df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
         # st.dataframe(df)
     useElo = st.checkbox("Use the teams' Elo Ratings")
     if useElo == True:
