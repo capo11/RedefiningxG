@@ -963,7 +963,7 @@ def displayCard(url, name, surname, xg, goal, diff, bgcolor):
 
 st.title("Serie A & Premier League 2024/25")
 st.subheader("Filter for League, Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: January 27th, 2025")
+st.write("Last Update: January 28th, 2025")
 
 optionMenu1 = option_menu("Pick a League", ["Serie A", "Premier League"],
     icons=['1-circle', '2-circle'],menu_icon="trophy-fill",
