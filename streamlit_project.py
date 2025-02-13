@@ -513,7 +513,7 @@ def showShots():
                         print(stats['awayShots_clean'])
                         shot = stats['awayShots_clean'].loc[shotIndex]
                     print(shot)
-                    shapValues = explainer(shot, check_additivity=True)
+                    shapValues = explainer(shot, check_additivity=False)
                     plotShap(shapValues, elo)
 
 
@@ -534,7 +534,7 @@ def showPlayers():
         elif optionMenu1 == "Premier League":
             modelName = 'ENG_minute'
         elif optionMenu1 == "La Liga":
-            modelName = 'ESP_full'
+            modelName = 'ESP_minute'
 
     shotsDF = pd.read_excel('allShots/allShots_' + modelName + '.xlsx')
     shotsDF = shotsDF.drop(columns=['Unnamed: 0'])
