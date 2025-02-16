@@ -18,7 +18,6 @@ from streamlit_option_menu import option_menu
 
 shotsMultiplier = 500
 lastRound = 18
-
 pd.options.mode.chained_assignment = None
 # st.set_option('deprecation.showPyplotGlobalUse', False)
 
@@ -426,20 +425,21 @@ def showShots():
         # st.dataframe(df)
     elif optionMenu1 == "Premier League":
         df = pd.read_csv('datasets/bpl_joined_id.csv')
-        print(df.columns)
+        # print(df.columns)
         df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
         # st.dataframe(df)
     elif optionMenu1 == "La Liga":
         df = pd.read_csv('datasets/liga_joined_id.csv')
-        print(df.columns)
+        # print(df.columns)
         df = df.drop(columns=['playerID', 'keeperID'])
     elif optionMenu1 == "Bundesliga":
         df = pd.read_csv('datasets/bundes_joined_id.csv')
-        print(df.columns)
+        # print(df.columns)
         df = df.drop(columns=['playerID', 'keeperID'])
     useElo = st.checkbox("Use the teams' Elo Ratings")
     if useElo == True:
         elo = True
+        global modelName
         if optionMenu1 == "Serie A":
             modelName = 'ITA_full'
         elif optionMenu1 == "Premier League":
@@ -525,11 +525,12 @@ def showShots():
                     if(selectedTeam == home_team):
                         shot = stats['homeShots_clean'].loc[shotIndex]
                     elif(selectedTeam == away_team):
-                        print(stats['awayShots_clean'])
+                        # print(stats['awayShots_clean'])
                         shot = stats['awayShots_clean'].loc[shotIndex]
-                    print(shot)
+                    # print(shot)
                     shapValues = explainer(shot, check_additivity=False)
                     plotShap(shapValues, elo)
+                    showViolinPlot()
 
 
 def showPlayers():
@@ -983,7 +984,108 @@ def photoKeepers(shotsDF):
             # st.image(playerUrl, caption=caption)
             displayCard(playerUrl, name, surname, pXG, pGoal, pDiff, 'red')
 
+def showViolinPlot():
+    # print("Model + " + str(modelName))
+    st.markdown("<h1 style='text-align: center;'>How Does the Model Think?</h1>", unsafe_allow_html=True)
+    col1, col2 = st.columns(2)
+    with col1:
+        st.image("violinPlots/" + modelName + ".png")
+    with col2:
+        st.write("## Key Aspects:")
+        match modelName:
+            case "ITA_minute":
+                st.markdown("""
+                - **Fast-Breaks** are more effective and important than in other leagues, and they influence positively a shot's probability
+                    - **Serie A is the league in which Fast-Breaks influence positively the most**
+                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                    - **Serie A is the league in which Corner Kicks influence negatively the most**
+                - Serie A is the only league in which the shot's **angle** does not have a clear trend
+                - A low value for the **minute** could affect negatively the probability, much more than in other leagues 
+                    - That could implicate that teams "study themselves" more in the first minutes
+                - Serie A is the only league in which being in a **disadvantage** influences negatively a shot probability
+                    - Having an advantage influences slightly positively the probabilities
+                """)
+            case "ITA_full":
+                st.markdown("""
+                - **Fast-Breaks** are more effective and important than in other leagues, and they influence positively a shot's probability
+                    - **Serie A is the league in which Fast-Breaks influence positively the most**
+                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                    - **Serie A is the league in which Corner Kicks influence negatively the most**
+                - A low value for the **minute** could affect negatively the probability, much more than in other leagues 
+                    - That could implicate that teams "study themselves" more in the first minutes
+                - Serie A is the only league in which being in a **disadvantage** influences negatively a shot probability
+                    - Having an advantage influences slightly positively the probabilities
+                - A high **ELO Rating** gives a slight advantage
+                """)
+            case "ENG_minute":
+                st.markdown("""
+                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                - A low value for the **minute** does **not** affect the probabilities like in other leagues
+                    - Teams do not "waste time" studying the opponent
+                    - **Probabilities get higher in the last minutes**
+                - Having an **advantage** influences positively the probabilities
+                    - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
+                - **Premier League is the league which influences most negatively set pieces**
+                    - Premier League is also **the only league which does not influence positively free kicks**
+                """)
 
+            case "ENG_full":
+                st.markdown("""
+                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                - A low value for the **minute** does **not** affect the probabilities like in other leagues
+                    - Teams do not "waste time" studying the opponent
+                    - **Probabilities get higher in the last minutes**
+                - Having an **advantage** influences positively the probabilities
+                    - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
+                - **Premier League is the league which influences most negatively set pieces**
+                    - Premier League is also **the only league which does not influence positively free kicks**
+                - **ELO Rating** for the **opposite** team does not provide a clear trend
+                """)
+
+            case "ESP_minute":
+                st.markdown("""
+                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                - **Rating** does not influence as positively as in other leagues
+                    - **Keeper Rating** is more important than in other leagues
+                - The **minute** feature does not show a clear trend
+                """)
+
+            case "ESP_full":
+                st.markdown("""
+                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                - **Rating** does not influence as positively as in other leagues
+                    - **Keeper Rating** is more important than in other leagues
+                - The **minute** feature does not show a clear trend
+                - The **ELO Ratings** for team and opponent influence more positively than in other leagues
+                """)
+
+            case "GER_minute":
+                st.markdown("""
+                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                    - **Bundesliga is the only league in which a head shot could also influence positively**
+                - The **minute** feature does not show a clear trend
+                - Having an **advantage** influences positively the probabilities
+                    - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
+                - **Bundesliga is the league which influences most positively free kicks**
+                """)
+
+            case "GER_full":
+                st.markdown("""
+                - **Fast-Breaks** influence positively a shot's probability, but not as in other leagues
+                - **Head Shots** and **Corner Kicks** influence negatively a shot's probability
+                    - **Bundesliga is the only league in which a head shot could also influence positively**
+                - The **minute** feature does not show a clear trend
+                - Having an **advantage** influences positively the probabilities
+                    - Premier League is one of the few leagues in which **having a disadvantage does not influence negatively the probabilities**
+                - **Bundesliga is the league which influences most positively free kicks**
+                """)
+            
+        
 
 def displayCard(url, name, surname, xg, goal, diff, bgcolor):
     card_html = f"""
@@ -1003,7 +1105,7 @@ def displayCard(url, name, surname, xg, goal, diff, bgcolor):
 
 st.title("Big 4 Leagues 2024/25")
 st.subheader("Filter for League, Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: February 15th, 2025")
+st.write("Last Update: February 16th, 2025")
 
 optionMenu1 = option_menu("Pick a League", ["Serie A", "Premier League", "La Liga", "Bundesliga"],
     icons=['1-circle', '2-circle', '3-circle', '4-circle'],menu_icon="trophy-fill",
