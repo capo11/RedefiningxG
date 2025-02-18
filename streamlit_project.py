@@ -141,6 +141,8 @@ def predictLocalGame(game, model, elo=False, minute=True):
     allShots = pd.read_csv('datasets/liga2425_id.csv')
   elif optionMenu1 == "Bundesliga":
     allShots = pd.read_csv('datasets/bundes2425_id.csv')
+  elif optionMenu1 == "Ligue 1":
+    allShots = pd.read_csv('datasets/ligue12425_id.csv')
   allShots = allShots.drop(columns=['playerID', 'keeperID'])
   shotmap = allShots.loc[(allShots['homeTeam'] == game['home_team']) & (allShots['awayTeam'] == game['away_team'])]
   shotmap = shotmap.reset_index()
@@ -171,6 +173,9 @@ def predictLocalGame(game, model, elo=False, minute=True):
     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
   elif optionMenu1 == "Bundesliga":
     df = pd.read_csv('datasets/bundes_joined_id.csv')
+    df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+  elif optionMenu1 == "Ligue 1":
+    df = pd.read_csv('datasets/ligue1_joined_id.csv')
     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
   if minute==False:
     df = df.drop(columns=['minute'])
@@ -436,6 +441,10 @@ def showShots():
         df = pd.read_csv('datasets/bundes_joined_id.csv')
         # print(df.columns)
         df = df.drop(columns=['playerID', 'keeperID'])
+    elif optionMenu1 == "Ligue 1":
+        df = pd.read_csv('datasets/ligue1_joined_id.csv')
+        # print(df.columns)
+        df = df.drop(columns=['playerID', 'keeperID'])
     useElo = st.checkbox("Use the teams' Elo Ratings")
     if useElo == True:
         elo = True
@@ -448,6 +457,8 @@ def showShots():
             modelName = 'ESP_full'
         elif optionMenu1 == "Bundesliga":
             modelName = 'GER_full'
+        elif optionMenu1 == "Ligue 1":
+            modelName = 'FRA_full'
     else:
         elo = False
         if optionMenu1 == "Serie A":
@@ -458,6 +469,8 @@ def showShots():
             modelName = 'ESP_minute'
         elif optionMenu1 == "Bundesliga":
             modelName = 'GER_minute'
+        elif optionMenu1 == "Ligue 1":
+            modelName = 'FRA_minute'
         df = df.drop(columns=['eloTeam', 'eloOpponent'])
     model = joblib.load('models/' + modelName + '.sav')
 
@@ -482,6 +495,8 @@ def showShots():
         schedule = pd.read_csv('ligaSchedule.csv')
     elif optionMenu1 == "Bundesliga":
         schedule = pd.read_csv('bundesSchedule.csv')
+    elif optionMenu1 == "Ligue 1":
+        schedule = pd.read_csv('ligue1Schedule.csv')
 
     
     teams = np.unique(schedule['home_team'])
@@ -545,6 +560,8 @@ def showPlayers():
             modelName = 'ESP_full'
         elif optionMenu1 == "Bundesliga":
             modelName = 'GER_full'
+        elif optionMenu1 == "Ligue 1":
+            modelName = 'FRA_full'
     else:
         elo = False
         if optionMenu1 == "Serie A":
@@ -555,6 +572,8 @@ def showPlayers():
             modelName = 'ESP_minute'
         elif optionMenu1 == "Bundesliga":
             modelName = 'GER_minute'
+        elif optionMenu1 == "Ligue 1":
+            modelName = 'FRA_minute'
 
     shotsDF = pd.read_excel('allShots/allShots_' + modelName + '.xlsx')
     shotsDF = shotsDF.drop(columns=['Unnamed: 0'])
@@ -1103,12 +1122,12 @@ def displayCard(url, name, surname, xg, goal, diff, bgcolor):
 
 
 
-st.title("Big 4 Leagues 2024/25")
+st.title("Big 5 Leagues 2024/25")
 st.subheader("Filter for League, Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: February 16th, 2025")
+st.write("Last Update: February 18th, 2025")
 
-optionMenu1 = option_menu("Pick a League", ["Serie A", "Premier League", "La Liga", "Bundesliga"],
-    icons=['1-circle', '2-circle', '3-circle', '4-circle'],menu_icon="trophy-fill",
+optionMenu1 = option_menu("Pick a League", ["Serie A", "Premier League", "La Liga", "Bundesliga", "Ligue 1"],
+    icons=['1-circle', '2-circle', '3-circle', '4-circle', '5-circle'],menu_icon="trophy-fill",
     default_index=0, orientation="horizontal"
 )
 
