@@ -4914,3 +4914,213 @@ index,round,homeTeam,awayTeam,xg,goal,minute,goalDifference,player,playerID,posi
 188,21,RB Leipzig,FC St. Pauli,0.11853636801243,0,90,2,Christoph Baumgartner,825956,M,73,RB Leipzig,1733,Nikola Vasilj,325061,73,FC St. Pauli,1579,True,11,30,14,42,fast-break,strong-foot
 188,21,RB Leipzig,FC St. Pauli,0.044854827225208,0,90,2,Ridle Baku,856553,M,71,RB Leipzig,1733,Nikola Vasilj,325061,73,FC St. Pauli,1579,True,3,51,11,74,fast-break,strong-foot
 188,21,RB Leipzig,FC St. Pauli,0.042989104986191,0,90,2,Loïs Openda,835480,F,82,RB Leipzig,1733,Nikola Vasilj,325061,73,FC St. Pauli,1579,True,7,22,19,68,corner,weak-foot
+189,22,FC Augsburg,RB Leipzig,0.014574256725609,0,4,0,Christoph Baumgartner,825956,M,73,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,33,52,35,19,assisted,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.095977671444416,0,10,0,Christoph Baumgartner,825956,M,73,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,12,52,16,45,assisted,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.01898537017405,0,11,0,Lutsharel Geertruida,856739,D,55,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,34,38,34,3,corner,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.050151519477367,0,14,0,Alexis Claude-Maurice,822877,F,71,FC Augsburg,1605,Péter Gulácsi,37096,84,RB Leipzig,1733,True,5,53,13,68,assisted,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.019195195287466,0,15,0,Xavi Simons,997183,M,76,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,26,22,31,34,assisted,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.15976876020432,0,22,0,Chrislain Matsima,963198,D,33,FC Augsburg,1605,Péter Gulácsi,37096,84,RB Leipzig,1733,True,5,44,6,38,set-piece,head
+189,22,FC Augsburg,RB Leipzig,0.027852218598127,0,26,0,Frank Onyeka,885864,M,62,FC Augsburg,1605,Péter Gulácsi,37096,84,RB Leipzig,1733,True,25,45,25,11,corner,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.032333444803953,0,28,0,David Raum,856076,D,60,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,6,20,20,73,assisted,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.014423301443458,0,39,0,Alexis Claude-Maurice,822877,F,71,FC Augsburg,1605,Péter Gulácsi,37096,84,RB Leipzig,1733,True,26,49,27,19,corner,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.029771288856864,0,40,0,Jeffrey Gouweleeuw,146853,D,57,FC Augsburg,1605,Péter Gulácsi,37096,84,RB Leipzig,1733,True,29,37,29,5,corner,weak-foot
+189,22,FC Augsburg,RB Leipzig,0.068494521081448,0,42,0,David Raum,856076,D,60,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,8,25,17,61,regular,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.071489863097668,0,47,0,Lukas Klostermann,319853,D,48,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,6,47,9,49,set-piece,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.05792661011219,0,49,0,Xavi Simons,997183,M,76,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,24,40,24,0,assisted,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.036977205425501,0,54,0,Fredrik Jensen,846356,M,68,FC Augsburg,1605,Péter Gulácsi,37096,84,RB Leipzig,1733,True,17,30,19,30,corner,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.021660855039954,0,59,0,Amadou Haidara,822708,M,71,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,23,52,25,27,corner,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.063176766037941,0,64,0,Xavi Simons,997183,M,76,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,12,49,15,36,assisted,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.26080343127251,0,67,0,Benjamin Šeško,986397,F,78,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,7,37,7,23,assisted,head
+189,22,FC Augsburg,RB Leipzig,0.046389162540436,0,68,0,Alexis Claude-Maurice,822877,F,71,FC Augsburg,1605,Péter Gulácsi,37096,84,RB Leipzig,1733,True,24,51,26,24,assisted,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.09231474250555,0,69,0,Phillip Tietz,822340,F,73,FC Augsburg,1605,Péter Gulácsi,37096,84,RB Leipzig,1733,True,8,35,9,32,corner,head
+189,22,FC Augsburg,RB Leipzig,0.085106827318668,0,73,0,Arne Maier,836706,M,60,FC Augsburg,1605,Péter Gulácsi,37096,84,RB Leipzig,1733,True,15,44,15,14,assisted,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.19492699205875,0,74,0,Phillip Tietz,822340,F,73,FC Augsburg,1605,Péter Gulácsi,37096,84,RB Leipzig,1733,True,6,39,6,9,corner,head
+189,22,FC Augsburg,RB Leipzig,0.22391313314438,0,81,0,Frank Onyeka,885864,M,62,FC Augsburg,1605,Péter Gulácsi,37096,84,RB Leipzig,1733,True,17,39,17,3,fast-break,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.023405276238918,0,84,0,Amadou Haidara,822708,M,71,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,26,30,27,21,corner,strong-foot
+189,22,FC Augsburg,RB Leipzig,0.39610317349434,0,90,0,Kosta Nedeljković,1152923,D,41,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,5,42,5,21,regular,head
+189,22,FC Augsburg,RB Leipzig,0.09627029299736,0,90,0,Kosta Nedeljković,1152923,D,41,RB Leipzig,1733,Finn Dahmen,822564,73,FC Augsburg,1605,False,10,40,10,0,assisted,head
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.0735814422369,0,2,0,Andrej Ilić,953767,F,62,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,10,40,10,0,throw-in-set-piece,head
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.029993699863553,0,3,0,Robert Skov,327863,M,77,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,12,28,16,45,assisted,head
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.26658618450165,1,10,0,Lukas Ullrich,1083382,D,42,Borussia M'gladbach,1652,Frederik Rønnow,137692,80,1. FC Union Berlin,1579,False,5,30,11,63,assisted,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.033694632351398,0,21,-1,Andrej Ilić,953767,F,62,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,6,29,12,61,set-piece,head
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.075439937412739,0,23,-1,Danilho Doekhi,830803,D,41,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,8,33,10,41,throw-in-set-piece,head
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.97801250219345,1,26,1,Tim Kleindienst,228981,F,80,Borussia M'gladbach,1652,Frederik Rønnow,137692,80,1. FC Union Berlin,1579,False,2,39,2,26,assisted,weak-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.069706790149212,0,38,2,Nico Elvedi,282229,D,37,Borussia M'gladbach,1652,Frederik Rønnow,137692,80,1. FC Union Berlin,1579,False,9,36,9,23,corner,head
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.10304692387581,0,39,2,Robin Hack,876858,M,73,Borussia M'gladbach,1652,Frederik Rønnow,137692,80,1. FC Union Berlin,1579,False,21,40,21,0,regular,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.027780937030911,0,42,2,Tim Kleindienst,228981,F,80,Borussia M'gladbach,1652,Frederik Rønnow,137692,80,1. FC Union Berlin,1579,False,12,43,12,14,corner,head
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.020177917554975,0,45,2,Robin Hack,876858,M,73,Borussia M'gladbach,1652,Frederik Rønnow,137692,80,1. FC Union Berlin,1579,False,25,29,27,23,assisted,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.30589362978935,0,45,2,Nathan N'Goumou,962409,M,69,Borussia M'gladbach,1652,Frederik Rønnow,137692,80,1. FC Union Berlin,1579,False,7,50,12,55,assisted,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.16713391244411,0,45,-2,Andrej Ilić,953767,F,62,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,8,37,8,20,assisted,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.048013135790825,0,51,-2,Danilho Doekhi,830803,D,41,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,11,41,11,5,corner,head
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.10597340762615,0,52,-2,Danilho Doekhi,830803,D,41,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,8,43,8,20,corner,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.029692035168409,0,52,-2,Woo-Yeong Jeong,927405,M,61,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,16,47,17,23,corner,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.19568611681461,0,55,-2,Benedict Hollerbach,975800,F,72,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,17,41,17,3,assisted,weak-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.11118007451296,0,55,-2,Janik Haberer,168985,M,66,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,22,41,22,2,regular,weak-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.7884,1,63,-2,Andrej Ilić,953767,F,62,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,13,40,13,0,penalty,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.066536322236061,0,67,-1,Tom Rothe,1210666,M,48,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,17,39,17,3,corner,weak-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.026229007169604,0,69,1,Joseph Scally,1002920,D,47,Borussia M'gladbach,1652,Frederik Rønnow,137692,80,1. FC Union Berlin,1579,False,20,51,22,28,assisted,weak-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.046158574521542,0,70,-1,László Bénes,354558,M,76,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,25,37,25,6,assisted,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.019116686657071,0,80,-1,László Bénes,354558,M,76,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,27,50,28,20,assisted,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.31461986899376,0,80,1,Tim Kleindienst,228981,F,80,Borussia M'gladbach,1652,Frederik Rønnow,137692,80,1. FC Union Berlin,1579,False,11,27,17,49,fast-break,weak-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.062490217387676,0,86,-1,Benedict Hollerbach,975800,F,72,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,17,50,19,30,assisted,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.0057993424125016,0,88,-1,Benedict Hollerbach,975800,F,72,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,7,23,18,67,set-piece,head
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.042772985994816,0,90,-1,Ivan Prtajin,796672,F,69,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,24,44,24,9,assisted,strong-foot
+190,22,1. FC Union Berlin,Borussia M'gladbach,0.098696760833263,0,90,-1,Danilho Doekhi,830803,D,41,1. FC Union Berlin,1579,Moritz Nicolas,578166,75,Borussia M'gladbach,1652,True,11,45,12,24,throw-in-set-piece,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.030626259744167,0,18,0,Nathan Tella,920379,M,71,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,11,51,15,45,set-piece,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.25646334886551,0,21,0,Jeremie Frimpong,970361,M,59,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,6,41,6,9,regular,head
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.18091946840286,0,21,0,Florian Wirtz,1019322,F,80,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,3,29,11,74,assisted,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.35538366436958,0,25,0,Nathan Tella,920379,M,71,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,9,39,9,6,assisted,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.037996307015419,0,33,0,Florian Wirtz,1019322,F,80,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,63,23,65,15,fast-break,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.027418941259384,0,35,0,Nathan Tella,920379,M,71,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,26,44,26,8,assisted,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.033137854188681,0,48,0,Piero Hincapié,1002837,D,39,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,10,28,15,50,set-piece,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.10254351049662,0,59,0,Nathan Tella,920379,M,71,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,8,43,8,20,corner,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.29735004901886,0,66,0,Nathan Tella,920379,M,71,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,5,40,5,0,corner,head
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.031864430755377,0,66,0,Edmond Tapsoba,883262,D,53,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,12,31,15,36,corner,weak-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.015794133767486,0,73,0,Harry Kane,108579,F,92,FC Bayern München,1889,Lukáš Hrádecký,15219,83,Bayer 04 Leverkusen,1899,False,10,58,20,60,assisted,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.066182166337967,0,74,0,Nathan Tella,920379,M,71,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,15,32,17,28,set-piece,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.028592491522431,0,76,0,Florian Wirtz,1019322,F,80,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,24,26,27,30,assisted,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.029463704675436,0,81,0,Leon Goretzka,184661,M,77,FC Bayern München,1889,Lukáš Hrádecký,15219,83,Bayer 04 Leverkusen,1899,False,14,36,14,15,assisted,head
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.35746669769287,0,90,0,Amine Adli,991478,F,75,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,10,37,10,16,regular,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.32221525907516,0,90,0,Florian Wirtz,1019322,F,80,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,8,37,8,20,regular,strong-foot
+191,22,Bayer 04 Leverkusen,FC Bayern München,0.034633852541447,0,90,0,Jeremie Frimpong,970361,M,59,Bayer 04 Leverkusen,1899,Manuel Neuer,8959,84,FC Bayern München,1889,True,25,37,25,6,corner,strong-foot
+192,22,FC St. Pauli,SC Freiburg,0.023363022133708,0,6,0,Elias Saad,1130946,F,66,FC St. Pauli,1579,Noah Atubolu,980626,74,SC Freiburg,1650,True,12,20,23,59,assisted,weak-foot
+192,22,FC St. Pauli,SC Freiburg,0.28169265389442,0,13,0,Ritsu Doan,790965,M,68,SC Freiburg,1650,Nikola Vasilj,325061,73,FC St. Pauli,1579,False,14,46,15,23,assisted,strong-foot
+192,22,FC St. Pauli,SC Freiburg,0.014290180057287,0,36,0,Elias Saad,1130946,F,66,FC St. Pauli,1579,Noah Atubolu,980626,74,SC Freiburg,1650,True,34,28,36,19,set-piece,weak-foot
+192,22,FC St. Pauli,SC Freiburg,0.1102451980114,0,43,0,Vincenzo Grifo,171961,M,76,SC Freiburg,1650,Nikola Vasilj,325061,73,FC St. Pauli,1579,False,24,33,25,16,free-kick,strong-foot
+192,22,FC St. Pauli,SC Freiburg,0.7884,0,45,0,Vincenzo Grifo,171961,M,76,SC Freiburg,1650,Nikola Vasilj,325061,73,FC St. Pauli,1579,False,13,40,13,0,penalty,strong-foot
+192,22,FC St. Pauli,SC Freiburg,0.01914120092988,0,55,0,Philipp Treu,979820,M,43,FC St. Pauli,1579,Noah Atubolu,980626,74,SC Freiburg,1650,True,32,54,34,23,assisted,strong-foot
+192,22,FC St. Pauli,SC Freiburg,0.044124398380518,0,57,0,Vincenzo Grifo,171961,M,76,SC Freiburg,1650,Nikola Vasilj,325061,73,FC St. Pauli,1579,False,30,27,32,23,free-kick,strong-foot
+192,22,FC St. Pauli,SC Freiburg,0.036661811172962,0,61,0,Elias Saad,1130946,F,66,FC St. Pauli,1579,Noah Atubolu,980626,74,SC Freiburg,1650,True,10,25,18,56,assisted,weak-foot
+192,22,FC St. Pauli,SC Freiburg,0.040120664983988,0,64,0,Merlin Röhl,1064082,M,64,SC Freiburg,1650,Nikola Vasilj,325061,73,FC St. Pauli,1579,False,30,32,31,14,assisted,weak-foot
+192,22,FC St. Pauli,SC Freiburg,0.074210084974766,0,85,0,Jackson Irvine,181581,M,66,FC St. Pauli,1579,Noah Atubolu,980626,74,SC Freiburg,1650,True,10,44,10,21,corner,head
+192,22,FC St. Pauli,SC Freiburg,,1,89,0,Philipp Treu,979820,M,43,SC Freiburg,1650,Nikola Vasilj,325061,73,FC St. Pauli,1579,False,5,27,13,68,regular,weak-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.079206094145775,0,22,0,Patrick Wimmer,987504,M,67,VfL Wolfsburg,1663,Alexander Nübel,584722,80,VfB Stuttgart,1723,False,11,34,12,28,set-piece,strong-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.068395510315895,0,32,0,Ramon Hendriks,916943,D,33,VfB Stuttgart,1723,Marius Müller,136933,74,VfL Wolfsburg,1663,True,5,47,8,54,corner,head
+193,22,VfB Stuttgart,VfL Wolfsburg,0.071003183722496,0,34,0,Deniz Undav,794298,F,82,VfB Stuttgart,1723,Marius Müller,136933,74,VfL Wolfsburg,1663,True,11,40,11,0,assisted,head
+193,22,VfB Stuttgart,VfL Wolfsburg,0.016627792268991,0,36,0,Ramon Hendriks,916943,D,33,VfB Stuttgart,1723,Marius Müller,136933,74,VfL Wolfsburg,1663,True,26,51,28,22,regular,strong-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.054030027240515,0,44,0,Ramon Hendriks,916943,D,33,VfB Stuttgart,1723,Marius Müller,136933,74,VfL Wolfsburg,1663,True,8,33,10,41,set-piece,head
+193,22,VfB Stuttgart,VfL Wolfsburg,0.20026955008507,0,44,0,Atakan Karazor,801030,M,35,VfB Stuttgart,1723,Marius Müller,136933,74,VfL Wolfsburg,1663,True,3,44,5,53,set-piece,head
+193,22,VfB Stuttgart,VfL Wolfsburg,0.079959124326706,0,45,0,Tiago Tomás,983540,F,71,VfL Wolfsburg,1663,Alexander Nübel,584722,80,VfB Stuttgart,1723,False,16,36,16,14,regular,weak-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.031308945268393,0,52,0,Jamie Leweling,990201,M,69,VfB Stuttgart,1723,Marius Müller,136933,74,VfL Wolfsburg,1663,True,13,57,21,52,assisted,weak-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.12591047585011,0,54,0,Josha Vagnoman,906278,D,58,VfB Stuttgart,1723,Marius Müller,136933,74,VfL Wolfsburg,1663,True,16,45,16,17,assisted,strong-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.029190903529525,0,60,0,Deniz Undav,794298,F,82,VfB Stuttgart,1723,Marius Müller,136933,74,VfL Wolfsburg,1663,True,18,34,18,18,corner,weak-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.016082467511296,0,64,0,Enzo Millot,957889,M,68,VfB Stuttgart,1723,Marius Müller,136933,74,VfL Wolfsburg,1663,True,8,18,23,70,assisted,strong-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.22025071084499,1,72,0,Nick Woltemade,980623,F,66,VfB Stuttgart,1723,Marius Müller,136933,74,VfL Wolfsburg,1663,True,11,42,11,10,fast-break,strong-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.59832537174225,1,77,-1,Tiago Tomás,983540,F,71,VfL Wolfsburg,1663,Alexander Nübel,584722,80,VfB Stuttgart,1723,False,10,39,10,5,fast-break,weak-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.0099864359945059,0,82,0,Denis Vavro,293127,D,57,VfL Wolfsburg,1663,Alexander Nübel,584722,80,VfB Stuttgart,1723,False,37,64,44,32,regular,strong-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.024782804772258,0,84,0,Denis Vavro,293127,D,57,VfL Wolfsburg,1663,Alexander Nübel,584722,80,VfB Stuttgart,1723,False,6,49,10,56,corner,head
+193,22,VfB Stuttgart,VfL Wolfsburg,0.03323132917285,0,85,0,Patrick Wimmer,987504,M,67,VfL Wolfsburg,1663,Alexander Nübel,584722,80,VfB Stuttgart,1723,False,21,26,25,33,fast-break,weak-foot
+193,22,VfB Stuttgart,VfL Wolfsburg,0.7884,1,87,0,Mohamed El Amine Amoura,1107591,F,79,VfL Wolfsburg,1663,Alexander Nübel,584722,80,VfB Stuttgart,1723,False,13,40,13,0,penalty,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.057888276875019,0,1,0,Matúš Bero,187207,M,70,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,12,33,13,30,throw-in-set-piece,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.04609002545476,0,2,0,Philipp Hofmann,340719,F,71,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,11,36,11,19,corner,head
+194,22,VfL Bochum 1848,Borussia Dortmund,0.024382391944528,0,2,0,Tim Oermann,1138778,D,34,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,24,48,25,18,corner,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.051511019468307,0,4,0,Giorgos Masouras,592560,M,73,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,15,51,18,36,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.10052184760571,0,9,0,Giorgos Masouras,592560,M,73,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,18,38,18,6,regular,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.10424072295427,0,10,0,Pascal Groß,48480,M,76,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,10,47,12,34,assisted,head
+194,22,VfL Bochum 1848,Borussia Dortmund,0.53889763355255,0,11,0,Serhou Guirassy,328027,F,85,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,17,39,17,3,fast-break,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.052079413086176,0,15,0,Julian Brandt,226978,M,79,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,27,33,27,14,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.071185506880283,0,22,0,Pascal Groß,48480,M,76,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,14,32,16,29,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.1542559415102,0,26,0,Ibrahima Sissoko,829093,M,59,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,7,40,7,0,corner,head
+194,22,VfL Bochum 1848,Borussia Dortmund,0.04364013671875,0,29,0,Julian Brandt,226978,M,79,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,22,19,30,43,free-kick,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.15937225520611,0,33,0,Philipp Hofmann,340719,F,71,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,7,25,16,64,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.9336923956871,1,33,0,Giorgos Masouras,592560,M,73,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,0,42,2,90,regular,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.56189298629761,1,35,1,Giorgos Masouras,592560,M,73,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,17,42,17,6,regular,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.3665412068367,0,41,-2,Serhou Guirassy,328027,F,85,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,9,37,9,18,regular,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.59649759531021,0,43,-2,Serhou Guirassy,328027,F,85,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,4,41,4,14,regular,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.016634209081531,0,43,-2,Jamie Gittens,1140599,M,72,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,19,22,26,43,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.33017346262932,0,45,-2,Nico Schlotterbeck,940871,D,58,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,3,38,3,33,corner,head
+194,22,VfL Bochum 1848,Borussia Dortmund,0.060458932071924,0,51,-2,Julian Brandt,226978,M,79,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,30,45,30,9,free-kick,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.11648836731911,0,52,-2,Julian Brandt,226978,M,79,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,10,34,11,30,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.044712103903294,0,53,2,Matúš Bero,187207,M,70,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,21,38,21,5,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.039327763020992,0,56,2,Tom Krauß,930272,M,65,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,17,25,22,41,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.17757658660412,0,61,2,Gerrit Holtmann,253517,F,63,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,12,31,15,36,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.073045887053013,0,61,2,Ibrahima Sissoko,829093,M,59,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,25,33,25,15,regular,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.073159098625183,0,63,-2,Pascal Groß,48480,M,76,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,17,41,17,3,regular,weak-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.023515610024333,0,66,-2,Maximilian Beier,980628,F,78,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,23,24,28,34,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.062556907534599,0,68,-2,Serhou Guirassy,328027,F,85,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,15,48,17,28,assisted,weak-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.081042170524597,0,69,2,Giorgos Masouras,592560,M,73,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,2,30,10,78,regular,weak-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.049839455634356,0,69,2,Giorgos Masouras,592560,M,73,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,17,28,20,35,regular,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.28086960315704,0,69,2,Giorgos Masouras,592560,M,73,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,9,30,13,48,regular,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.025177478790283,0,73,-2,Nico Schlotterbeck,940871,D,58,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,16,27,20,39,corner,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.012740239500999,0,78,2,Ibrahima Sissoko,829093,M,59,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,23,57,28,36,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.042772985994816,0,81,-2,Maximilian Beier,980628,F,78,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,23,36,23,9,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.051668543368578,0,84,-2,Emre Can,138156,M,76,Borussia Dortmund,1763,Timo Horn,97923,72,VfL Bochum 1848,1516,False,19,33,20,20,assisted,strong-foot
+194,22,VfL Bochum 1848,Borussia Dortmund,0.029545435681939,0,85,2,Tom Krauß,930272,M,65,VfL Bochum 1848,1516,Gregor Kobel,556866,86,Borussia Dortmund,1763,True,31,36,31,7,assisted,strong-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.0090752942487597,0,12,0,Haktab Omar Traore,920022,D,49,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,34,38,34,3,corner,strong-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.020565889775753,0,12,0,Tim Siersleben,988252,D,33,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,11,27,17,49,corner,strong-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.20282930135727,0,18,0,Mathias Honsak,575952,M,65,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,8,44,8,26,assisted,weak-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.12041505426168,0,25,0,Mathias Honsak,575952,M,65,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,11,27,17,49,fast-break,strong-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.034556351602077,0,26,0,Frans Krätzig,1142249,M,55,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,23,50,25,23,corner,strong-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.043708726763725,0,26,0,Patrick Mainka,254429,D,40,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,21,37,21,8,corner,strong-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.85363137722015,1,28,0,Jonathan Burkardt,939830,F,78,1. FSV Mainz 05,1694,Kevin Müller,121908,74,1. FC Heidenheim,1540,False,3,39,3,18,assisted,weak-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.034183356910944,0,38,1,Paul Nebel,980621,M,68,1. FSV Mainz 05,1694,Kevin Müller,121908,74,1. FC Heidenheim,1540,False,4,53,13,72,assisted,weak-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.90865188837051,1,49,1,Nelson Weiper,1152505,F,64,1. FSV Mainz 05,1694,Kevin Müller,121908,74,1. FC Heidenheim,1540,False,3,40,3,0,assisted,head
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.010319723747671,0,52,-2,Mathias Honsak,575952,M,65,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,31,34,31,10,corner,weak-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.020526312291622,0,54,2,Nelson Weiper,1152505,F,64,1. FSV Mainz 05,1694,Kevin Müller,121908,74,1. FC Heidenheim,1540,False,26,33,26,15,assisted,strong-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.026230450719595,0,60,-2,Jan Schöppner,933707,M,56,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,23,41,23,2,regular,weak-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.025598442181945,0,63,-2,Mathias Honsak,575952,M,65,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,30,30,31,18,set-piece,strong-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.023757752031088,0,63,-2,Mathias Honsak,575952,M,65,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,26,29,28,22,set-piece,strong-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.1087449863553,0,71,2,Anthony Caci,846471,M,54,1. FSV Mainz 05,1694,Kevin Müller,121908,74,1. FC Heidenheim,1540,False,18,46,18,18,assisted,weak-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.10582650452852,0,73,2,Nadiem Amiri,327755,M,73,1. FSV Mainz 05,1694,Kevin Müller,121908,74,1. FC Heidenheim,1540,False,22,37,22,7,fast-break,strong-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.089977197349072,0,74,-2,Marvin Pieringer,909485,F,71,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,6,52,13,63,assisted,strong-foot
+195,22,1. FC Heidenheim,1. FSV Mainz 05,0.027657385915518,0,84,-2,Mathias Honsak,575952,M,65,1. FC Heidenheim,1540,Robin Zentner,174345,77,1. FSV Mainz 05,1694,True,19,24,24,40,corner,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.0098130637779832,0,3,0,Lewis Holtby,1135884,M,65,Holstein Kiel,1517,Kevin Trapp,38440,82,Eintracht Frankfurt,1724,False,34,25,37,23,assisted,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.046604659408331,0,8,0,Hugo Ekitiké,1048422,F,77,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,17,41,17,3,assisted,head
+196,22,Eintracht Frankfurt,Holstein Kiel,0.02136087231338,0,9,0,Arthur Theate,965778,D,39,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,27,26,30,27,assisted,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.030899280682206,0,12,0,Hugo Larsson,1142211,M,69,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,9,49,12,45,set-piece,head
+196,22,Eintracht Frankfurt,Holstein Kiel,0.26843413710594,0,13,0,Hugo Ekitiké,1048422,F,77,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,18,42,18,6,assisted,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.12381223589182,0,14,0,Hugo Ekitiké,1048422,F,77,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,17,44,17,13,assisted,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.038033153861761,0,15,0,Arthur Theate,965778,D,39,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,4,54,14,74,corner,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.16263636946678,1,18,0,Hugo Larsson,1142211,M,69,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,8,34,10,36,assisted,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.24533666670322,0,19,-1,Armin Gigović,988893,M,60,Holstein Kiel,1517,Kevin Trapp,38440,82,Eintracht Frankfurt,1724,False,16,34,17,20,assisted,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.054283332079649,0,20,1,Can Uzun,1440948,M,71,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,19,40,19,0,assisted,weak-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.090994901955128,0,23,1,Oscar Højlund,1149113,M,57,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,22,38,22,5,regular,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.041408248245716,0,23,1,Nathaniel Brown,1159759,D,49,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,22,30,24,24,regular,weak-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.053171668201685,0,24,1,Rasmus Kristensen,921789,D,64,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,18,53,22,35,regular,weak-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.01704072393477,0,31,1,Can Uzun,1440948,M,71,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,30,25,33,26,assisted,weak-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.11345361918211,1,37,1,Tuta,964191,D,49,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,9,33,11,37,corner,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.084327384829521,0,42,2,Hugo Ekitiké,1048422,F,77,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,11,43,11,15,assisted,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.035616710782051,0,45,-2,Phil Harres,1121902,F,68,Holstein Kiel,1517,Kevin Trapp,38440,82,Eintracht Frankfurt,1724,False,14,40,14,0,assisted,head
+196,22,Eintracht Frankfurt,Holstein Kiel,0.7884,0,45,2,Hugo Ekitiké,1048422,F,77,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,13,40,13,0,penalty,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.081397823989391,0,49,2,Hugo Ekitiké,1048422,F,77,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,25,44,25,9,assisted,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.41787248849869,1,60,2,Can Uzun,1440948,M,71,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,17,34,18,19,regular,weak-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.069870240986347,0,63,-3,Jann-Fiete Arp,877837,F,66,Holstein Kiel,1517,Kevin Trapp,38440,82,Eintracht Frankfurt,1724,False,29,44,29,7,free-kick,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.032635904848576,0,67,3,Hugo Ekitiké,1048422,F,77,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,14,52,18,40,assisted,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.012730137445033,0,68,3,Mahmoud Dahoud,341589,M,67,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,34,37,34,5,corner,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.22819373011589,0,73,-3,Finn Porath,789714,M,62,Holstein Kiel,1517,Kevin Trapp,38440,82,Eintracht Frankfurt,1724,False,17,51,20,32,assisted,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.70147424936295,0,73,-3,Finn Porath,789714,M,62,Holstein Kiel,1517,Kevin Trapp,38440,82,Eintracht Frankfurt,1724,False,12,44,12,18,regular,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.67213451862335,1,73,-3,Finn Porath,789714,M,62,Holstein Kiel,1517,Kevin Trapp,38440,82,Eintracht Frankfurt,1724,False,6,43,6,26,regular,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.015253076329827,0,79,-2,Shuto Machino,925910,F,67,Holstein Kiel,1517,Kevin Trapp,38440,82,Eintracht Frankfurt,1724,False,12,29,16,42,corner,head
+196,22,Eintracht Frankfurt,Holstein Kiel,0.092056252062321,0,79,-2,David Zec,887911,D,32,Holstein Kiel,1517,Kevin Trapp,38440,82,Eintracht Frankfurt,1724,False,12,36,12,18,assisted,head
+196,22,Eintracht Frankfurt,Holstein Kiel,0.054951652884483,0,84,2,Mahmoud Dahoud,341589,M,67,Eintracht Frankfurt,1724,Thomas Dähne,126346,68,Holstein Kiel,1517,True,28,49,29,17,free-kick,strong-foot
+196,22,Eintracht Frankfurt,Holstein Kiel,0.015353715978563,0,90,-2,Finn Porath,789714,M,62,Holstein Kiel,1517,Kevin Trapp,38440,82,Eintracht Frankfurt,1724,False,32,60,37,32,assisted,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.026787828654051,0,1,0,Issa Kaboré,1006189,D,36,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,23,40,23,0,regular,weak-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,,1,7,0,Stanley N'Soki,904991,D,36,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,11,41,11,5,regular,head
+197,22,SV Werder Bremen,TSG Hoffenheim,0.022372480481863,0,17,-1,Anton Stach,889861,M,66,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,33,46,33,10,regular,weak-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.19597217440605,0,18,-1,Andrej Kramarić,67647,F,82,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,6,45,7,39,assisted,head
+197,22,SV Werder Bremen,TSG Hoffenheim,0.11992989480495,0,23,-1,Pavel Kadeřábek,109296,M,44,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,13,39,13,4,assisted,weak-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.014192279428244,0,24,-1,Anton Stach,889861,M,66,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,23,56,28,34,throw-in-set-piece,weak-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.044313065707684,0,26,-1,Andrej Kramarić,67647,F,82,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,6,52,13,63,assisted,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.073308236896992,1,28,-1,Anton Stach,889861,M,66,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,18,39,18,3,assisted,weak-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.016538107767701,0,38,0,Marius Bülter,378340,F,76,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,30,53,32,23,assisted,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.01208530087024,0,39,0,Tom Bischof,1129935,M,59,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,31,41,31,1,set-piece,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.024153023958206,0,39,0,Tom Bischof,1129935,M,59,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,13,53,18,45,set-piece,weak-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.18554818630219,0,40,0,Arthur Chaves,1122806,D,36,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,6,40,6,0,corner,head
+197,22,SV Werder Bremen,TSG Hoffenheim,0.063186645507812,0,41,0,Marvin Ducksch,258325,F,77,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,18,29,21,31,fast-break,weak-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.023896232247353,0,41,0,Marco Grüll,815612,M,74,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,13,55,19,49,assisted,weak-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.050264179706573,1,44,0,Tom Bischof,1129935,M,59,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,21,39,21,2,assisted,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.063151255249977,0,48,-1,André Silva,190159,F,77,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,8,27,15,58,assisted,weak-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.15793253481388,0,51,1,Marius Bülter,378340,F,76,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,4,27,13,72,assisted,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.18505157530308,0,51,-1,Niklas Stark,229544,D,50,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,14,42,14,8,set-piece,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.016145758330822,0,57,-1,Amos Pieper,851254,D,31,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,37,51,38,16,assisted,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.057880986481905,0,61,-1,Senne Lynen,826171,M,60,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,10,32,12,38,assisted,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.03858482465148,0,62,1,Leo Østigård,879746,D,37,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,11,38,11,10,corner,head
+197,22,SV Werder Bremen,TSG Hoffenheim,0.25196355581284,1,63,1,Gift Orban,1217613,F,79,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,5,34,7,50,assisted,head
+197,22,SV Werder Bremen,TSG Hoffenheim,0.18301171064377,0,71,2,Anton Stach,889861,M,66,TSG Hoffenheim,1607,Michael Zetterer,190161,76,SV Werder Bremen,1653,False,9,41,9,6,set-piece,head
+197,22,SV Werder Bremen,TSG Hoffenheim,0.041986644268036,0,75,-2,Senne Lynen,826171,M,60,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,21,44,21,10,regular,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.16118347644806,0,77,-2,Mitchell Weiser,138150,M,62,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,14,41,14,4,assisted,weak-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.077358089387417,0,79,-2,Justin Njinmah,1005343,F,74,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,17,53,21,37,fast-break,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.1698142439127,0,85,-2,Leonardo Bittencourt,111969,M,68,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,16,43,16,10,assisted,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.096381694078445,0,86,-2,Romano Schmid,830127,M,63,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,22,30,24,24,free-kick,strong-foot
+197,22,SV Werder Bremen,TSG Hoffenheim,0.079168632626534,0,86,-2,Mitchell Weiser,138150,M,62,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,9,41,9,6,corner,head
+197,22,SV Werder Bremen,TSG Hoffenheim,0.056485906243324,0,90,-2,Justin Njinmah,1005343,F,74,SV Werder Bremen,1653,Luca Philipp,943550,65,TSG Hoffenheim,1607,True,16,26,21,41,assisted,strong-foot

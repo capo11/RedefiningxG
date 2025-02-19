@@ -229,16 +229,16 @@
 227,2025-02-09 Sevilla-Barcelona,23,23,2025-02-09 20:00:00+00:00,Sevilla,Barcelona,1.0,4.0,12437781
 228,2025-02-09 Valencia-Leganés,23,23,2025-02-09 15:15:00+00:00,Valencia,Leganés,2.0,0.0,12437791
 229,2025-02-10 Mallorca-Osasuna,23,23,2025-02-10 20:00:00+00:00,Mallorca,Osasuna,1.0,1.0,12437754
-230,2025-02-14 Girona FC-Getafe,24,24,2025-02-14 20:00:00+00:00,Girona FC,Getafe,,,12437825
-231,2025-02-15 Atlético Madrid-Celta Vigo,24,24,2025-02-15 17:30:00+00:00,Atlético Madrid,Celta Vigo,,,12437802
-232,2025-02-15 Leganés-Deportivo Alavés,24,24,2025-02-15 13:00:00+00:00,Leganés,Deportivo Alavés,,,12437846
-233,2025-02-15 Osasuna-Real Madrid,24,24,2025-02-15 15:15:00+00:00,Osasuna,Real Madrid,,,12437817
-234,2025-02-15 Villarreal-Valencia,24,24,2025-02-15 20:00:00+00:00,Villarreal,Valencia,,,12437836
-235,2025-02-16 Espanyol-Athletic Club,24,24,2025-02-16 13:00:00+00:00,Espanyol,Athletic Club,,,12437821
-236,2025-02-16 Mallorca-Las Palmas,24,24,2025-02-16 17:30:00+00:00,Mallorca,Las Palmas,,,12437841
-237,2025-02-16 Real Betis-Real Sociedad,24,24,2025-02-16 20:00:00+00:00,Real Betis,Real Sociedad,,,12437811
-238,2025-02-16 Real Valladolid-Sevilla,24,24,2025-02-16 15:15:00+00:00,Real Valladolid,Sevilla,,,12437830
-239,2025-02-17 Barcelona-Rayo Vallecano,24,24,2025-02-17 20:00:00+00:00,Barcelona,Rayo Vallecano,,,12437806
+230,2025-02-14 Girona FC-Getafe,24,24,2025-02-14 20:00:00+00:00,Girona FC,Getafe,1.0,2.0,12437825
+231,2025-02-15 Atlético Madrid-Celta Vigo,24,24,2025-02-15 17:30:00+00:00,Atlético Madrid,Celta Vigo,1.0,1.0,12437802
+232,2025-02-15 Leganés-Deportivo Alavés,24,24,2025-02-15 13:00:00+00:00,Leganés,Deportivo Alavés,3.0,3.0,12437846
+233,2025-02-15 Osasuna-Real Madrid,24,24,2025-02-15 15:15:00+00:00,Osasuna,Real Madrid,1.0,1.0,12437817
+234,2025-02-15 Villarreal-Valencia,24,24,2025-02-15 20:00:00+00:00,Villarreal,Valencia,1.0,1.0,12437836
+235,2025-02-16 Espanyol-Athletic Club,24,24,2025-02-16 13:00:00+00:00,Espanyol,Athletic Club,1.0,1.0,12437821
+236,2025-02-16 Mallorca-Las Palmas,24,24,2025-02-16 17:30:00+00:00,Mallorca,Las Palmas,3.0,1.0,12437841
+237,2025-02-16 Real Betis-Real Sociedad,24,24,2025-02-16 20:00:00+00:00,Real Betis,Real Sociedad,3.0,0.0,12437811
+238,2025-02-16 Real Valladolid-Sevilla,24,24,2025-02-16 15:15:00+00:00,Real Valladolid,Sevilla,0.0,4.0,12437830
+239,2025-02-17 Barcelona-Rayo Vallecano,24,24,2025-02-17 20:00:00+00:00,Barcelona,Rayo Vallecano,1.0,0.0,12437806
 240,2025-02-21 Celta Vigo-Osasuna,25,25,2025-02-21 20:00:00+00:00,Celta Vigo,Osasuna,,,12437853
 241,2025-02-22 Deportivo Alavés-Espanyol,25,25,2025-02-22 13:00:00+00:00,Deportivo Alavés,Espanyol,,,12437857
 242,2025-02-22 Las Palmas-Barcelona,25,25,2025-02-22 20:00:00+00:00,Las Palmas,Barcelona,,,12437859
@@ -249,16 +249,16 @@
 247,2025-02-23 Real Madrid-Girona FC,25,25,2025-02-23 15:15:00+00:00,Real Madrid,Girona FC,,,12437861
 248,2025-02-23 Real Sociedad-Leganés,25,25,2025-02-23 20:00:00+00:00,Real Sociedad,Leganés,,,12437863
 249,2025-02-24 Sevilla-Mallorca,25,25,2025-02-24 20:00:00+00:00,Sevilla,Mallorca,,,12437862
-250,2025-03-02 Atlético Madrid-Athletic Club,26,26,2025-03-02 19:00:00+00:00,Atlético Madrid,Athletic Club,,,12437868
-251,2025-03-02 Barcelona-Real Sociedad,26,26,2025-03-02 19:00:00+00:00,Barcelona,Real Sociedad,,,12437864
-252,2025-03-02 Girona FC-Celta Vigo,26,26,2025-03-02 19:00:00+00:00,Girona FC,Celta Vigo,,,12437869
-253,2025-03-02 Leganés-Getafe,26,26,2025-03-02 19:00:00+00:00,Leganés,Getafe,,,12437870
-254,2025-03-02 Mallorca-Deportivo Alavés,26,26,2025-03-02 19:00:00+00:00,Mallorca,Deportivo Alavés,,,12437872
-255,2025-03-02 Osasuna-Valencia,26,26,2025-03-02 19:00:00+00:00,Osasuna,Valencia,,,12437866
-256,2025-03-02 Rayo Vallecano-Sevilla,26,26,2025-03-02 19:00:00+00:00,Rayo Vallecano,Sevilla,,,12437867
-257,2025-03-02 Real Betis-Real Madrid,26,26,2025-03-02 19:00:00+00:00,Real Betis,Real Madrid,,,12437865
-258,2025-03-02 Real Valladolid-Las Palmas,26,26,2025-03-02 19:00:00+00:00,Real Valladolid,Las Palmas,,,12437871
-259,2025-03-02 Villarreal-Espanyol,26,26,2025-03-02 19:00:00+00:00,Villarreal,Espanyol,,,12437873
+250,2025-02-28 Real Valladolid-Las Palmas,26,26,2025-02-28 20:00:00+00:00,Real Valladolid,Las Palmas,,,12437871
+251,2025-03-01 Atlético Madrid-Athletic Club,26,26,2025-03-01 20:00:00+00:00,Atlético Madrid,Athletic Club,,,12437868
+252,2025-03-01 Barcelona-Real Sociedad,26,26,2025-03-01 17:30:00+00:00,Barcelona,Real Sociedad,,,12437864
+253,2025-03-01 Girona FC-Celta Vigo,26,26,2025-03-01 13:00:00+00:00,Girona FC,Celta Vigo,,,12437869
+254,2025-03-01 Rayo Vallecano-Sevilla,26,26,2025-03-01 15:15:00+00:00,Rayo Vallecano,Sevilla,,,12437867
+255,2025-03-02 Leganés-Getafe,26,26,2025-03-02 13:00:00+00:00,Leganés,Getafe,,,12437870
+256,2025-03-02 Mallorca-Deportivo Alavés,26,26,2025-03-02 17:30:00+00:00,Mallorca,Deportivo Alavés,,,12437872
+257,2025-03-02 Osasuna-Valencia,26,26,2025-03-02 20:00:00+00:00,Osasuna,Valencia,,,12437866
+258,2025-03-02 Real Betis-Real Madrid,26,26,2025-03-02 15:15:00+00:00,Real Betis,Real Madrid,,,12437865
+259,2025-03-03 Villarreal-Espanyol,26,26,2025-03-03 20:00:00+00:00,Villarreal,Espanyol,,,12437873
 260,2025-03-09 Athletic Club-Mallorca,27,27,2025-03-09 19:00:00+00:00,Athletic Club,Mallorca,,,12437874
 261,2025-03-09 Barcelona-Osasuna,27,27,2025-03-09 19:00:00+00:00,Barcelona,Osasuna,,,12437875
 262,2025-03-09 Celta Vigo-Leganés,27,27,2025-03-09 19:00:00+00:00,Celta Vigo,Leganés,,,12437877

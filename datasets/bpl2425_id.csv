@@ -6347,3 +6347,276 @@ index,round,homeTeam,awayTeam,xg,goal,minute,goalDifference,player,playerID,posi
 238,24,Chelsea,West Ham United,0.048472035676241,0,90,-1,Danny Ings,130181,F,75,West Ham United,1727,Filip Jørgensen,962053,77,Chelsea,1861,False,56,41,56,1,regular,strong-foot
 238,24,Chelsea,West Ham United,0.0094299586489797,0,90,-1,Konstantinos Mavropanos,829022,D,55,West Ham United,1727,Filip Jørgensen,962053,77,Chelsea,1861,False,17,26,22,39,throw-in-set-piece,head
 238,24,Chelsea,West Ham United,0.024312390014529,0,90,-1,Konstantinos Mavropanos,829022,D,55,West Ham United,1727,Filip Jørgensen,962053,77,Chelsea,1861,False,31,43,31,5,assisted,weak-foot
+239,15,Everton,Liverpool,0.52001172304153,1,11,0,Beto,987489,F,75,Everton,1728,Alisson,243609,89,Liverpool,2003,True,18,35,18,15,set-piece,strong-foot
+239,15,Everton,Liverpool,0.14816263318062,1,16,-1,Alexis Mac Allister,895324,M,81,Liverpool,2003,Jordan Pickford,138530,82,Everton,1728,False,10,42,10,11,assisted,head
+239,15,Everton,Liverpool,0.020563494414091,0,26,0,Beto,987489,F,75,Everton,1728,Alisson,243609,89,Liverpool,2003,True,31,41,31,1,regular,strong-foot
+239,15,Everton,Liverpool,0.066274330019951,0,43,0,Beto,987489,F,75,Everton,1728,Alisson,243609,89,Liverpool,2003,True,11,37,11,15,assisted,head
+239,15,Everton,Liverpool,0.040631625801325,0,45,0,Dominik Szoboszlai,869856,M,80,Liverpool,2003,Jordan Pickford,138530,82,Everton,1728,False,26,56,30,31,fast-break,strong-foot
+239,15,Everton,Liverpool,0.039218060672283,0,45,0,Luis Díaz,883537,F,81,Liverpool,2003,Jordan Pickford,138530,82,Everton,1728,False,18,54,22,37,assisted,strong-foot
+239,15,Everton,Liverpool,0.040116090327501,0,46,0,Jack Harrison,829570,M,68,Everton,1728,Alisson,243609,89,Liverpool,2003,True,13,26,19,47,assisted,strong-foot
+239,15,Everton,Liverpool,0.043004281818867,0,54,0,Abdoulaye Doucouré,96535,M,77,Everton,1728,Alisson,243609,89,Liverpool,2003,True,13,42,13,8,assisted,head
+239,15,Everton,Liverpool,0.079858660697937,0,55,0,Jack Harrison,829570,M,68,Everton,1728,Alisson,243609,89,Liverpool,2003,True,15,28,19,38,fast-break,strong-foot
+239,15,Everton,Liverpool,0.045843999832869,0,71,0,Abdoulaye Doucouré,96535,M,77,Everton,1728,Alisson,243609,89,Liverpool,2003,True,15,29,18,36,set-piece,strong-foot
+239,15,Everton,Liverpool,0.19863517582417,1,73,0,Mohamed Salah,159665,F,87,Liverpool,2003,Jordan Pickford,138530,82,Everton,1728,False,6,46,8,45,regular,weak-foot
+239,15,Everton,Liverpool,0.10982435941696,0,73,1,Curtis Jones,927353,M,73,Liverpool,2003,Jordan Pickford,138530,82,Everton,1728,False,8,27,15,58,assisted,strong-foot
+239,15,Everton,Liverpool,0.030206924304366,0,86,-1,Beto,987489,F,75,Everton,1728,Alisson,243609,89,Liverpool,2003,True,27,25,30,29,fast-break,strong-foot
+239,15,Everton,Liverpool,0.086392894387245,0,88,1,Mohamed Salah,159665,F,87,Liverpool,2003,Jordan Pickford,138530,82,Everton,1728,False,22,49,23,22,fast-break,strong-foot
+239,15,Everton,Liverpool,0.086953088641167,1,90,-1,James Tarkowski,145188,D,44,Everton,1728,Alisson,243609,89,Liverpool,2003,True,11,47,13,32,assisted,strong-foot
+239,15,Everton,Liverpool,0.021378656849265,0,90,0,Tim Iroegbunam,1085950,M,57,Everton,1728,Alisson,243609,89,Liverpool,2003,True,32,28,34,20,assisted,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.029898045584559,0,4,0,Cole Palmer,982780,M,84,Chelsea,1861,Bart Verbruggen,994363,78,Brighton & Hove Albion,1751,False,25,46,25,13,assisted,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.033050842583179,0,15,0,Danny Welbeck,33902,F,76,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,9,47,11,37,corner,head
+240,25,Brighton & Hove Albion,Chelsea,0.12588380277157,0,18,0,Cole Palmer,982780,M,84,Chelsea,1861,Bart Verbruggen,994363,78,Brighton & Hove Albion,1751,False,16,45,16,17,assisted,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.047357127070427,1,27,0,Kaoru Mitoma,936849,M,73,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,22,36,22,10,assisted,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.017858102917671,0,29,1,Carlos Baleba,1199043,M,61,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,32,48,32,14,regular,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.023186786100268,0,30,-1,Pedro Neto,879349,F,74,Chelsea,1861,Bart Verbruggen,994363,78,Brighton & Hove Albion,1751,False,16,24,22,45,assisted,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.017173457890749,0,32,-1,Enzo Fernández,974505,M,73,Chelsea,1861,Bart Verbruggen,994363,78,Brighton & Hove Albion,1751,False,18,60,26,48,corner,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.14439843595028,0,35,-1,Pedro Neto,879349,F,74,Chelsea,1861,Bart Verbruggen,994363,78,Brighton & Hove Albion,1751,False,10,50,14,45,assisted,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.25540369749069,1,38,1,Yankuba Minteh,1400106,F,65,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,8,44,8,26,assisted,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.05948344245553,0,41,-2,Malo Gusto,996958,D,48,Chelsea,1861,Bart Verbruggen,994363,78,Brighton & Hove Albion,1751,False,27,44,27,8,assisted,weak-foot
+240,25,Brighton & Hove Albion,Chelsea,0.085353918373585,0,51,2,Georginio Rutter,946695,M,74,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,18,48,19,23,assisted,weak-foot
+240,25,Brighton & Hove Albion,Chelsea,0.049840744584799,0,61,2,Carlos Baleba,1199043,M,61,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,25,41,25,2,regular,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.10307937115431,1,63,2,Yankuba Minteh,1400106,F,65,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,7,48,10,48,assisted,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.081087350845337,0,68,-3,Trevoh Chalobah,826134,D,51,Chelsea,1861,Bart Verbruggen,994363,78,Brighton & Hove Albion,1751,False,9,37,9,18,corner,head
+240,25,Brighton & Hove Albion,Chelsea,0.059104405343533,0,71,-3,Tyrique George,1403061,M,61,Chelsea,1861,Bart Verbruggen,994363,78,Brighton & Hove Albion,1751,False,7,52,13,59,assisted,weak-foot
+240,25,Brighton & Hove Albion,Chelsea,0.16481511294842,0,73,3,Kaoru Mitoma,936849,M,73,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,9,26,16,57,fast-break,weak-foot
+240,25,Brighton & Hove Albion,Chelsea,0.1391527056694,0,74,3,João Pedro,975079,F,76,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,24,52,26,26,regular,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.18617591261864,0,78,3,João Pedro,975079,F,76,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,9,34,10,33,set-piece,head
+240,25,Brighton & Hove Albion,Chelsea,0.27489224076271,0,85,3,Joël Veltman,219572,D,48,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,4,43,5,36,assisted,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.034953813999891,0,85,3,Yasin Ayari,1036269,M,54,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,28,51,30,21,regular,strong-foot
+240,25,Brighton & Hove Albion,Chelsea,0.027801383286715,0,90,3,Tariq Lamptey,914691,D,43,Brighton & Hove Albion,1751,Filip Jørgensen,962053,77,Chelsea,1861,True,16,27,20,39,assisted,weak-foot
+241,25,Aston Villa,Ipswich Town,0.068424001336098,0,8,0,Ollie Watkins,555386,F,81,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,16,35,16,17,regular,strong-foot
+241,25,Aston Villa,Ipswich Town,0.019733594730496,0,13,0,Julio Enciso,973556,M,70,Ipswich Town,1586,Emiliano Martínez,158263,87,Aston Villa,1795,False,31,33,31,12,regular,strong-foot
+241,25,Aston Villa,Ipswich Town,0.029437044635415,0,14,0,Donyell Malen,803039,F,80,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,15,52,19,38,assisted,strong-foot
+241,25,Aston Villa,Ipswich Town,0.058061990886927,0,25,0,Kalvin Phillips,786028,M,64,Ipswich Town,1586,Emiliano Martínez,158263,87,Aston Villa,1795,False,24,25,28,32,free-kick,strong-foot
+241,25,Aston Villa,Ipswich Town,0.029329424723983,0,25,0,Lucas Digne,96538,D,68,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,24,25,28,32,assisted,strong-foot
+241,25,Aston Villa,Ipswich Town,0.17064006626606,0,32,0,Liam Delap,997087,F,77,Ipswich Town,1586,Emiliano Martínez,158263,87,Aston Villa,1795,False,15,32,17,28,assisted,strong-foot
+241,25,Aston Villa,Ipswich Town,0.31527072191238,0,34,0,Ollie Watkins,555386,F,81,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,17,36,17,13,assisted,weak-foot
+241,25,Aston Villa,Ipswich Town,0.062920123338699,0,38,0,Youri Tielemans,331737,M,80,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,27,39,27,2,assisted,strong-foot
+241,25,Aston Villa,Ipswich Town,0.10203585028648,0,42,0,John McGinn,250223,M,77,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,21,42,21,5,free-kick,strong-foot
+241,25,Aston Villa,Ipswich Town,0.015778228640556,0,43,0,Andrés García,1457536,D,64,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,28,47,28,14,corner,strong-foot
+241,25,Aston Villa,Ipswich Town,0.30717816948891,0,44,0,Morgan Rogers,948261,M,74,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,6,36,7,33,regular,weak-foot
+241,25,Aston Villa,Ipswich Town,0.026234935969114,0,49,0,Marcus Rashford,814590,M,81,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,18,21,26,46,assisted,strong-foot
+241,25,Aston Villa,Ipswich Town,0.030531585216522,0,50,0,Ian Maatsen,976263,D,64,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,28,36,28,8,regular,weak-foot
+241,25,Aston Villa,Ipswich Town,0.20347568392754,0,53,0,Morgan Rogers,948261,M,74,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,5,35,7,45,assisted,weak-foot
+241,25,Aston Villa,Ipswich Town,0.11839838325977,1,56,0,Liam Delap,997087,F,77,Ipswich Town,1586,Emiliano Martínez,158263,87,Aston Villa,1795,False,10,43,10,16,assisted,strong-foot
+241,25,Aston Villa,Ipswich Town,0.036547373980284,0,58,-1,Ian Maatsen,976263,D,64,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,27,34,27,12,assisted,strong-foot
+241,25,Aston Villa,Ipswich Town,0.055261675268412,0,69,-1,Marcus Rashford,814590,M,81,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,30,32,31,14,free-kick,strong-foot
+241,25,Aston Villa,Ipswich Town,0.27700066566467,1,69,-1,Ollie Watkins,555386,F,81,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,9,38,9,12,set-piece,weak-foot
+241,25,Aston Villa,Ipswich Town,0.018949028104544,0,71,0,Morgan Rogers,948261,M,74,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,15,44,15,14,corner,head
+241,25,Aston Villa,Ipswich Town,0.02558826841414,0,71,0,Andrés García,1457536,D,64,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,25,56,29,32,corner,weak-foot
+241,25,Aston Villa,Ipswich Town,0.16814820468426,0,74,0,Marco Asensio,361004,F,79,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,16,39,16,3,assisted,strong-foot
+241,25,Aston Villa,Ipswich Town,0.095154762268066,0,78,0,Marco Asensio,361004,F,79,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,19,38,19,6,assisted,strong-foot
+241,25,Aston Villa,Ipswich Town,0.10419111698866,0,81,0,Ollie Watkins,555386,F,81,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,17,42,17,6,corner,strong-foot
+241,25,Aston Villa,Ipswich Town,0.058594092726707,0,82,0,Marco Asensio,361004,F,79,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,19,46,19,17,corner,strong-foot
+241,25,Aston Villa,Ipswich Town,0.0090659894049168,0,83,0,Marcus Rashford,814590,M,81,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,22,24,27,36,corner,strong-foot
+241,25,Aston Villa,Ipswich Town,0.047151636332273,0,84,0,Marcus Rashford,814590,M,81,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,11,27,17,49,set-piece,weak-foot
+241,25,Aston Villa,Ipswich Town,0.037407454103231,0,87,0,Morgan Rogers,948261,M,74,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,19,25,24,38,assisted,strong-foot
+241,25,Aston Villa,Ipswich Town,0.043970927596092,0,90,0,Marco Asensio,361004,F,79,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,27,37,27,6,corner,strong-foot
+241,25,Aston Villa,Ipswich Town,0.26766383647919,0,90,0,Morgan Rogers,948261,M,74,Aston Villa,1795,Alex Palmer,796143,72,Ipswich Town,1586,True,6,34,8,45,assisted,weak-foot
+242,25,Crystal Palace,Everton,0.20385192334652,0,6,0,Jean-Philippe Mateta,848276,F,78,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,21,34,21,15,fast-break,strong-foot
+242,25,Crystal Palace,Everton,0.026920428499579,0,7,0,Justin Devenny,1084311,M,62,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,28,31,29,17,assisted,strong-foot
+242,25,Crystal Palace,Everton,0.018940268084407,0,16,0,Will Hughes,193554,M,62,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,29,48,30,15,assisted,strong-foot
+242,25,Crystal Palace,Everton,0.072631277143955,0,19,0,Marc Guéhi,877994,D,39,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,11,40,11,0,set-piece,head
+242,25,Crystal Palace,Everton,0.027794044464827,0,32,0,Carlos Alcaraz,1017392,M,70,Everton,1728,Dean Henderson,788134,79,Crystal Palace,1769,False,33,35,33,8,fast-break,strong-foot
+242,25,Crystal Palace,Everton,0.028780620545149,0,33,0,Carlos Alcaraz,1017392,M,70,Everton,1728,Dean Henderson,788134,79,Crystal Palace,1769,False,29,36,29,7,assisted,strong-foot
+242,25,Crystal Palace,Everton,0.17089910805225,0,41,0,Ismaïla Sarr,845286,F,76,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,10,44,10,21,assisted,strong-foot
+242,25,Crystal Palace,Everton,0.1915557384491,1,42,0,Beto,987489,F,75,Everton,1728,Dean Henderson,788134,79,Crystal Palace,1769,False,14,34,15,23,fast-break,strong-foot
+242,25,Crystal Palace,Everton,0.12591189146042,0,46,-1,Chris Richards,931844,D,26,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,8,40,8,0,set-piece,head
+242,25,Crystal Palace,Everton,0.53333067893982,1,47,-1,Jean-Philippe Mateta,848276,F,78,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,10,39,10,5,corner,weak-foot
+242,25,Crystal Palace,Everton,0.058936510235071,0,53,0,Eberechi Eze,864921,F,79,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,27,33,27,14,assisted,strong-foot
+242,25,Crystal Palace,Everton,0.10704775154591,0,54,0,Jesper Lindstrøm,947929,M,71,Everton,1728,Dean Henderson,788134,79,Crystal Palace,1769,False,13,50,16,37,assisted,weak-foot
+242,25,Crystal Palace,Everton,0.048879001289606,0,54,0,Eberechi Eze,864921,F,79,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,26,37,26,6,assisted,strong-foot
+242,25,Crystal Palace,Everton,0.037250142544508,0,55,0,Maxence Lacroix,879674,D,40,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,6,25,16,68,assisted,weak-foot
+242,25,Crystal Palace,Everton,0.037142053246498,0,56,0,Carlos Alcaraz,1017392,M,70,Everton,1728,Dean Henderson,788134,79,Crystal Palace,1769,False,23,41,23,2,assisted,strong-foot
+242,25,Crystal Palace,Everton,0.27674826979637,0,57,0,Beto,987489,F,75,Everton,1728,Dean Henderson,788134,79,Crystal Palace,1769,False,6,45,7,39,assisted,strong-foot
+242,25,Crystal Palace,Everton,0.018335297703743,0,58,0,Carlos Alcaraz,1017392,M,70,Everton,1728,Dean Henderson,788134,79,Crystal Palace,1769,False,16,43,16,10,corner,head
+242,25,Crystal Palace,Everton,0.058611936867237,0,64,0,Daniel Muñoz,870360,M,66,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,18,40,18,0,assisted,weak-foot
+242,25,Crystal Palace,Everton,0.047063589096069,0,66,0,Idrissa Gueye,106337,M,58,Everton,1728,Dean Henderson,788134,79,Crystal Palace,1769,False,23,28,25,27,assisted,weak-foot
+242,25,Crystal Palace,Everton,0.046221010386944,0,71,0,Ben Chilwell,802695,D,59,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,23,23,28,36,fast-break,strong-foot
+242,25,Crystal Palace,Everton,0.019398907199502,0,71,0,Eberechi Eze,864921,F,79,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,25,38,25,4,corner,strong-foot
+242,25,Crystal Palace,Everton,0.047092445194721,0,74,0,Beto,987489,F,75,Everton,1728,Dean Henderson,788134,79,Crystal Palace,1769,False,20,45,20,14,assisted,weak-foot
+242,25,Crystal Palace,Everton,0.049558144062757,0,80,0,Ashley Young,10589,D,64,Everton,1728,Dean Henderson,788134,79,Crystal Palace,1769,False,10,54,17,54,set-piece,weak-foot
+242,25,Crystal Palace,Everton,0.13255628943443,1,80,0,Carlos Alcaraz,1017392,M,70,Everton,1728,Dean Henderson,788134,79,Crystal Palace,1769,False,9,46,10,33,set-piece,strong-foot
+242,25,Crystal Palace,Everton,0.085145428776741,0,82,-1,Maxence Lacroix,879674,D,40,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,8,44,8,26,corner,head
+242,25,Crystal Palace,Everton,0.041012819856405,0,86,-1,Eberechi Eze,864921,F,79,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,18,26,22,37,regular,weak-foot
+242,25,Crystal Palace,Everton,0.055322725325823,0,90,-1,Edward Nketiah,858194,F,73,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,16,42,16,7,throw-in-set-piece,strong-foot
+242,25,Crystal Palace,Everton,0.055180568248034,0,90,-1,Ismaïla Sarr,845286,F,76,Crystal Palace,1769,Jordan Pickford,138530,82,Everton,1728,True,22,41,22,2,assisted,weak-foot
+243,25,Fulham,Nottingham Forest,0.018976332619786,0,11,0,Neco Williams,927356,D,44,Nottingham Forest,1790,Bernd Leno,103335,81,Fulham,1769,False,17,23,24,45,assisted,strong-foot
+243,25,Fulham,Nottingham Forest,0.087072111666203,0,12,0,Raúl Jiménez,192442,F,78,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,10,38,10,11,assisted,head
+243,25,Fulham,Nottingham Forest,0.36465412378311,1,15,0,Emile Smith Rowe,867445,M,71,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,4,35,6,51,assisted,head
+243,25,Fulham,Nottingham Forest,0.15847671031952,0,25,1,Raúl Jiménez,192442,F,78,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,6,36,7,33,assisted,head
+243,25,Fulham,Nottingham Forest,0.048153083771467,0,30,1,Raúl Jiménez,192442,F,78,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,22,37,22,7,assisted,strong-foot
+243,25,Fulham,Nottingham Forest,0.010451830923557,0,30,1,Alex Iwobi,352770,M,69,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,31,39,31,1,corner,strong-foot
+243,25,Fulham,Nottingham Forest,0.069862507283688,0,32,1,Saša Lukić,371222,M,68,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,10,38,10,11,assisted,head
+243,25,Fulham,Nottingham Forest,0.15606425702572,0,35,1,Emile Smith Rowe,867445,M,71,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,11,32,13,36,assisted,strong-foot
+243,25,Fulham,Nottingham Forest,0.13278047740459,0,35,1,Raúl Jiménez,192442,F,78,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,17,40,17,0,regular,strong-foot
+243,25,Fulham,Nottingham Forest,0.14475345611572,1,37,-1,Chris Wood,50480,F,81,Nottingham Forest,1790,Bernd Leno,103335,81,Fulham,1769,False,17,41,17,3,assisted,weak-foot
+243,25,Fulham,Nottingham Forest,0.027941251173615,0,40,0,Alex Iwobi,352770,M,69,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,25,43,25,6,corner,strong-foot
+243,25,Fulham,Nottingham Forest,0.15696136653423,0,43,0,Alex Iwobi,352770,M,69,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,12,39,12,4,assisted,strong-foot
+243,25,Fulham,Nottingham Forest,0.019645739346743,0,45,0,Raúl Jiménez,192442,F,78,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,31,25,34,25,assisted,strong-foot
+243,25,Fulham,Nottingham Forest,0.026945609599352,0,49,0,Timothy Castagne,329417,D,54,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,5,54,14,70,regular,strong-foot
+243,25,Fulham,Nottingham Forest,0.027801383286715,0,51,0,Anthony Elanga,979232,M,70,Nottingham Forest,1790,Bernd Leno,103335,81,Fulham,1769,False,16,27,20,39,regular,strong-foot
+243,25,Fulham,Nottingham Forest,0.022318866103888,0,51,0,Elliot Anderson,994546,M,66,Nottingham Forest,1790,Bernd Leno,103335,81,Fulham,1769,False,28,51,30,21,regular,strong-foot
+243,25,Fulham,Nottingham Forest,0.044397212564945,0,56,0,Raúl Jiménez,192442,F,78,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,15,50,18,33,assisted,strong-foot
+243,25,Fulham,Nottingham Forest,0.046379093080759,0,57,0,Neco Williams,927356,D,44,Nottingham Forest,1790,Bernd Leno,103335,81,Fulham,1769,False,21,29,23,27,assisted,strong-foot
+243,25,Fulham,Nottingham Forest,0.117665566504,0,58,0,Adama Traoré,286165,F,65,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,15,47,16,25,regular,weak-foot
+243,25,Fulham,Nottingham Forest,0.036135140806437,0,61,0,Alex Iwobi,352770,M,69,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,16,26,21,41,set-piece,strong-foot
+243,25,Fulham,Nottingham Forest,0.06174323707819,0,61,0,Saša Lukić,371222,M,68,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,18,29,21,31,assisted,weak-foot
+243,25,Fulham,Nottingham Forest,0.016044354066253,0,62,0,Raúl Jiménez,192442,F,78,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,10,47,12,34,corner,head
+243,25,Fulham,Nottingham Forest,0.11270076036453,1,62,0,Calvin Bassey,861972,D,43,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,4,34,7,56,corner,head
+243,25,Fulham,Nottingham Forest,0.035693891346455,0,71,-1,Neco Williams,927356,D,44,Nottingham Forest,1790,Bernd Leno,103335,81,Fulham,1769,False,18,28,21,33,set-piece,weak-foot
+243,25,Fulham,Nottingham Forest,0.041252296417952,0,73,1,Emile Smith Rowe,867445,M,71,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,13,27,18,45,assisted,weak-foot
+243,25,Fulham,Nottingham Forest,0.09554610401392,0,77,-1,Callum Hudson-Odoi,867442,M,72,Nottingham Forest,1790,Bernd Leno,103335,81,Fulham,1769,False,11,26,17,51,assisted,strong-foot
+243,25,Fulham,Nottingham Forest,0.078508891165257,0,79,1,Sander Berge,793167,M,63,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,9,41,9,6,corner,head
+243,25,Fulham,Nottingham Forest,0.05186441168189,0,79,1,Calvin Bassey,861972,D,43,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,3,31,9,71,corner,head
+243,25,Fulham,Nottingham Forest,0.078038841485977,0,83,1,Adama Traoré,286165,F,65,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,10,49,13,41,regular,strong-foot
+243,25,Fulham,Nottingham Forest,0.16946771740913,0,90,1,Rodrigo Muniz,1015256,F,74,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,17,43,17,10,assisted,strong-foot
+243,25,Fulham,Nottingham Forest,0.13054952025414,0,90,1,Harrison Reed,365802,M,59,Fulham,1769,Matz Sels,78152,80,Nottingham Forest,1790,True,16,49,18,29,regular,strong-foot
+243,25,Fulham,Nottingham Forest,0.033334232866764,0,90,-1,Anthony Elanga,979232,M,70,Nottingham Forest,1790,Bernd Leno,103335,81,Fulham,1769,False,6,56,17,69,throw-in-set-piece,weak-foot
+244,25,Leicester City,Arsenal,0.22490453720093,0,9,0,Leandro Trossard,135666,F,81,Arsenal,2001,Mads Hermansen,856640,77,Leicester City,1613,False,3,30,10,73,assisted,strong-foot
+244,25,Leicester City,Arsenal,0.0695885643363,0,10,0,Wilfred Ndidi,787885,M,64,Leicester City,1613,David Raya,581310,85,Arsenal,2001,True,20,37,20,8,regular,weak-foot
+244,25,Leicester City,Arsenal,0.038256697356701,0,13,0,Thomas Partey,316148,M,70,Arsenal,2001,Mads Hermansen,856640,77,Leicester City,1613,False,25,50,26,21,regular,strong-foot
+244,25,Leicester City,Arsenal,0.12250363826752,0,16,0,Declan Rice,856714,M,70,Arsenal,2001,Mads Hermansen,856640,77,Leicester City,1613,False,8,37,8,20,assisted,head
+244,25,Leicester City,Arsenal,0.02206789702177,0,35,0,Raheem Sterling,138534,M,75,Arsenal,2001,Mads Hermansen,856640,77,Leicester City,1613,False,28,45,28,10,regular,strong-foot
+244,25,Leicester City,Arsenal,0.023353107273579,0,45,0,Bilal El Khannouss,1126569,M,59,Leicester City,1613,David Raya,581310,85,Arsenal,2001,True,17,25,22,41,assisted,strong-foot
+244,25,Leicester City,Arsenal,0.0450026281178,0,45,0,Wilfred Ndidi,787885,M,64,Leicester City,1613,David Raya,581310,85,Arsenal,2001,True,15,37,15,11,assisted,head
+244,25,Leicester City,Arsenal,0.050665054470301,0,58,0,Martin Ødegaard,547410,M,81,Arsenal,2001,Mads Hermansen,856640,77,Leicester City,1613,False,23,30,25,23,assisted,strong-foot
+244,25,Leicester City,Arsenal,0.059260740876198,0,61,0,Ethan Nwaneri,1401702,F,65,Arsenal,2001,Mads Hermansen,856640,77,Leicester City,1613,False,24,43,24,7,fast-break,weak-foot
+244,25,Leicester City,Arsenal,0.033211302012205,0,66,0,Ethan Nwaneri,1401702,F,65,Arsenal,2001,Mads Hermansen,856640,77,Leicester City,1613,False,27,43,27,6,set-piece,weak-foot
+244,25,Leicester City,Arsenal,0.031206363812089,0,67,0,Bobby Decordova-Reid,151499,M,71,Leicester City,1613,David Raya,581310,85,Arsenal,2001,True,31,37,31,5,regular,strong-foot
+244,25,Leicester City,Arsenal,0.024578973650932,0,76,0,Ethan Nwaneri,1401702,F,65,Arsenal,2001,Mads Hermansen,856640,77,Leicester City,1613,False,16,53,20,39,assisted,weak-foot
+244,25,Leicester City,Arsenal,0.27716174721718,1,81,0,Mikel Merino,592010,M,76,Arsenal,2001,Mads Hermansen,856640,77,Leicester City,1613,False,8,38,8,14,assisted,head
+244,25,Leicester City,Arsenal,0.46599650382996,1,87,1,Mikel Merino,592010,M,76,Arsenal,2001,Mads Hermansen,856640,77,Leicester City,1613,False,8,45,9,32,fast-break,strong-foot
+244,25,Leicester City,Arsenal,0.036520142108202,0,90,-2,Facundo Buonanotte,1117025,M,68,Leicester City,1613,David Raya,581310,85,Arsenal,2001,True,15,44,15,14,assisted,head
+244,25,Leicester City,Arsenal,0.064417965710163,0,90,2,Ethan Nwaneri,1401702,F,65,Arsenal,2001,Mads Hermansen,856640,77,Leicester City,1613,False,19,33,20,20,regular,weak-foot
+244,25,Leicester City,Arsenal,0.014401497319341,0,90,-2,Stephy Mavididi,605338,M,74,Leicester City,1613,David Raya,581310,85,Arsenal,2001,True,20,21,27,43,assisted,strong-foot
+245,25,Manchester City,Newcastle United,0.044703181833029,0,16,0,Omar Marmoush,873554,F,83,Manchester City,1936,Martin Dúbravka,42209,77,Newcastle United,1828,True,9,24,18,60,assisted,weak-foot
+245,25,Manchester City,Newcastle United,0.35383298993111,1,19,0,Omar Marmoush,873554,F,83,Manchester City,1936,Martin Dúbravka,42209,77,Newcastle United,1828,True,21,51,23,27,assisted,strong-foot
+245,25,Manchester City,Newcastle United,0.081206597387791,1,24,1,Omar Marmoush,873554,F,83,Manchester City,1936,Martin Dúbravka,42209,77,Newcastle United,1828,True,17,31,19,27,assisted,strong-foot
+245,25,Manchester City,Newcastle United,0.33542528748512,0,28,2,Savinho,1046795,M,70,Manchester City,1936,Martin Dúbravka,42209,77,Newcastle United,1828,True,12,46,13,26,assisted,strong-foot
+245,25,Manchester City,Newcastle United,0.036181677132845,0,30,-2,Alexander Isak,823941,F,84,Newcastle United,1828,Ederson,254491,87,Manchester City,1936,False,10,56,18,57,assisted,strong-foot
+245,25,Manchester City,Newcastle United,0.22589248418808,1,33,2,Omar Marmoush,873554,F,83,Manchester City,1936,Martin Dúbravka,42209,77,Newcastle United,1828,True,12,43,12,14,assisted,strong-foot
+245,25,Manchester City,Newcastle United,0.033462975174189,0,39,-3,Bruno Guimarães,866469,M,74,Newcastle United,1828,Ederson,254491,87,Manchester City,1936,False,2,31,9,77,corner,head
+245,25,Manchester City,Newcastle United,0.068046577274799,0,41,3,Erling Haaland,839956,F,92,Manchester City,1936,Martin Dúbravka,42209,77,Newcastle United,1828,True,5,32,9,57,corner,head
+245,25,Manchester City,Newcastle United,0.045294623821974,0,55,3,Savinho,1046795,M,70,Manchester City,1936,Martin Dúbravka,42209,77,Newcastle United,1828,True,23,51,25,25,assisted,strong-foot
+245,25,Manchester City,Newcastle United,0.10099504143,0,57,3,Erling Haaland,839956,F,92,Manchester City,1936,Martin Dúbravka,42209,77,Newcastle United,1828,True,8,42,8,14,corner,head
+245,25,Manchester City,Newcastle United,0.02855678088963,0,59,3,Phil Foden,859765,M,82,Manchester City,1936,Martin Dúbravka,42209,77,Newcastle United,1828,True,27,56,31,30,assisted,strong-foot
+245,25,Manchester City,Newcastle United,0.41307282447815,0,60,-3,Lewis Miley,1400650,M,60,Newcastle United,1828,Ederson,254491,87,Manchester City,1936,False,13,47,14,28,assisted,weak-foot
+245,25,Manchester City,Newcastle United,0.067304275929928,0,83,3,Savinho,1046795,M,70,Manchester City,1936,Martin Dúbravka,42209,77,Newcastle United,1828,True,26,44,26,8,assisted,strong-foot
+245,25,Manchester City,Newcastle United,0.55283278226852,1,84,3,James McAtee,1003334,M,65,Manchester City,1936,Martin Dúbravka,42209,77,Newcastle United,1828,True,4,41,4,14,corner,strong-foot
+246,25,Southampton,Bournemouth,0.036865808069706,0,12,0,Dango Ouattara,1106451,M,67,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,14,43,14,12,assisted,head
+246,25,Southampton,Bournemouth,0.47724545001984,1,14,0,Dango Ouattara,1106451,M,67,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,6,38,6,18,assisted,head
+246,25,Southampton,Bournemouth,0.049020659178495,1,16,1,Ryan Christie,322391,M,68,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,28,35,28,10,assisted,strong-foot
+246,25,Southampton,Bournemouth,0.024086147546768,0,30,2,Lewis Cook,548188,M,62,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,33,47,33,11,assisted,strong-foot
+246,25,Southampton,Bournemouth,0.010725034400821,0,31,2,Dango Ouattara,1106451,M,67,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,21,59,28,42,assisted,strong-foot
+246,25,Southampton,Bournemouth,0.021735733374953,0,31,2,Miloš Kerkez,1097425,D,58,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,14,23,22,50,assisted,strong-foot
+246,25,Southampton,Bournemouth,0.020194025710225,0,34,2,Justin Kluivert,851596,M,76,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,24,23,29,35,assisted,strong-foot
+246,25,Southampton,Bournemouth,0.048197325319052,0,41,-2,Kamaldeen Sulemana,1019442,F,64,Southampton,1559,Kepa Arrizabalaga,232422,78,Bournemouth,1810,True,26,38,26,4,assisted,weak-foot
+246,25,Southampton,Bournemouth,0.11314289271832,0,41,2,Dango Ouattara,1106451,M,67,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,8,26,16,60,assisted,strong-foot
+246,25,Southampton,Bournemouth,0.0095110777765512,0,42,2,Ryan Christie,322391,M,68,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,3,27,13,77,corner,head
+246,25,Southampton,Bournemouth,0.023144122213125,0,48,-2,Paul Onuachu,295123,F,74,Southampton,1559,Kepa Arrizabalaga,232422,78,Bournemouth,1810,True,14,36,14,15,set-piece,head
+246,25,Southampton,Bournemouth,0.031520038843155,0,51,-2,Paul Onuachu,295123,F,74,Southampton,1559,Kepa Arrizabalaga,232422,78,Bournemouth,1810,True,12,54,18,49,assisted,strong-foot
+246,25,Southampton,Bournemouth,0.22278439998627,0,54,2,Antoine Semenyo,934354,M,75,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,11,38,11,10,fast-break,strong-foot
+246,25,Southampton,Bournemouth,0.035088732838631,0,55,2,Ryan Christie,322391,M,68,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,5,31,10,60,corner,head
+246,25,Southampton,Bournemouth,0.064553916454315,0,61,-2,Kamaldeen Sulemana,1019442,F,64,Southampton,1559,Kepa Arrizabalaga,232422,78,Bournemouth,1810,True,12,53,17,47,assisted,strong-foot
+246,25,Southampton,Bournemouth,0.032442484050989,0,61,2,David Brooks,855731,F,68,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,16,55,21,43,fast-break,strong-foot
+246,25,Southampton,Bournemouth,0.08218789845705,0,63,-2,Kamaldeen Sulemana,1019442,F,64,Southampton,1559,Kepa Arrizabalaga,232422,78,Bournemouth,1810,True,15,40,15,0,assisted,weak-foot
+246,25,Southampton,Bournemouth,0.016411066055298,0,66,-2,Yukinari Sugawara,905347,D,52,Southampton,1559,Kepa Arrizabalaga,232422,78,Bournemouth,1810,True,25,60,32,38,assisted,strong-foot
+246,25,Southampton,Bournemouth,0.023959647864103,0,72,-2,Kamaldeen Sulemana,1019442,F,64,Southampton,1559,Kepa Arrizabalaga,232422,78,Bournemouth,1810,True,29,34,29,11,fast-break,strong-foot
+246,25,Southampton,Bournemouth,0.13168139755726,1,72,-2,Kamaldeen Sulemana,1019442,F,64,Southampton,1559,Kepa Arrizabalaga,232422,78,Bournemouth,1810,True,17,35,17,16,assisted,weak-foot
+246,25,Southampton,Bournemouth,0.021559560671449,0,74,-1,James Bree,555406,D,44,Southampton,1559,Kepa Arrizabalaga,232422,78,Bournemouth,1810,True,33,37,33,5,corner,strong-foot
+246,25,Southampton,Bournemouth,0.01944756321609,0,75,-1,Lesley Ugochukwu,1048916,M,56,Southampton,1559,Kepa Arrizabalaga,232422,78,Bournemouth,1810,True,16,57,23,46,throw-in-set-piece,strong-foot
+246,25,Southampton,Bournemouth,0.095154762268066,1,83,1,Marcus Tavernier,895576,M,73,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,19,39,19,3,assisted,strong-foot
+246,25,Southampton,Bournemouth,0.32981222867966,0,90,-2,Cameron Archer,993451,F,73,Southampton,1559,Kepa Arrizabalaga,232422,78,Bournemouth,1810,True,9,33,11,37,set-piece,strong-foot
+246,25,Southampton,Bournemouth,0.048093024641275,0,90,2,Alex Scott,1104986,M,61,Bournemouth,1810,Aaron Ramsdale,839410,80,Southampton,1559,False,16,36,16,14,regular,strong-foot
+247,25,West Ham United,Brentford,0.25120660662651,0,4,0,Kevin Schade,1006387,F,67,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,17,38,17,6,assisted,weak-foot
+247,25,West Ham United,Brentford,0.18630716204643,1,4,0,Kevin Schade,1006387,F,67,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,2,34,6,71,regular,weak-foot
+247,25,West Ham United,Brentford,0.132040143013,0,9,1,Yoane Wissa,805123,F,79,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,10,43,10,16,assisted,strong-foot
+247,25,West Ham United,Brentford,0.02889302931726,0,15,1,Mikkel Damsgaard,907072,M,67,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,30,35,30,9,throw-in-set-piece,strong-foot
+247,25,West Ham United,Brentford,0.11912344396114,0,18,-1,Tomáš Souček,799041,M,72,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,18,36,18,12,regular,strong-foot
+247,25,West Ham United,Brentford,0.013779466040432,0,19,-1,Emerson Palmieri,155997,D,62,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,37,39,37,1,corner,strong-foot
+247,25,West Ham United,Brentford,0.077233947813511,0,21,1,Bryan Mbeumo,927083,F,81,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,14,51,17,38,assisted,strong-foot
+247,25,West Ham United,Brentford,0.077085636556149,0,22,1,Mikkel Damsgaard,907072,M,67,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,16,43,16,10,regular,strong-foot
+247,25,West Ham United,Brentford,0.17982064187527,0,23,1,Yoane Wissa,805123,F,79,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,9,37,9,18,assisted,head
+247,25,West Ham United,Brentford,0.058148592710495,0,26,1,Yoane Wissa,805123,F,79,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,26,48,27,17,assisted,strong-foot
+247,25,West Ham United,Brentford,0.17509534955025,0,29,1,Kevin Schade,1006387,F,67,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,16,32,17,26,fast-break,weak-foot
+247,25,West Ham United,Brentford,0.18710362911224,0,36,1,Bryan Mbeumo,927083,F,81,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,22,38,22,5,free-kick,strong-foot
+247,25,West Ham United,Brentford,0.036081917583942,0,43,-1,Mohammed Kudus,905163,M,76,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,22,41,22,2,regular,strong-foot
+247,25,West Ham United,Brentford,0.15095974504948,0,45,1,Bryan Mbeumo,927083,F,81,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,23,42,23,4,fast-break,strong-foot
+247,25,West Ham United,Brentford,0.22987130284309,0,49,-1,Mohammed Kudus,905163,M,76,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,9,37,9,18,assisted,weak-foot
+247,25,West Ham United,Brentford,0.045444890856743,0,50,-1,Lucas Paquetá,839981,M,77,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,28,35,28,10,regular,strong-foot
+247,25,West Ham United,Brentford,0.038975223898888,0,51,-1,Konstantinos Mavropanos,829022,D,55,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,11,37,11,15,corner,head
+247,25,West Ham United,Brentford,0.03303350508213,0,51,-1,Evan Ferguson,999231,F,74,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,23,48,24,19,assisted,strong-foot
+247,25,West Ham United,Brentford,0.047300860285759,0,52,-1,Oliver Scarles,1150952,M,46,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,18,31,20,26,corner,strong-foot
+247,25,West Ham United,Brentford,0.058899816125631,0,54,1,Christian Nørgaard,135256,M,61,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,12,38,12,9,assisted,head
+247,25,West Ham United,Brentford,0.038658298552036,0,62,-1,Mohammed Kudus,905163,M,76,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,15,28,19,38,assisted,strong-foot
+247,25,West Ham United,Brentford,0.052405633032322,0,68,-1,Lucas Paquetá,839981,M,77,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,23,54,26,31,free-kick,strong-foot
+247,25,West Ham United,Brentford,0.092788882553577,0,76,1,Keane Lewis-Potter,972421,F,66,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,17,30,19,30,regular,strong-foot
+247,25,West Ham United,Brentford,0.086223691701889,0,80,-1,Evan Ferguson,999231,F,74,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,15,45,15,18,assisted,strong-foot
+247,25,West Ham United,Brentford,0.049936763942242,0,83,1,Keane Lewis-Potter,972421,F,66,Brentford,1752,Alphonse Aréola,96531,79,West Ham United,1727,False,13,21,23,55,assisted,strong-foot
+247,25,West Ham United,Brentford,0.037295449525118,0,86,-1,James Ward-Prowse,161717,M,72,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,33,26,35,22,free-kick,strong-foot
+247,25,West Ham United,Brentford,0.037986740469933,0,86,-1,Oliver Scarles,1150952,M,46,West Ham United,1727,Mark Flekken,171919,78,Brentford,1752,True,21,30,23,25,corner,strong-foot
+248,25,Liverpool,Wolverhampton,0.055715758353472,0,1,0,Trent Alexander-Arnold,795064,D,71,Liverpool,2003,José Sá,252669,77,Wolverhampton,1678,True,17,31,19,27,corner,weak-foot
+248,25,Liverpool,Wolverhampton,0.13297213613987,0,8,0,Diogo Jota,606164,F,81,Liverpool,2003,José Sá,252669,77,Wolverhampton,1678,True,13,34,14,24,regular,weak-foot
+248,25,Liverpool,Wolverhampton,0.16389228403568,1,15,0,Luis Díaz,883537,F,81,Liverpool,2003,José Sá,252669,77,Wolverhampton,1678,True,9,37,9,18,fast-break,other
+248,25,Liverpool,Wolverhampton,0.034776568412781,0,17,-1,Nélson Semedo,252821,M,54,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,27,52,29,23,regular,weak-foot
+248,25,Liverpool,Wolverhampton,0.086917206645012,0,21,1,Diogo Jota,606164,F,81,Liverpool,2003,José Sá,252669,77,Wolverhampton,1678,True,10,43,10,16,corner,head
+248,25,Liverpool,Wolverhampton,0.14169710874557,0,23,1,Diogo Jota,606164,F,81,Liverpool,2003,José Sá,252669,77,Wolverhampton,1678,True,14,42,14,8,fast-break,strong-foot
+248,25,Liverpool,Wolverhampton,0.046905495226383,0,26,1,Dominik Szoboszlai,869856,M,80,Liverpool,2003,José Sá,252669,77,Wolverhampton,1678,True,30,50,31,18,fast-break,strong-foot
+248,25,Liverpool,Wolverhampton,0.11247822642326,0,32,1,Diogo Jota,606164,F,81,Liverpool,2003,José Sá,252669,77,Wolverhampton,1678,True,5,53,13,68,regular,strong-foot
+248,25,Liverpool,Wolverhampton,0.0540641695261,0,33,1,Trent Alexander-Arnold,795064,D,71,Liverpool,2003,José Sá,252669,77,Wolverhampton,1678,True,22,36,22,10,corner,strong-foot
+248,25,Liverpool,Wolverhampton,0.7884,1,37,1,Mohamed Salah,159665,F,87,Liverpool,2003,José Sá,252669,77,Wolverhampton,1678,True,13,40,13,0,penalty,strong-foot
+248,25,Liverpool,Wolverhampton,0.094094447791576,0,40,-2,Matheus Cunha,886363,F,79,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,27,34,27,12,free-kick,strong-foot
+248,25,Liverpool,Wolverhampton,0.080876275897026,0,43,2,Mohamed Salah,159665,F,87,Liverpool,2003,José Sá,252669,77,Wolverhampton,1678,True,17,48,18,25,regular,strong-foot
+248,25,Liverpool,Wolverhampton,0.051690138876438,0,45,-2,Pablo Sarabia,138573,F,72,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,25,51,27,23,assisted,strong-foot
+248,25,Liverpool,Wolverhampton,0.057903468608856,0,45,-2,Pablo Sarabia,138573,F,72,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,21,48,22,20,assisted,strong-foot
+248,25,Liverpool,Wolverhampton,0.03224166110158,0,45,-2,Matheus Cunha,886363,F,79,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,12,56,20,53,assisted,strong-foot
+248,25,Liverpool,Wolverhampton,0.11258621513844,0,45,-2,Matheus Cunha,886363,F,79,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,17,48,18,25,assisted,strong-foot
+248,25,Liverpool,Wolverhampton,0.14531256258488,0,46,-2,Matheus Cunha,886363,F,79,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,9,34,10,33,assisted,strong-foot
+248,25,Liverpool,Wolverhampton,0.57226234674454,0,50,-2,Marshall Munetsi,894733,M,69,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,16,35,16,17,assisted,weak-foot
+248,25,Liverpool,Wolverhampton,0.024327240884304,0,50,-2,André,1035996,M,51,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,23,37,23,7,regular,strong-foot
+248,25,Liverpool,Wolverhampton,0.011563871055841,0,50,-2,Emmanuel Agbadou,1013842,D,45,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,43,41,43,1,assisted,strong-foot
+248,25,Liverpool,Wolverhampton,0.11653185635805,0,63,-2,João Gomes,1015267,M,64,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,15,47,16,25,assisted,weak-foot
+248,25,Liverpool,Wolverhampton,0.01975510828197,0,65,-2,Matheus Cunha,886363,F,79,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,45,24,47,19,fast-break,strong-foot
+248,25,Liverpool,Wolverhampton,0.064447805285454,1,67,-2,Matheus Cunha,886363,F,79,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,25,47,25,15,assisted,weak-foot
+248,25,Liverpool,Wolverhampton,0.067267201840878,0,70,-1,João Gomes,1015267,M,64,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,9,38,9,12,corner,head
+248,25,Liverpool,Wolverhampton,0.022735273465514,0,72,-1,Marshall Munetsi,894733,M,69,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,22,51,24,26,set-piece,strong-foot
+248,25,Liverpool,Wolverhampton,0.068874560296535,0,90,-1,Tommy Doyle,932628,M,64,Wolverhampton,1678,Alisson,243609,89,Liverpool,2003,False,23,52,25,27,free-kick,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.031798258423805,0,10,0,Rasmus Højlund,1086417,F,76,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,14,52,18,40,assisted,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.027540849521756,0,10,0,Alejandro Garnacho,1135873,M,74,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,18,21,26,46,assisted,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.31371709704399,0,10,0,Diogo Dalot,843200,D,61,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,4,48,8,63,regular,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.033641498535872,0,11,0,Patrick Dorgu,1397168,D,52,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,18,21,26,46,corner,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.026332544162869,0,13,0,Heung-min Son,111505,F,85,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,9,23,19,62,assisted,weak-foot
+249,25,Tottenham Hotspur,Manchester United,0.096843399107456,0,13,0,Lucas Bergvall,1391251,M,58,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,16,32,17,26,regular,weak-foot
+249,25,Tottenham Hotspur,Manchester United,0.71950453519821,1,13,0,James Maddison,356398,M,80,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,4,43,5,36,regular,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.055932633578777,0,19,1,Dejan Kulusevski,928124,M,78,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,18,34,18,18,assisted,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.021213851869106,0,22,-1,Joshua Zirkzee,917007,F,76,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,28,26,31,26,assisted,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.13573753833771,0,23,-1,Alejandro Garnacho,1135873,M,74,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,11,30,14,42,assisted,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.018864382058382,0,25,-1,Bruno Fernandes,288205,M,84,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,32,39,32,1,assisted,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.1823722422123,0,26,1,Mathys Tel,1048888,F,80,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,13,32,15,31,assisted,weak-foot
+249,25,Tottenham Hotspur,Manchester United,0.078241720795631,0,40,-1,Matthijs de Ligt,803031,D,60,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,9,36,9,23,set-piece,head
+249,25,Tottenham Hotspur,Manchester United,0.044868968427181,0,49,1,Kevin Danso,794953,D,31,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,12,40,12,0,corner,head
+249,25,Tottenham Hotspur,Manchester United,0.065237373113632,0,49,1,Lucas Bergvall,1391251,M,58,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,18,33,19,21,corner,weak-foot
+249,25,Tottenham Hotspur,Manchester United,0.046196345239878,0,49,1,Mathys Tel,1048888,F,80,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,17,43,17,10,corner,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.1403893083334,0,53,1,Dejan Kulusevski,928124,M,78,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,10,32,12,38,assisted,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.20630213618279,0,53,1,Mathys Tel,1048888,F,80,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,10,44,10,21,assisted,weak-foot
+249,25,Tottenham Hotspur,Manchester United,0.11631564795971,0,55,-1,Alejandro Garnacho,1135873,M,74,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,13,51,17,40,assisted,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.097238153219223,0,58,-1,Alejandro Garnacho,1135873,M,74,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,15,28,19,38,regular,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.094012297689915,0,61,1,Heung-min Son,111505,F,85,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,16,36,16,14,corner,weak-foot
+249,25,Tottenham Hotspur,Manchester United,0.1049836575985,0,61,1,Mathys Tel,1048888,F,80,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,15,33,16,25,assisted,weak-foot
+249,25,Tottenham Hotspur,Manchester United,0.006359847728163,0,62,1,Rodrigo Bentancur,791190,M,68,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,13,43,13,12,corner,other
+249,25,Tottenham Hotspur,Manchester United,0.027350598946214,0,62,1,Mathys Tel,1048888,F,80,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,15,31,17,30,corner,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.027729859575629,0,66,1,Dejan Kulusevski,928124,M,78,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,7,27,14,61,set-piece,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.018266240134835,0,68,1,Djed Spence,945798,D,41,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,34,28,36,19,assisted,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.041552923619747,0,69,1,Heung-min Son,111505,F,85,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,12,27,17,47,assisted,weak-foot
+249,25,Tottenham Hotspur,Manchester United,0.35077092051506,0,72,-1,Joshua Zirkzee,917007,F,76,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,9,42,9,12,assisted,head
+249,25,Tottenham Hotspur,Manchester United,0.022707289084792,0,72,-1,Rasmus Højlund,1086417,F,76,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,15,25,21,45,assisted,weak-foot
+249,25,Tottenham Hotspur,Manchester United,0.063876904547215,0,75,1,Mathys Tel,1048888,F,80,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,25,35,25,11,assisted,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.10867770761251,0,79,1,Dejan Kulusevski,928124,M,78,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,14,49,16,32,assisted,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.02693010494113,0,79,-1,Rasmus Højlund,1086417,F,76,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,9,23,19,62,fast-break,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.03757456317544,0,79,1,Yves Bissouma,844842,M,66,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,23,38,23,4,corner,strong-foot
+249,25,Tottenham Hotspur,Manchester United,0.057212397456169,0,84,-1,Matthijs de Ligt,803031,D,60,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,10,38,10,11,corner,head
+249,25,Tottenham Hotspur,Manchester United,0.099682942032814,0,84,-1,Casemiro,122951,M,74,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,9,37,9,18,corner,weak-foot
+249,25,Tottenham Hotspur,Manchester United,0.096898011863232,0,89,-1,Casemiro,122951,M,74,Manchester United,1773,Guglielmo Vicario,553606,84,Tottenham Hotspur,1775,False,9,41,9,6,corner,head
+249,25,Tottenham Hotspur,Manchester United,0.092488572001457,0,89,1,Mathys Tel,1048888,F,80,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,15,28,19,38,assisted,weak-foot
+249,25,Tottenham Hotspur,Manchester United,0.094681710004807,0,90,1,Ben Davies,94758,D,57,Tottenham Hotspur,1775,André Onana,787498,84,Manchester United,1773,True,17,45,17,16,set-piece,weak-foot

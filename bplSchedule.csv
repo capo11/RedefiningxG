@@ -238,17 +238,17 @@
 236,2025-02-02 Brentford-Tottenham Hotspur,24,24,2025-02-02 14:00:00+00:00,Brentford,Tottenham Hotspur,0.0,2.0,12436916
 237,2025-02-02 Manchester United-Crystal Palace,24,24,2025-02-02 14:00:00+00:00,Manchester United,Crystal Palace,0.0,2.0,12436925
 238,2025-02-03 Chelsea-West Ham United,24,24,2025-02-03 20:00:00+00:00,Chelsea,West Ham United,2.0,1.0,12436919
-239,2025-02-12 Everton-Liverpool,15,15,2025-02-12 19:30:00+00:00,Everton,Liverpool,,,13344418
-240,2025-02-14 Brighton & Hove Albion-Chelsea,25,25,2025-02-14 20:00:00+00:00,Brighton & Hove Albion,Chelsea,,,12436937
-241,2025-02-15 Aston Villa-Ipswich Town,25,25,2025-02-15 15:00:00+00:00,Aston Villa,Ipswich Town,,,12436934
-242,2025-02-15 Crystal Palace-Everton,25,25,2025-02-15 17:30:00+00:00,Crystal Palace,Everton,,,12436939
-243,2025-02-15 Fulham-Nottingham Forest,25,25,2025-02-15 15:00:00+00:00,Fulham,Nottingham Forest,,,12436940
-244,2025-02-15 Leicester City-Arsenal,25,25,2025-02-15 12:30:00+00:00,Leicester City,Arsenal,,,12436943
-245,2025-02-15 Manchester City-Newcastle United,25,25,2025-02-15 15:00:00+00:00,Manchester City,Newcastle United,,,12436948
-246,2025-02-15 Southampton-Bournemouth,25,25,2025-02-15 15:00:00+00:00,Southampton,Bournemouth,,,12436950
-247,2025-02-15 West Ham United-Brentford,25,25,2025-02-15 15:00:00+00:00,West Ham United,Brentford,,,12436956
-248,2025-02-16 Liverpool-Wolverhampton,25,25,2025-02-16 14:00:00+00:00,Liverpool,Wolverhampton,,,12436945
-249,2025-02-16 Tottenham Hotspur-Manchester United,25,25,2025-02-16 16:30:00+00:00,Tottenham Hotspur,Manchester United,,,12436952
+239,2025-02-12 Everton-Liverpool,15,15,2025-02-12 19:30:00+00:00,Everton,Liverpool,2.0,2.0,13344418
+240,2025-02-14 Brighton & Hove Albion-Chelsea,25,25,2025-02-14 20:00:00+00:00,Brighton & Hove Albion,Chelsea,3.0,0.0,12436937
+241,2025-02-15 Aston Villa-Ipswich Town,25,25,2025-02-15 15:00:00+00:00,Aston Villa,Ipswich Town,1.0,1.0,12436934
+242,2025-02-15 Crystal Palace-Everton,25,25,2025-02-15 17:30:00+00:00,Crystal Palace,Everton,1.0,2.0,12436939
+243,2025-02-15 Fulham-Nottingham Forest,25,25,2025-02-15 15:00:00+00:00,Fulham,Nottingham Forest,2.0,1.0,12436940
+244,2025-02-15 Leicester City-Arsenal,25,25,2025-02-15 12:30:00+00:00,Leicester City,Arsenal,0.0,2.0,12436943
+245,2025-02-15 Manchester City-Newcastle United,25,25,2025-02-15 15:00:00+00:00,Manchester City,Newcastle United,4.0,0.0,12436948
+246,2025-02-15 Southampton-Bournemouth,25,25,2025-02-15 15:00:00+00:00,Southampton,Bournemouth,1.0,3.0,12436950
+247,2025-02-15 West Ham United-Brentford,25,25,2025-02-15 15:00:00+00:00,West Ham United,Brentford,0.0,1.0,12436956
+248,2025-02-16 Liverpool-Wolverhampton,25,25,2025-02-16 14:00:00+00:00,Liverpool,Wolverhampton,2.0,1.0,12436945
+249,2025-02-16 Tottenham Hotspur-Manchester United,25,25,2025-02-16 16:30:00+00:00,Tottenham Hotspur,Manchester United,1.0,0.0,12436952
 250,2025-02-19 Aston Villa-Liverpool,29,29,2025-02-19 19:30:00+00:00,Aston Villa,Liverpool,,,12437019
 251,2025-02-21 Leicester City-Brentford,26,26,2025-02-21 20:00:00+00:00,Leicester City,Brentford,,,12436623
 252,2025-02-22 Arsenal-West Ham United,26,26,2025-02-22 15:00:00+00:00,Arsenal,West Ham United,,,12436960
@@ -284,41 +284,41 @@
 282,2025-03-15 Everton-West Ham United,29,29,2025-03-15 15:00:00+00:00,Everton,West Ham United,,,12437021
 283,2025-03-15 Ipswich Town-Nottingham Forest,29,29,2025-03-15 15:00:00+00:00,Ipswich Town,Nottingham Forest,,,12437025
 284,2025-03-15 Manchester City-Brighton & Hove Albion,29,29,2025-03-15 15:00:00+00:00,Manchester City,Brighton & Hove Albion,,,12437029
-285,2025-03-15 Newcastle United-Crystal Palace,29,29,2025-03-15 15:00:00+00:00,Newcastle United,Crystal Palace,,,12437031
-286,2025-03-15 Southampton-Wolverhampton,29,29,2025-03-15 15:00:00+00:00,Southampton,Wolverhampton,,,12436578
-287,2025-03-16 Arsenal-Chelsea,29,29,2025-03-16 15:00:00+00:00,Arsenal,Chelsea,,,12437017
-288,2025-03-16 Fulham-Tottenham Hotspur,29,29,2025-03-16 15:00:00+00:00,Fulham,Tottenham Hotspur,,,12437023
-289,2025-03-16 Leicester City-Manchester United,29,29,2025-03-16 19:00:00+00:00,Leicester City,Manchester United,,,12437027
-290,2025-04-01 Arsenal-Fulham,30,30,2025-04-01 18:45:00+00:00,Arsenal,Fulham,,,12436580
-291,2025-04-01 Bournemouth-Ipswich Town,30,30,2025-04-01 18:45:00+00:00,Bournemouth,Ipswich Town,,,12436576
-292,2025-04-01 Brighton & Hove Albion-Aston Villa,30,30,2025-04-01 18:45:00+00:00,Brighton & Hove Albion,Aston Villa,,,12436584
-293,2025-04-01 Nottingham Forest-Manchester United,30,30,2025-04-01 18:45:00+00:00,Nottingham Forest,Manchester United,,,12436591
-294,2025-04-01 Wolverhampton-West Ham United,30,30,2025-04-01 18:45:00+00:00,Wolverhampton,West Ham United,,,12436599
-295,2025-04-02 Chelsea-Tottenham Hotspur,30,30,2025-04-02 18:45:00+00:00,Chelsea,Tottenham Hotspur,,,12436587
-296,2025-04-02 Liverpool-Everton,30,30,2025-04-02 19:00:00+00:00,Liverpool,Everton,,,12436593
-297,2025-04-02 Manchester City-Leicester City,30,30,2025-04-02 18:45:00+00:00,Manchester City,Leicester City,,,12436594
-298,2025-04-02 Newcastle United-Brentford,30,30,2025-04-02 18:45:00+00:00,Newcastle United,Brentford,,,12436600
-299,2025-04-02 Southampton-Crystal Palace,30,30,2025-04-02 18:45:00+00:00,Southampton,Crystal Palace,,,12436588
-300,2025-04-05 Aston Villa-Nottingham Forest,31,31,2025-04-05 14:00:00+00:00,Aston Villa,Nottingham Forest,,,12436597
-301,2025-04-05 Brentford-Chelsea,31,31,2025-04-05 14:00:00+00:00,Brentford,Chelsea,,,12436589
-302,2025-04-05 Crystal Palace-Brighton & Hove Albion,31,31,2025-04-05 14:00:00+00:00,Crystal Palace,Brighton & Hove Albion,,,12436595
-303,2025-04-05 Everton-Arsenal,31,31,2025-04-05 14:00:00+00:00,Everton,Arsenal,,,12436596
-304,2025-04-05 Fulham-Liverpool,31,31,2025-04-05 14:00:00+00:00,Fulham,Liverpool,,,12436598
-305,2025-04-05 Ipswich Town-Wolverhampton,31,31,2025-04-05 14:00:00+00:00,Ipswich Town,Wolverhampton,,,12436601
-306,2025-04-05 Leicester City-Newcastle United,31,31,2025-04-05 14:00:00+00:00,Leicester City,Newcastle United,,,12436603
-307,2025-04-05 Manchester United-Manchester City,31,31,2025-04-05 14:00:00+00:00,Manchester United,Manchester City,,,12436602
-308,2025-04-05 Tottenham Hotspur-Southampton,31,31,2025-04-05 14:00:00+00:00,Tottenham Hotspur,Southampton,,,12436606
-309,2025-04-05 West Ham United-Bournemouth,31,31,2025-04-05 14:00:00+00:00,West Ham United,Bournemouth,,,12436604
-310,2025-04-12 Arsenal-Brentford,32,32,2025-04-12 14:00:00+00:00,Arsenal,Brentford,,,12436608
-311,2025-04-12 Bournemouth-Fulham,32,32,2025-04-12 14:00:00+00:00,Bournemouth,Fulham,,,12436605
-312,2025-04-12 Brighton & Hove Albion-Leicester City,32,32,2025-04-12 14:00:00+00:00,Brighton & Hove Albion,Leicester City,,,12436607
-313,2025-04-12 Chelsea-Ipswich Town,32,32,2025-04-12 14:00:00+00:00,Chelsea,Ipswich Town,,,12436609
-314,2025-04-12 Liverpool-West Ham United,32,32,2025-04-12 14:00:00+00:00,Liverpool,West Ham United,,,12436612
-315,2025-04-12 Manchester City-Crystal Palace,32,32,2025-04-12 14:00:00+00:00,Manchester City,Crystal Palace,,,12436610
-316,2025-04-12 Newcastle United-Manchester United,32,32,2025-04-12 14:00:00+00:00,Newcastle United,Manchester United,,,12436611
-317,2025-04-12 Nottingham Forest-Everton,32,32,2025-04-12 14:00:00+00:00,Nottingham Forest,Everton,,,12436613
-318,2025-04-12 Southampton-Aston Villa,32,32,2025-04-12 14:00:00+00:00,Southampton,Aston Villa,,,12436614
-319,2025-04-12 Wolverhampton-Tottenham Hotspur,32,32,2025-04-12 14:00:00+00:00,Wolverhampton,Tottenham Hotspur,,,12436617
+285,2025-03-15 Southampton-Wolverhampton,29,29,2025-03-15 15:00:00+00:00,Southampton,Wolverhampton,,,12436578
+286,2025-03-16 Arsenal-Chelsea,29,29,2025-03-16 13:30:00+00:00,Arsenal,Chelsea,,,12437017
+287,2025-03-16 Fulham-Tottenham Hotspur,29,29,2025-03-16 13:30:00+00:00,Fulham,Tottenham Hotspur,,,12437023
+288,2025-03-16 Leicester City-Manchester United,29,29,2025-03-16 19:00:00+00:00,Leicester City,Manchester United,,,12437027
+289,2025-04-01 Arsenal-Fulham,30,30,2025-04-01 18:45:00+00:00,Arsenal,Fulham,,,12436580
+290,2025-04-01 Bournemouth-Ipswich Town,30,30,2025-04-01 18:45:00+00:00,Bournemouth,Ipswich Town,,,12436576
+291,2025-04-01 Brighton & Hove Albion-Aston Villa,30,30,2025-04-01 18:45:00+00:00,Brighton & Hove Albion,Aston Villa,,,12436584
+292,2025-04-01 Nottingham Forest-Manchester United,30,30,2025-04-01 18:45:00+00:00,Nottingham Forest,Manchester United,,,12436591
+293,2025-04-01 Wolverhampton-West Ham United,30,30,2025-04-01 18:45:00+00:00,Wolverhampton,West Ham United,,,12436599
+294,2025-04-02 Chelsea-Tottenham Hotspur,30,30,2025-04-02 18:45:00+00:00,Chelsea,Tottenham Hotspur,,,12436587
+295,2025-04-02 Liverpool-Everton,30,30,2025-04-02 19:00:00+00:00,Liverpool,Everton,,,12436593
+296,2025-04-02 Manchester City-Leicester City,30,30,2025-04-02 18:45:00+00:00,Manchester City,Leicester City,,,12436594
+297,2025-04-02 Newcastle United-Brentford,30,30,2025-04-02 18:45:00+00:00,Newcastle United,Brentford,,,12436600
+298,2025-04-02 Southampton-Crystal Palace,30,30,2025-04-02 18:45:00+00:00,Southampton,Crystal Palace,,,12436588
+299,2025-04-05 Aston Villa-Nottingham Forest,31,31,2025-04-05 14:00:00+00:00,Aston Villa,Nottingham Forest,,,12436597
+300,2025-04-05 Brentford-Chelsea,31,31,2025-04-05 14:00:00+00:00,Brentford,Chelsea,,,12436589
+301,2025-04-05 Crystal Palace-Brighton & Hove Albion,31,31,2025-04-05 14:00:00+00:00,Crystal Palace,Brighton & Hove Albion,,,12436595
+302,2025-04-05 Everton-Arsenal,31,31,2025-04-05 14:00:00+00:00,Everton,Arsenal,,,12436596
+303,2025-04-05 Fulham-Liverpool,31,31,2025-04-05 14:00:00+00:00,Fulham,Liverpool,,,12436598
+304,2025-04-05 Ipswich Town-Wolverhampton,31,31,2025-04-05 14:00:00+00:00,Ipswich Town,Wolverhampton,,,12436601
+305,2025-04-05 Leicester City-Newcastle United,31,31,2025-04-05 14:00:00+00:00,Leicester City,Newcastle United,,,12436603
+306,2025-04-05 Manchester United-Manchester City,31,31,2025-04-05 14:00:00+00:00,Manchester United,Manchester City,,,12436602
+307,2025-04-05 Tottenham Hotspur-Southampton,31,31,2025-04-05 14:00:00+00:00,Tottenham Hotspur,Southampton,,,12436606
+308,2025-04-05 West Ham United-Bournemouth,31,31,2025-04-05 14:00:00+00:00,West Ham United,Bournemouth,,,12436604
+309,2025-04-12 Arsenal-Brentford,32,32,2025-04-12 14:00:00+00:00,Arsenal,Brentford,,,12436608
+310,2025-04-12 Bournemouth-Fulham,32,32,2025-04-12 14:00:00+00:00,Bournemouth,Fulham,,,12436605
+311,2025-04-12 Brighton & Hove Albion-Leicester City,32,32,2025-04-12 14:00:00+00:00,Brighton & Hove Albion,Leicester City,,,12436607
+312,2025-04-12 Chelsea-Ipswich Town,32,32,2025-04-12 14:00:00+00:00,Chelsea,Ipswich Town,,,12436609
+313,2025-04-12 Liverpool-West Ham United,32,32,2025-04-12 14:00:00+00:00,Liverpool,West Ham United,,,12436612
+314,2025-04-12 Manchester City-Crystal Palace,32,32,2025-04-12 14:00:00+00:00,Manchester City,Crystal Palace,,,12436610
+315,2025-04-12 Newcastle United-Manchester United,32,32,2025-04-12 14:00:00+00:00,Newcastle United,Manchester United,,,12436611
+316,2025-04-12 Nottingham Forest-Everton,32,32,2025-04-12 14:00:00+00:00,Nottingham Forest,Everton,,,12436613
+317,2025-04-12 Southampton-Aston Villa,32,32,2025-04-12 14:00:00+00:00,Southampton,Aston Villa,,,12436614
+318,2025-04-12 Wolverhampton-Tottenham Hotspur,32,32,2025-04-12 14:00:00+00:00,Wolverhampton,Tottenham Hotspur,,,12436617
+319,2025-04-16 Newcastle United-Crystal Palace,29,29,2025-04-16 18:30:00+00:00,Newcastle United,Crystal Palace,,,12437031
 320,2025-04-19 Aston Villa-Newcastle United,33,33,2025-04-19 14:00:00+00:00,Aston Villa,Newcastle United,,,12436615
 321,2025-04-19 Brentford-Brighton & Hove Albion,33,33,2025-04-19 14:00:00+00:00,Brentford,Brighton & Hove Albion,,,12436619
 322,2025-04-19 Crystal Palace-Bournemouth,33,33,2025-04-19 14:00:00+00:00,Crystal Palace,Bournemouth,,,12436616

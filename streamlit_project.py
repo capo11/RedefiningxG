@@ -94,7 +94,7 @@ def cleanDataset(df, elo=False, minute=True):
   x['situation_corner'] = x['situation_corner'].astype(int)
   x['situation_fast-break'] = x['situation_fast-break'].astype(int)
   x['situation_free-kick'] = x['situation_free-kick'].astype(int)
-  x['situation_penalty'] = x['situation_penalty'].astype(int)
+#   x['situation_penalty'] = x['situation_penalty'].astype(int)
   x['situation_regular'] = x['situation_regular'].astype(int)
   x['situation_set-piece'] = x['situation_set-piece'].astype(int)
   x['situation_throw-in-set-piece'] = x['situation_throw-in-set-piece'].astype(int)
@@ -111,6 +111,7 @@ def cleanDataset(df, elo=False, minute=True):
 
 def getXTrain(df, elo=False, minute=True, over='none', k=15, sampling_strategy='none', test_size=0.2):
     df = df.dropna(subset=['xg'])
+    df = df[df.situation != "penalty"]
     x,y = cleanDataset(df, elo=elo, minute=minute)
     X_train, X_test, y_train, y_test = train_test_split(x,y,test_size=test_size, random_state=42)
     if(over == "random"):
@@ -143,6 +144,10 @@ def predictLocalGame(game, model, elo=False, minute=True):
     allShots = pd.read_csv('datasets/bundes2425_id.csv')
   elif optionMenu1 == "Ligue 1":
     allShots = pd.read_csv('datasets/ligue12425_id.csv')
+  if 'Unnamed: 0.1' in allShots.columns:
+    allShots = allShots.drop(columns=['Unnamed: 0.1'])
+  if 'Unnamed: 0' in allShots.columns:
+    allShots = allShots.drop(columns=['Unnamed: 0'])
   allShots = allShots.drop(columns=['playerID', 'keeperID'])
   shotmap = allShots.loc[(allShots['homeTeam'] == game['home_team']) & (allShots['awayTeam'] == game['away_team'])]
   shotmap = shotmap.reset_index()
@@ -158,34 +163,46 @@ def predictLocalGame(game, model, elo=False, minute=True):
   homeShots = shotmap.loc[shotmap['isHome'] == True]
   homeShots = homeShots.reset_index()
   homeShots = homeShots.drop(columns=['index'])
+  homeShots_p = homeShots.loc[homeShots["situation"] == "penalty"].copy()
+  homeShots = homeShots.loc[homeShots['situation'] != 'penalty']
   awayShots = shotmap.loc[shotmap['isHome'] == False]
   awayShots = awayShots.reset_index()
   awayShots = awayShots.drop(columns=['index'])
+  awayShots_p = awayShots.loc[awayShots["situation"] == "penalty"].copy()
+  awayShots = awayShots.loc[awayShots['situation'] != 'penalty']
 
-  if optionMenu1 == "Serie A":
-    df = pd.read_csv('datasets/seriea_joined_new.csv')
+  df = pd.read_csv('datasets/top5_joined_id.csv')
+  df = df.drop(columns=['playerID', 'keeperID'])
+  if 'Unnamed: 0.1' in df.columns:
+      df = df.drop(columns=['Unnamed: 0.1'])
+  if 'Unnamed: 0' in df.columns:
     df = df.drop(columns=['Unnamed: 0'])
-  elif optionMenu1 == "Premier League":
-    df = pd.read_csv('datasets/bpl_joined_id.csv')
-    df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
-  elif optionMenu1 == "La Liga":
-    df = pd.read_csv('datasets/liga_joined_id.csv')
-    df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
-  elif optionMenu1 == "Bundesliga":
-    df = pd.read_csv('datasets/bundes_joined_id.csv')
-    df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
-  elif optionMenu1 == "Ligue 1":
-    df = pd.read_csv('datasets/ligue1_joined_id.csv')
-    df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+#   if optionMenu1 == "Serie A":
+#     df = pd.read_csv('datasets/seriea_joined_new.csv')
+#     df = df.drop(columns=['Unnamed: 0'])
+#   elif optionMenu1 == "Premier League":
+#     df = pd.read_csv('datasets/bpl_joined_id.csv')
+#     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+#   elif optionMenu1 == "La Liga":
+#     df = pd.read_csv('datasets/liga_joined_id.csv')
+#     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+#   elif optionMenu1 == "Bundesliga":
+#     df = pd.read_csv('datasets/bundes_joined_id.csv')
+#     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+#   elif optionMenu1 == "Ligue 1":
+#     df = pd.read_csv('datasets/ligue1_joined_id.csv')
+#     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
   if minute==False:
     df = df.drop(columns=['minute'])
   if elo==False:
     df = df.drop(columns=['eloTeam', 'eloOpponent'])
   df_homeShots = pd.concat([df, homeShots]).reset_index()
   df_homeShots = df_homeShots.drop(columns=['level_0'])
+  df_homeShots = df_homeShots.loc[df_homeShots['situation'] != 'penalty'].reset_index()
+  df_homeShots = df_homeShots.drop(columns=['level_0'])
   df_x, df_y = cleanDataset(df_homeShots, elo=elo, minute=minute)
 
-  homeShots_clean = df_x.loc[len(df):]
+  homeShots_clean = df_x.tail(len(homeShots))
 #   homeShots_clean = homeShots_clean.drop(columns=['index'])
   homeShots_clean = homeShots_clean.reset_index()
   homeShots_clean = homeShots_clean.drop(columns=['index'])
@@ -194,17 +211,23 @@ def predictLocalGame(game, model, elo=False, minute=True):
   homePred = model.predict(homeShots_clean)
   homeShots['goalPred'] = homePred
   homeShots['xgPred'] = homeXgPred
+  homeShots_p['xgPred'] = 0.75
+  homeShots_p['goalPred'] = 1
+  if len(homeShots_p)>0:
+    homeShots = pd.concat([homeShots, homeShots_p])
   for i in homeShots.index:
-    if (homeShots.loc[i]['situation'] == 'penalty'):
-      homeShots.at[i, 'xgPred'] = 0.75
+    # if (homeShots.loc[i]['situation'] == 'penalty'):
+    #   homeShots.at[i, 'xgPred'] = 0.75
     if (homeShots.loc[i]['xgPred'] == 0):
       homeShots.at[i, 'xgPred'] = 0.01
   homeShots['diff'] = homeShots['xgPred']-homeShots['xg']
 
   df_awayShots = pd.concat([df, awayShots]).reset_index()
   df_awayShots = df_awayShots.drop(columns=['level_0'])
+  df_awayShots = df_awayShots.loc[df_awayShots['situation'] != 'penalty'].reset_index()
+  df_awayShots = df_awayShots.drop(columns=['level_0'])
   df_x, df_y = cleanDataset(df_awayShots, elo=elo, minute=minute)
-  awayShots_clean = df_x.loc[len(df):]
+  awayShots_clean = df_x.tail(len(awayShots))
 #   awayShots_clean = awayShots_clean.drop(columns=['index'])
   awayShots_clean = awayShots_clean.reset_index()
   awayShots_clean = awayShots_clean.drop(columns=['index'])
@@ -212,9 +235,11 @@ def predictLocalGame(game, model, elo=False, minute=True):
   awayPred = model.predict(awayShots_clean)
   awayShots['goalPred'] = awayPred
   awayShots['xgPred'] = awayXgPred
+  awayShots_p['xgPred'] = 0.75
+  awayShots_p['goalPred'] = 1
   for i in awayShots.index:
-    if (awayShots.loc[i]['situation'] == 'penalty'):
-      awayShots.at[i, 'xgPred'] = 0.75
+    # if (awayShots.loc[i]['situation'] == 'penalty'):
+    #   awayShots.at[i, 'xgPred'] = 0.75
     if (awayShots.loc[i]['xgPred'] == 0):
       awayShots.at[i, 'xgPred'] = 0.01
   awayShots['diff'] = awayShots['xgPred']-awayShots['xg']
@@ -307,12 +332,12 @@ def plotShap(shapValues, elo):
     shap_values = []
     values = []
     for (i, feature) in enumerate(shapValues.data.index):
-        # print(i,feature)
+        print(i,feature)
         features.append(feature)
         shap_values.append(round(shapValues.values[i], 2))
     if elo == True:
         for (i, value) in enumerate(shapValues.data):
-            # print(i, value)
+            print(i, value)
             if(i==0):
                 value = int(value*90)   #minuto
             elif (i==1):
@@ -347,9 +372,9 @@ def plotShap(shapValues, elo):
     # print(features)
     # print(values)
     if(elo == True):
-        features = ['Minute','Goal Difference', 'Shooter Rating', 'Team Elo', 'Keeper Rating', 'Opponent Elo', 'Plays Home', 'Distance', 'Angle', 'Position - Defender', 'Position - Forward', 'Position - Midfielder', 'Situazione - Assisted', 'Situation - Corner Kick', 'Situation - Fast-Break', 'Situation - Free Kick', 'Situation - Penalty', 'Situation - Regular', 'Situation - Set Piece', 'Situation - Throw-In', 'Body Part - Head', 'Body Part - Other', 'Body Part - Strong Foot', 'Body Part - Weak Foot']
+        features = ['Minute','Goal Difference', 'Shooter Rating', 'Team Elo', 'Keeper Rating', 'Opponent Elo', 'Plays Home', 'Distance', 'Angle', 'Position - Defender', 'Position - Forward', 'Position - Midfielder', 'Situazione - Assisted', 'Situation - Corner Kick', 'Situation - Fast-Break', 'Situation - Free Kick', 'Situation - Regular', 'Situation - Set Piece', 'Situation - Throw-In', 'Body Part - Head', 'Body Part - Other', 'Body Part - Strong Foot', 'Body Part - Weak Foot']
     else:
-        features = ['Minute','Goal Difference', 'Shooter Rating', 'Keeper Rating', 'Plays Home', 'Distance', 'Angle', 'Position - Defender', 'Position - Forward', 'Position - Midfielder', 'Situazione - Assisted', 'Situation - Corner Kick', 'Situation - Fast-Break', 'Situation - Free Kick', 'Situation - Penalty', 'Situation - Regular', 'Situation - Set Piece', 'Situation - Throw-In', 'Body Part - Head', 'Body Part - Other', 'Body Part - Strong Foot', 'Body Part - Weak Foot']
+        features = ['Minute','Goal Difference', 'Shooter Rating', 'Keeper Rating', 'Plays Home', 'Distance', 'Angle', 'Position - Defender', 'Position - Forward', 'Position - Midfielder', 'Situazione - Assisted', 'Situation - Corner Kick', 'Situation - Fast-Break', 'Situation - Free Kick', 'Situation - Regular', 'Situation - Set Piece', 'Situation - Throw-In', 'Body Part - Head', 'Body Part - Other', 'Body Part - Strong Foot', 'Body Part - Weak Foot']
     features_values = []
     if(elo==True):
         for i in range(0, len(features)):
@@ -424,27 +449,29 @@ def plotShap(shapValues, elo):
     # st.plotly_chart(fig)
 
 def showShots():
-    if optionMenu1 == "Serie A":
-        df = pd.read_csv('datasets/seriea_joined_new.csv')
-        df = df.drop(columns=['Unnamed: 0'])
-        # st.dataframe(df)
-    elif optionMenu1 == "Premier League":
-        df = pd.read_csv('datasets/bpl_joined_id.csv')
-        # print(df.columns)
-        df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
-        # st.dataframe(df)
-    elif optionMenu1 == "La Liga":
-        df = pd.read_csv('datasets/liga_joined_id.csv')
-        # print(df.columns)
-        df = df.drop(columns=['playerID', 'keeperID'])
-    elif optionMenu1 == "Bundesliga":
-        df = pd.read_csv('datasets/bundes_joined_id.csv')
-        # print(df.columns)
-        df = df.drop(columns=['playerID', 'keeperID'])
-    elif optionMenu1 == "Ligue 1":
-        df = pd.read_csv('datasets/ligue1_joined_id.csv')
-        # print(df.columns)
-        df = df.drop(columns=['playerID', 'keeperID'])
+    df = pd.read_csv('datasets/top5_joined_id.csv')
+    df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+    # if optionMenu1 == "Serie A":
+    #     df = pd.read_csv('datasets/seriea_joined_new.csv')
+    #     df = df.drop(columns=['Unnamed: 0'])
+    #     # st.dataframe(df)
+    # elif optionMenu1 == "Premier League":
+    #     df = pd.read_csv('datasets/bpl_joined_id.csv')
+    #     # print(df.columns)
+    #     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+    #     # st.dataframe(df)
+    # elif optionMenu1 == "La Liga":
+    #     df = pd.read_csv('datasets/liga_joined_id.csv')
+    #     # print(df.columns)
+    #     df = df.drop(columns=['playerID', 'keeperID'])
+    # elif optionMenu1 == "Bundesliga":
+    #     df = pd.read_csv('datasets/bundes_joined_id.csv')
+    #     # print(df.columns)
+    #     df = df.drop(columns=['playerID', 'keeperID'])
+    # elif optionMenu1 == "Ligue 1":
+    #     df = pd.read_csv('datasets/ligue1_joined_id.csv')
+    #     # print(df.columns)
+    #     df = df.drop(columns=['playerID', 'keeperID'])
     useElo = st.checkbox("Use the teams' Elo Ratings")
     if useElo == True:
         elo = True
@@ -472,7 +499,7 @@ def showShots():
         elif optionMenu1 == "Ligue 1":
             modelName = 'FRA_minute'
         df = df.drop(columns=['eloTeam', 'eloOpponent'])
-    model = joblib.load('models/' + modelName + '.sav')
+    model = joblib.load('models/TOP5_' + modelName + '.sav')
 
     X_train, X = getXTrain(df, elo=elo, minute=True)
     explainer = shap.Explainer(model, X_train)
@@ -481,9 +508,9 @@ def showShots():
 
 
 
-    shotsDF = pd.read_excel('allShots/allShots_' + modelName + '.xlsx')
+    shotsDF = pd.read_excel('allShots/allShots_TOP5_' + modelName + '.xlsx')
     shotsDF = shotsDF.drop(columns='Unnamed: 0')
-    statsDF = pd.read_excel('leagueStats/leagueStats_' + modelName + '.xlsx')
+    statsDF = pd.read_excel('leagueStats/leagueStats_TOP5_' + modelName + '.xlsx')
     statsDF = statsDF.drop(columns='Unnamed: 0')
 
 
@@ -575,7 +602,7 @@ def showPlayers():
         elif optionMenu1 == "Ligue 1":
             modelName = 'FRA_minute'
 
-    shotsDF = pd.read_excel('allShots/allShots_' + modelName + '.xlsx')
+    shotsDF = pd.read_excel('allShots/allShots_TOP5_' + modelName + '.xlsx')
     shotsDF = shotsDF.drop(columns=['Unnamed: 0'])
     
     photoStrikers(shotsDF)
@@ -1124,7 +1151,7 @@ def displayCard(url, name, surname, xg, goal, diff, bgcolor):
 
 st.title("Big 5 Leagues 2024/25")
 st.subheader("Filter for League, Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: February 18th, 2025")
+st.write("Last Update: February 19th, 2025")
 
 optionMenu1 = option_menu("Pick a League", ["Serie A", "Premier League", "La Liga", "Bundesliga", "Ligue 1"],
     icons=['1-circle', '2-circle', '3-circle', '4-circle', '5-circle'],menu_icon="trophy-fill",

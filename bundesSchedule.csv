@@ -188,15 +188,15 @@
 186,2025-02-08 VfL Wolfsburg-Bayer 04 Leverkusen,21,21,2025-02-08 14:30:00+00:00,VfL Wolfsburg,Bayer 04 Leverkusen,0.0,0.0,12499796
 187,2025-02-09 Holstein Kiel-VfL Bochum 1848,21,21,2025-02-09 14:30:00+00:00,Holstein Kiel,VfL Bochum 1848,2.0,2.0,12499807
 188,2025-02-09 RB Leipzig-FC St. Pauli,21,21,2025-02-09 16:30:00+00:00,RB Leipzig,FC St. Pauli,2.0,0.0,12499782
-189,2025-02-14 FC Augsburg-RB Leipzig,22,22,2025-02-14 19:30:00+00:00,FC Augsburg,RB Leipzig,,,12499828
-190,2025-02-15 1. FC Union Berlin-Borussia M'gladbach,22,22,2025-02-15 14:30:00+00:00,1. FC Union Berlin,Borussia M'gladbach,,,12499832
-191,2025-02-15 Bayer 04 Leverkusen-FC Bayern München,22,22,2025-02-15 17:30:00+00:00,Bayer 04 Leverkusen,FC Bayern München,,,12499811
-192,2025-02-15 FC St. Pauli-SC Freiburg,22,22,2025-02-15 14:30:00+00:00,FC St. Pauli,SC Freiburg,,,12499838
-193,2025-02-15 VfB Stuttgart-VfL Wolfsburg,22,22,2025-02-15 14:30:00+00:00,VfB Stuttgart,VfL Wolfsburg,,,12499815
-194,2025-02-15 VfL Bochum 1848-Borussia Dortmund,22,22,2025-02-15 14:30:00+00:00,VfL Bochum 1848,Borussia Dortmund,,,12499835
-195,2025-02-16 1. FC Heidenheim-1. FSV Mainz 05,22,22,2025-02-16 18:30:00+00:00,1. FC Heidenheim,1. FSV Mainz 05,,,12499821
-196,2025-02-16 Eintracht Frankfurt-Holstein Kiel,22,22,2025-02-16 16:30:00+00:00,Eintracht Frankfurt,Holstein Kiel,,,12499818
-197,2025-02-16 SV Werder Bremen-TSG Hoffenheim,22,22,2025-02-16 14:30:00+00:00,SV Werder Bremen,TSG Hoffenheim,,,12499825
+189,2025-02-14 FC Augsburg-RB Leipzig,22,22,2025-02-14 19:30:00+00:00,FC Augsburg,RB Leipzig,0.0,0.0,12499828
+190,2025-02-15 1. FC Union Berlin-Borussia M'gladbach,22,22,2025-02-15 14:30:00+00:00,1. FC Union Berlin,Borussia M'gladbach,1.0,2.0,12499832
+191,2025-02-15 Bayer 04 Leverkusen-FC Bayern München,22,22,2025-02-15 17:30:00+00:00,Bayer 04 Leverkusen,FC Bayern München,0.0,0.0,12499811
+192,2025-02-15 FC St. Pauli-SC Freiburg,22,22,2025-02-15 14:30:00+00:00,FC St. Pauli,SC Freiburg,0.0,1.0,12499838
+193,2025-02-15 VfB Stuttgart-VfL Wolfsburg,22,22,2025-02-15 14:30:00+00:00,VfB Stuttgart,VfL Wolfsburg,1.0,2.0,12499815
+194,2025-02-15 VfL Bochum 1848-Borussia Dortmund,22,22,2025-02-15 14:30:00+00:00,VfL Bochum 1848,Borussia Dortmund,2.0,0.0,12499835
+195,2025-02-16 1. FC Heidenheim-1. FSV Mainz 05,22,22,2025-02-16 18:30:00+00:00,1. FC Heidenheim,1. FSV Mainz 05,0.0,2.0,12499821
+196,2025-02-16 Eintracht Frankfurt-Holstein Kiel,22,22,2025-02-16 16:30:00+00:00,Eintracht Frankfurt,Holstein Kiel,3.0,1.0,12499818
+197,2025-02-16 SV Werder Bremen-TSG Hoffenheim,22,22,2025-02-16 14:30:00+00:00,SV Werder Bremen,TSG Hoffenheim,1.0,3.0,12499825
 198,2025-02-21 SC Freiburg-SV Werder Bremen,23,23,2025-02-21 19:30:00+00:00,SC Freiburg,SV Werder Bremen,,,12499392
 199,2025-02-22 1. FSV Mainz 05-FC St. Pauli,23,23,2025-02-22 14:30:00+00:00,1. FSV Mainz 05,FC St. Pauli,,,12499395
 200,2025-02-22 Borussia Dortmund-1. FC Union Berlin,23,23,2025-02-22 17:30:00+00:00,Borussia Dortmund,1. FC Union Berlin,,,12499389
