@@ -578,9 +578,9 @@ def showShots():
                 if shotDescription:
                     shotIndex = teamShots.loc[teamShots['description'] == shotDescription].index[0]
                     
-                    st.error("Sofascore xG: " + str(teamShots.loc[shotIndex]['xg']))
-                    st.info("Model xG: " + str(teamShots.loc[shotIndex]['xgPred']))
-                    
+                    # st.error("Sofascore xG: " + str(teamShots.loc[shotIndex]['xg']))
+                    # st.info("Model xG: " + str(teamShots.loc[shotIndex]['xgPred']))
+                    displayXg(teamShots.loc[shotIndex]['xg'], teamShots.loc[shotIndex]['xgPred'])
                     
                     if(selectedTeam == home_team):
                         shot = stats['homeShots_clean'].loc[shotIndex]
@@ -1193,10 +1193,10 @@ def displayScore(homeScore, awayScore, homeTeam, awayTeam):
     
     
     <div class="progress" style="height: 30px;">
-        <div class="progress-bar bg-success" role="progressbar" style="font-size: 20px;width:{percentuale_squadra_1}%">
+        <div class="progress-bar bg-success" role="progressbar" style="font-size: 15px;width:{percentuale_squadra_1}%">
             {homeScore} ({homeTeam})
         </div>
-        <div class="progress-bar bg-danger" role="progressbar" style="font-size: 20px;width:{percentuale_squadra_2}%">
+        <div class="progress-bar bg-danger" role="progressbar" style="font-size: 15px;width:{percentuale_squadra_2}%">
             {awayScore} ({awayTeam})
         </div>
     </div>
@@ -1205,6 +1205,39 @@ def displayScore(homeScore, awayScore, homeTeam, awayTeam):
     # Mostra il risultato in Streamlit
     # st.markdown("### Punteggio tra le due squadre:")
     st.markdown(barra_html, unsafe_allow_html=True)
+
+def displayXg(sxg, mxg):
+    # HTML e CSS per la barra personalizzata
+    st.markdown("""
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    """, unsafe_allow_html=True)
+
+    barra_html1 = f"""
+    
+    
+    <div class="progress" style="height: 30px;">
+        <div class="progress-bar bg-success" role="progressbar" style="font-size: 20px;width:{sxg*100}%">
+            {sxg}
+        </div>
+    </div>
+    """
+
+    barra_html2 = f"""
+    
+    
+    <div class="progress" style="height: 30px;">
+        <div class="progress-bar bg-danger" role="progressbar" style="font-size: 20px;width:{mxg*100}%">
+            {mxg}
+        </div>
+    </div>
+    """
+
+
+    st.write("Sofascore xG:")
+    st.markdown(barra_html1, unsafe_allow_html=True)
+    st.write("Model xG:")
+    st.markdown(barra_html2, unsafe_allow_html=True)
+
 
 st.title("Top 5 Leagues 2024/25")
 st.subheader("Filter for League, Match and Shot to see the shotmap and the xG differences!")
