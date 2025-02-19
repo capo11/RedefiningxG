@@ -133,7 +133,7 @@ def getXTrain(df, elo=False, minute=True, over='none', k=15, sampling_strategy='
     
     return X_train, x
 
-def predictLocalGame(game, model, elo=False, minute=True):
+def predictLocalGame(game, model, elo=False, minute=True, specific=False):
   if optionMenu1 == "Serie A":
     allShots = pd.read_csv('datasets/seriea2425_id.csv')
   elif optionMenu1 == "Premier League":
@@ -170,28 +170,30 @@ def predictLocalGame(game, model, elo=False, minute=True):
   awayShots = awayShots.drop(columns=['index'])
   awayShots_p = awayShots.loc[awayShots["situation"] == "penalty"].copy()
   awayShots = awayShots.loc[awayShots['situation'] != 'penalty']
-
-  df = pd.read_csv('datasets/top5_joined_id.csv')
-  df = df.drop(columns=['playerID', 'keeperID'])
-  if 'Unnamed: 0.1' in df.columns:
-      df = df.drop(columns=['Unnamed: 0.1'])
-  if 'Unnamed: 0' in df.columns:
-    df = df.drop(columns=['Unnamed: 0'])
-#   if optionMenu1 == "Serie A":
-#     df = pd.read_csv('datasets/seriea_joined_new.csv')
-#     df = df.drop(columns=['Unnamed: 0'])
-#   elif optionMenu1 == "Premier League":
-#     df = pd.read_csv('datasets/bpl_joined_id.csv')
-#     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
-#   elif optionMenu1 == "La Liga":
-#     df = pd.read_csv('datasets/liga_joined_id.csv')
-#     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
-#   elif optionMenu1 == "Bundesliga":
-#     df = pd.read_csv('datasets/bundes_joined_id.csv')
-#     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
-#   elif optionMenu1 == "Ligue 1":
-#     df = pd.read_csv('datasets/ligue1_joined_id.csv')
-#     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+  
+  if specific != True:
+    df = pd.read_csv('datasets/top5_joined_id.csv')
+    df = df.drop(columns=['playerID', 'keeperID'])
+    if 'Unnamed: 0.1' in df.columns:
+        df = df.drop(columns=['Unnamed: 0.1'])
+    if 'Unnamed: 0' in df.columns:
+        df = df.drop(columns=['Unnamed: 0'])
+  else:
+    if optionMenu1 == "Serie A":
+        df = pd.read_csv('datasets/seriea_joined_new.csv')
+        df = df.drop(columns=['Unnamed: 0'])
+    elif optionMenu1 == "Premier League":
+        df = pd.read_csv('datasets/bpl_joined_id.csv')
+        df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+    elif optionMenu1 == "La Liga":
+        df = pd.read_csv('datasets/liga_joined_id.csv')
+        df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+    elif optionMenu1 == "Bundesliga":
+        df = pd.read_csv('datasets/bundes_joined_id.csv')
+        df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+    elif optionMenu1 == "Ligue 1":
+        df = pd.read_csv('datasets/ligue1_joined_id.csv')
+        df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
   if minute==False:
     df = df.drop(columns=['minute'])
   if elo==False:
@@ -449,29 +451,32 @@ def plotShap(shapValues, elo):
     # st.plotly_chart(fig)
 
 def showShots():
-    df = pd.read_csv('datasets/top5_joined_id.csv')
-    df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
-    # if optionMenu1 == "Serie A":
-    #     df = pd.read_csv('datasets/seriea_joined_new.csv')
-    #     df = df.drop(columns=['Unnamed: 0'])
-    #     # st.dataframe(df)
-    # elif optionMenu1 == "Premier League":
-    #     df = pd.read_csv('datasets/bpl_joined_id.csv')
-    #     # print(df.columns)
-    #     df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
-    #     # st.dataframe(df)
-    # elif optionMenu1 == "La Liga":
-    #     df = pd.read_csv('datasets/liga_joined_id.csv')
-    #     # print(df.columns)
-    #     df = df.drop(columns=['playerID', 'keeperID'])
-    # elif optionMenu1 == "Bundesliga":
-    #     df = pd.read_csv('datasets/bundes_joined_id.csv')
-    #     # print(df.columns)
-    #     df = df.drop(columns=['playerID', 'keeperID'])
-    # elif optionMenu1 == "Ligue 1":
-    #     df = pd.read_csv('datasets/ligue1_joined_id.csv')
-    #     # print(df.columns)
-    #     df = df.drop(columns=['playerID', 'keeperID'])
+    useSpecific = st.checkbox("Use a League-Specific Model")
+    if useSpecific != True:
+        df = pd.read_csv('datasets/top5_joined_id.csv')
+        df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+    else:
+        if optionMenu1 == "Serie A":
+            df = pd.read_csv('datasets/seriea_joined_new.csv')
+            df = df.drop(columns=['Unnamed: 0'])
+            # st.dataframe(df)
+        elif optionMenu1 == "Premier League":
+            df = pd.read_csv('datasets/bpl_joined_id.csv')
+            # print(df.columns)
+            df = df.drop(columns=['Unnamed: 0', 'playerID', 'keeperID'])
+            # st.dataframe(df)
+        elif optionMenu1 == "La Liga":
+            df = pd.read_csv('datasets/liga_joined_id.csv')
+            # print(df.columns)
+            df = df.drop(columns=['playerID', 'keeperID'])
+        elif optionMenu1 == "Bundesliga":
+            df = pd.read_csv('datasets/bundes_joined_id.csv')
+            # print(df.columns)
+            df = df.drop(columns=['playerID', 'keeperID'])
+        elif optionMenu1 == "Ligue 1":
+            df = pd.read_csv('datasets/ligue1_joined_id.csv')
+            # print(df.columns)
+            df = df.drop(columns=['playerID', 'keeperID'])
     useElo = st.checkbox("Use the teams' Elo Ratings")
     if useElo == True:
         elo = True
@@ -499,7 +504,10 @@ def showShots():
         elif optionMenu1 == "Ligue 1":
             modelName = 'FRA_minute'
         df = df.drop(columns=['eloTeam', 'eloOpponent'])
-    model = joblib.load('models/TOP5_' + modelName + '.sav')
+    if useSpecific != True:
+        model = joblib.load('models/TOP5_' + modelName + '.sav')
+    else:
+        model = joblib.load('models/' + modelName + '.sav')
 
     X_train, X = getXTrain(df, elo=elo, minute=True)
     explainer = shap.Explainer(model, X_train)
@@ -507,10 +515,15 @@ def showShots():
 
 
 
-
-    shotsDF = pd.read_excel('allShots/allShots_TOP5_' + modelName + '.xlsx')
+    if useSpecific != True:
+        shotsDF = pd.read_excel('allShots/allShots_TOP5_' + modelName + '.xlsx')
+    else:
+        shotsDF = pd.read_excel('allShots/allShots_' + modelName + '.xlsx')
     shotsDF = shotsDF.drop(columns='Unnamed: 0')
-    statsDF = pd.read_excel('leagueStats/leagueStats_TOP5_' + modelName + '.xlsx')
+    if useSpecific != True:
+        statsDF = pd.read_excel('leagueStats/leagueStats_TOP5_' + modelName + '.xlsx')
+    else:
+        statsDF = pd.read_excel('leagueStats/leagueStats_' + modelName + '.xlsx')
     statsDF = statsDF.drop(columns='Unnamed: 0')
 
 
@@ -542,9 +555,13 @@ def showShots():
 
         if gameDescription:
             gameIndex = scheduleDone.loc[scheduleDone['description'] == gameDescription].index[0]
-            st.error("Sofascore xG: " + str(statsDF.loc[gameIndex]['homeXg']) + ' - ' + str(statsDF.loc[gameIndex]['awayXg']))
-            st.info("Model xG: " + str(statsDF.loc[gameIndex]['homeXgPred']) + ' - ' + str(statsDF.loc[gameIndex]['awayXgPred']))
-            stats = predictLocalGame(scheduleDone.loc[gameIndex], model, elo=elo, minute=True)
+            st.write("Sofascore xG:")
+            displayScore(statsDF.loc[gameIndex]['homeXg'], statsDF.loc[gameIndex]['awayXg'], scheduleDone.loc[i]['home_team'], scheduleDone.loc[i]['away_team'])
+            st.write("Model xG:")
+            displayScore(statsDF.loc[gameIndex]['homeXgPred'], statsDF.loc[gameIndex]['awayXgPred'], scheduleDone.loc[i]['home_team'], scheduleDone.loc[i]['away_team'])
+            # st.error("Sofascore xG: " + str(statsDF.loc[gameIndex]['homeXg']) + ' - ' + str(statsDF.loc[gameIndex]['awayXg']))
+            # st.info("Model xG: " + str(statsDF.loc[gameIndex]['homeXgPred']) + ' - ' + str(statsDF.loc[gameIndex]['awayXgPred']))
+            stats = predictLocalGame(scheduleDone.loc[gameIndex], model, elo=elo, minute=True, specific=useSpecific)
             gameShots = shotsDF.loc[shotsDF['gameIndex'] == gameIndex]
             
             
@@ -564,6 +581,7 @@ def showShots():
                     st.error("Sofascore xG: " + str(teamShots.loc[shotIndex]['xg']))
                     st.info("Model xG: " + str(teamShots.loc[shotIndex]['xgPred']))
                     
+                    
                     if(selectedTeam == home_team):
                         shot = stats['homeShots_clean'].loc[shotIndex]
                     elif(selectedTeam == away_team):
@@ -572,10 +590,11 @@ def showShots():
                     # print(shot)
                     shapValues = explainer(shot, check_additivity=False)
                     plotShap(shapValues, elo)
-                    showViolinPlot()
+                    showViolinPlot(specific=useSpecific, elo=elo)
 
 
 def showPlayers():
+    useSpecific = st.checkbox("Use a League-Specific Model")
     useElo = st.checkbox("Use the teams' Elo Ratings")
     if useElo == True:
         elo = True
@@ -601,8 +620,10 @@ def showPlayers():
             modelName = 'GER_minute'
         elif optionMenu1 == "Ligue 1":
             modelName = 'FRA_minute'
-
-    shotsDF = pd.read_excel('allShots/allShots_TOP5_' + modelName + '.xlsx')
+    if useSpecific != True:
+        shotsDF = pd.read_excel('allShots/allShots_TOP5_' + modelName + '.xlsx')
+    else:
+        shotsDF = pd.read_excel('allShots/allShots_TOP5_' + modelName + '.xlsx')
     shotsDF = shotsDF.drop(columns=['Unnamed: 0'])
     
     photoStrikers(shotsDF)
@@ -1030,12 +1051,18 @@ def photoKeepers(shotsDF):
             # st.image(playerUrl, caption=caption)
             displayCard(playerUrl, name, surname, pXG, pGoal, pDiff, 'red')
 
-def showViolinPlot():
+def showViolinPlot(specific, elo):
     # print("Model + " + str(modelName))
     st.markdown("<h1 style='text-align: center;'>How Does the Model Think?</h1>", unsafe_allow_html=True)
     col1, col2 = st.columns(2)
     with col1:
-        st.image("violinPlots/" + modelName + ".png")
+        if specific == True:
+            st.image("violinPlots/" + modelName + ".png")
+        else:
+            if elo==True:
+                st.image("violinPlots/TOP5_full.png")
+            else:
+                st.image("violinPlots/TOP5_minute.png")
     with col2:
         st.write("## Key Aspects:")
         match modelName:
@@ -1147,11 +1174,43 @@ def displayCard(url, name, surname, xg, goal, diff, bgcolor):
     """
     st.markdown(card_html, unsafe_allow_html=True)
 
+def displayScore(homeScore, awayScore, homeTeam, awayTeam):
 
 
-st.title("Big 5 Leagues 2024/25")
+    # Somma totale dei punteggi
+    somma_totale = homeScore + awayScore
+
+    # Calcolo delle percentuali
+    percentuale_squadra_1 = (homeScore / somma_totale) * 100
+    percentuale_squadra_2 = (awayScore / somma_totale) * 100
+
+    # HTML e CSS per la barra personalizzata
+    st.markdown("""
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    """, unsafe_allow_html=True)
+
+    barra_html = f"""
+    
+    
+    <div class="progress" style="height: 30px;">
+        <div class="progress-bar bg-success" role="progressbar" style="font-size: 20px;width:{percentuale_squadra_1}%">
+            {homeScore} ({homeTeam})
+        </div>
+        <div class="progress-bar bg-danger" role="progressbar" style="font-size: 20px;width:{percentuale_squadra_2}%">
+            {awayScore} ({awayTeam})
+        </div>
+    </div>
+    """
+
+    # Mostra il risultato in Streamlit
+    # st.markdown("### Punteggio tra le due squadre:")
+    st.markdown(barra_html, unsafe_allow_html=True)
+
+st.title("Top 5 Leagues 2024/25")
 st.subheader("Filter for League, Match and Shot to see the shotmap and the xG differences!")
 st.write("Last Update: February 19th, 2025")
+
+
 
 optionMenu1 = option_menu("Pick a League", ["Serie A", "Premier League", "La Liga", "Bundesliga", "Ligue 1"],
     icons=['1-circle', '2-circle', '3-circle', '4-circle', '5-circle'],menu_icon="trophy-fill",
