@@ -334,12 +334,12 @@ def plotShap(shapValues, elo):
     shap_values = []
     values = []
     for (i, feature) in enumerate(shapValues.data.index):
-        print(i,feature)
+        # print(i,feature)
         features.append(feature)
         shap_values.append(round(shapValues.values[i], 2))
     if elo == True:
         for (i, value) in enumerate(shapValues.data):
-            print(i, value)
+            # print(i, value)
             if(i==0):
                 value = int(value*90)   #minuto
             elif (i==1):
@@ -1194,10 +1194,10 @@ def displayScore(homeScore, awayScore, homeTeam, awayTeam):
     
     <div class="progress" style="height: 30px;">
         <div class="progress-bar bg-success" role="progressbar" style="font-size: 15px;width:{percentuale_squadra_1}%">
-            {homeScore} ({homeTeam})
+            {homeScore}
         </div>
         <div class="progress-bar bg-danger" role="progressbar" style="font-size: 15px;width:{percentuale_squadra_2}%">
-            {awayScore} ({awayTeam})
+            {awayScore}
         </div>
     </div>
     """
