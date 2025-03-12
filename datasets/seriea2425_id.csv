@@ -6151,3 +6151,739 @@ index,round,homeTeam,awayTeam,xg,goal,minute,goalDifference,player,playerID,posi
 248,25,Genoa,Venezia,0.30400055646896,0,80,0,Caleb Ekuban,309156,F,69,Genoa,1676,Ionuț Radu,815202,71,Venezia,1561,True,14,45,14,19,assisted,strong-foot
 248,25,Genoa,Venezia,0.03421426564455,1,82,0,Andrea Pinamonti,826198,F,75,Genoa,1676,Ionuț Radu,815202,71,Venezia,1561,True,15,26,20,43,assisted,strong-foot
 248,25,Genoa,Venezia,0.068286702036858,1,86,1,Maxwel Cornet,280439,F,74,Genoa,1676,Ionuț Radu,815202,71,Venezia,1561,True,14,48,16,29,assisted,strong-foot
+249,26,Lecce,Udinese,0.29027360677719,0,6,0,Lorenzo Lucca,962364,F,75,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,10,51,14,47,assisted,strong-foot
+249,26,Lecce,Udinese,0.086639672517776,0,6,0,Hassane Kamara,351434,M,60,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,7,33,9,45,regular,strong-foot
+249,26,Lecce,Udinese,0.025011556223035,0,10,0,Jürgen Ekkelenkamp,904887,M,68,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,25,36,25,9,corner,strong-foot
+249,26,Lecce,Udinese,0.024904644116759,0,10,0,Alexis Sánchez,34120,F,79,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,26,31,27,19,corner,strong-foot
+249,26,Lecce,Udinese,0.034797079861164,0,25,0,Santiago Pierotti,984998,F,66,Lecce,1608,Răzvan Sava,1001997,70,Udinese,1651,True,14,50,17,35,corner,strong-foot
+249,26,Lecce,Udinese,0.021532330662012,0,25,0,Santiago Pierotti,984998,F,66,Lecce,1608,Răzvan Sava,1001997,70,Udinese,1651,True,6,56,17,69,corner,strong-foot
+249,26,Lecce,Udinese,0.7884,1,32,0,Lorenzo Lucca,962364,F,75,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,13,40,13,0,penalty,strong-foot
+249,26,Lecce,Udinese,0.13157530128956,0,38,1,Florian Thauvin,148824,F,76,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,16,47,17,23,fast-break,strong-foot
+249,26,Lecce,Udinese,0.032994259148836,0,45,-1,Nikola Krstović,839156,F,73,Lecce,1608,Răzvan Sava,1001997,70,Udinese,1651,True,34,40,34,0,fast-break,strong-foot
+249,26,Lecce,Udinese,0.045572530478239,0,53,1,Iker Bravo,1155571,F,66,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,34,42,34,3,fast-break,strong-foot
+249,26,Lecce,Udinese,0.048985749483109,0,54,1,Jaka Bijol,886930,D,58,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,9,45,10,29,corner,head
+249,26,Lecce,Udinese,0.1076205894351,0,56,-1,Nikola Krstović,839156,F,73,Lecce,1608,Răzvan Sava,1001997,70,Udinese,1651,True,10,45,11,26,assisted,head
+249,26,Lecce,Udinese,0.0099174100905657,0,59,-1,Frédéric Guilbert,372430,D,45,Lecce,1608,Răzvan Sava,1001997,70,Udinese,1651,True,30,47,30,13,corner,weak-foot
+249,26,Lecce,Udinese,0.028858035802841,0,59,-1,Medon Berisha,1142149,M,47,Lecce,1608,Răzvan Sava,1001997,70,Udinese,1651,True,11,25,18,53,assisted,weak-foot
+249,26,Lecce,Udinese,0.016450645402074,0,64,-1,Medon Berisha,1142149,M,47,Lecce,1608,Răzvan Sava,1001997,70,Udinese,1651,True,29,36,29,7,corner,strong-foot
+249,26,Lecce,Udinese,0.04226815328002,0,71,1,Iker Bravo,1155571,F,66,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,6,34,8,45,assisted,other
+249,26,Lecce,Udinese,0.095935888588428,0,73,-1,Nikola Krstović,839156,F,73,Lecce,1608,Răzvan Sava,1001997,70,Udinese,1651,True,8,36,8,26,corner,head
+249,26,Lecce,Udinese,0.020280677825212,0,74,-1,Jesper Karlsson,834597,F,74,Lecce,1608,Răzvan Sava,1001997,70,Udinese,1651,True,17,10,34,60,corner,strong-foot
+249,26,Lecce,Udinese,0.029172133654356,0,83,-1,Medon Berisha,1142149,M,47,Lecce,1608,Răzvan Sava,1001997,70,Udinese,1651,True,26,22,31,34,corner,strong-foot
+249,26,Lecce,Udinese,0.050001870840788,0,85,1,Martín Payero,895592,M,64,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,30,41,30,1,assisted,strong-foot
+249,26,Lecce,Udinese,0.027464676648378,0,86,1,Martín Payero,895592,M,64,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,32,46,32,10,assisted,strong-foot
+249,26,Lecce,Udinese,0.050493594259024,0,87,1,Arthur Atta,1444690,M,53,Udinese,1651,Wladimiro Falcone,256667,80,Lecce,1608,False,19,45,19,14,regular,weak-foot
+250,26,Inter,Genoa,0.038616437464952,0,4,0,Denzel Dumfries,759520,M,68,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,17,54,22,39,regular,strong-foot
+250,26,Inter,Genoa,0.13307611644268,0,12,0,Fabio Miretti,1010223,M,60,Genoa,1676,Josep Martínez,845291,75,Inter,1988,False,15,47,16,25,assisted,strong-foot
+250,26,Inter,Genoa,0.085769645869732,0,15,0,Jeff Ekhator,1613917,F,57,Genoa,1676,Josep Martínez,845291,75,Inter,1988,False,10,42,10,11,assisted,head
+250,26,Inter,Genoa,0.010627893730998,0,22,0,Nicolò Barella,363856,M,78,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,31,47,31,12,corner,strong-foot
+250,26,Inter,Genoa,0.021509671583772,0,23,0,Patrizio Masini,970998,M,48,Genoa,1676,Josep Martínez,845291,75,Inter,1988,False,26,26,29,28,assisted,weak-foot
+250,26,Inter,Genoa,0.0099604045972228,0,28,0,Henrikh Mkhitaryan,37151,M,78,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,22,24,27,36,corner,weak-foot
+250,26,Inter,Genoa,0.024549735710025,0,29,0,Lautaro Martínez,823984,F,88,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,27,37,27,6,regular,strong-foot
+250,26,Inter,Genoa,0.015110660344362,0,34,0,Benjamin Pavard,787505,D,67,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,24,55,28,32,assisted,strong-foot
+250,26,Inter,Genoa,0.030455173924565,0,38,0,Federico Dimarco,284361,M,78,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,17,23,24,45,assisted,strong-foot
+250,26,Inter,Genoa,0.020828478038311,0,48,0,Denzel Dumfries,759520,M,68,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,25,52,27,25,assisted,strong-foot
+250,26,Inter,Genoa,0.13868848979473,0,54,0,Fabio Miretti,1010223,M,60,Genoa,1676,Josep Martínez,845291,75,Inter,1988,False,14,46,15,23,assisted,strong-foot
+250,26,Inter,Genoa,0.02542569488287,0,55,0,Johan Vásquez,889785,D,32,Genoa,1676,Josep Martínez,845291,75,Inter,1988,False,13,35,13,21,corner,head
+250,26,Inter,Genoa,0.020782630890608,0,59,0,Nicolò Barella,363856,M,78,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,42,36,42,5,assisted,strong-foot
+250,26,Inter,Genoa,0.034830525517464,0,61,0,Federico Dimarco,284361,M,78,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,16,28,20,36,assisted,strong-foot
+250,26,Inter,Genoa,0.039263930171728,0,62,0,Kristjan Asllani,996820,M,60,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,24,40,24,0,assisted,strong-foot
+250,26,Inter,Genoa,0.12315065413713,0,65,0,Benjamin Pavard,787505,D,67,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,9,35,10,29,corner,strong-foot
+250,26,Inter,Genoa,0.13483031094074,0,65,0,Mehdi Taremi,812533,F,78,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,5,45,7,45,corner,strong-foot
+250,26,Inter,Genoa,0.02398581802845,0,69,0,Junior Messias,888219,M,72,Genoa,1676,Josep Martínez,845291,75,Inter,1988,False,38,29,39,16,fast-break,strong-foot
+250,26,Inter,Genoa,0.040971420705318,0,70,0,Nicolò Barella,363856,M,78,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,24,50,26,22,assisted,strong-foot
+250,26,Inter,Genoa,0.12976370751858,0,72,0,Lautaro Martínez,823984,F,88,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,9,36,9,23,set-piece,head
+250,26,Inter,Genoa,0.48730915784836,0,76,0,Caleb Ekuban,309156,F,69,Genoa,1676,Josep Martínez,845291,75,Inter,1988,False,5,37,5,30,corner,head
+250,26,Inter,Genoa,0.060418143868446,0,76,0,Patrizio Masini,970998,M,48,Genoa,1676,Josep Martínez,845291,75,Inter,1988,False,7,32,10,48,corner,strong-foot
+250,26,Inter,Genoa,0.22325228154659,1,78,0,Lautaro Martínez,823984,F,88,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,3,36,5,53,corner,head
+250,26,Inter,Genoa,0.29750952124596,0,81,-1,Lorenzo Venturino,1618563,M,50,Genoa,1676,Josep Martínez,845291,75,Inter,1988,False,7,37,7,23,assisted,weak-foot
+250,26,Inter,Genoa,0.024091782048345,0,83,-1,Morten Frendrup,918440,M,58,Genoa,1676,Josep Martínez,845291,75,Inter,1988,False,16,53,20,39,corner,strong-foot
+250,26,Inter,Genoa,0.31300336122513,0,89,1,Mehdi Taremi,812533,F,78,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,8,44,8,26,assisted,strong-foot
+250,26,Inter,Genoa,0.016417108476162,0,90,-1,Jean Onana,978301,M,65,Genoa,1676,Josep Martínez,845291,75,Inter,1988,False,42,40,42,0,regular,strong-foot
+250,26,Inter,Genoa,0.23469685018063,0,90,1,Lautaro Martínez,823984,F,88,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,11,46,12,28,fast-break,strong-foot
+250,26,Inter,Genoa,0.089073412120342,0,90,1,Lautaro Martínez,823984,F,88,Inter,1988,Nicola Leali,98059,71,Genoa,1676,True,6,26,15,66,assisted,strong-foot
+251,26,Parma,Bologna,0.06379159539938,0,1,0,Remo Freuler,115516,M,71,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,14,33,15,26,assisted,strong-foot
+251,26,Parma,Bologna,0.031232180073857,0,3,0,Dan Ndoye,944327,M,66,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,17,55,22,41,assisted,weak-foot
+251,26,Parma,Bologna,0.02261077798903,0,15,0,Santiago Castro,1116577,F,75,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,12,55,19,51,assisted,strong-foot
+251,26,Parma,Bologna,0.026397176086903,0,17,0,Santiago Castro,1116577,F,75,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,33,42,33,3,assisted,strong-foot
+251,26,Parma,Bologna,0.025916548445821,0,25,0,Nicolò Cambiaghi,971005,F,71,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,12,33,13,30,assisted,head
+251,26,Parma,Bologna,0.016538107767701,0,28,0,Matteo Cancellieri,1017649,F,70,Parma,1574,Federico Ravaglia,850952,70,Bologna,1783,True,29,55,32,27,assisted,strong-foot
+251,26,Parma,Bologna,0.043738421052694,0,30,0,Jhon Lucumí,818481,D,36,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,11,34,12,28,corner,head
+251,26,Parma,Bologna,0.02674487605691,0,32,0,Tommaso Pobega,928796,M,75,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,11,29,15,45,corner,weak-foot
+251,26,Parma,Bologna,0.02484044060111,0,32,0,Nicolò Cambiaghi,971005,F,71,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,31,29,32,19,corner,strong-foot
+251,26,Parma,Bologna,0.7884,1,37,0,Ange-Yoan Bonny,1086223,F,73,Parma,1574,Federico Ravaglia,850952,70,Bologna,1783,True,13,40,13,0,penalty,strong-foot
+251,26,Parma,Bologna,0.010468048974872,0,41,-1,Jhon Lucumí,818481,D,36,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,13,31,15,34,corner,head
+251,26,Parma,Bologna,0.017743429169059,0,43,-1,Nikola Moro,814882,M,72,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,36,39,36,1,regular,strong-foot
+251,26,Parma,Bologna,0.018363539129496,0,71,-1,Riccardo Orsolini,793645,M,80,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,33,38,33,3,assisted,strong-foot
+251,26,Parma,Bologna,0.1276393532753,0,73,-1,Santiago Castro,1116577,F,75,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,8,43,8,20,assisted,strong-foot
+251,26,Parma,Bologna,0.13134475052357,1,79,1,Simon Sohm,909991,M,65,Parma,1574,Federico Ravaglia,850952,70,Bologna,1783,True,14,27,19,42,fast-break,weak-foot
+251,26,Parma,Bologna,0.062623716890812,0,84,-2,Giovanni Fabbian,1067204,M,71,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,12,40,12,0,set-piece,strong-foot
+251,26,Parma,Bologna,0.031312540173531,0,87,-2,Riccardo Orsolini,793645,M,80,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,31,58,35,30,free-kick,strong-foot
+251,26,Parma,Bologna,0.06208897382021,0,88,-2,Riccardo Orsolini,793645,M,80,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,15,52,19,38,assisted,strong-foot
+251,26,Parma,Bologna,0.17830069363117,0,90,2,Dennis Man,812145,M,73,Parma,1574,Federico Ravaglia,850952,70,Bologna,1783,True,8,51,13,53,fast-break,weak-foot
+251,26,Parma,Bologna,0.069455482065678,0,90,-2,Giovanni Fabbian,1067204,M,71,Bologna,1783,Zion Suzuki,905351,72,Parma,1574,False,7,46,9,40,assisted,head
+252,26,Torino,Milan,,1,5,0,Malick Thiaw,1014286,D,47,Torino,1715,Mike Maignan,191210,87,Milan,1810,True,22,51,24,26,regular,other
+252,26,Torino,Milan,0.019651930779219,0,14,-1,Christian Pulišić,817957,M,81,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,29,48,30,15,corner,strong-foot
+252,26,Torino,Milan,0.0074950638227165,0,15,-1,Theo Hernández,788027,D,75,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,22,58,28,39,corner,strong-foot
+252,26,Torino,Milan,0.078401140868664,0,21,-1,Santiago Giménez,892141,F,79,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,17,44,17,13,assisted,weak-foot
+252,26,Torino,Milan,0.15183278918266,0,24,-1,Santiago Giménez,892141,F,79,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,9,38,9,12,assisted,head
+252,26,Torino,Milan,0.011616305448115,0,28,-1,Tijjani Reijnders,893549,M,74,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,27,31,28,18,set-piece,strong-foot
+252,26,Torino,Milan,0.036050539463758,0,31,-1,João Félix,851671,F,78,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,23,38,23,4,assisted,strong-foot
+252,26,Torino,Milan,0.035753592848778,0,31,-1,Rafael Leão,851284,M,78,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,8,31,12,48,assisted,head
+252,26,Torino,Milan,0.7884,0,33,-1,Christian Pulišić,817957,M,81,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,13,40,13,0,penalty,strong-foot
+252,26,Torino,Milan,0.025152573361993,0,38,1,Cristiano Biraghi,122848,D,67,Torino,1715,Mike Maignan,191210,87,Milan,1810,True,9,58,20,63,corner,strong-foot
+252,26,Torino,Milan,0.057064510881901,0,38,1,Marcus Pedersen,934409,D,47,Torino,1715,Mike Maignan,191210,87,Milan,1810,True,17,36,17,13,corner,weak-foot
+252,26,Torino,Milan,0.06660357862711,0,39,1,Nikola Vlašić,357596,F,75,Torino,1715,Mike Maignan,191210,87,Milan,1810,True,15,33,16,25,assisted,weak-foot
+252,26,Torino,Milan,0.03509858995676,0,43,1,Nikola Vlašić,357596,F,75,Torino,1715,Mike Maignan,191210,87,Milan,1810,True,24,40,24,0,throw-in-set-piece,strong-foot
+252,26,Torino,Milan,0.077096506953239,0,45,-1,João Félix,851671,F,78,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,12,41,12,4,assisted,head
+252,26,Torino,Milan,0.020392987877131,0,54,1,Guillermo Maripán,339909,D,40,Torino,1715,Mike Maignan,191210,87,Milan,1810,True,4,26,14,74,throw-in-set-piece,strong-foot
+252,26,Torino,Milan,0.02993849106133,0,57,-1,Youssouf Fofana,945062,M,66,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,26,50,27,21,assisted,strong-foot
+252,26,Torino,Milan,0.10702432692051,0,60,-1,João Félix,851671,F,78,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,12,40,12,0,assisted,strong-foot
+252,26,Torino,Milan,0.047712195664644,0,60,-1,Tijjani Reijnders,893549,M,74,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,19,53,23,34,regular,strong-foot
+252,26,Torino,Milan,0.019128130748868,0,61,-1,João Félix,851671,F,78,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,23,22,29,38,assisted,strong-foot
+252,26,Torino,Milan,0.12751616537571,0,64,-1,Tijjani Reijnders,893549,M,74,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,23,38,23,4,fast-break,strong-foot
+252,26,Torino,Milan,0.027542840689421,0,65,-1,Theo Hernández,788027,D,75,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,26,49,27,19,corner,strong-foot
+252,26,Torino,Milan,0.031415697187185,0,65,-1,Álex Jiménez,1184308,D,51,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,26,49,27,19,corner,strong-foot
+252,26,Torino,Milan,0.071790143847466,0,69,-1,João Félix,851671,F,78,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,16,27,20,39,regular,weak-foot
+252,26,Torino,Milan,0.045874487608671,0,71,1,Gvidas Gineitis,1030829,M,57,Torino,1715,Mike Maignan,191210,87,Milan,1810,True,18,33,19,21,assisted,strong-foot
+252,26,Torino,Milan,0.023979064077139,0,73,-1,Álex Jiménez,1184308,D,51,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,32,43,32,5,corner,strong-foot
+252,26,Torino,Milan,0.22455960512161,1,74,-1,Tijjani Reijnders,893549,M,74,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,12,36,12,18,regular,weak-foot
+252,26,Torino,Milan,0.012245709076524,1,76,0,Gvidas Gineitis,1030829,M,57,Torino,1715,Mike Maignan,191210,87,Milan,1810,True,14,24,21,48,set-piece,strong-foot
+252,26,Torino,Milan,0.19790108501911,0,80,-1,Youssouf Fofana,945062,M,66,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,5,35,7,45,set-piece,strong-foot
+252,26,Torino,Milan,0.022813878953457,0,83,-1,Tijjani Reijnders,893549,M,74,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,28,35,28,10,assisted,strong-foot
+252,26,Torino,Milan,0.018384300172329,0,84,-1,Santiago Giménez,892141,F,79,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,23,52,25,27,corner,strong-foot
+252,26,Torino,Milan,0.017000108957291,0,87,1,Gvidas Gineitis,1030829,M,57,Torino,1715,Mike Maignan,191210,87,Milan,1810,True,34,36,34,6,assisted,strong-foot
+252,26,Torino,Milan,0.02026354894042,0,88,1,Antonio Sanabria,333261,F,74,Torino,1715,Mike Maignan,191210,87,Milan,1810,True,2,29,11,79,throw-in-set-piece,weak-foot
+252,26,Torino,Milan,0.04637336730957,0,89,-1,Francesco Camarda,1520771,F,77,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,11,44,11,19,assisted,head
+252,26,Torino,Milan,0.13771437108517,0,89,-1,Riccardo Sottil,893640,M,65,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,5,32,9,57,assisted,head
+252,26,Torino,Milan,0.036415420472622,0,90,-1,Riccardo Sottil,893640,M,65,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,14,25,20,46,corner,strong-foot
+252,26,Torino,Milan,0.075926601886749,0,90,-1,Strahinja Pavlović,965893,D,42,Milan,1810,Vanja Milinković-Savić,356160,78,Torino,1715,False,12,38,12,9,assisted,head
+253,26,Venezia,Lazio,0.026351928710938,0,11,0,Gustav Isaksen,976381,F,71,Lazio,1796,Ionuț Radu,815202,71,Venezia,1561,False,26,21,32,36,regular,strong-foot
+253,26,Venezia,Lazio,0.017165925353765,0,14,0,Nuno Tavares,944973,D,66,Lazio,1796,Ionuț Radu,815202,71,Venezia,1561,False,30,19,36,34,assisted,strong-foot
+253,26,Venezia,Lazio,0.061550959944725,0,14,0,Issa Doumbia,1141754,M,52,Venezia,1561,Christos Mandas,913762,72,Lazio,1796,True,22,48,23,19,assisted,strong-foot
+253,26,Venezia,Lazio,0.041277155280113,0,16,0,Gustav Isaksen,976381,F,71,Lazio,1796,Ionuț Radu,815202,71,Venezia,1561,False,3,25,15,78,fast-break,strong-foot
+253,26,Venezia,Lazio,0.67801809310913,0,23,0,Boulaye Dia,960080,F,80,Lazio,1796,Ionuț Radu,815202,71,Venezia,1561,False,11,44,11,19,assisted,weak-foot
+253,26,Venezia,Lazio,0.029673606157303,0,38,0,Fisayo Dele-Bashiru,910121,M,71,Lazio,1796,Ionuț Radu,815202,71,Venezia,1561,False,32,28,34,20,assisted,strong-foot
+253,26,Venezia,Lazio,0.15571922063828,0,45,0,Boulaye Dia,960080,F,80,Lazio,1796,Ionuț Radu,815202,71,Venezia,1561,False,14,37,14,12,fast-break,weak-foot
+253,26,Venezia,Lazio,0.01914120092988,0,53,0,Gustav Isaksen,976381,F,71,Lazio,1796,Ionuț Radu,815202,71,Venezia,1561,False,31,54,34,24,assisted,strong-foot
+253,26,Venezia,Lazio,0.071725949645042,0,55,0,Tijjani Noslin,1069244,F,73,Lazio,1796,Ionuț Radu,815202,71,Venezia,1561,False,9,41,9,6,corner,head
+253,26,Venezia,Lazio,0.035800449550152,0,60,0,Mirko Marić,190933,F,69,Venezia,1561,Christos Mandas,913762,72,Lazio,1796,True,9,47,11,37,assisted,head
+253,26,Venezia,Lazio,0.035042401403189,0,63,0,Mirko Marić,190933,F,69,Venezia,1561,Christos Mandas,913762,72,Lazio,1796,True,13,55,19,49,throw-in-set-piece,strong-foot
+253,26,Venezia,Lazio,0.31623896956444,0,65,0,Mirko Marić,190933,F,69,Venezia,1561,Christos Mandas,913762,72,Lazio,1796,True,8,43,8,20,set-piece,head
+253,26,Venezia,Lazio,0.15472686290741,0,74,0,Gaetano Oristanio,965009,F,66,Venezia,1561,Christos Mandas,913762,72,Lazio,1796,True,23,40,23,0,fast-break,strong-foot
+253,26,Venezia,Lazio,0.062527932226658,0,86,0,Mario Gila Fuentes,965828,D,53,Lazio,1796,Ionuț Radu,815202,71,Venezia,1561,False,9,44,9,23,set-piece,head
+253,26,Venezia,Lazio,0.033361464738846,0,89,0,John Yeboah,879802,F,60,Venezia,1561,Christos Mandas,913762,72,Lazio,1796,True,9,20,21,65,fast-break,strong-foot
+253,26,Venezia,Lazio,0.015350298956037,0,90,0,Mikael Ellertsson,933203,M,68,Venezia,1561,Christos Mandas,913762,72,Lazio,1796,True,14,23,22,50,assisted,weak-foot
+253,26,Venezia,Lazio,0.076249174773693,0,90,0,Alessio Zerbin,869888,M,67,Venezia,1561,Christos Mandas,913762,72,Lazio,1796,True,13,48,15,31,regular,strong-foot
+253,26,Venezia,Lazio,0.085146814584732,0,90,0,John Yeboah,879802,F,60,Venezia,1561,Christos Mandas,913762,72,Lazio,1796,True,12,33,13,30,assisted,weak-foot
+254,26,Cagliari,Juventus,0.048615884035826,0,7,0,Federico Gatti,1128063,D,41,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,21,30,23,25,assisted,weak-foot
+254,26,Cagliari,Juventus,0.084091298282146,0,8,0,Weston McKennie,881931,M,71,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,5,46,7,50,corner,head
+254,26,Cagliari,Juventus,0.58537554740906,1,12,0,Dušan Vlahović,832208,F,83,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,9,27,15,55,regular,strong-foot
+254,26,Cagliari,Juventus,0.45241269469261,0,22,1,Kenan Yıldız,1149011,M,73,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,11,45,12,24,assisted,weak-foot
+254,26,Cagliari,Juventus,0.24378032982349,0,24,1,Francisco Conceição,979222,M,68,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,3,48,8,69,regular,strong-foot
+254,26,Cagliari,Juventus,0.01182050909847,0,25,1,Dušan Vlahović,832208,F,83,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,27,57,31,32,assisted,strong-foot
+254,26,Cagliari,Juventus,0.22691445052624,0,29,1,Kenan Yıldız,1149011,M,73,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,16,43,16,10,fast-break,weak-foot
+254,26,Cagliari,Juventus,0.07567010819912,0,33,1,Teun Koopmeiners,803033,M,76,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,10,42,10,11,assisted,head
+254,26,Cagliari,Juventus,0.035588920116425,0,34,1,Manuel Locatelli,363860,M,68,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,30,39,30,1,regular,weak-foot
+254,26,Cagliari,Juventus,0.015139357186854,0,36,-1,Antoine Makoumbou,920391,M,58,Cagliari,1613,Michele Di Gregorio,844609,81,Juventus,1835,True,23,24,28,34,throw-in-set-piece,strong-foot
+254,26,Cagliari,Juventus,0.026552533730865,0,36,-1,Sebastiano Luperto,352736,D,47,Cagliari,1613,Michele Di Gregorio,844609,81,Juventus,1835,True,29,26,32,25,regular,strong-foot
+254,26,Cagliari,Juventus,0.11045233905315,0,36,-1,Nadir Zortea,928104,M,64,Cagliari,1613,Michele Di Gregorio,844609,81,Juventus,1835,True,20,41,20,2,throw-in-set-piece,weak-foot
+254,26,Cagliari,Juventus,0.019551731646061,0,41,-1,Sebastiano Luperto,352736,D,47,Cagliari,1613,Michele Di Gregorio,844609,81,Juventus,1835,True,14,33,15,26,corner,head
+254,26,Cagliari,Juventus,0.024696063250303,0,61,1,Francisco Conceição,979222,M,68,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,22,50,24,24,assisted,strong-foot
+254,26,Cagliari,Juventus,0.037185031920671,0,65,-1,Michel Ndary Adopo,928777,M,58,Cagliari,1613,Michele Di Gregorio,844609,81,Juventus,1835,True,15,49,17,30,assisted,head
+254,26,Cagliari,Juventus,0.18790946900845,0,78,1,Dušan Vlahović,832208,F,83,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,16,48,17,26,fast-break,weak-foot
+254,26,Cagliari,Juventus,0.011035948060453,0,78,-1,Răzvan Marin,279563,M,74,Cagliari,1613,Michele Di Gregorio,844609,81,Juventus,1835,True,34,59,38,29,assisted,strong-foot
+254,26,Cagliari,Juventus,0.05591231584549,0,83,-1,Florinel Coman,794254,F,69,Cagliari,1613,Michele Di Gregorio,844609,81,Juventus,1835,True,13,23,21,52,assisted,weak-foot
+254,26,Cagliari,Juventus,0.030964339151978,0,90,-1,Nicolas Viola,21608,M,71,Cagliari,1613,Michele Di Gregorio,844609,81,Juventus,1835,True,27,54,30,27,assisted,strong-foot
+254,26,Cagliari,Juventus,0.086035542190075,0,90,1,Kenan Yıldız,1149011,M,73,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,15,49,17,30,assisted,weak-foot
+254,26,Cagliari,Juventus,0.023462783545256,0,90,1,Federico Gatti,1128063,D,41,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,30,30,31,18,assisted,strong-foot
+254,26,Cagliari,Juventus,0.038994051516056,0,90,1,Samuel Mbangula,1100836,M,66,Juventus,1835,Elia Caprile,947954,74,Cagliari,1613,False,14,25,20,46,assisted,strong-foot
+255,26,Como,Napoli,0.037706859409809,0,5,0,Leonardo Spinazzola,148899,D,64,Napoli,1863,Jean Butez,599114,76,Como,1593,False,21,25,25,35,regular,strong-foot
+255,26,Como,Napoli,0.039103161543608,0,6,0,Romelu Lukaku,78893,F,80,Napoli,1863,Jean Butez,599114,76,Como,1593,False,15,54,20,43,assisted,strong-foot
+255,26,Como,Napoli,,1,7,0,Amir Rrahmani,332155,D,50,Como,1593,Alex Meret,592794,82,Napoli,1863,True,35,25,38,23,regular,weak-foot
+255,26,Como,Napoli,0.019945489242673,0,10,-1,Stanislav Lobotka,150383,M,66,Napoli,1863,Jean Butez,599114,76,Como,1593,False,27,32,28,16,corner,weak-foot
+255,26,Como,Napoli,0.073650568723679,0,13,-1,Philip Billing,548660,M,76,Napoli,1863,Jean Butez,599114,76,Como,1593,False,25,50,26,21,free-kick,strong-foot
+255,26,Como,Napoli,0.068066969513893,0,13,-1,Giovanni Di Lorenzo,153257,D,69,Napoli,1863,Jean Butez,599114,76,Como,1593,False,3,32,8,69,corner,head
+255,26,Como,Napoli,0.26266032457352,1,17,-1,Giacomo Raspadori,865651,F,76,Napoli,1863,Jean Butez,599114,76,Como,1593,False,15,51,18,36,regular,weak-foot
+255,26,Como,Napoli,0.059773292392492,0,27,0,Álex Valle,1142238,D,55,Como,1593,Alex Meret,592794,82,Napoli,1863,True,23,29,25,25,regular,strong-foot
+255,26,Como,Napoli,0.015785146504641,0,40,0,Assane Diao,1493689,F,69,Como,1593,Alex Meret,592794,82,Napoli,1863,True,17,19,27,51,assisted,strong-foot
+255,26,Como,Napoli,0.051924116909504,0,42,0,Matteo Politano,235672,F,77,Napoli,1863,Jean Butez,599114,76,Como,1593,False,16,52,20,36,assisted,strong-foot
+255,26,Como,Napoli,0.10141438990831,0,54,0,Lucas Da Cunha,911848,M,69,Como,1593,Alex Meret,592794,82,Napoli,1863,True,13,50,16,37,assisted,strong-foot
+255,26,Como,Napoli,0.066819250583649,0,55,0,Gabriel Strefezza,877201,M,65,Como,1593,Alex Meret,592794,82,Napoli,1863,True,17,53,21,37,assisted,weak-foot
+255,26,Como,Napoli,0.0086745508015156,0,56,0,Nico Paz,1171451,M,63,Como,1593,Alex Meret,592794,82,Napoli,1863,True,32,58,36,29,set-piece,strong-foot
+255,26,Como,Napoli,0.065703369677067,0,61,0,Nico Paz,1171451,M,63,Como,1593,Alex Meret,592794,82,Napoli,1863,True,9,37,9,18,corner,head
+255,26,Como,Napoli,0.091321997344494,0,66,0,Scott McTominay,879346,M,78,Napoli,1863,Jean Butez,599114,76,Como,1593,False,15,42,15,7,assisted,strong-foot
+255,26,Como,Napoli,0.017665849998593,0,67,0,Giacomo Raspadori,865651,F,76,Napoli,1863,Jean Butez,599114,76,Como,1593,False,10,23,19,59,corner,weak-foot
+255,26,Como,Napoli,0.040944036096334,0,70,0,Assane Diao,1493689,F,69,Como,1593,Alex Meret,592794,82,Napoli,1863,True,12,30,15,39,set-piece,strong-foot
+255,26,Como,Napoli,0.32050704956055,0,70,0,Scott McTominay,879346,M,78,Napoli,1863,Jean Butez,599114,76,Como,1593,False,5,46,7,50,fast-break,head
+255,26,Como,Napoli,0.020149268209934,0,71,0,Giovanni Di Lorenzo,153257,D,69,Napoli,1863,Jean Butez,599114,76,Como,1593,False,8,29,13,53,corner,head
+255,26,Como,Napoli,0.14069008827209,0,75,0,Frank Anguissa,787941,M,71,Napoli,1863,Jean Butez,599114,76,Como,1593,False,21,43,21,8,fast-break,strong-foot
+255,26,Como,Napoli,0.36318427324295,1,77,0,Assane Diao,1493689,F,69,Como,1593,Alex Meret,592794,82,Napoli,1863,True,18,41,18,3,fast-break,strong-foot
+255,26,Como,Napoli,0.11425220221281,0,90,-1,Amir Rrahmani,332155,D,50,Napoli,1863,Jean Butez,599114,76,Como,1593,False,24,44,24,9,assisted,weak-foot
+256,26,Empoli,Atalanta,0.1283665150404,0,2,0,Raoul Bellanova,826185,M,41,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,9,44,9,23,regular,weak-foot
+256,26,Empoli,Atalanta,0.047491833567619,0,4,0,Davide Zappacosta,132318,M,67,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,25,33,25,15,assisted,strong-foot
+256,26,Empoli,Atalanta,0.10757168382406,0,5,0,Berat Djimsiti,151003,D,37,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,8,38,8,14,corner,head
+256,26,Empoli,Atalanta,0.027268899604678,0,5,0,Charles De Ketelaere,960441,F,76,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,7,48,10,48,corner,head
+256,26,Empoli,Atalanta,0.060896556824446,0,5,0,Berat Djimsiti,151003,D,37,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,11,42,11,10,corner,strong-foot
+256,26,Empoli,Atalanta,0.010535660199821,0,8,0,Youssef Maleh,849274,M,64,Empoli,1631,Marco Carnesecchi,865646,83,Atalanta,1896,True,27,47,27,14,set-piece,strong-foot
+256,26,Empoli,Atalanta,0.053703505545855,0,15,0,Christian Kouamé,812946,F,70,Empoli,1631,Marco Carnesecchi,865646,83,Atalanta,1896,True,10,25,18,56,assisted,weak-foot
+256,26,Empoli,Atalanta,,1,27,0,Emmanuel Gyasi,541578,M,62,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,9,24,18,60,regular,head
+256,26,Empoli,Atalanta,0.12068792432547,0,30,1,Mario Pašalić,190437,M,77,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,17,45,17,16,regular,weak-foot
+256,26,Empoli,Atalanta,0.099719017744064,0,33,1,Stefan Posch,355486,D,53,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,8,42,8,14,corner,head
+256,26,Empoli,Atalanta,0.10479341447353,0,33,1,Berat Djimsiti,151003,D,37,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,8,39,8,7,corner,head
+256,26,Empoli,Atalanta,0.44369113445282,1,33,1,Mateo Retegui,914501,F,79,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,3,44,5,53,corner,strong-foot
+256,26,Empoli,Atalanta,0.042160831391811,0,40,2,Raoul Bellanova,826185,M,41,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,9,47,11,37,assisted,head
+256,26,Empoli,Atalanta,0.85825943946838,1,43,2,Ademola Lookman,824200,F,82,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,0,35,5,90,assisted,strong-foot
+256,26,Empoli,Atalanta,0.06174261122942,0,45,-3,Liberato Cacace,905264,D,58,Empoli,1631,Marco Carnesecchi,865646,83,Atalanta,1896,True,17,47,18,22,corner,weak-foot
+256,26,Empoli,Atalanta,0.038458600640297,0,47,-3,Liam Henderson,287573,M,63,Empoli,1631,Marco Carnesecchi,865646,83,Atalanta,1896,True,33,44,33,6,free-kick,strong-foot
+256,26,Empoli,Atalanta,0.020177699625492,0,49,-3,Saba Goglichidze,1126175,D,24,Empoli,1631,Marco Carnesecchi,865646,83,Atalanta,1896,True,29,59,34,33,regular,strong-foot
+256,26,Empoli,Atalanta,0.05028660595417,0,52,-3,Liam Henderson,287573,M,63,Empoli,1631,Marco Carnesecchi,865646,83,Atalanta,1896,True,22,26,26,32,assisted,strong-foot
+256,26,Empoli,Atalanta,0.070547260344028,1,55,3,Ademola Lookman,824200,F,82,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,12,28,16,45,assisted,weak-foot
+256,26,Empoli,Atalanta,0.05790077522397,0,57,-4,Sebastiano Esposito,965008,F,73,Empoli,1631,Marco Carnesecchi,865646,83,Atalanta,1896,True,12,43,12,14,assisted,head
+256,26,Empoli,Atalanta,0.082416951656342,0,66,-4,Alberto Grassi,186845,M,61,Empoli,1631,Marco Carnesecchi,865646,83,Atalanta,1896,True,12,42,12,9,assisted,head
+256,26,Empoli,Atalanta,0.039279963821173,0,71,4,Éderson,946888,M,68,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,23,36,23,9,assisted,strong-foot
+256,26,Empoli,Atalanta,0.043393392115831,1,74,4,Davide Zappacosta,132318,M,67,Atalanta,1896,Marco Silvestri,43970,74,Empoli,1631,False,21,38,21,5,assisted,strong-foot
+256,26,Empoli,Atalanta,0.50898987054825,0,75,-5,Thomas Campaniello,1825909,F,53,Empoli,1631,Marco Carnesecchi,865646,83,Atalanta,1896,True,11,37,11,15,assisted,strong-foot
+256,26,Empoli,Atalanta,0.034268893301487,0,87,-5,Viktor Kovalenko,287659,M,69,Empoli,1631,Marco Carnesecchi,865646,83,Atalanta,1896,True,14,26,19,45,assisted,weak-foot
+257,26,Hellas Verona,Fiorentina,0.041493203490973,0,1,0,Nicolò Zaniolo,864898,F,74,Fiorentina,1771,Lorenzo Montipò,253391,76,Hellas Verona,1606,False,24,48,25,18,regular,strong-foot
+257,26,Hellas Verona,Fiorentina,0.20591755211353,0,4,0,Moise Kean,835601,F,78,Fiorentina,1771,Lorenzo Montipò,253391,76,Hellas Verona,1606,False,8,43,8,20,assisted,head
+257,26,Hellas Verona,Fiorentina,0.33706542849541,0,20,0,Nicolò Zaniolo,864898,F,74,Fiorentina,1771,Lorenzo Montipò,253391,76,Hellas Verona,1606,False,9,38,9,12,assisted,head
+257,26,Hellas Verona,Fiorentina,0.012615282088518,0,22,0,Amin Sarr,1022204,F,69,Hellas Verona,1606,David De Gea,69378,85,Fiorentina,1771,True,32,50,33,17,assisted,strong-foot
+257,26,Hellas Verona,Fiorentina,0.014818311668932,0,39,0,Pietro Comuzzo,1210848,D,27,Fiorentina,1771,Lorenzo Montipò,253391,76,Hellas Verona,1606,False,29,44,29,7,set-piece,strong-foot
+257,26,Hellas Verona,Fiorentina,0.1102451980114,0,39,0,Danilo Cataldi,317301,M,71,Fiorentina,1771,Lorenzo Montipò,253391,76,Hellas Verona,1606,False,23,34,23,14,free-kick,strong-foot
+257,26,Hellas Verona,Fiorentina,0.10031292587519,0,41,0,Moise Kean,835601,F,78,Fiorentina,1771,Lorenzo Montipò,253391,76,Hellas Verona,1606,False,13,43,13,12,assisted,strong-foot
+257,26,Hellas Verona,Fiorentina,0.50132483243942,0,43,0,Michael Folorunsho,869795,M,76,Fiorentina,1771,Lorenzo Montipò,253391,76,Hellas Verona,1606,False,9,37,9,18,assisted,strong-foot
+257,26,Hellas Verona,Fiorentina,0.026676464825869,0,48,0,Cheikh Niasse,972523,M,43,Hellas Verona,1606,David De Gea,69378,85,Fiorentina,1771,True,16,38,16,7,regular,head
+257,26,Hellas Verona,Fiorentina,0.02866679802537,0,56,0,Dailon Rocha Livramento,1155358,F,71,Hellas Verona,1606,David De Gea,69378,85,Fiorentina,1771,True,4,25,15,75,assisted,weak-foot
+257,26,Hellas Verona,Fiorentina,0.055839717388153,0,60,0,Rolando Mandragora,548178,M,71,Fiorentina,1771,Lorenzo Montipò,253391,76,Hellas Verona,1606,False,25,56,29,32,free-kick,strong-foot
+257,26,Hellas Verona,Fiorentina,0.3437562584877,0,64,0,Amin Sarr,1022204,F,69,Hellas Verona,1606,David De Gea,69378,85,Fiorentina,1771,True,10,36,10,21,assisted,weak-foot
+257,26,Hellas Verona,Fiorentina,0.055944845080376,0,69,0,Paweł Dawidowicz,288321,D,47,Hellas Verona,1606,David De Gea,69378,85,Fiorentina,1771,True,10,43,10,16,corner,head
+257,26,Hellas Verona,Fiorentina,0.66167277097702,1,90,0,Antoine Bernede,837080,M,60,Hellas Verona,1606,David De Gea,69378,85,Fiorentina,1771,True,10,38,10,11,regular,weak-foot
+257,26,Hellas Verona,Fiorentina,0.03181828930974,0,90,1,Daniel Oyegoke,998830,D,35,Hellas Verona,1606,David De Gea,69378,85,Fiorentina,1771,True,24,49,25,20,set-piece,strong-foot
+258,26,Roma,Monza,0.042468216270208,0,3,0,Eldor Shomurodov,792283,F,70,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,21,40,21,0,assisted,strong-foot
+258,26,Roma,Monza,0.30379855632782,0,5,0,Niccolò Pisilli,1175821,M,65,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,9,38,9,12,assisted,strong-foot
+258,26,Roma,Monza,0.031026223674417,0,7,0,Eldor Shomurodov,792283,F,70,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,12,25,19,51,assisted,weak-foot
+258,26,Roma,Monza,0.033834978938103,1,10,0,Alexis Saelemaekers,901891,M,66,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,21,54,25,33,assisted,weak-foot
+258,26,Roma,Monza,0.06700948625803,0,14,1,Tommaso Baldanzi,1012172,M,71,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,18,30,20,29,assisted,strong-foot
+258,26,Roma,Monza,0.044573690742254,0,14,1,Evan Ndicka,848287,D,51,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,11,40,11,0,corner,head
+258,26,Roma,Monza,0.013985210098326,0,14,1,Angeliño,848355,D,69,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,32,50,33,17,corner,strong-foot
+258,26,Roma,Monza,0.016542987897992,0,15,1,Matías Soulé,1082406,F,69,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,30,19,36,34,assisted,weak-foot
+258,26,Roma,Monza,0.029324408620596,0,18,1,Matías Soulé,1082406,F,69,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,4,56,16,75,assisted,strong-foot
+258,26,Roma,Monza,0.013256898149848,0,25,1,Alexis Saelemaekers,901891,M,66,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,33,30,34,16,assisted,strong-foot
+258,26,Roma,Monza,0.021820861846209,0,27,1,Bryan Cristante,186855,M,73,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,28,52,30,23,assisted,strong-foot
+258,26,Roma,Monza,0.022728903219104,0,31,1,Bryan Cristante,186855,M,73,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,15,36,15,14,set-piece,head
+258,26,Roma,Monza,0.35311710834503,1,32,1,Eldor Shomurodov,792283,F,70,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,6,39,6,9,assisted,head
+258,26,Roma,Monza,0.018038919195533,0,35,2,Eldor Shomurodov,792283,F,70,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,27,22,32,33,assisted,strong-foot
+258,26,Roma,Monza,0.1077968403697,0,42,-2,Silvère Ganvoula,787448,F,69,Monza,1601,Mile Svilar,793986,78,Roma,1775,False,13,49,15,34,assisted,weak-foot
+258,26,Roma,Monza,0.041530340909958,0,45,-2,Dany Mota,838907,F,74,Monza,1601,Mile Svilar,793986,78,Roma,1775,False,28,30,29,19,fast-break,strong-foot
+258,26,Roma,Monza,0.02142490260303,0,47,2,Niccolò Pisilli,1175821,M,65,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,29,46,29,11,assisted,strong-foot
+258,26,Roma,Monza,0.07344538718462,0,60,2,Tommaso Baldanzi,1012172,M,71,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,9,51,14,50,assisted,weak-foot
+258,26,Roma,Monza,0.026852566748857,0,60,2,Bryan Cristante,186855,M,73,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,25,52,27,25,regular,strong-foot
+258,26,Roma,Monza,0.080355480313301,0,62,2,Eldor Shomurodov,792283,F,70,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,13,52,17,42,assisted,strong-foot
+258,26,Roma,Monza,0.083039775490761,0,65,-2,Kevin Zeroli,1397348,M,57,Monza,1601,Mile Svilar,793986,78,Roma,1775,False,15,28,19,38,assisted,weak-foot
+258,26,Roma,Monza,0.018657702952623,0,69,2,Paulo Dybala,256219,F,85,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,33,42,33,3,assisted,strong-foot
+258,26,Roma,Monza,0.03822685033083,1,73,2,Angeliño,848355,D,69,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,15,24,21,46,assisted,strong-foot
+258,26,Roma,Monza,0.032830413430929,0,75,-3,Andrea Carboni,970978,D,36,Monza,1601,Mile Svilar,793986,78,Roma,1775,False,11,44,11,19,corner,head
+258,26,Roma,Monza,0.078335762023926,0,79,3,Mats Hummels,16632,D,58,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,10,35,11,26,set-piece,head
+258,26,Roma,Monza,0.035348515957594,0,80,3,Niccolò Pisilli,1175821,M,65,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,26,43,26,6,regular,strong-foot
+258,26,Roma,Monza,0.087284035980701,1,88,3,Bryan Cristante,186855,M,73,Roma,1775,Stefano Turati,893752,74,Monza,1601,True,9,34,10,33,corner,head
+258,26,Roma,Monza,0.03994994238019,0,90,-4,Tomás Palacios,1173598,D,36,Monza,1601,Mile Svilar,793986,78,Roma,1775,False,18,66,31,55,free-kick,strong-foot
+259,9,Bologna,Milan,0.10554920136929,0,1,0,Santiago Giménez,892141,F,79,Milan,1810,Łukasz Skorupski,44906,79,Bologna,1783,False,24,44,24,9,fast-break,strong-foot
+259,9,Bologna,Milan,0.027417140081525,0,16,0,Yunus Musah,983815,M,68,Milan,1810,Łukasz Skorupski,44906,79,Bologna,1783,False,3,54,14,77,assisted,strong-foot
+259,9,Bologna,Milan,0.28935965895653,0,25,0,Dan Ndoye,944327,M,66,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,15,50,18,33,fast-break,strong-foot
+259,9,Bologna,Milan,0.015967413783073,0,33,0,Benjamín Domínguez,1162611,M,64,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,26,28,28,24,assisted,strong-foot
+259,9,Bologna,Milan,0.27617970108986,0,38,0,Benjamín Domínguez,1162611,M,64,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,3,31,9,71,assisted,strong-foot
+259,9,Bologna,Milan,0.01881393417716,0,38,0,Remo Freuler,115516,M,71,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,31,37,31,5,regular,weak-foot
+259,9,Bologna,Milan,0.31416535377502,1,43,0,Rafael Leão,851284,M,78,Milan,1810,Łukasz Skorupski,44906,79,Bologna,1783,False,11,35,12,24,assisted,weak-foot
+259,9,Bologna,Milan,0.061723042279482,0,48,-1,Lorenzo De Silvestri,14718,D,66,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,11,41,11,5,set-piece,head
+259,9,Bologna,Milan,0.62471896409988,1,48,-1,Santiago Castro,1116577,F,75,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,5,41,5,11,set-piece,strong-foot
+259,9,Bologna,Milan,0.025312317535281,0,59,0,Dan Ndoye,944327,M,66,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,18,57,24,43,assisted,strong-foot
+259,9,Bologna,Milan,0.034474961459637,0,62,0,Theo Hernández,788027,D,75,Milan,1810,Łukasz Skorupski,44906,79,Bologna,1783,False,14,22,22,52,assisted,strong-foot
+259,9,Bologna,Milan,0.16494284570217,0,64,0,Yunus Musah,983815,M,68,Milan,1810,Łukasz Skorupski,44906,79,Bologna,1783,False,9,46,10,33,fast-break,weak-foot
+259,9,Bologna,Milan,0.013757703825831,0,67,0,Juan Miranda,855829,D,60,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,34,26,36,22,assisted,strong-foot
+259,9,Bologna,Milan,0.016145758330822,0,67,0,Santiago Castro,1116577,F,75,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,39,27,41,18,assisted,strong-foot
+259,9,Bologna,Milan,0.018667336553335,0,69,0,Malick Thiaw,1014286,D,47,Milan,1810,Łukasz Skorupski,44906,79,Bologna,1783,False,13,43,13,12,corner,head
+259,9,Bologna,Milan,0.020150519907475,0,74,0,Tijjani Reijnders,893549,M,74,Milan,1810,Łukasz Skorupski,44906,79,Bologna,1783,False,13,22,22,54,assisted,strong-foot
+259,9,Bologna,Milan,0.095452018082142,0,78,0,Luka Jović,319129,F,77,Milan,1810,Łukasz Skorupski,44906,79,Bologna,1783,False,10,39,10,5,assisted,head
+259,9,Bologna,Milan,0.040294818580151,0,81,0,Nicolò Casale,862697,D,52,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,5,48,9,57,corner,head
+259,9,Bologna,Milan,0.054531086236238,0,81,0,Nicolò Cambiaghi,971005,F,71,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,13,36,13,17,corner,strong-foot
+259,9,Bologna,Milan,0.58770877122879,1,82,0,Dan Ndoye,944327,M,66,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,4,39,4,14,throw-in-set-piece,strong-foot
+259,9,Bologna,Milan,0.010642755776644,0,90,1,Jens Odgaard,826064,M,74,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,27,23,31,32,assisted,strong-foot
+259,9,Bologna,Milan,0.041868004947901,0,90,1,Thijs Dallinga,905381,F,75,Bologna,1783,Mike Maignan,191210,87,Milan,1810,True,13,55,19,49,fast-break,strong-foot
+260,27,Fiorentina,Lecce,0.076175950467587,1,9,0,Robin Gosens,377118,D,73,Fiorentina,1771,Wladimiro Falcone,256667,80,Lecce,1608,True,7,31,11,52,assisted,head
+260,27,Fiorentina,Lecce,0.03048306517303,0,18,-1,Nikola Krstović,839156,F,73,Lecce,1608,David De Gea,69378,85,Fiorentina,1771,False,9,22,20,63,assisted,weak-foot
+260,27,Fiorentina,Lecce,0.017966082319617,0,44,-1,Lassana Coulibaly,804621,M,57,Lecce,1608,David De Gea,69378,85,Fiorentina,1771,False,23,51,25,25,assisted,strong-foot
+260,27,Fiorentina,Lecce,0.27367278933525,0,44,-1,Jesper Karlsson,834597,F,74,Lecce,1608,David De Gea,69378,85,Fiorentina,1771,False,4,48,8,63,regular,strong-foot
+260,27,Fiorentina,Lecce,0.074314452707767,0,46,1,Lucas Beltrán,962029,M,75,Fiorentina,1771,Wladimiro Falcone,256667,80,Lecce,1608,True,10,40,10,0,assisted,head
+260,27,Fiorentina,Lecce,0.015514707192779,0,48,-1,Jesper Karlsson,834597,F,74,Lecce,1608,David De Gea,69378,85,Fiorentina,1771,False,27,21,33,35,assisted,strong-foot
+260,27,Fiorentina,Lecce,0.086540877819061,0,49,-1,Gaby Jean,1392819,D,33,Lecce,1608,David De Gea,69378,85,Fiorentina,1771,False,13,36,13,17,corner,strong-foot
+260,27,Fiorentina,Lecce,0.022355625405908,0,65,1,Rolando Mandragora,548178,M,71,Fiorentina,1771,Wladimiro Falcone,256667,80,Lecce,1608,True,13,47,14,28,assisted,head
+260,27,Fiorentina,Lecce,0.026333207264543,0,68,-1,Nikola Krstović,839156,F,73,Lecce,1608,David De Gea,69378,85,Fiorentina,1771,False,14,45,14,19,assisted,head
+260,27,Fiorentina,Lecce,0.016977064311504,0,72,1,Robin Gosens,377118,D,73,Fiorentina,1771,Wladimiro Falcone,256667,80,Lecce,1608,True,13,31,15,34,corner,head
+260,27,Fiorentina,Lecce,0.041200295090675,0,73,1,Nicolò Zaniolo,864898,F,74,Fiorentina,1771,Wladimiro Falcone,256667,80,Lecce,1608,True,22,46,22,15,set-piece,weak-foot
+260,27,Fiorentina,Lecce,0.7884,0,73,1,Lucas Beltrán,962029,M,75,Fiorentina,1771,Wladimiro Falcone,256667,80,Lecce,1608,True,13,40,13,0,penalty,strong-foot
+260,27,Fiorentina,Lecce,0.048506282269955,0,75,1,Dodô,822518,D,57,Fiorentina,1771,Wladimiro Falcone,256667,80,Lecce,1608,True,15,50,18,33,assisted,strong-foot
+260,27,Fiorentina,Lecce,0.014988114126027,0,84,1,Nicolò Fagioli,901850,M,63,Fiorentina,1771,Wladimiro Falcone,256667,80,Lecce,1608,True,27,19,34,37,assisted,strong-foot
+260,27,Fiorentina,Lecce,0.08561772108078,0,86,1,Lucas Beltrán,962029,M,75,Fiorentina,1771,Wladimiro Falcone,256667,80,Lecce,1608,True,18,44,18,12,set-piece,strong-foot
+260,27,Fiorentina,Lecce,0.42218816280365,0,86,-1,Danilo Veiga,1002045,D,57,Lecce,1608,David De Gea,69378,85,Fiorentina,1771,False,12,46,13,26,fast-break,weak-foot
+260,27,Fiorentina,Lecce,0.0084199532866478,0,90,-1,Balthazar Pierret,1014651,M,50,Lecce,1608,David De Gea,69378,85,Fiorentina,1771,False,33,40,33,0,regular,weak-foot
+260,27,Fiorentina,Lecce,0.52527272701263,0,90,1,Albert Guðmundsson,804909,F,79,Fiorentina,1771,Wladimiro Falcone,256667,80,Lecce,1608,True,17,39,17,3,assisted,strong-foot
+261,27,Atalanta,Venezia,0.070602372288704,0,20,0,Ademola Lookman,824200,F,82,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,11,30,14,42,assisted,strong-foot
+261,27,Atalanta,Venezia,0.22984340786934,0,22,0,Mateo Retegui,914501,F,79,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,3,44,5,53,assisted,head
+261,27,Atalanta,Venezia,0.01400332339108,0,25,0,Davide Zappacosta,132318,M,67,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,27,29,29,22,set-piece,strong-foot
+261,27,Atalanta,Venezia,0.047181915491819,0,25,0,Alessio Zerbin,869888,M,67,Venezia,1550,Marco Carnesecchi,865646,83,Atalanta,1850,False,17,52,20,35,fast-break,strong-foot
+261,27,Atalanta,Venezia,0.086023792624474,0,27,0,Charles De Ketelaere,960441,F,76,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,15,43,15,11,assisted,strong-foot
+261,27,Atalanta,Venezia,0.35052248835564,0,27,0,Mateo Retegui,914501,F,79,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,9,38,9,12,assisted,head
+261,27,Atalanta,Venezia,0.015688126906753,0,37,0,Ademola Lookman,824200,F,82,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,10,20,22,63,assisted,weak-foot
+261,27,Atalanta,Venezia,0.057666942477226,0,38,0,Alessio Zerbin,869888,M,67,Venezia,1550,Marco Carnesecchi,865646,83,Atalanta,1850,False,15,55,21,45,fast-break,strong-foot
+261,27,Atalanta,Venezia,0.19549340009689,0,40,0,Davide Zappacosta,132318,M,67,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,4,28,12,71,regular,strong-foot
+261,27,Atalanta,Venezia,0.026756631210446,0,41,0,Juan Cuadrado,47743,M,72,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,2,55,15,82,assisted,strong-foot
+261,27,Atalanta,Venezia,0.40477129817009,0,45,0,Alessio Zerbin,869888,M,67,Venezia,1550,Marco Carnesecchi,865646,83,Atalanta,1850,False,13,39,13,4,regular,strong-foot
+261,27,Atalanta,Venezia,0.047416049987078,0,47,0,Ademola Lookman,824200,F,82,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,18,27,22,35,assisted,strong-foot
+261,27,Atalanta,Venezia,0.093853555619717,0,50,0,Mateo Retegui,914501,F,79,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,9,45,10,29,assisted,strong-foot
+261,27,Atalanta,Venezia,0.28273057937622,0,51,0,Charles De Ketelaere,960441,F,76,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,13,33,14,28,fast-break,strong-foot
+261,27,Atalanta,Venezia,0.014076062478125,0,52,0,Mirko Marić,190933,F,69,Venezia,1550,Marco Carnesecchi,865646,83,Atalanta,1850,False,15,44,15,14,set-piece,head
+261,27,Atalanta,Venezia,0.043988931924105,0,53,0,Mirko Marić,190933,F,69,Venezia,1550,Marco Carnesecchi,865646,83,Atalanta,1850,False,23,40,23,0,set-piece,strong-foot
+261,27,Atalanta,Venezia,0.033334050327539,0,62,0,Ademola Lookman,824200,F,82,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,15,28,19,38,regular,strong-foot
+261,27,Atalanta,Venezia,0.21962404251099,0,64,0,John Yeboah,879802,F,60,Venezia,1550,Marco Carnesecchi,865646,83,Atalanta,1850,False,3,44,5,53,regular,weak-foot
+261,27,Atalanta,Venezia,0.047135520726442,0,72,0,Daniel Maldini,970928,F,70,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,16,54,21,41,regular,weak-foot
+261,27,Atalanta,Venezia,0.044556807726622,0,72,0,Davide Zappacosta,132318,M,67,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,24,30,26,22,assisted,strong-foot
+261,27,Atalanta,Venezia,0.037508130073547,0,77,0,Mario Pašalić,190437,M,77,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,8,48,11,45,assisted,head
+261,27,Atalanta,Venezia,0.063542641699314,0,83,0,Sead Kolašinac,142148,D,61,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,7,45,8,35,corner,head
+261,27,Atalanta,Venezia,0.25194007158279,0,83,0,Ademola Lookman,824200,F,82,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,1,34,6,80,corner,strong-foot
+261,27,Atalanta,Venezia,0.047678235918283,0,89,0,Mario Pašalić,190437,M,77,Atalanta,1850,Ionuț Radu,815202,71,Venezia,1550,True,17,42,17,6,regular,weak-foot
+261,27,Atalanta,Venezia,0.014516459777951,0,90,0,Cheick Oumar Conde,1019971,M,66,Venezia,1550,Marco Carnesecchi,865646,83,Atalanta,1850,False,31,51,32,19,assisted,strong-foot
+261,27,Atalanta,Venezia,0.016079094260931,0,90,0,Alfred Duncan,232224,M,63,Venezia,1550,Marco Carnesecchi,865646,83,Atalanta,1850,False,35,27,37,20,assisted,strong-foot
+262,27,Napoli,Inter,0.018153965473175,0,20,0,Hakan Çalhanoğlu,135700,M,80,Inter,1945,Alex Meret,592794,82,Napoli,1831,False,27,41,27,2,assisted,strong-foot
+262,27,Napoli,Inter,0.068536214530468,1,22,0,Federico Dimarco,284361,M,78,Inter,1945,Alex Meret,592794,82,Napoli,1831,False,30,39,30,1,free-kick,strong-foot
+262,27,Napoli,Inter,0.014370579272509,0,28,1,Hakan Çalhanoğlu,135700,M,80,Inter,1945,Alex Meret,592794,82,Napoli,1831,False,33,37,33,5,regular,strong-foot
+262,27,Napoli,Inter,0.071230702102184,0,32,-1,Giacomo Raspadori,865651,F,76,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,12,38,12,9,assisted,weak-foot
+262,27,Napoli,Inter,0.03656755015254,0,32,-1,Leonardo Spinazzola,148899,D,64,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,25,30,26,21,assisted,strong-foot
+262,27,Napoli,Inter,0.086552865803242,0,34,-1,Romelu Lukaku,78893,F,80,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,13,27,18,45,assisted,strong-foot
+262,27,Napoli,Inter,0.062159951776266,0,36,-1,Giacomo Raspadori,865651,F,76,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,10,54,17,54,assisted,weak-foot
+262,27,Napoli,Inter,0.066051572561264,0,38,-1,Giacomo Raspadori,865651,F,76,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,18,40,18,0,regular,weak-foot
+262,27,Napoli,Inter,0.041447039693594,0,38,-1,Scott McTominay,879346,M,78,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,21,39,21,2,regular,weak-foot
+262,27,Napoli,Inter,0.035752359777689,0,39,1,Marcus Thuram,791702,F,81,Inter,1945,Alex Meret,592794,82,Napoli,1831,False,14,45,14,19,fast-break,head
+262,27,Napoli,Inter,0.11644020676613,0,41,1,Federico Dimarco,284361,M,78,Inter,1945,Alex Meret,592794,82,Napoli,1831,False,11,37,11,15,throw-in-set-piece,weak-foot
+262,27,Napoli,Inter,0.17816865444183,0,45,-1,Romelu Lukaku,78893,F,80,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,8,38,8,14,assisted,strong-foot
+262,27,Napoli,Inter,0.058081775903702,0,45,1,Federico Dimarco,284361,M,78,Inter,1945,Alex Meret,592794,82,Napoli,1831,False,14,26,19,45,assisted,strong-foot
+262,27,Napoli,Inter,0.013479665853083,0,46,-1,Billy Gilmour,907668,M,57,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,34,39,34,1,regular,strong-foot
+262,27,Napoli,Inter,0.045979131013155,0,47,-1,Billy Gilmour,907668,M,57,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,21,39,21,2,regular,strong-foot
+262,27,Napoli,Inter,0.087944477796555,0,54,-1,Giacomo Raspadori,865651,F,76,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,7,53,14,61,assisted,weak-foot
+262,27,Napoli,Inter,0.067723624408245,0,57,-1,Stanislav Lobotka,150383,M,66,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,19,33,20,20,assisted,weak-foot
+262,27,Napoli,Inter,0.020001137629151,0,65,-1,Billy Gilmour,907668,M,57,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,27,36,27,8,corner,weak-foot
+262,27,Napoli,Inter,0.055029708892107,0,65,-1,Scott McTominay,879346,M,78,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,18,29,21,31,corner,strong-foot
+262,27,Napoli,Inter,0.032366238534451,0,66,-1,Matteo Politano,235672,F,77,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,11,54,17,51,assisted,weak-foot
+262,27,Napoli,Inter,0.0146803855896,0,75,-1,Leonardo Spinazzola,148899,D,64,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,30,40,30,0,corner,strong-foot
+262,27,Napoli,Inter,0.15333019196987,0,87,-1,Philip Billing,548660,M,76,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,9,39,9,6,assisted,strong-foot
+262,27,Napoli,Inter,0.6841789484024,1,87,-1,Philip Billing,548660,M,76,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,8,42,8,14,regular,weak-foot
+262,27,Napoli,Inter,0.11776703596115,0,90,0,Scott McTominay,879346,M,78,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,16,40,16,0,regular,strong-foot
+262,27,Napoli,Inter,0.084771990776062,0,90,0,Cyril Ngonge,877037,F,71,Napoli,1831,Josep Martínez,845291,75,Inter,1945,True,11,52,16,47,regular,strong-foot
+263,27,Udinese,Parma,0.019145883619785,0,7,0,Dennis Man,812145,M,73,Parma,1563,Daniele Padelli,2899,67,Udinese,1671,False,29,35,29,9,assisted,strong-foot
+263,27,Udinese,Parma,0.20849654078484,0,8,0,Arthur Atta,1444690,M,53,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,10,44,10,21,assisted,strong-foot
+263,27,Udinese,Parma,0.046009156852961,0,11,0,Florian Thauvin,148824,F,76,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,23,62,31,43,free-kick,strong-foot
+263,27,Udinese,Parma,0.011093493551016,0,12,0,Sandi Lovrić,575852,M,63,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,25,54,28,29,throw-in-set-piece,strong-foot
+263,27,Udinese,Parma,0.028359679505229,0,14,0,Sandi Lovrić,575852,M,63,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,26,29,28,22,assisted,strong-foot
+263,27,Udinese,Parma,0.064738199114799,0,24,0,Arthur Atta,1444690,M,53,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,11,26,17,51,assisted,strong-foot
+263,27,Udinese,Parma,0.19219881296158,0,30,0,Oumar Solet,892979,D,41,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,9,34,10,33,set-piece,head
+263,27,Udinese,Parma,0.02421897649765,0,33,0,Jürgen Ekkelenkamp,904887,M,68,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,19,19,28,47,assisted,strong-foot
+263,27,Udinese,Parma,0.079918473958969,0,35,0,Florian Thauvin,148824,F,76,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,22,38,22,5,assisted,strong-foot
+263,27,Udinese,Parma,0.7884,1,38,0,Florian Thauvin,148824,F,76,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,13,40,13,0,penalty,strong-foot
+263,27,Udinese,Parma,0.025506550446153,0,42,1,Florian Thauvin,148824,F,76,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,28,53,30,24,corner,strong-foot
+263,27,Udinese,Parma,0.021735515445471,0,45,-1,Lautaro Valenti,958517,D,51,Parma,1563,Daniele Padelli,2899,67,Udinese,1671,False,11,48,13,36,set-piece,head
+263,27,Udinese,Parma,0.38848865032196,0,47,-1,Dennis Man,812145,M,73,Parma,1563,Daniele Padelli,2899,67,Udinese,1671,False,13,29,17,40,assisted,strong-foot
+263,27,Udinese,Parma,0.023923957720399,0,47,-1,Emanuele Valeri,891346,D,69,Parma,1563,Daniele Padelli,2899,67,Udinese,1671,False,21,43,21,8,corner,weak-foot
+263,27,Udinese,Parma,0.045655962079763,0,50,1,Lorenzo Lucca,962364,F,75,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,9,48,12,41,corner,strong-foot
+263,27,Udinese,Parma,0.031750999391079,0,55,1,Kingsley Ehizibue,609206,M,55,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,18,51,21,31,corner,strong-foot
+263,27,Udinese,Parma,0.091036006808281,0,55,1,Florian Thauvin,148824,F,76,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,13,37,13,12,assisted,strong-foot
+263,27,Udinese,Parma,0.042149193584919,0,57,1,Arthur Atta,1444690,M,53,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,25,41,25,2,assisted,weak-foot
+263,27,Udinese,Parma,0.027268461883068,0,60,1,Florian Thauvin,148824,F,76,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,28,34,28,12,assisted,strong-foot
+263,27,Udinese,Parma,0.096655525267124,0,65,1,Oumar Solet,892979,D,41,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,5,46,7,50,corner,head
+263,27,Udinese,Parma,0.019601499661803,0,67,1,Kingsley Ehizibue,609206,M,55,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,26,56,30,31,assisted,weak-foot
+263,27,Udinese,Parma,0.062156513333321,0,68,-1,Ange-Yoan Bonny,1086223,F,73,Parma,1563,Daniele Padelli,2899,67,Udinese,1671,False,10,33,12,34,assisted,strong-foot
+263,27,Udinese,Parma,0.076121866703033,0,70,1,Lorenzo Lucca,962364,F,75,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,11,47,13,32,assisted,strong-foot
+263,27,Udinese,Parma,0.40486592054367,0,70,1,Florian Thauvin,148824,F,76,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,10,36,10,21,regular,strong-foot
+263,27,Udinese,Parma,0.062648370862007,0,77,1,Lorenzo Lucca,962364,F,75,Udinese,1671,Zion Suzuki,905351,72,Parma,1563,True,16,25,21,43,assisted,strong-foot
+263,27,Udinese,Parma,0.23289681971073,0,82,-1,Pontus Almqvist,856065,F,66,Parma,1563,Daniele Padelli,2899,67,Udinese,1671,False,13,26,19,47,assisted,strong-foot
+263,27,Udinese,Parma,0.050264179706573,0,86,-1,Mateo Pellegrino,1099296,F,65,Parma,1563,Daniele Padelli,2899,67,Udinese,1671,False,20,43,20,8,assisted,strong-foot
+263,27,Udinese,Parma,0.043280009180307,0,87,-1,Mateo Pellegrino,1099296,F,65,Parma,1563,Daniele Padelli,2899,67,Udinese,1671,False,11,37,11,15,corner,head
+263,27,Udinese,Parma,0.016969887539744,0,89,-1,Emanuele Valeri,891346,D,69,Parma,1563,Daniele Padelli,2899,67,Udinese,1671,False,26,26,29,28,regular,strong-foot
+264,27,Bologna,Cagliari,0.019145883619785,0,3,0,Davide Calabria,318607,D,57,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,30,44,30,7,throw-in-set-piece,weak-foot
+264,27,Bologna,Cagliari,0.071748286485672,0,16,0,Martin Erlić,789234,D,35,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,10,44,10,21,set-piece,head
+264,27,Bologna,Cagliari,0.51893216371536,1,22,0,Roberto Piccoli,958982,F,71,Cagliari,1604,Łukasz Skorupski,44906,79,Bologna,1765,False,5,36,6,38,fast-break,head
+264,27,Bologna,Cagliari,0.019715147092938,0,25,-1,Riccardo Orsolini,793645,M,80,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,26,57,31,33,assisted,strong-foot
+264,27,Bologna,Cagliari,0.027231112122536,0,31,-1,Benjamín Domínguez,1162611,M,64,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,12,25,19,51,assisted,strong-foot
+264,27,Bologna,Cagliari,0.022207563742995,0,40,-1,Martin Erlić,789234,D,35,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,12,43,12,14,corner,head
+264,27,Bologna,Cagliari,0.025328008458018,0,40,-1,Tommaso Pobega,928796,M,75,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,13,44,13,17,corner,head
+264,27,Bologna,Cagliari,0.056471791118383,0,43,-1,Riccardo Orsolini,793645,M,80,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,14,45,14,19,throw-in-set-piece,strong-foot
+264,27,Bologna,Cagliari,0.044519260525703,0,43,-1,Riccardo Orsolini,793645,M,80,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,12,52,16,45,throw-in-set-piece,weak-foot
+264,27,Bologna,Cagliari,0.1588528752327,0,43,-1,Santiago Castro,1116577,F,75,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,12,47,13,30,assisted,strong-foot
+264,27,Bologna,Cagliari,0.7884,1,48,-1,Riccardo Orsolini,793645,M,80,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,13,40,13,0,penalty,strong-foot
+264,27,Bologna,Cagliari,0.036527045071125,0,51,0,Remo Freuler,115516,M,71,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,23,40,23,0,regular,strong-foot
+264,27,Bologna,Cagliari,0.030411878600717,0,54,0,Santiago Castro,1116577,F,75,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,12,57,20,54,assisted,strong-foot
+264,27,Bologna,Cagliari,0.76806056499481,1,56,0,Riccardo Orsolini,793645,M,80,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,2,43,3,56,assisted,weak-foot
+264,27,Bologna,Cagliari,0.022026773542166,0,64,1,Jens Odgaard,826064,M,74,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,31,46,31,10,assisted,strong-foot
+264,27,Bologna,Cagliari,0.062174748629332,0,75,1,Nicolò Cambiaghi,971005,F,71,Bologna,1765,Elia Caprile,947954,74,Cagliari,1604,True,13,26,19,47,fast-break,weak-foot
+264,27,Bologna,Cagliari,0.029932225123048,0,90,-1,Nicolas Viola,21608,M,71,Cagliari,1604,Łukasz Skorupski,44906,79,Bologna,1765,False,22,39,22,2,assisted,strong-foot
+265,27,Genoa,Empoli,0.015584954991937,0,3,0,Junior Messias,888219,M,72,Genoa,1665,Marco Silvestri,43970,74,Empoli,1592,True,32,43,32,5,assisted,strong-foot
+265,27,Genoa,Empoli,0.036609597504139,0,14,0,Sebastiano Esposito,965008,F,73,Empoli,1592,Nicola Leali,98059,71,Genoa,1665,False,15,57,22,48,corner,strong-foot
+265,27,Genoa,Empoli,0.43989816308022,0,15,0,Emmanuel Gyasi,541578,M,62,Empoli,1592,Nicola Leali,98059,71,Genoa,1665,False,5,42,5,21,assisted,strong-foot
+265,27,Genoa,Empoli,0.068989336490631,0,19,0,Johan Vásquez,889785,D,32,Genoa,1665,Marco Silvestri,43970,74,Empoli,1592,True,10,37,10,16,corner,head
+265,27,Genoa,Empoli,0.057971641421318,1,36,0,Alberto Grassi,186845,M,61,Empoli,1592,Nicola Leali,98059,71,Genoa,1665,False,13,50,16,37,corner,strong-foot
+265,27,Genoa,Empoli,0.033677093684673,0,50,1,Youssef Maleh,849274,M,64,Empoli,1592,Nicola Leali,98059,71,Genoa,1665,False,24,27,27,28,fast-break,strong-foot
+265,27,Genoa,Empoli,0.240921407938,0,60,1,Sebastiano Esposito,965008,F,73,Empoli,1592,Nicola Leali,98059,71,Genoa,1665,False,10,41,10,5,assisted,weak-foot
+265,27,Genoa,Empoli,0.031071031466126,0,62,1,Liam Henderson,287573,M,63,Empoli,1592,Nicola Leali,98059,71,Genoa,1665,False,28,32,29,15,regular,strong-foot
+265,27,Genoa,Empoli,0.066789112985134,0,71,1,Liberato Cacace,905264,D,58,Empoli,1592,Nicola Leali,98059,71,Genoa,1665,False,23,25,27,33,free-kick,strong-foot
+265,27,Genoa,Empoli,0.13426366448402,0,76,-1,Maxwel Cornet,280439,F,74,Genoa,1665,Marco Silvestri,43970,74,Empoli,1592,True,16,44,16,14,assisted,strong-foot
+265,27,Genoa,Empoli,0.07999362796545,1,81,-1,Johan Vásquez,889785,D,32,Genoa,1665,Marco Silvestri,43970,74,Empoli,1592,True,12,41,12,4,corner,weak-foot
+266,27,Milan,Lazio,0.40951851010323,0,3,0,Boulaye Dia,960080,F,80,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,12,28,16,45,assisted,weak-foot
+266,27,Milan,Lazio,0.14384311437607,0,4,0,Boulaye Dia,960080,F,80,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,9,38,9,12,corner,head
+266,27,Milan,Lazio,0.067776069045067,0,7,0,Gustav Isaksen,976381,F,71,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,17,43,17,10,corner,weak-foot
+266,27,Milan,Lazio,0.020515840500593,0,12,0,Gustav Isaksen,976381,F,71,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,33,44,33,6,assisted,strong-foot
+266,27,Milan,Lazio,0.12261565774679,0,19,0,Tijjani Reijnders,893549,M,74,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,10,27,16,52,assisted,strong-foot
+266,27,Milan,Lazio,0.12988495826721,0,20,0,Álex Jiménez,1184308,D,51,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,14,48,16,29,assisted,weak-foot
+266,27,Milan,Lazio,0.023824879899621,0,22,0,Mattia Zaccagni,293581,M,77,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,9,32,12,41,assisted,other
+266,27,Milan,Lazio,0.038900073617697,0,23,0,Gustav Isaksen,976381,F,71,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,13,24,20,50,assisted,strong-foot
+266,27,Milan,Lazio,0.059019707143307,0,26,0,Loum Tchaouna,1004505,F,71,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,30,29,31,20,fast-break,weak-foot
+266,27,Milan,Lazio,0.62905138731003,1,28,0,Mattia Zaccagni,293581,M,77,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,4,32,8,63,regular,weak-foot
+266,27,Milan,Lazio,0.030881576240063,0,28,1,Adam Marušić,267619,D,66,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,12,55,19,51,assisted,strong-foot
+266,27,Milan,Lazio,0.11296584457159,0,40,-1,João Félix,851671,F,78,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,18,38,18,6,assisted,strong-foot
+266,27,Milan,Lazio,0.035755138844252,0,44,-1,Youssouf Fofana,945062,M,66,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,32,46,32,10,assisted,weak-foot
+266,27,Milan,Lazio,0.045352272689342,0,45,-1,Strahinja Pavlović,965893,D,42,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,9,46,10,33,corner,head
+266,27,Milan,Lazio,0.070535682141781,0,45,1,Mattia Zaccagni,293581,M,77,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,23,39,23,2,fast-break,strong-foot
+266,27,Milan,Lazio,0.037938877940178,0,45,-1,Strahinja Pavlović,965893,D,42,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,30,33,30,13,assisted,strong-foot
+266,27,Milan,Lazio,0.029520457610488,0,48,-1,Kyle Walker,44614,D,63,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,30,50,31,18,corner,strong-foot
+266,27,Milan,Lazio,0.21579851210117,0,50,1,Samuel Gigot,339231,D,36,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,17,42,17,6,fast-break,weak-foot
+266,27,Milan,Lazio,0.15874779224396,0,52,-1,João Félix,851671,F,78,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,16,42,16,7,assisted,strong-foot
+266,27,Milan,Lazio,0.061674121767282,0,54,1,Mattia Zaccagni,293581,M,77,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,17,24,23,43,assisted,strong-foot
+266,27,Milan,Lazio,0.35347166657448,0,55,-1,Christian Pulišić,817957,M,81,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,3,33,7,66,assisted,strong-foot
+266,27,Milan,Lazio,0.042719166725874,0,58,1,Gustav Isaksen,976381,F,71,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,11,32,13,36,corner,strong-foot
+266,27,Milan,Lazio,0.098016031086445,0,58,1,Mario Gila Fuentes,965828,D,53,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,15,43,15,11,corner,weak-foot
+266,27,Milan,Lazio,0.040751293301582,0,61,-1,Youssouf Fofana,945062,M,66,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,28,36,28,8,assisted,strong-foot
+266,27,Milan,Lazio,0.11628437787294,0,64,-1,Santiago Giménez,892141,F,79,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,10,35,11,26,assisted,head
+266,27,Milan,Lazio,0.016438990831375,0,66,-1,João Félix,851671,F,78,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,27,22,32,33,assisted,strong-foot
+266,27,Milan,Lazio,0.040986906737089,0,71,1,Nicolò Rovella,937324,M,62,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,24,24,28,33,set-piece,weak-foot
+266,27,Milan,Lazio,0.065758146345615,0,75,-1,Tijjani Reijnders,893549,M,74,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,11,29,15,45,assisted,strong-foot
+266,27,Milan,Lazio,0.083768457174301,0,81,1,Gustav Isaksen,976381,F,71,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,27,44,27,8,assisted,strong-foot
+266,27,Milan,Lazio,0.046559236943722,1,85,-1,Samuel Chukwueze,822470,F,73,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,10,46,11,30,assisted,head
+266,27,Milan,Lazio,0.081323340535164,0,86,0,Gustav Isaksen,976381,F,71,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,17,48,18,25,assisted,weak-foot
+266,27,Milan,Lazio,0.080661222338676,0,86,0,João Félix,851671,F,78,Milan,1770,Ivan Provedel,308182,83,Lazio,1792,True,15,37,15,11,assisted,strong-foot
+266,27,Milan,Lazio,0.028590140864253,0,90,0,Nuno Tavares,944973,D,66,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,3,25,15,78,assisted,strong-foot
+266,27,Milan,Lazio,0.088175266981125,0,90,0,Nuno Tavares,944973,D,66,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,27,46,27,12,free-kick,strong-foot
+266,27,Milan,Lazio,0.080224543809891,0,90,0,Pedro,35428,F,71,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,11,46,12,28,assisted,weak-foot
+266,27,Milan,Lazio,0.7884,1,90,0,Pedro,35428,F,71,Lazio,1792,Mike Maignan,191210,87,Milan,1770,False,13,40,13,0,penalty,weak-foot
+267,27,Monza,Torino,0.010770241729915,0,4,0,Che Adams,773409,F,76,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,34,38,34,3,assisted,strong-foot
+267,27,Monza,Torino,0.037407454103231,0,6,0,Cesare Casadei,1016788,M,69,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,18,55,23,39,regular,strong-foot
+267,27,Monza,Torino,0.017532540485263,0,12,0,Cesare Casadei,1016788,M,69,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,15,29,18,36,assisted,head
+267,27,Monza,Torino,0.051308754831553,0,18,0,Keita Baldé,317699,F,67,Monza,1567,Vanja Milinković-Savić,356160,78,Torino,1708,True,24,52,26,26,assisted,strong-foot
+267,27,Monza,Torino,0.057062741369009,0,26,0,Cesare Casadei,1016788,M,69,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,14,34,15,23,assisted,head
+267,27,Monza,Torino,0.13132177293301,0,27,0,Sebastian Walukiewicz,886243,D,37,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,15,41,15,3,assisted,strong-foot
+267,27,Monza,Torino,0.1101745441556,0,30,0,Valentino Lazaro,233826,M,66,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,11,38,11,10,assisted,weak-foot
+267,27,Monza,Torino,0.037839364260435,0,38,0,Georgios Kyriakopoulos,377302,M,58,Monza,1567,Vanja Milinković-Savić,356160,78,Torino,1708,True,21,24,26,37,assisted,strong-foot
+267,27,Monza,Torino,0.23285691440105,1,41,0,Eljif Elmas,838232,M,69,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,12,41,12,4,fast-break,strong-foot
+267,27,Monza,Torino,0.01674884185195,0,47,1,Sebastian Walukiewicz,886243,D,37,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,33,45,33,8,assisted,strong-foot
+267,27,Monza,Torino,0.020767986774445,0,50,1,Cesare Casadei,1016788,M,69,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,16,35,16,17,assisted,head
+267,27,Monza,Torino,0.10785963386297,0,50,1,Cesare Casadei,1016788,M,69,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,13,43,13,12,regular,strong-foot
+267,27,Monza,Torino,0.22699810564518,0,53,-1,Kevin Zeroli,1397348,M,57,Monza,1567,Vanja Milinković-Savić,356160,78,Torino,1708,True,7,39,7,8,assisted,strong-foot
+267,27,Monza,Torino,0.051897503435612,0,53,1,Che Adams,773409,F,76,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,15,54,20,43,fast-break,strong-foot
+267,27,Monza,Torino,0.15707315504551,0,53,-1,Silvère Ganvoula,787448,F,69,Monza,1567,Vanja Milinković-Savić,356160,78,Torino,1708,True,6,36,7,33,assisted,head
+267,27,Monza,Torino,0.11790327727795,0,56,-1,Keita Baldé,317699,F,67,Monza,1567,Vanja Milinković-Savić,356160,78,Torino,1708,True,13,46,14,24,assisted,weak-foot
+267,27,Monza,Torino,0.18438248336315,0,56,-1,Kevin Zeroli,1397348,M,57,Monza,1567,Vanja Milinković-Savić,356160,78,Torino,1708,True,12,45,13,22,regular,weak-foot
+267,27,Monza,Torino,0.12371906638145,1,66,1,Cesare Casadei,1016788,M,69,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,5,46,7,50,regular,strong-foot
+267,27,Monza,Torino,0.061462439596653,0,71,-2,Patrick Ciurria,346676,F,72,Monza,1567,Vanja Milinković-Savić,356160,78,Torino,1708,True,11,56,19,55,regular,weak-foot
+267,27,Monza,Torino,0.23956781625748,0,76,-2,Dany Mota,838907,F,74,Monza,1567,Vanja Milinković-Savić,356160,78,Torino,1708,True,5,35,7,45,corner,head
+267,27,Monza,Torino,0.030413903295994,0,84,-2,Kacper Urbański,1012383,M,62,Monza,1567,Vanja Milinković-Savić,356160,78,Torino,1708,True,28,47,28,14,assisted,strong-foot
+267,27,Monza,Torino,0.28074213862419,0,86,2,Antonio Sanabria,333261,F,74,Torino,1708,Stefano Turati,893752,74,Monza,1567,False,3,37,4,45,assisted,head
+268,27,Roma,Como,0.10840279608965,0,10,0,Marc-Oliver Kempf,226974,D,41,Como,1608,Mile Svilar,793986,78,Roma,1788,False,9,39,9,6,corner,head
+268,27,Roma,Como,0.06175497546792,0,19,0,Evan Ndicka,848287,D,51,Roma,1788,Jean Butez,599114,76,Como,1608,True,10,38,10,11,corner,head
+268,27,Roma,Como,0.026149097830057,0,22,0,Ivan Smolčić,974581,D,50,Como,1608,Mile Svilar,793986,78,Roma,1788,False,30,46,30,11,assisted,strong-foot
+268,27,Roma,Como,0.1238027960062,0,31,0,Paulo Dybala,256219,F,85,Roma,1788,Jean Butez,599114,76,Como,1608,True,10,48,12,38,assisted,weak-foot
+268,27,Roma,Como,0.074950434267521,0,40,0,Manu Koné,974087,M,72,Roma,1788,Jean Butez,599114,76,Como,1608,True,19,48,20,22,assisted,weak-foot
+268,27,Roma,Como,0.43990591168404,1,44,0,Lucas Da Cunha,911848,M,69,Como,1608,Mile Svilar,793986,78,Roma,1788,False,16,36,16,14,assisted,weak-foot
+268,27,Roma,Como,0.049261447042227,0,45,1,Assane Diao,1493689,F,69,Como,1608,Mile Svilar,793986,78,Roma,1788,False,18,33,19,21,assisted,strong-foot
+268,27,Roma,Como,0.064514353871346,0,57,-1,Manu Koné,974087,M,72,Roma,1788,Jean Butez,599114,76,Como,1608,True,17,49,19,27,assisted,strong-foot
+268,27,Roma,Como,0.011468109674752,0,57,-1,Leandro Paredes,255389,M,64,Roma,1788,Jean Butez,599114,76,Como,1608,True,34,45,34,8,assisted,strong-foot
+268,27,Roma,Como,0.076801493763924,0,58,1,Patrick Cutrone,795044,F,73,Como,1608,Mile Svilar,793986,78,Roma,1788,False,11,25,18,53,assisted,strong-foot
+268,27,Roma,Como,0.10229150205851,1,61,-1,Alexis Saelemaekers,901891,M,66,Roma,1788,Jean Butez,599114,76,Como,1608,True,11,51,15,45,assisted,strong-foot
+268,27,Roma,Como,0.020211402326822,0,64,0,Artem Dovbyk,798820,F,83,Roma,1788,Jean Butez,599114,76,Como,1608,True,14,22,22,52,throw-in-set-piece,weak-foot
+268,27,Roma,Como,0.66804856061935,1,76,0,Artem Dovbyk,798820,F,83,Roma,1788,Jean Butez,599114,76,Como,1608,True,4,40,4,0,assisted,strong-foot
+268,27,Roma,Como,0.1183280274272,0,80,-1,Lucas Da Cunha,911848,M,69,Como,1608,Mile Svilar,793986,78,Roma,1788,False,17,31,19,27,assisted,strong-foot
+268,27,Roma,Como,0.034257359802723,0,83,-1,Alieu Fadera,1031548,M,63,Como,1608,Mile Svilar,793986,78,Roma,1788,False,13,26,19,47,assisted,weak-foot
+268,27,Roma,Como,0.032996863126755,0,84,-1,Jonathan Ikoné,802142,M,66,Como,1608,Mile Svilar,793986,78,Roma,1788,False,25,43,25,6,regular,strong-foot
+268,27,Roma,Como,0.019866209477186,0,88,1,Stephan El Shaarawy,45925,F,75,Roma,1788,Jean Butez,599114,76,Como,1608,True,29,32,30,15,assisted,strong-foot
+268,27,Roma,Como,0.059091482311487,0,88,-1,Mërgim Vojvoda,798147,D,52,Como,1608,Mile Svilar,793986,78,Roma,1788,False,17,28,20,35,assisted,strong-foot
+268,27,Roma,Como,0.27348819375038,0,88,-1,Patrick Cutrone,795044,F,73,Como,1608,Mile Svilar,793986,78,Roma,1788,False,10,43,10,16,regular,weak-foot
+268,27,Roma,Como,0.39753201603889,0,90,1,Stephan El Shaarawy,45925,F,75,Roma,1788,Jean Butez,599114,76,Como,1608,True,14,37,14,12,assisted,strong-foot
+268,27,Roma,Como,0.027868693694472,0,90,1,Artem Dovbyk,798820,F,83,Roma,1788,Jean Butez,599114,76,Como,1608,True,30,29,31,20,assisted,strong-foot
+269,27,Juventus,Hellas Verona,0.032481476664543,0,3,0,Manuel Locatelli,363860,M,68,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,26,35,26,10,regular,weak-foot
+269,27,Juventus,Hellas Verona,0.048363693058491,0,5,0,Tomáš Suslov,964154,M,70,Hellas Verona,1603,Michele Di Gregorio,844609,81,Juventus,1835,False,22,42,22,5,regular,weak-foot
+269,27,Juventus,Hellas Verona,0.072397261857986,0,7,0,Amin Sarr,1022204,F,69,Hellas Verona,1603,Michele Di Gregorio,844609,81,Juventus,1835,False,25,36,25,9,fast-break,strong-foot
+269,27,Juventus,Hellas Verona,0.080296017229557,0,12,0,Federico Gatti,1128063,D,41,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,14,45,14,19,regular,strong-foot
+269,27,Juventus,Hellas Verona,0.30869328975677,0,14,0,Khéphren Thuram,904832,M,69,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,14,39,14,4,assisted,strong-foot
+269,27,Juventus,Hellas Verona,0.05296279117465,0,17,0,Manuel Locatelli,363860,M,68,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,21,31,22,23,assisted,strong-foot
+269,27,Juventus,Hellas Verona,0.018190816044807,0,17,0,Federico Gatti,1128063,D,41,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,33,42,33,3,regular,strong-foot
+269,27,Juventus,Hellas Verona,0.017729165032506,0,20,0,Khéphren Thuram,904832,M,69,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,28,49,29,17,assisted,strong-foot
+269,27,Juventus,Hellas Verona,0.21099987626076,0,22,0,Lloyd Kelly,865167,D,38,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,7,40,7,0,corner,head
+269,27,Juventus,Hellas Verona,0.025626346468925,0,24,0,Andrea Cambiaso,917048,M,67,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,23,23,28,36,corner,weak-foot
+269,27,Juventus,Hellas Verona,0.15715958178043,0,33,0,Nicolás González,901325,M,74,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,5,36,6,38,corner,head
+269,27,Juventus,Hellas Verona,0.042207263410091,0,39,0,Manuel Locatelli,363860,M,68,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,7,53,14,61,throw-in-set-piece,strong-foot
+269,27,Juventus,Hellas Verona,0.02497049793601,0,40,0,Randal Kolo Muani,871706,F,79,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,11,34,12,28,corner,head
+269,27,Juventus,Hellas Verona,0.10623881965876,0,40,0,Weston McKennie,881931,M,71,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,13,32,15,31,corner,strong-foot
+269,27,Juventus,Hellas Verona,0.04647296667099,0,41,0,Kenan Yıldız,1149011,M,73,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,16,25,21,43,assisted,weak-foot
+269,27,Juventus,Hellas Verona,0.059323631227016,0,50,0,Randal Kolo Muani,871706,F,79,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,18,44,18,12,regular,weak-foot
+269,27,Juventus,Hellas Verona,0.066303782165051,0,51,0,Amin Sarr,1022204,F,69,Hellas Verona,1603,Michele Di Gregorio,844609,81,Juventus,1835,False,10,39,10,5,assisted,head
+269,27,Juventus,Hellas Verona,0.019024834036827,0,53,0,Timothy Weah,855810,M,74,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,22,58,28,39,assisted,strong-foot
+269,27,Juventus,Hellas Verona,0.053274311125278,0,55,0,Kenan Yıldız,1149011,M,73,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,11,52,16,47,assisted,weak-foot
+269,27,Juventus,Hellas Verona,0.074335515499115,0,56,0,Randal Kolo Muani,871706,F,79,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,10,33,12,34,corner,strong-foot
+269,27,Juventus,Hellas Verona,0.030637882649899,0,58,0,Kenan Yıldız,1149011,M,73,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,12,56,20,53,assisted,weak-foot
+269,27,Juventus,Hellas Verona,0.082416951656342,0,59,0,Nicolás González,901325,M,74,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,12,39,12,4,assisted,head
+269,27,Juventus,Hellas Verona,0.037302888929844,0,62,0,Alberto Costa,1160957,D,55,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,17,51,20,32,regular,strong-foot
+269,27,Juventus,Hellas Verona,0.040599759668112,0,65,0,Tomáš Suslov,964154,M,70,Hellas Verona,1603,Michele Di Gregorio,844609,81,Juventus,1835,False,8,53,15,58,assisted,weak-foot
+269,27,Juventus,Hellas Verona,0.013664822094142,0,70,0,Khéphren Thuram,904832,M,69,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,32,46,32,10,assisted,weak-foot
+269,27,Juventus,Hellas Verona,0.020971553400159,0,72,0,Kenan Yıldız,1149011,M,73,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,27,33,27,14,assisted,weak-foot
+269,27,Juventus,Hellas Verona,0.14466242492199,1,72,0,Khéphren Thuram,904832,M,69,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,16,35,16,17,assisted,weak-foot
+269,27,Juventus,Hellas Verona,0.012425593100488,0,76,-1,Jackson Tchatchoua,1096210,D,58,Hellas Verona,1603,Michele Di Gregorio,844609,81,Juventus,1835,False,16,18,27,53,assisted,strong-foot
+269,27,Juventus,Hellas Verona,0.11504384875298,0,83,1,Manuel Locatelli,363860,M,68,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,13,42,13,8,assisted,weak-foot
+269,27,Juventus,Hellas Verona,0.095440343022346,0,83,1,Manuel Locatelli,363860,M,68,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,13,42,13,8,regular,weak-foot
+269,27,Juventus,Hellas Verona,0.037537455558777,0,83,1,Manuel Locatelli,363860,M,68,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,21,28,24,29,assisted,strong-foot
+269,27,Juventus,Hellas Verona,0.085423707962036,1,90,1,Teun Koopmeiners,803033,M,76,Juventus,1835,Lorenzo Montipò,253391,76,Hellas Verona,1603,True,8,55,17,61,fast-break,weak-foot
+270,28,Cagliari,Genoa,0.063821606338024,0,12,0,Fabio Miretti,1010223,M,60,Genoa,1665,Elia Caprile,947954,74,Cagliari,1604,False,11,37,11,15,assisted,other
+270,28,Cagliari,Genoa,0.030195640400052,0,15,0,Florinel Coman,794254,F,69,Cagliari,1604,Nicola Leali,98059,71,Genoa,1665,True,24,68,36,49,free-kick,strong-foot
+270,28,Cagliari,Genoa,0.025604840368032,0,16,0,Roberto Piccoli,958982,F,71,Cagliari,1604,Nicola Leali,98059,71,Genoa,1665,True,14,52,18,40,assisted,strong-foot
+270,28,Cagliari,Genoa,0.011468143202364,0,18,0,Koni De Winter,1001828,D,38,Genoa,1665,Elia Caprile,947954,74,Cagliari,1604,False,16,40,16,0,corner,head
+270,28,Cagliari,Genoa,0.31204515695572,1,18,0,Nicolas Viola,21608,M,71,Cagliari,1604,Nicola Leali,98059,71,Genoa,1665,True,16,36,16,14,fast-break,strong-foot
+270,28,Cagliari,Genoa,0.013486914336681,0,25,1,Roberto Piccoli,958982,F,71,Cagliari,1604,Nicola Leali,98059,71,Genoa,1665,True,26,24,30,31,assisted,strong-foot
+270,28,Cagliari,Genoa,0.018461698666215,0,35,-1,Johan Vásquez,889785,D,32,Genoa,1665,Elia Caprile,947954,74,Cagliari,1604,False,13,34,14,24,corner,head
+270,28,Cagliari,Genoa,0.069944120943546,0,38,1,Roberto Piccoli,958982,F,71,Cagliari,1604,Nicola Leali,98059,71,Genoa,1665,True,13,48,15,31,assisted,strong-foot
+270,28,Cagliari,Genoa,0.23100367188454,0,45,-1,Caleb Ekuban,309156,F,69,Genoa,1665,Elia Caprile,947954,74,Cagliari,1604,False,3,36,5,53,set-piece,strong-foot
+270,28,Cagliari,Genoa,0.41638687252998,1,47,-1,Maxwel Cornet,280439,F,74,Genoa,1665,Elia Caprile,947954,74,Cagliari,1604,False,8,37,8,20,assisted,strong-foot
+270,28,Cagliari,Genoa,0.074224881827831,0,59,0,Koni De Winter,1001828,D,38,Genoa,1665,Elia Caprile,947954,74,Cagliari,1604,False,10,45,11,26,corner,head
+270,28,Cagliari,Genoa,0.01953917555511,0,70,0,Johan Vásquez,889785,D,32,Genoa,1665,Elia Caprile,947954,74,Cagliari,1604,False,70,45,70,4,free-kick,strong-foot
+270,28,Cagliari,Genoa,0.11195065826178,0,79,0,Andrea Pinamonti,826198,F,75,Genoa,1665,Elia Caprile,947954,74,Cagliari,1604,False,14,46,15,23,assisted,strong-foot
+270,28,Cagliari,Genoa,0.084532618522644,0,80,0,Roberto Piccoli,958982,F,71,Cagliari,1604,Nicola Leali,98059,71,Genoa,1665,True,8,34,10,36,assisted,head
+270,28,Cagliari,Genoa,0.01021965034306,0,81,0,Matteo Prati,1111640,M,65,Cagliari,1604,Nicola Leali,98059,71,Genoa,1665,True,30,40,30,0,corner,strong-foot
+270,28,Cagliari,Genoa,0.052998341619968,0,84,0,Roberto Piccoli,958982,F,71,Cagliari,1604,Nicola Leali,98059,71,Genoa,1665,True,13,49,15,34,assisted,strong-foot
+270,28,Cagliari,Genoa,0.085470266640186,0,89,0,Gianluca Gaetano,902019,M,71,Cagliari,1604,Nicola Leali,98059,71,Genoa,1665,True,12,36,12,18,assisted,head
+271,28,Como,Venezia,0.07921701669693,0,11,0,Gabriel Strefezza,877201,M,65,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,21,34,21,15,regular,strong-foot
+271,28,Como,Venezia,0.015935774892569,0,21,0,Ivan Smolčić,974581,D,50,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,14,48,16,29,corner,head
+271,28,Como,Venezia,0.13153986632824,0,30,0,Alessio Zerbin,869888,M,67,Venezia,1550,Jean Butez,599114,76,Como,1608,False,11,50,14,42,assisted,strong-foot
+271,28,Como,Venezia,0.04467374458909,0,31,0,Ivan Smolčić,974581,D,50,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,10,53,16,52,throw-in-set-piece,strong-foot
+271,28,Como,Venezia,0.042419698089361,0,31,0,Álex Valle,1142238,D,55,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,14,50,17,35,throw-in-set-piece,strong-foot
+271,28,Como,Venezia,0.050500348210335,0,31,0,Lucas Da Cunha,911848,M,69,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,16,35,16,17,throw-in-set-piece,weak-foot
+271,28,Como,Venezia,0.045829363167286,0,33,0,Nico Paz,1171451,M,63,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,12,30,15,39,set-piece,strong-foot
+271,28,Como,Venezia,0.0091677298769355,0,36,0,Alfred Duncan,232224,M,63,Venezia,1550,Jean Butez,599114,76,Como,1608,False,26,24,30,31,corner,strong-foot
+271,28,Como,Venezia,0.017775677144527,0,36,0,Fali Candé,892430,D,55,Venezia,1550,Jean Butez,599114,76,Como,1608,False,14,39,14,4,corner,head
+271,28,Como,Venezia,0.023018013685942,0,37,0,Nico Paz,1171451,M,63,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,32,51,33,18,assisted,strong-foot
+271,28,Como,Venezia,0.033690083771944,0,39,0,Gabriel Strefezza,877201,M,65,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,13,58,22,54,assisted,strong-foot
+271,28,Como,Venezia,0.15778043866158,0,40,0,Mirko Marić,190933,F,69,Venezia,1550,Jean Butez,599114,76,Como,1608,False,11,43,11,15,assisted,head
+271,28,Como,Venezia,0.028497032821178,0,44,0,Gaetano Oristanio,965009,F,66,Venezia,1550,Jean Butez,599114,76,Como,1608,False,21,56,26,37,assisted,strong-foot
+271,28,Como,Venezia,0.14284637570381,1,49,0,Jonathan Ikoné,802142,M,66,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,16,34,17,20,regular,strong-foot
+271,28,Como,Venezia,0.018358824774623,0,56,-1,Alfred Duncan,232224,M,63,Venezia,1550,Jean Butez,599114,76,Como,1608,False,33,33,33,11,assisted,strong-foot
+271,28,Como,Venezia,0.056555982679129,0,64,-1,Jay Idzes,933641,D,46,Venezia,1550,Jean Butez,599114,76,Como,1608,False,12,40,12,0,corner,strong-foot
+271,28,Como,Venezia,0.086953088641167,0,69,-1,Issa Doumbia,1141754,M,52,Venezia,1550,Jean Butez,599114,76,Como,1608,False,11,47,13,32,regular,strong-foot
+271,28,Como,Venezia,0.11707686632872,0,74,1,Jonathan Ikoné,802142,M,66,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,9,48,12,41,set-piece,strong-foot
+271,28,Como,Venezia,0.82233762741089,0,74,1,Edoardo Goldaniga,295133,D,33,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,2,40,2,0,set-piece,head
+271,28,Como,Venezia,0.030246471986175,0,78,1,Nico Paz,1171451,M,63,Como,1608,Ionuț Radu,815202,71,Venezia,1550,True,17,57,24,45,assisted,strong-foot
+271,28,Como,Venezia,0.038370996713638,0,90,-1,Christian Gytkjær,78939,F,72,Venezia,1550,Jean Butez,599114,76,Como,1608,False,9,26,16,57,assisted,strong-foot
+271,28,Como,Venezia,0.7884,1,90,-1,Christian Gytkjær,78939,F,72,Venezia,1550,Jean Butez,599114,76,Como,1608,False,13,40,13,0,penalty,strong-foot
+272,28,Inter,Monza,0.036778774112463,0,1,0,Hakan Çalhanoğlu,135700,M,80,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,18,49,20,26,assisted,weak-foot
+272,28,Inter,Monza,0.015302762389183,0,6,0,Nicolò Barella,363856,M,78,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,28,46,28,12,assisted,strong-foot
+272,28,Inter,Monza,0.018917730078101,0,7,0,Keita Baldé,317699,F,67,Monza,1567,Josep Martínez,845291,75,Inter,1945,False,32,31,33,15,assisted,strong-foot
+272,28,Inter,Monza,0.029968744143844,0,14,0,Hakan Çalhanoğlu,135700,M,80,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,9,30,13,48,assisted,head
+272,28,Inter,Monza,0.055877652019262,0,20,0,Lautaro Martínez,823984,F,88,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,10,43,10,16,corner,head
+272,28,Inter,Monza,0.011631119064987,0,21,0,Alessandro Bianco,1101992,M,49,Monza,1567,Josep Martínez,845291,75,Inter,1945,False,36,26,38,21,assisted,strong-foot
+272,28,Inter,Monza,0.048241350799799,0,22,0,Alessandro Bastoni,826188,D,45,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,25,32,26,17,assisted,strong-foot
+272,28,Inter,Monza,0.058899816125631,0,22,0,Marko Arnautović,21927,F,79,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,11,41,11,5,assisted,head
+272,28,Inter,Monza,0.036389905959368,0,23,0,Hakan Çalhanoğlu,135700,M,80,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,17,23,24,45,assisted,weak-foot
+272,28,Inter,Monza,0.16981087625027,0,24,0,Lautaro Martínez,823984,F,88,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,4,34,7,56,corner,head
+272,28,Inter,Monza,0.02961204200983,0,31,0,Nicolò Barella,363856,M,78,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,15,53,19,40,corner,strong-foot
+272,28,Inter,Monza,0.40772759914398,1,32,0,Samuele Birindelli,856729,D,51,Monza,1567,Josep Martínez,845291,75,Inter,1945,False,12,52,16,45,assisted,strong-foot
+272,28,Inter,Monza,0.06977953016758,0,36,-1,Denzel Dumfries,759520,M,68,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,9,51,14,50,assisted,strong-foot
+272,28,Inter,Monza,0.070331826806068,0,36,-1,Alessandro Bastoni,826188,D,45,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,5,46,7,50,corner,head
+272,28,Inter,Monza,0.065204307436943,0,37,-1,Denzel Dumfries,759520,M,68,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,6,54,15,66,assisted,strong-foot
+272,28,Inter,Monza,0.061444465070963,0,43,1,Samuele Birindelli,856729,D,51,Monza,1567,Josep Martínez,845291,75,Inter,1945,False,18,55,23,39,assisted,weak-foot
+272,28,Inter,Monza,0.020066505298018,0,43,-1,Henrikh Mkhitaryan,37151,M,78,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,26,24,30,31,assisted,weak-foot
+272,28,Inter,Monza,0.030363231897354,1,44,1,Keita Baldé,317699,F,67,Monza,1567,Josep Martínez,845291,75,Inter,1945,False,20,25,25,36,fast-break,strong-foot
+272,28,Inter,Monza,0.45517468452454,1,45,-2,Marko Arnautović,21927,F,79,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,5,42,5,21,assisted,head
+272,28,Inter,Monza,0.028194274753332,0,47,-1,Hakan Çalhanoğlu,135700,M,80,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,25,46,25,13,assisted,strong-foot
+272,28,Inter,Monza,0.018982445821166,0,48,-1,Yann Bisseck,906275,D,56,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,16,35,16,17,set-piece,head
+272,28,Inter,Monza,0.034336056560278,0,50,-1,Denzel Dumfries,759520,M,68,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,10,56,18,57,fast-break,strong-foot
+272,28,Inter,Monza,0.074669010937214,0,51,-1,Yann Bisseck,906275,D,56,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,8,44,8,26,corner,head
+272,28,Inter,Monza,0.016691347584128,0,61,-1,Yann Bisseck,906275,D,56,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,19,55,24,38,assisted,strong-foot
+272,28,Inter,Monza,0.008593387901783,0,61,-1,Nicolò Barella,363856,M,78,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,27,57,31,32,regular,strong-foot
+272,28,Inter,Monza,0.25002574920654,0,61,-1,Lautaro Martínez,823984,F,88,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,7,36,8,29,throw-in-set-piece,strong-foot
+272,28,Inter,Monza,0.15708772838116,0,62,-1,Lautaro Martínez,823984,F,88,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,6,36,7,33,corner,head
+272,28,Inter,Monza,0.058079153299332,1,64,-1,Hakan Çalhanoğlu,135700,M,80,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,22,40,22,0,assisted,strong-foot
+272,28,Inter,Monza,0.049012556672096,0,70,0,Alessandro Bianco,1101992,M,49,Monza,1567,Josep Martínez,845291,75,Inter,1945,False,26,40,26,0,regular,weak-foot
+272,28,Inter,Monza,0.20764683187008,0,71,0,Marcus Thuram,791702,F,81,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,5,34,7,50,assisted,head
+272,28,Inter,Monza,0.041012819856405,0,72,0,Keita Baldé,317699,F,67,Monza,1567,Josep Martínez,845291,75,Inter,1945,False,17,26,22,39,assisted,weak-foot
+272,28,Inter,Monza,0.027611546218395,0,76,0,Marcus Thuram,791702,F,81,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,17,23,24,45,assisted,strong-foot
+272,28,Inter,Monza,,1,77,0,Georgios Kyriakopoulos,377302,M,58,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,8,43,8,20,regular,other
+272,28,Inter,Monza,0.38837486505508,0,83,1,Marcus Thuram,791702,F,81,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,9,32,12,41,fast-break,strong-foot
+272,28,Inter,Monza,0.044645864516497,0,83,1,Nicolò Barella,363856,M,78,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,22,46,22,15,fast-break,strong-foot
+272,28,Inter,Monza,0.026660066097975,0,88,1,Hakan Çalhanoğlu,135700,M,80,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,29,34,29,11,assisted,strong-foot
+272,28,Inter,Monza,0.04678313806653,0,89,1,Lautaro Martínez,823984,F,88,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,12,49,15,36,corner,strong-foot
+272,28,Inter,Monza,0.060772906988859,0,89,1,Lautaro Martínez,823984,F,88,Inter,1945,Stefano Turati,893752,74,Monza,1567,True,13,45,13,21,corner,strong-foot
+272,28,Inter,Monza,0.026772767305374,0,90,-1,Stefan Leković,1146225,D,54,Monza,1567,Josep Martínez,845291,75,Inter,1945,False,25,53,28,27,assisted,weak-foot
+273,28,Lecce,Milan,0.032596819102764,0,4,0,Tete Morente,605374,M,69,Lecce,1588,Marco Sportiello,176301,76,Milan,1770,True,16,20,25,51,assisted,strong-foot
+273,28,Lecce,Milan,0.074216924607754,1,7,0,Nikola Krstović,839156,F,73,Lecce,1588,Marco Sportiello,176301,76,Milan,1770,True,29,44,29,7,fast-break,strong-foot
+273,28,Lecce,Milan,0.067364364862442,0,8,-1,Yunus Musah,983815,M,68,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,22,42,22,5,assisted,strong-foot
+273,28,Lecce,Milan,0.34179338812828,0,12,-1,Santiago Giménez,892141,F,79,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,8,38,8,14,assisted,weak-foot
+273,28,Lecce,Milan,0.028776014223695,0,13,-1,Warren Bondo,1000366,M,61,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,25,32,26,17,assisted,strong-foot
+273,28,Lecce,Milan,0.19920805096626,0,21,1,Nikola Krstović,839156,F,73,Lecce,1588,Marco Sportiello,176301,76,Milan,1770,True,4,32,8,63,regular,weak-foot
+273,28,Lecce,Milan,0.20130527019501,0,23,1,Santiago Pierotti,984998,F,66,Lecce,1588,Marco Sportiello,176301,76,Milan,1770,True,12,50,15,39,assisted,strong-foot
+273,28,Lecce,Milan,0.020144868642092,0,24,1,Santiago Pierotti,984998,F,66,Lecce,1588,Marco Sportiello,176301,76,Milan,1770,True,13,39,13,4,corner,head
+273,28,Lecce,Milan,0.12317734956741,0,24,-1,Santiago Giménez,892141,F,79,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,18,44,18,12,assisted,strong-foot
+273,28,Lecce,Milan,0.024206787347794,0,30,1,Nikola Krstović,839156,F,73,Lecce,1588,Marco Sportiello,176301,76,Milan,1770,True,34,33,34,11,fast-break,strong-foot
+273,28,Lecce,Milan,0.065379433333874,0,33,-1,Christian Pulišić,817957,M,81,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,14,25,20,46,assisted,weak-foot
+273,28,Lecce,Milan,0.0095881195738912,0,34,1,Frédéric Guilbert,372430,D,45,Lecce,1588,Marco Sportiello,176301,76,Milan,1770,True,25,52,27,25,corner,strong-foot
+273,28,Lecce,Milan,0.17424866557121,0,40,-1,Santiago Giménez,892141,F,79,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,8,41,8,7,assisted,head
+273,28,Lecce,Milan,0.1397390216589,0,41,-1,Santiago Giménez,892141,F,79,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,4,46,7,56,assisted,weak-foot
+273,28,Lecce,Milan,0.12979851663113,0,45,1,Þórir Jóhann Helgason,886628,M,62,Lecce,1588,Marco Sportiello,176301,76,Milan,1770,True,12,51,16,42,fast-break,strong-foot
+273,28,Lecce,Milan,0.13637205958366,0,53,-1,Malick Thiaw,1014286,D,47,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,7,40,7,0,corner,head
+273,28,Lecce,Milan,0.099755883216858,0,53,-1,Santiago Giménez,892141,F,79,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,10,45,11,26,regular,strong-foot
+273,28,Lecce,Milan,0.49070742726326,0,55,-1,Yunus Musah,983815,M,68,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,4,42,4,26,assisted,head
+273,28,Lecce,Milan,0.17176061868668,1,59,1,Nikola Krstović,839156,F,73,Lecce,1588,Marco Sportiello,176301,76,Milan,1770,True,18,43,18,9,assisted,strong-foot
+273,28,Lecce,Milan,0.32348525524139,0,68,-2,João Félix,851671,F,78,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,11,40,11,0,assisted,weak-foot
+273,28,Lecce,Milan,,1,68,-2,Antonino Gallo,945616,D,51,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,8,43,8,20,regular,weak-foot
+273,28,Lecce,Milan,0.7884,1,73,-1,Christian Pulišić,817957,M,81,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,13,40,13,0,penalty,strong-foot
+273,28,Lecce,Milan,0.058825045824051,0,76,0,Ylber Ramadani,841977,M,56,Lecce,1588,Marco Sportiello,176301,76,Milan,1770,True,17,29,20,32,set-piece,strong-foot
+273,28,Lecce,Milan,0.040596138685942,0,80,0,Rafael Leão,851284,M,78,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,11,24,19,55,corner,weak-foot
+273,28,Lecce,Milan,0.73200583457947,1,81,0,Christian Pulišić,817957,M,81,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,2,42,2,45,assisted,strong-foot
+273,28,Lecce,Milan,0.034925684332848,0,87,-1,Nikola Krstović,839156,F,73,Lecce,1588,Marco Sportiello,176301,76,Milan,1770,True,15,36,15,14,assisted,head
+273,28,Lecce,Milan,0.040601663291454,0,89,1,João Félix,851671,F,78,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,9,53,15,55,assisted,weak-foot
+273,28,Lecce,Milan,0.005604428704828,0,90,1,Tammy Abraham,610766,F,75,Milan,1770,Wladimiro Falcone,256667,80,Lecce,1588,False,30,29,31,20,set-piece,strong-foot
+274,28,Parma,Torino,0.15571917593479,0,15,0,Cristiano Biraghi,122848,D,67,Torino,1708,Zion Suzuki,905351,72,Parma,1563,False,21,36,21,10,free-kick,strong-foot
+274,28,Parma,Torino,0.032070651650429,0,18,0,Emanuele Valeri,891346,D,69,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,23,42,23,4,corner,strong-foot
+274,28,Parma,Torino,0.042483955621719,1,19,0,Eljif Elmas,838232,M,69,Torino,1708,Zion Suzuki,905351,72,Parma,1563,False,17,26,22,39,assisted,strong-foot
+274,28,Parma,Torino,0.1055701598525,0,31,1,Cristiano Biraghi,122848,D,67,Torino,1708,Zion Suzuki,905351,72,Parma,1563,False,16,30,18,32,assisted,strong-foot
+274,28,Parma,Torino,0.016641551628709,0,32,1,Eljif Elmas,838232,M,69,Torino,1708,Zion Suzuki,905351,72,Parma,1563,False,33,35,33,8,regular,strong-foot
+274,28,Parma,Torino,0.039169050753117,0,40,-1,Ange-Yoan Bonny,1086223,F,73,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,13,42,13,8,throw-in-set-piece,head
+274,28,Parma,Torino,0.10265997052193,0,45,-1,Alessandro Vogliacco,807295,D,35,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,6,35,7,39,corner,head
+274,28,Parma,Torino,0.61935186386108,0,45,-1,Ange-Yoan Bonny,1086223,F,73,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,2,38,2,45,corner,strong-foot
+274,28,Parma,Torino,0.25279772281647,0,45,-1,Matteo Cancellieri,1017649,F,70,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,5,41,5,11,corner,head
+274,28,Parma,Torino,0.089437708258629,0,45,1,Che Adams,773409,F,76,Torino,1708,Zion Suzuki,905351,72,Parma,1563,False,16,29,19,34,fast-break,strong-foot
+274,28,Parma,Torino,0.11695980280638,0,48,-1,Pontus Almqvist,856065,F,66,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,15,29,18,36,fast-break,weak-foot
+274,28,Parma,Torino,0.01506473030895,0,52,-1,Emanuele Valeri,891346,D,69,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,34,40,34,0,set-piece,strong-foot
+274,28,Parma,Torino,0.27609640359879,1,60,-1,Mateo Pellegrino,1099296,F,65,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,11,42,11,10,assisted,strong-foot
+274,28,Parma,Torino,0.26694828271866,1,72,0,Che Adams,773409,F,76,Torino,1708,Zion Suzuki,905351,72,Parma,1563,False,15,36,15,14,set-piece,weak-foot
+274,28,Parma,Torino,0.081305086612701,0,75,-1,Mateo Pellegrino,1099296,F,65,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,21,45,21,13,assisted,strong-foot
+274,28,Parma,Torino,0.17245274782181,1,82,-1,Mateo Pellegrino,1099296,F,65,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,4,35,6,51,corner,head
+274,28,Parma,Torino,0.072154745459557,0,90,0,Mateo Pellegrino,1099296,F,65,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,11,45,12,24,assisted,strong-foot
+274,28,Parma,Torino,0.030444679781795,0,90,0,Dennis Man,812145,M,73,Parma,1563,Vanja Milinković-Savić,356160,78,Torino,1708,True,28,54,31,26,fast-break,strong-foot
+275,28,Empoli,Roma,0.11742059141397,1,1,0,Matías Soulé,1082406,F,69,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,21,45,21,13,assisted,strong-foot
+275,28,Empoli,Roma,0.032731484621763,0,7,-1,Mattia De Sciglio,137667,D,45,Empoli,1592,Mile Svilar,793986,78,Roma,1788,True,27,50,28,20,regular,strong-foot
+275,28,Empoli,Roma,0.063653364777565,0,20,-1,Lorenzo Colombo,930191,F,74,Empoli,1592,Mile Svilar,793986,78,Roma,1788,True,23,43,23,7,assisted,strong-foot
+275,28,Empoli,Roma,0.23712189495564,0,22,1,Lorenzo Pellegrini,555540,M,77,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,17,37,17,10,fast-break,weak-foot
+275,28,Empoli,Roma,0.2401796579361,0,36,1,Eldor Shomurodov,792283,F,70,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,12,37,12,14,assisted,strong-foot
+275,28,Empoli,Roma,0.51281076669693,0,39,1,Manu Koné,974087,M,72,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,10,48,12,38,assisted,strong-foot
+275,28,Empoli,Roma,0.075676247477531,0,43,1,Lorenzo Pellegrini,555540,M,77,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,9,41,9,6,set-piece,head
+275,28,Empoli,Roma,0.3545928299427,0,45,1,Eldor Shomurodov,792283,F,70,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,8,38,8,14,assisted,head
+275,28,Empoli,Roma,0.022036286070943,0,45,1,Leandro Paredes,255389,M,64,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,34,41,34,1,assisted,strong-foot
+275,28,Empoli,Roma,0.031630281358957,0,49,1,Victor Nelsson,846148,D,42,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,15,42,15,7,set-piece,head
+275,28,Empoli,Roma,0.022256722673774,0,53,1,Manu Koné,974087,M,72,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,33,48,33,13,assisted,strong-foot
+275,28,Empoli,Roma,0.059949830174446,0,61,1,Lorenzo Pellegrini,555540,M,77,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,12,35,13,22,assisted,head
+275,28,Empoli,Roma,0.026949912309647,0,65,1,Matías Soulé,1082406,F,69,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,25,56,29,32,fast-break,strong-foot
+275,28,Empoli,Roma,0.034802205860615,0,83,1,Lorenzo Pellegrini,555540,M,77,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,34,45,34,8,free-kick,weak-foot
+275,28,Empoli,Roma,0.075589172542095,0,84,1,Tommaso Baldanzi,1012172,M,71,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,13,51,17,40,regular,weak-foot
+275,28,Empoli,Roma,0.021028112620115,0,90,1,Angeliño,848355,D,69,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,18,49,20,26,corner,strong-foot
+275,28,Empoli,Roma,0.14467932283878,0,90,1,Artem Dovbyk,798820,F,83,Roma,1788,Marco Silvestri,43970,74,Empoli,1592,False,17,34,18,19,assisted,strong-foot
+275,28,Empoli,Roma,0.017366606742144,0,90,-1,Christian Kouamé,812946,F,70,Empoli,1592,Mile Svilar,793986,78,Roma,1788,True,16,34,17,20,assisted,head
+276,28,Hellas Verona,Bologna,0.01837657392025,0,2,0,Jens Odgaard,826064,M,74,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,25,49,26,19,regular,strong-foot
+276,28,Hellas Verona,Bologna,0.049028106033802,0,31,0,Amin Sarr,1022204,F,69,Hellas Verona,1603,Łukasz Skorupski,44906,79,Bologna,1765,True,5,26,14,70,assisted,weak-foot
+276,28,Hellas Verona,Bologna,0.046231381595135,0,39,0,Nicolás Valentini,1116570,D,32,Hellas Verona,1603,Łukasz Skorupski,44906,79,Bologna,1765,True,11,36,11,19,corner,head
+276,28,Hellas Verona,Bologna,0.45318713784218,1,40,0,Jens Odgaard,826064,M,74,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,9,46,10,33,assisted,strong-foot
+276,28,Hellas Verona,Bologna,0.047389771789312,0,48,1,Jens Odgaard,826064,M,74,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,5,27,13,68,assisted,strong-foot
+276,28,Hellas Verona,Bologna,0.045264694839716,0,49,1,Santiago Castro,1116577,F,75,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,15,44,15,14,corner,strong-foot
+276,28,Hellas Verona,Bologna,0.021972715854645,0,49,1,Riccardo Orsolini,793645,M,80,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,23,56,28,34,regular,strong-foot
+276,28,Hellas Verona,Bologna,0.017922630533576,0,50,-1,Amin Sarr,1022204,F,69,Hellas Verona,1603,Łukasz Skorupski,44906,79,Bologna,1765,True,31,51,32,19,assisted,weak-foot
+276,28,Hellas Verona,Bologna,0.044231746345758,0,52,1,Dan Ndoye,944327,M,66,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,30,34,30,11,assisted,strong-foot
+276,28,Hellas Verona,Bologna,0.035430964082479,0,54,1,Michel Aebischer,850891,M,66,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,23,45,23,12,set-piece,strong-foot
+276,28,Hellas Verona,Bologna,0.10694059729576,0,63,1,Michel Aebischer,850891,M,66,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,12,55,19,51,assisted,strong-foot
+276,28,Hellas Verona,Bologna,0.071417205035686,0,69,1,Santiago Castro,1116577,F,75,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,10,32,12,38,assisted,weak-foot
+276,28,Hellas Verona,Bologna,0.059198375791311,0,71,1,Juan Miranda,855829,D,60,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,31,45,31,9,free-kick,strong-foot
+276,28,Hellas Verona,Bologna,0.13763798773289,0,72,-1,Casper Tengstedt,957937,F,73,Hellas Verona,1603,Łukasz Skorupski,44906,79,Bologna,1765,True,15,46,16,21,assisted,strong-foot
+276,28,Hellas Verona,Bologna,0.039745002985001,1,78,1,Nicolò Cambiaghi,971005,F,71,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,17,30,19,30,assisted,weak-foot
+276,28,Hellas Verona,Bologna,0.21452894806862,0,80,-2,Daniel Mosquera,1018179,F,70,Hellas Verona,1603,Łukasz Skorupski,44906,79,Bologna,1765,True,4,43,5,36,assisted,strong-foot
+276,28,Hellas Verona,Bologna,0.84768682718277,1,80,-2,Daniel Mosquera,1018179,F,70,Hellas Verona,1603,Łukasz Skorupski,44906,79,Bologna,1765,True,3,41,3,18,regular,other
+276,28,Hellas Verona,Bologna,0.024633655324578,0,90,-1,Darko Lazović,41157,M,71,Hellas Verona,1603,Łukasz Skorupski,44906,79,Bologna,1765,True,28,37,28,6,regular,weak-foot
+276,28,Hellas Verona,Bologna,0.37584230303764,0,90,1,Thijs Dallinga,905381,F,75,Bologna,1765,Lorenzo Montipò,253391,76,Hellas Verona,1603,False,10,47,12,34,fast-break,strong-foot
+277,28,Juventus,Atalanta,0.084533207118511,0,4,0,Ademola Lookman,824200,F,82,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,9,27,15,55,fast-break,weak-foot
+277,28,Juventus,Atalanta,0.047727659344673,0,8,0,Khéphren Thuram,904832,M,69,Juventus,1835,Marco Carnesecchi,865646,83,Atalanta,1850,True,21,40,21,0,assisted,strong-foot
+277,28,Juventus,Atalanta,0.0754214823246,0,9,0,Davide Zappacosta,132318,M,67,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,17,30,19,30,assisted,strong-foot
+277,28,Juventus,Atalanta,0.029450329020619,0,10,0,Lloyd Kelly,865167,D,38,Juventus,1835,Marco Carnesecchi,865646,83,Atalanta,1850,True,29,27,31,24,assisted,strong-foot
+277,28,Juventus,Atalanta,0.053340848535299,0,14,0,Éderson,946888,M,68,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,9,43,9,18,corner,head
+277,28,Juventus,Atalanta,0.16088917851448,0,14,0,Isak Hien,1157713,D,36,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,10,38,10,11,corner,strong-foot
+277,28,Juventus,Atalanta,0.14820519089699,0,21,0,Ademola Lookman,824200,F,82,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,11,32,13,36,fast-break,strong-foot
+277,28,Juventus,Atalanta,0.044608011841774,0,22,0,Timothy Weah,855810,M,74,Juventus,1835,Marco Carnesecchi,865646,83,Atalanta,1850,True,14,56,21,48,assisted,strong-foot
+277,28,Juventus,Atalanta,0.7884,1,29,0,Mateo Retegui,914501,F,79,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,13,40,13,0,penalty,strong-foot
+277,28,Juventus,Atalanta,0.046684801578522,0,39,1,Marten de Roon,100389,M,71,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,30,34,30,11,regular,strong-foot
+277,28,Juventus,Atalanta,0.14995123445988,0,45,1,Ademola Lookman,824200,F,82,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,22,40,22,0,fast-break,strong-foot
+277,28,Juventus,Atalanta,0.36168876290321,0,45,1,Davide Zappacosta,132318,M,67,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,10,35,11,26,fast-break,weak-foot
+277,28,Juventus,Atalanta,0.64415192604065,0,45,1,Ademola Lookman,824200,F,82,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,5,40,5,0,fast-break,strong-foot
+277,28,Juventus,Atalanta,0.033788323402405,0,45,1,Davide Zappacosta,132318,M,67,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,21,38,21,5,corner,strong-foot
+277,28,Juventus,Atalanta,0.095279321074486,0,45,1,Éderson,946888,M,68,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,16,47,17,23,assisted,strong-foot
+277,28,Juventus,Atalanta,0.31135907769203,0,46,1,Mateo Retegui,914501,F,79,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,8,38,8,14,fast-break,strong-foot
+277,28,Juventus,Atalanta,0.36070528626442,1,46,1,Marten de Roon,100389,M,71,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,12,39,12,4,fast-break,weak-foot
+277,28,Juventus,Atalanta,0.067199289798737,0,46,2,Ademola Lookman,824200,F,82,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,10,26,17,54,fast-break,weak-foot
+277,28,Juventus,Atalanta,0.041871793568134,0,49,-2,Weston McKennie,881931,M,71,Juventus,1835,Marco Carnesecchi,865646,83,Atalanta,1850,True,22,48,23,19,regular,strong-foot
+277,28,Juventus,Atalanta,0.033788237720728,0,54,-2,Alberto Costa,1160957,D,55,Juventus,1835,Marco Carnesecchi,865646,83,Atalanta,1850,True,18,44,18,12,set-piece,strong-foot
+277,28,Juventus,Atalanta,0.021251264959574,0,59,-2,Weston McKennie,881931,M,71,Juventus,1835,Marco Carnesecchi,865646,83,Atalanta,1850,True,17,31,19,27,set-piece,weak-foot
+277,28,Juventus,Atalanta,0.1236127987504,1,66,2,Davide Zappacosta,132318,M,67,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,4,31,9,66,assisted,strong-foot
+277,28,Juventus,Atalanta,0.09817323833704,0,70,3,Marco Brescianini,928800,M,65,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,10,46,11,30,assisted,strong-foot
+277,28,Juventus,Atalanta,0.10449008643627,1,77,3,Ademola Lookman,824200,F,82,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,18,34,18,18,regular,strong-foot
+277,28,Juventus,Atalanta,0.034427996724844,0,86,-4,Dušan Vlahović,832208,F,83,Juventus,1835,Marco Carnesecchi,865646,83,Atalanta,1850,True,12,23,20,54,assisted,strong-foot
+277,28,Juventus,Atalanta,0.39371231198311,0,86,-4,Weston McKennie,881931,M,71,Juventus,1835,Marco Carnesecchi,865646,83,Atalanta,1850,True,10,42,10,11,regular,strong-foot
+277,28,Juventus,Atalanta,0.25932684540749,0,88,-4,Weston McKennie,881931,M,71,Juventus,1835,Marco Carnesecchi,865646,83,Atalanta,1850,True,8,39,8,7,assisted,head
+277,28,Juventus,Atalanta,0.065832853317261,0,90,4,Charles De Ketelaere,960441,F,76,Atalanta,1850,Michele Di Gregorio,844609,81,Juventus,1835,False,13,30,16,37,assisted,strong-foot
+278,28,Napoli,Fiorentina,0.039103161543608,0,2,0,Giacomo Raspadori,865651,F,76,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,15,55,21,45,assisted,weak-foot
+278,28,Napoli,Fiorentina,0.39841693639755,0,10,0,Giacomo Raspadori,865651,F,76,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,12,44,12,18,assisted,weak-foot
+278,28,Napoli,Fiorentina,0.27647620439529,0,12,0,Albert Guðmundsson,804909,F,79,Fiorentina,1749,Alex Meret,592794,82,Napoli,1831,False,10,39,10,5,assisted,weak-foot
+278,28,Napoli,Fiorentina,0.033803567290306,0,12,0,Giacomo Raspadori,865651,F,76,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,7,53,14,61,assisted,weak-foot
+278,28,Napoli,Fiorentina,0.019181475043297,0,16,0,Alessandro Buongiorno,870263,D,45,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,13,22,22,54,assisted,weak-foot
+278,28,Napoli,Fiorentina,0.0271618347615,0,21,0,Scott McTominay,879346,M,78,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,11,32,13,36,assisted,head
+278,28,Napoli,Fiorentina,0.027726324275136,0,26,0,Scott McTominay,879346,M,78,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,23,25,27,33,assisted,strong-foot
+278,28,Napoli,Fiorentina,0.50561875104904,1,26,0,Romelu Lukaku,78893,F,80,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,10,35,11,26,regular,strong-foot
+278,28,Napoli,Fiorentina,0.038122527301311,0,30,1,Giacomo Raspadori,865651,F,76,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,6,54,15,66,assisted,weak-foot
+278,28,Napoli,Fiorentina,0.25574392080307,0,32,-1,Moise Kean,835601,F,78,Fiorentina,1749,Alex Meret,592794,82,Napoli,1831,False,4,40,4,0,corner,head
+278,28,Napoli,Fiorentina,0.020751541480422,0,34,1,Giovanni Di Lorenzo,153257,D,69,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,24,55,28,32,assisted,strong-foot
+278,28,Napoli,Fiorentina,0.14408062398434,0,38,1,Leonardo Spinazzola,148899,D,64,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,4,28,12,71,assisted,weak-foot
+278,28,Napoli,Fiorentina,0.038298591971397,0,43,1,Scott McTominay,879346,M,78,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,11,26,17,51,assisted,weak-foot
+278,28,Napoli,Fiorentina,0.040101259946823,0,47,1,Scott McTominay,879346,M,78,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,22,38,22,5,assisted,strong-foot
+278,28,Napoli,Fiorentina,0.04363702237606,0,57,1,Giacomo Raspadori,865651,F,76,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,10,26,17,54,assisted,weak-foot
+278,28,Napoli,Fiorentina,0.16704002022743,0,58,1,Amir Rrahmani,332155,D,50,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,6,38,6,18,corner,head
+278,28,Napoli,Fiorentina,0.060417525470257,0,59,-1,Moise Kean,835601,F,78,Fiorentina,1749,Alex Meret,592794,82,Napoli,1831,False,12,30,15,39,assisted,strong-foot
+278,28,Napoli,Fiorentina,0.68812590837479,1,60,1,Giacomo Raspadori,865651,F,76,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,11,39,11,5,assisted,weak-foot
+278,28,Napoli,Fiorentina,0.029685847461224,1,66,-2,Albert Guðmundsson,804909,F,79,Fiorentina,1749,Alex Meret,592794,82,Napoli,1831,False,26,44,26,8,assisted,strong-foot
+278,28,Napoli,Fiorentina,0.055086653679609,0,72,1,Matteo Politano,235672,F,77,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,13,29,17,40,assisted,strong-foot
+278,28,Napoli,Fiorentina,0.025797605514526,0,77,1,Matteo Politano,235672,F,77,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,8,22,19,66,assisted,strong-foot
+278,28,Napoli,Fiorentina,0.030849911272526,0,79,-1,Nicolò Fagioli,901850,M,63,Fiorentina,1749,Alex Meret,592794,82,Napoli,1831,False,28,26,31,26,assisted,strong-foot
+278,28,Napoli,Fiorentina,0.031094243749976,0,81,-1,Moise Kean,835601,F,78,Fiorentina,1749,Alex Meret,592794,82,Napoli,1831,False,25,51,27,23,assisted,strong-foot
+278,28,Napoli,Fiorentina,0.038928285241127,0,90,1,Philip Billing,548660,M,76,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,33,38,33,3,free-kick,strong-foot
+278,28,Napoli,Fiorentina,0.51192247867584,0,90,1,Giovanni Simeone,341143,F,77,Napoli,1831,David De Gea,69378,85,Fiorentina,1749,True,23,37,23,7,fast-break,strong-foot
+278,28,Napoli,Fiorentina,0.039289757609367,0,90,-1,Cher Ndour,1114422,M,61,Fiorentina,1749,Alex Meret,592794,82,Napoli,1831,False,8,26,16,60,corner,weak-foot
+279,28,Lazio,Udinese,0.011923973448575,0,4,0,Hassane Kamara,351434,M,60,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,31,25,34,25,corner,strong-foot
+279,28,Lazio,Udinese,0.078149929642677,0,4,0,Lorenzo Lucca,962364,F,75,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,15,35,15,18,corner,strong-foot
+279,28,Lazio,Udinese,0.017691278830171,0,10,0,Matías Vecino,158615,M,72,Lazio,1792,Maduka Okoye,891656,74,Udinese,1671,True,30,27,32,23,assisted,strong-foot
+279,28,Lazio,Udinese,0.030798584222794,0,20,0,Hassane Kamara,351434,M,60,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,5,25,15,71,regular,weak-foot
+279,28,Lazio,Udinese,0.014828367158771,0,21,0,Florian Thauvin,148824,F,76,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,16,64,28,56,corner,strong-foot
+279,28,Lazio,Udinese,0.12551882863045,0,22,0,Florian Thauvin,148824,F,76,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,10,44,10,21,regular,strong-foot
+279,28,Lazio,Udinese,0.18889647722244,0,22,0,Lorenzo Lucca,962364,F,75,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,8,32,11,45,regular,strong-foot
+279,28,Lazio,Udinese,0.69438177347183,1,22,0,Florian Thauvin,148824,F,76,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,4,38,4,26,assisted,strong-foot
+279,28,Lazio,Udinese,0.030159022659063,0,30,-1,Loum Tchaouna,1004505,F,71,Lazio,1792,Maduka Okoye,891656,74,Udinese,1671,True,14,57,22,50,assisted,strong-foot
+279,28,Lazio,Udinese,0.090562477707863,0,31,-1,Mattia Zaccagni,293581,M,77,Lazio,1792,Maduka Okoye,891656,74,Udinese,1671,True,15,28,19,38,regular,strong-foot
+279,28,Lazio,Udinese,0.010543586686254,0,32,-1,Matías Vecino,158615,M,72,Lazio,1792,Maduka Okoye,891656,74,Udinese,1671,True,11,48,13,36,corner,head
+279,28,Lazio,Udinese,0.67194157838821,1,32,-1,Alessio Romagnoli,227864,D,39,Lazio,1792,Maduka Okoye,891656,74,Udinese,1671,True,3,38,3,33,corner,strong-foot
+279,28,Lazio,Udinese,0.035665083676577,0,37,0,Loum Tchaouna,1004505,F,71,Lazio,1792,Maduka Okoye,891656,74,Udinese,1671,True,16,56,22,45,assisted,strong-foot
+279,28,Lazio,Udinese,0.04256934300065,0,43,0,Sandi Lovrić,575852,M,63,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,18,42,18,6,throw-in-set-piece,weak-foot
+279,28,Lazio,Udinese,0.064318902790546,0,44,0,Lorenzo Lucca,962364,F,75,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,15,40,15,0,assisted,strong-foot
+279,28,Lazio,Udinese,0.31023189425468,0,48,0,Mattia Zaccagni,293581,M,77,Lazio,1792,Maduka Okoye,891656,74,Udinese,1671,True,5,40,5,0,assisted,strong-foot
+279,28,Lazio,Udinese,0.040304020047188,0,54,0,Mattia Zaccagni,293581,M,77,Lazio,1792,Maduka Okoye,891656,74,Udinese,1671,True,15,30,18,33,assisted,strong-foot
+279,28,Lazio,Udinese,0.025023387745023,0,68,0,Martín Payero,895592,M,64,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,29,55,32,27,regular,strong-foot
+279,28,Lazio,Udinese,0.019328502938151,0,69,0,Tijjani Noslin,1069244,F,73,Lazio,1792,Maduka Okoye,891656,74,Udinese,1671,True,25,22,30,35,assisted,strong-foot
+279,28,Lazio,Udinese,0.069332718849182,0,76,0,Jordan Zemura,964119,M,48,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,31,41,31,1,free-kick,strong-foot
+279,28,Lazio,Udinese,0.01452923566103,0,76,0,Arthur Atta,1444690,M,53,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,7,55,16,64,corner,strong-foot
+279,28,Lazio,Udinese,0.017997780814767,0,80,0,Adam Marušić,267619,D,66,Lazio,1792,Maduka Okoye,891656,74,Udinese,1671,True,32,29,33,18,assisted,strong-foot
+279,28,Lazio,Udinese,0.039735566824675,0,84,0,Arthur Atta,1444690,M,53,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,20,21,27,43,assisted,strong-foot
+279,28,Lazio,Udinese,0.043045815080404,0,85,0,Jordan Zemura,964119,M,48,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,23,39,23,2,corner,weak-foot
+279,28,Lazio,Udinese,0.011531215161085,0,90,0,Arthur Atta,1444690,M,53,Udinese,1671,Ivan Provedel,308182,83,Lazio,1792,False,14,59,23,53,throw-in-set-piece,weak-foot

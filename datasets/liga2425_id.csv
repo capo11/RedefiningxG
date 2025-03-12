@@ -5,7 +5,7 @@ index,round,homeTeam,awayTeam,xg,goal,minute,goalDifference,player,playerID,posi
 0,1,Athletic Club,Getafe,0.027998650446534,0,40,-1,Carles Pérez,794950,M,73,Getafe,1626,Alex Padilla,1155116,63,Athletic Club,1764,False,33,40,33,0,assisted,strong-foot
 0,1,Athletic Club,Getafe,0.04327254742384,0,45,1,Iñaki Williams,783374,M,80,Athletic Club,1764,David Soria,604258,80,Getafe,1626,True,21,53,24,31,assisted,weak-foot
 0,1,Athletic Club,Getafe,0.16881322860718,0,48,-1,Peter González,1048927,F,61,Getafe,1626,Alex Padilla,1155116,63,Athletic Club,1764,False,13,46,14,24,regular,strong-foot
-0,1,Athletic Club,Getafe,0.51287406682968,0,52,-1,Carles Aleñá,794937,M,67,Getafe,1626,Alex Padilla,1155116,63,Athletic Club,1764,False,12,37,12,14,assisted,strong-foot
+0,1,Athletic Club,Getafe,0.51287406682968,0,52,-1,Carles Aleñá,794937,M,69,Getafe,1626,Alex Padilla,1155116,63,Athletic Club,1764,False,12,37,12,14,assisted,strong-foot
 0,1,Athletic Club,Getafe,0.014067197218537,0,54,-1,Omar Alderete,805137,D,57,Getafe,1626,Alex Padilla,1155116,63,Athletic Club,1764,False,3,28,12,75,corner,strong-foot
 0,1,Athletic Club,Getafe,0.010067826136947,0,62,-1,Álex Sola,966836,M,57,Getafe,1626,Alex Padilla,1155116,63,Athletic Club,1764,False,34,42,34,3,set-piece,strong-foot
 0,1,Athletic Club,Getafe,0.046931803226471,1,64,-1,Christantus Uche,1884145,M,61,Getafe,1626,Alex Padilla,1155116,63,Athletic Club,1764,False,10,43,10,16,corner,head
@@ -332,7 +332,7 @@ index,round,homeTeam,awayTeam,xg,goal,minute,goalDifference,player,playerID,posi
 14,2,Getafe,Rayo Vallecano,0.015586141496897,0,46,0,Adrián Embarba,346516,M,73,Rayo Vallecano,1612,David Soria,604258,81,Getafe,1626,False,43,41,43,1,assisted,strong-foot
 14,2,Getafe,Rayo Vallecano,0.029651112854481,0,48,0,Álex Sola,966836,M,57,Getafe,1626,Dani Cárdenas,965832,75,Rayo Vallecano,1612,True,22,24,27,36,assisted,strong-foot
 14,2,Getafe,Rayo Vallecano,0.018419535830617,0,52,0,Christantus Uche,1884145,M,48,Getafe,1626,Dani Cárdenas,965832,75,Rayo Vallecano,1612,True,11,33,13,32,corner,head
-14,2,Getafe,Rayo Vallecano,0.07054241001606,0,57,0,Carles Aleñá,794937,M,67,Getafe,1626,Dani Cárdenas,965832,75,Rayo Vallecano,1612,True,9,36,9,23,assisted,head
+14,2,Getafe,Rayo Vallecano,0.07054241001606,0,57,0,Carles Aleñá,794937,M,69,Getafe,1626,Dani Cárdenas,965832,75,Rayo Vallecano,1612,True,9,36,9,23,assisted,head
 14,2,Getafe,Rayo Vallecano,0.026595618575811,0,59,0,Juan Iglesias,949707,D,37,Getafe,1626,Dani Cárdenas,965832,75,Rayo Vallecano,1612,True,13,59,23,55,assisted,strong-foot
 14,2,Getafe,Rayo Vallecano,0.095542199909687,0,64,0,Christantus Uche,1884145,M,48,Getafe,1626,Dani Cárdenas,965832,75,Rayo Vallecano,1612,True,16,36,16,14,assisted,weak-foot
 14,2,Getafe,Rayo Vallecano,0.013683665543795,0,83,0,Omar Alderete,805137,D,60,Getafe,1626,Dani Cárdenas,965832,75,Rayo Vallecano,1612,True,16,37,16,10,set-piece,head
@@ -853,7 +853,7 @@ index,round,homeTeam,awayTeam,xg,goal,minute,goalDifference,player,playerID,posi
 35,4,Getafe,Real Sociedad,0.016206953674555,0,71,0,Omar Alderete,805137,D,60,Getafe,1630,Álex Remiro,791773,84,Real Sociedad,1744,True,37,33,37,10,assisted,strong-foot
 35,4,Getafe,Real Sociedad,0.011076604947448,0,81,0,Mauro Arambarri,385888,M,64,Getafe,1630,Álex Remiro,791773,84,Real Sociedad,1744,True,35,25,38,23,assisted,strong-foot
 35,4,Getafe,Real Sociedad,0.03553831577301,0,84,0,Peter González,1048927,F,61,Getafe,1630,Álex Remiro,791773,84,Real Sociedad,1744,True,18,30,20,29,assisted,strong-foot
-35,4,Getafe,Real Sociedad,0.1661934107542,0,84,0,Carles Aleñá,794937,M,67,Getafe,1630,Álex Remiro,791773,84,Real Sociedad,1744,True,17,37,17,10,regular,strong-foot
+35,4,Getafe,Real Sociedad,0.1661934107542,0,84,0,Carles Aleñá,794937,M,69,Getafe,1630,Álex Remiro,791773,84,Real Sociedad,1744,True,17,37,17,10,regular,strong-foot
 35,4,Getafe,Real Sociedad,0.01540416572243,0,89,0,Juan Iglesias,949707,D,37,Getafe,1630,Álex Remiro,791773,84,Real Sociedad,1744,True,30,56,34,28,assisted,strong-foot
 35,4,Getafe,Real Sociedad,0.013227183371782,0,90,0,Omar Alderete,805137,D,60,Getafe,1630,Álex Remiro,791773,84,Real Sociedad,1744,True,31,23,35,28,assisted,strong-foot
 35,4,Getafe,Real Sociedad,0.021703451871872,0,90,0,John Finn,1092415,M,60,Getafe,1630,Álex Remiro,791773,84,Real Sociedad,1744,True,31,30,32,17,assisted,strong-foot
@@ -1068,7 +1068,7 @@ index,round,homeTeam,awayTeam,xg,goal,minute,goalDifference,player,playerID,posi
 43,5,Sevilla,Getafe,0.029675858095288,0,90,1,Gonzalo Montiel,822933,D,60,Sevilla,1669,David Soria,604258,81,Getafe,1630,True,13,25,19,49,assisted,strong-foot
 43,5,Sevilla,Getafe,0.027463747188449,0,90,-1,Alberto Risco,1841875,M,43,Getafe,1630,Ørjan Nyland,22209,76,Sevilla,1669,False,25,57,30,34,corner,weak-foot
 43,5,Sevilla,Getafe,0.033807769417763,0,90,-1,Bertuğ Yıldırım,1382235,F,63,Getafe,1630,Ørjan Nyland,22209,76,Sevilla,1669,False,18,39,18,3,assisted,head
-43,5,Sevilla,Getafe,0.029461111873388,0,90,-1,Carles Aleñá,794937,M,67,Getafe,1630,Ørjan Nyland,22209,76,Sevilla,1669,False,15,41,15,3,assisted,head
+43,5,Sevilla,Getafe,0.029461111873388,0,90,-1,Carles Aleñá,794937,M,69,Getafe,1630,Ørjan Nyland,22209,76,Sevilla,1669,False,15,41,15,3,assisted,head
 44,5,Atlético Madrid,Valencia,0.056176140904427,0,2,0,Alexander Sørloth,309078,F,81,Atlético Madrid,1838,Giorgi Mamardashvili,930997,85,Valencia,1647,True,15,39,15,3,fast-break,head
 44,5,Atlético Madrid,Valencia,0.059650473296642,0,5,0,Samuel Lino,874705,M,70,Atlético Madrid,1838,Giorgi Mamardashvili,930997,85,Valencia,1647,True,10,26,17,54,regular,strong-foot
 44,5,Atlético Madrid,Valencia,0.046677246689796,0,11,0,Alexander Sørloth,309078,F,81,Atlético Madrid,1838,Giorgi Mamardashvili,930997,85,Valencia,1647,True,10,45,11,26,set-piece,head
@@ -4378,7 +4378,7 @@ index,round,homeTeam,awayTeam,xg,goal,minute,goalDifference,player,playerID,posi
 187,19,Atlético Madrid,Osasuna,0.17218425869942,0,90,1,Marcos Llorente,353138,M,78,Atlético Madrid,1865,Sergio Herrera,294377,78,Osasuna,1660,True,13,32,15,31,regular,weak-foot
 187,19,Atlético Madrid,Osasuna,0.2410826832056,0,90,1,Ángel Correa,316152,F,82,Atlético Madrid,1865,Sergio Herrera,294377,78,Osasuna,1660,True,2,35,5,68,regular,weak-foot
 188,19,Las Palmas,Getafe,0.12458673119545,0,1,0,Bertuğ Yıldırım,1382235,F,64,Getafe,1608,Jasper Cillessen,123865,78,Las Palmas,1614,False,12,24,20,53,regular,head
-188,19,Las Palmas,Getafe,0.14259198307991,0,12,0,Carles Aleñá,794937,M,67,Getafe,1608,Jasper Cillessen,123865,78,Las Palmas,1614,False,17,42,17,6,assisted,strong-foot
+188,19,Las Palmas,Getafe,0.14259198307991,0,12,0,Carles Aleñá,794937,M,69,Getafe,1608,Jasper Cillessen,123865,78,Las Palmas,1614,False,17,42,17,6,assisted,strong-foot
 188,19,Las Palmas,Getafe,0.027676654979587,0,13,0,Christantus Uche,1884145,M,61,Getafe,1608,Jasper Cillessen,123865,78,Las Palmas,1614,False,25,52,27,25,assisted,weak-foot
 188,19,Las Palmas,Getafe,0.02445824444294,0,16,0,Luis Milla,811629,M,71,Getafe,1608,Jasper Cillessen,123865,78,Las Palmas,1614,False,27,34,27,12,assisted,strong-foot
 188,19,Las Palmas,Getafe,0.079026140272617,0,17,0,Kirian Rodríguez,964985,M,73,Las Palmas,1614,David Soria,604258,81,Getafe,1608,True,17,44,17,13,set-piece,strong-foot
@@ -5448,7 +5448,7 @@ index,round,homeTeam,awayTeam,xg,goal,minute,goalDifference,player,playerID,posi
 232,24,Leganés,Deportivo Alavés,0.046862401068211,0,21,1,Diego Garcia,1121475,F,69,Leganés,1585,Antonio Sivera,369004,76,Deportivo Alavés,1623,True,19,52,22,32,assisted,strong-foot
 232,24,Leganés,Deportivo Alavés,0.28653928637505,0,22,-1,Manuel Sánchez,984789,D,42,Deportivo Alavés,1623,Marko Dmitrović,94527,78,Leganés,1585,False,13,36,13,17,throw-in-set-piece,weak-foot
 232,24,Leganés,Deportivo Alavés,0.082136742770672,0,22,-1,Manuel Sánchez,984789,D,42,Deportivo Alavés,1623,Marko Dmitrović,94527,78,Leganés,1585,False,14,38,14,8,throw-in-set-piece,weak-foot
-232,24,Leganés,Deportivo Alavés,0.13756528496742,0,22,-1,Carles Aleñá,794937,M,67,Deportivo Alavés,1623,Marko Dmitrović,94527,78,Leganés,1585,False,11,40,11,0,throw-in-set-piece,strong-foot
+232,24,Leganés,Deportivo Alavés,0.13756528496742,0,22,-1,Carles Aleñá,794937,M,69,Deportivo Alavés,1623,Marko Dmitrović,94527,78,Leganés,1585,False,11,40,11,0,throw-in-set-piece,strong-foot
 232,24,Leganés,Deportivo Alavés,0.097289361059666,1,25,-1,Kike García,84972,F,75,Deportivo Alavés,1623,Marko Dmitrović,94527,78,Leganés,1585,False,15,30,18,33,assisted,weak-foot
 232,24,Leganés,Deportivo Alavés,0.02820341847837,0,30,0,Javier Hernández,1031658,D,75,Leganés,1585,Antonio Sivera,369004,76,Deportivo Alavés,1623,True,31,30,32,17,assisted,strong-foot
 232,24,Leganés,Deportivo Alavés,0.7884,1,37,0,Dani Raba,873947,M,70,Leganés,1585,Antonio Sivera,369004,76,Deportivo Alavés,1623,True,13,40,13,0,penalty,strong-foot
@@ -5636,3 +5636,704 @@ index,round,homeTeam,awayTeam,xg,goal,minute,goalDifference,player,playerID,posi
 239,24,Barcelona,Rayo Vallecano,0.023280948400497,0,82,1,Raphinha,831005,M,80,Barcelona,1897,Augusto Batalla,358910,77,Rayo Vallecano,1657,True,5,27,13,68,assisted,head
 239,24,Barcelona,Rayo Vallecano,0.24249084293842,0,90,-1,Jorge de Frutos,900003,M,72,Rayo Vallecano,1657,Wojciech Szczęsny,50490,84,Barcelona,1897,False,12,41,12,4,assisted,head
 239,24,Barcelona,Rayo Vallecano,0.083750084042549,0,90,-1,Sergi Guardiola,141945,F,71,Rayo Vallecano,1657,Wojciech Szczęsny,50490,84,Barcelona,1897,False,4,47,8,60,corner,head
+240,25,Celta Vigo,Osasuna,0.044963728636503,0,2,0,Jorge Herrando,944225,D,36,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,11,39,11,5,corner,head
+240,25,Celta Vigo,Osasuna,0.040297888219357,0,2,0,Ante Budimir,37318,F,79,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,16,40,16,0,corner,strong-foot
+240,25,Celta Vigo,Osasuna,0.041547141969204,0,4,0,Marcos Alonso,69408,D,74,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,16,32,17,26,corner,strong-foot
+240,25,Celta Vigo,Osasuna,0.058428671211004,0,6,0,Bryan Zaragoza,1084730,F,71,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,15,55,21,45,assisted,strong-foot
+240,25,Celta Vigo,Osasuna,0.064535140991211,0,7,0,Ante Budimir,37318,F,79,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,23,42,23,4,assisted,strong-foot
+240,25,Celta Vigo,Osasuna,0.024765690788627,0,9,0,Moi Gómez,149370,M,73,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,29,42,29,3,regular,strong-foot
+240,25,Celta Vigo,Osasuna,0.022508323192596,0,15,0,Lucas Torró,187313,M,62,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,14,37,14,12,set-piece,head
+240,25,Celta Vigo,Osasuna,0.043280009180307,0,15,0,Ante Budimir,37318,F,79,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,11,41,11,5,corner,head
+240,25,Celta Vigo,Osasuna,0.059451211243868,0,20,0,Ilaix Moriba,962890,M,68,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,16,46,17,20,assisted,weak-foot
+240,25,Celta Vigo,Osasuna,0.055597253143787,0,25,0,Bryan Zaragoza,1084730,F,71,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,19,39,19,3,regular,strong-foot
+240,25,Celta Vigo,Osasuna,0.029577093198895,0,36,0,Williot Swedberg,1126779,M,68,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,16,21,24,49,assisted,strong-foot
+240,25,Celta Vigo,Osasuna,0.02308308519423,0,36,0,Ilaix Moriba,962890,M,68,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,27,48,28,16,corner,strong-foot
+240,25,Celta Vigo,Osasuna,0.22315345704556,0,41,0,Borja Iglesias,785989,F,78,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,3,45,5,59,throw-in-set-piece,strong-foot
+240,25,Celta Vigo,Osasuna,0.046360775828362,0,45,0,Óscar Mingueza,859773,M,57,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,17,22,24,46,assisted,strong-foot
+240,25,Celta Vigo,Osasuna,0.070207014679909,0,47,0,Ante Budimir,37318,F,79,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,12,36,12,18,throw-in-set-piece,strong-foot
+240,25,Celta Vigo,Osasuna,0.012643942609429,0,49,0,Bryan Zaragoza,1084730,F,71,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,27,23,31,32,assisted,strong-foot
+240,25,Celta Vigo,Osasuna,0.028095861896873,0,52,0,Sergio Carreira,1002764,D,44,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,15,59,24,51,assisted,weak-foot
+240,25,Celta Vigo,Osasuna,0.037237145006657,0,54,0,Bryan Zaragoza,1084730,F,71,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,19,54,23,36,assisted,strong-foot
+240,25,Celta Vigo,Osasuna,0.1924541592598,0,56,0,Borja Iglesias,785989,F,78,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,3,32,8,69,set-piece,head
+240,25,Celta Vigo,Osasuna,0.18727499246597,0,57,0,Carl Starfelt,360718,D,30,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,6,37,6,26,corner,head
+240,25,Celta Vigo,Osasuna,0.079887710511684,0,57,0,Williot Swedberg,1126779,M,68,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,13,49,15,34,corner,strong-foot
+240,25,Celta Vigo,Osasuna,0.040554858744144,0,60,0,Bryan Zaragoza,1084730,F,71,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,27,28,29,23,regular,strong-foot
+240,25,Celta Vigo,Osasuna,0.7884,1,69,0,Iago Aspas,19356,F,85,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,13,40,13,0,penalty,strong-foot
+240,25,Celta Vigo,Osasuna,0.074405990540981,0,77,-1,Rubén Peña,255973,D,68,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,17,44,17,13,regular,strong-foot
+240,25,Celta Vigo,Osasuna,0.12601810693741,0,80,1,Iago Aspas,19356,F,85,Celta Vigo,1643,Sergio Herrera,294377,78,Osasuna,1655,True,10,47,12,34,assisted,strong-foot
+240,25,Celta Vigo,Osasuna,0.27699369192123,0,82,-1,Raúl García de Haro,997280,F,73,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,9,43,9,18,throw-in-set-piece,head
+240,25,Celta Vigo,Osasuna,0.055288590490818,0,82,-1,Lucas Torró,187313,M,62,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,10,35,11,26,assisted,head
+240,25,Celta Vigo,Osasuna,0.011035948060453,0,88,-1,José Manuel Arnáiz,824130,F,72,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,34,22,38,27,assisted,strong-foot
+240,25,Celta Vigo,Osasuna,0.12109857797623,0,90,-1,José Manuel Arnáiz,824130,F,72,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,5,28,13,67,assisted,weak-foot
+240,25,Celta Vigo,Osasuna,0.16015197336674,0,90,-1,Flavien Boyomo,1067582,D,37,Osasuna,1655,Vicente Guaita,32023,77,Celta Vigo,1643,False,14,34,15,23,assisted,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.034234169870615,0,3,0,Nahuel Tenaglia,896073,D,42,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,31,53,33,22,fast-break,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.0070063625462353,0,6,0,Leandro Cabrera,81992,D,44,Espanyol,1597,Antonio Sivera,369004,76,Deportivo Alavés,1623,False,35,36,35,6,set-piece,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.20740228891373,0,15,0,Santiago Mouriño,1468046,D,35,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,3,45,5,59,corner,head
+241,25,Deportivo Alavés,Espanyol,0.062784463167191,0,20,0,Roberto Fernández,1392592,F,69,Espanyol,1597,Antonio Sivera,369004,76,Deportivo Alavés,1623,False,17,43,17,10,assisted,weak-foot
+241,25,Deportivo Alavés,Espanyol,0.020221140235662,0,25,0,Omar El Hilali,1064026,D,39,Espanyol,1597,Antonio Sivera,369004,76,Deportivo Alavés,1623,False,31,49,32,16,assisted,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.019277632236481,0,25,0,Pol Lozano,826010,M,57,Espanyol,1597,Antonio Sivera,369004,76,Deportivo Alavés,1623,False,32,36,32,7,regular,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.074794918298721,0,26,0,Nahuel Tenaglia,896073,D,42,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,11,53,17,49,throw-in-set-piece,head
+241,25,Deportivo Alavés,Espanyol,0.069839917123318,0,27,0,Toni Martínez,831253,F,75,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,10,41,10,5,corner,head
+241,25,Deportivo Alavés,Espanyol,0.077326394617558,0,32,0,Toni Martínez,831253,F,75,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,20,38,20,5,assisted,weak-foot
+241,25,Deportivo Alavés,Espanyol,0.51040214300156,0,40,0,Kike García,84972,F,77,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,13,42,13,8,set-piece,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.086302645504475,0,44,0,Toni Martínez,831253,F,75,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,11,24,19,55,fast-break,weak-foot
+241,25,Deportivo Alavés,Espanyol,0.03679783269763,0,45,0,Pol Lozano,826010,M,57,Espanyol,1597,Antonio Sivera,369004,76,Deportivo Alavés,1623,False,31,43,31,5,regular,weak-foot
+241,25,Deportivo Alavés,Espanyol,0.04759082198143,0,45,0,Santiago Mouriño,1468046,D,35,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,26,33,26,15,assisted,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.047412473708391,0,53,0,Alex Král,825740,M,66,Espanyol,1597,Antonio Sivera,369004,76,Deportivo Alavés,1623,False,15,48,17,28,assisted,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.025895467028022,0,54,0,Joan Jordán,591750,M,73,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,18,25,23,39,corner,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.049725998193026,0,64,0,Carles Aleñá,794937,M,69,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,12,28,16,45,assisted,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.18425996601582,0,75,0,Asier Villalibre,355072,F,74,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,5,47,8,54,set-piece,weak-foot
+241,25,Deportivo Alavés,Espanyol,0.081267356872559,0,76,0,Abdelkabir Abqar,1101232,D,31,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,9,39,9,6,corner,head
+241,25,Deportivo Alavés,Espanyol,0.079959124326706,0,80,0,Alex Král,825740,M,66,Espanyol,1597,Antonio Sivera,369004,76,Deportivo Alavés,1623,False,16,43,16,10,assisted,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.024388734251261,0,82,0,Antoniu Roca,1099344,F,59,Espanyol,1597,Antonio Sivera,369004,76,Deportivo Alavés,1623,False,15,26,20,43,assisted,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.10929238051176,1,86,0,Fernando Calero,857205,D,41,Espanyol,1597,Antonio Sivera,369004,76,Deportivo Alavés,1623,False,11,41,11,5,set-piece,head
+241,25,Deportivo Alavés,Espanyol,0.035221491008997,0,90,-1,Joan Jordán,591750,M,73,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,24,8,40,53,free-kick,strong-foot
+241,25,Deportivo Alavés,Espanyol,0.18783061206341,0,90,-1,Jon Guridi,788141,M,64,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,8,42,8,14,corner,head
+241,25,Deportivo Alavés,Espanyol,0.099096842110157,0,90,-1,Joan Jordán,591750,M,73,Deportivo Alavés,1623,Joan García,930267,78,Espanyol,1597,True,27,41,27,2,free-kick,strong-foot
+242,25,Las Palmas,Barcelona,0.048897102475166,0,2,0,Eric García,876214,D,43,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,12,35,13,22,set-piece,strong-foot
+242,25,Las Palmas,Barcelona,0.024582266807556,0,2,0,Stefan Bajčetić,1142636,M,51,Las Palmas,1597,Wojciech Szczęsny,50490,84,Barcelona,1897,True,26,24,30,31,assisted,strong-foot
+242,25,Las Palmas,Barcelona,0.17955195903778,0,4,0,Robert Lewandowski,41789,F,88,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,10,38,10,11,assisted,head
+242,25,Las Palmas,Barcelona,0.051871504634619,0,6,0,Robert Lewandowski,41789,F,88,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,27,27,29,25,free-kick,strong-foot
+242,25,Las Palmas,Barcelona,0.011272327043116,0,10,0,Viti Rozada,1031499,D,60,Las Palmas,1597,Wojciech Szczęsny,50490,84,Barcelona,1897,True,30,43,30,5,corner,strong-foot
+242,25,Las Palmas,Barcelona,0.04112071916461,0,14,0,Sandro Ramírez,188407,F,78,Las Palmas,1597,Wojciech Szczęsny,50490,84,Barcelona,1897,True,13,56,20,50,fast-break,strong-foot
+242,25,Las Palmas,Barcelona,0.15724143385887,0,14,0,Mika Mármol,979146,D,36,Las Palmas,1597,Wojciech Szczęsny,50490,84,Barcelona,1897,True,6,36,7,33,corner,strong-foot
+242,25,Las Palmas,Barcelona,0.033563997596502,0,25,0,Alberto Moleiro,1012444,M,67,Las Palmas,1597,Wojciech Szczęsny,50490,84,Barcelona,1897,True,17,24,23,43,assisted,strong-foot
+242,25,Las Palmas,Barcelona,0.040147483348846,0,28,0,Raphinha,831005,M,82,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,22,66,34,49,free-kick,strong-foot
+242,25,Las Palmas,Barcelona,0.026194177567959,0,32,0,Lamine Yamal,1402912,F,77,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,11,23,20,57,corner,strong-foot
+242,25,Las Palmas,Barcelona,0.015353629365563,0,34,0,Alejandro Balde,997035,D,47,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,36,28,37,18,assisted,strong-foot
+242,25,Las Palmas,Barcelona,0.081772804260254,0,44,0,Raphinha,831005,M,82,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,29,38,29,3,free-kick,strong-foot
+242,25,Las Palmas,Barcelona,0.018570465967059,0,45,0,Fermín López,1153270,M,71,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,10,19,23,64,regular,weak-foot
+242,25,Las Palmas,Barcelona,0.040193412452936,0,50,0,Dário Essugo,1110006,M,56,Las Palmas,1597,Wojciech Szczęsny,50490,84,Barcelona,1897,True,18,54,22,37,assisted,strong-foot
+242,25,Las Palmas,Barcelona,0.022878570482135,0,51,0,Javier Muñoz,353154,M,64,Las Palmas,1597,Wojciech Szczęsny,50490,84,Barcelona,1897,True,16,55,21,43,throw-in-set-piece,weak-foot
+242,25,Las Palmas,Barcelona,0.020937280729413,0,53,0,Lamine Yamal,1402912,F,77,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,15,57,22,48,assisted,strong-foot
+242,25,Las Palmas,Barcelona,0.10306105017662,0,61,0,Raphinha,831005,M,82,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,9,39,9,6,assisted,head
+242,25,Las Palmas,Barcelona,0.44206845760345,1,62,0,Dani Olmo,789071,M,79,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,13,40,13,0,assisted,weak-foot
+242,25,Las Palmas,Barcelona,0.019257197156549,0,68,-1,Sandro Ramírez,188407,F,78,Las Palmas,1597,Wojciech Szczęsny,50490,84,Barcelona,1897,True,32,35,32,8,assisted,strong-foot
+242,25,Las Palmas,Barcelona,0.14866304397583,0,69,1,Lamine Yamal,1402912,F,77,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,4,47,8,60,assisted,strong-foot
+242,25,Las Palmas,Barcelona,0.13879925012589,0,71,1,Robert Lewandowski,41789,F,88,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,4,33,8,60,assisted,head
+242,25,Las Palmas,Barcelona,0.052614629268646,0,73,1,Robert Lewandowski,41789,F,88,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,17,46,18,19,assisted,weak-foot
+242,25,Las Palmas,Barcelona,0.070481352508068,0,87,-1,Sandro Ramírez,188407,F,78,Las Palmas,1597,Wojciech Szczęsny,50490,84,Barcelona,1897,True,23,36,23,9,throw-in-set-piece,weak-foot
+242,25,Las Palmas,Barcelona,0.028455318883061,0,90,-1,Sandro Ramírez,188407,F,78,Las Palmas,1597,Wojciech Szczęsny,50490,84,Barcelona,1897,True,15,54,20,43,set-piece,strong-foot
+242,25,Las Palmas,Barcelona,0.050292413681746,1,90,1,Ferran Torres,855833,F,77,Barcelona,1897,Jasper Cillessen,123865,78,Las Palmas,1597,False,6,26,15,66,assisted,weak-foot
+243,25,Rayo Vallecano,Villarreal,0.004407484550029,0,1,0,Isi Palazón,899982,M,76,Rayo Vallecano,1657,Diego Conde,951008,77,Villarreal,1749,True,25,20,32,38,assisted,strong-foot
+243,25,Rayo Vallecano,Villarreal,0.044145036488771,0,4,0,Yéremy Pino,984624,M,73,Villarreal,1749,Augusto Batalla,358910,77,Rayo Vallecano,1657,False,10,53,16,52,assisted,strong-foot
+243,25,Rayo Vallecano,Villarreal,0.060306180268526,0,5,0,Thierno Barry,1395746,F,71,Villarreal,1749,Augusto Batalla,358910,77,Rayo Vallecano,1657,False,10,33,12,34,assisted,head
+243,25,Rayo Vallecano,Villarreal,0.02940646931529,0,7,0,Álvaro García,345111,M,68,Rayo Vallecano,1657,Diego Conde,951008,77,Villarreal,1749,True,9,25,17,59,assisted,weak-foot
+243,25,Rayo Vallecano,Villarreal,0.039279963821173,0,17,0,Ayoze Pérez,345195,F,77,Villarreal,1749,Augusto Batalla,358910,77,Rayo Vallecano,1657,False,23,38,23,4,assisted,weak-foot
+243,25,Rayo Vallecano,Villarreal,0.027500567957759,0,24,0,Álvaro García,345111,M,68,Rayo Vallecano,1657,Diego Conde,951008,77,Villarreal,1749,True,26,22,31,34,fast-break,weak-foot
+243,25,Rayo Vallecano,Villarreal,0.077581375837326,0,25,0,Ayoze Pérez,345195,F,77,Villarreal,1749,Augusto Batalla,358910,77,Rayo Vallecano,1657,False,11,42,11,10,assisted,head
+243,25,Rayo Vallecano,Villarreal,0.010761161334813,0,30,0,Alejandro Baena,910031,M,74,Villarreal,1749,Augusto Batalla,358910,77,Rayo Vallecano,1657,False,48,61,52,23,regular,strong-foot
+243,25,Rayo Vallecano,Villarreal,0.053701553493738,0,34,0,Jorge de Frutos,900003,M,73,Rayo Vallecano,1657,Diego Conde,951008,77,Villarreal,1749,True,10,45,11,26,assisted,head
+243,25,Rayo Vallecano,Villarreal,0.025003330782056,0,57,0,Ayoze Pérez,345195,F,77,Villarreal,1749,Augusto Batalla,358910,77,Rayo Vallecano,1657,False,11,56,19,55,assisted,strong-foot
+243,25,Rayo Vallecano,Villarreal,0.25444856286049,0,61,0,Álvaro García,345111,M,68,Rayo Vallecano,1657,Diego Conde,951008,77,Villarreal,1749,True,6,42,6,18,assisted,weak-foot
+243,25,Rayo Vallecano,Villarreal,0.043331615626812,0,64,0,Nicolas Pépé,593526,F,76,Villarreal,1749,Augusto Batalla,358910,77,Rayo Vallecano,1657,False,15,54,20,43,assisted,strong-foot
+243,25,Rayo Vallecano,Villarreal,0.15017899870872,1,66,0,Ayoze Pérez,345195,F,77,Villarreal,1749,Augusto Batalla,358910,77,Rayo Vallecano,1657,False,9,41,9,6,corner,head
+243,25,Rayo Vallecano,Villarreal,0.023659355938435,0,70,-1,Randy Nteka,932764,F,71,Rayo Vallecano,1657,Diego Conde,951008,77,Villarreal,1749,True,14,18,26,57,assisted,strong-foot
+243,25,Rayo Vallecano,Villarreal,0.021031396463513,0,75,-1,Abdul Mumin,846147,D,43,Rayo Vallecano,1657,Diego Conde,951008,77,Villarreal,1749,True,27,41,27,2,set-piece,strong-foot
+243,25,Rayo Vallecano,Villarreal,0.037618532776833,0,84,1,Sergi Cardona,986245,D,55,Villarreal,1749,Augusto Batalla,358910,77,Rayo Vallecano,1657,False,6,31,10,56,corner,head
+243,25,Rayo Vallecano,Villarreal,0.066105790436268,0,86,-1,Gerard Gumbau,326471,M,66,Rayo Vallecano,1657,Diego Conde,951008,77,Villarreal,1749,True,17,41,17,3,regular,weak-foot
+243,25,Rayo Vallecano,Villarreal,0.071438759565353,0,86,-1,Sergi Guardiola,141945,F,71,Rayo Vallecano,1657,Diego Conde,951008,77,Villarreal,1749,True,12,41,12,4,regular,strong-foot
+243,25,Rayo Vallecano,Villarreal,0.079298429191113,0,89,-1,Sergi Guardiola,141945,F,71,Rayo Vallecano,1657,Diego Conde,951008,77,Villarreal,1749,True,4,47,8,60,corner,head
+243,25,Rayo Vallecano,Villarreal,0.070915400981903,0,90,1,Alfonso Pedraza,797290,D,70,Villarreal,1749,Augusto Batalla,358910,77,Rayo Vallecano,1657,False,8,24,17,63,fast-break,strong-foot
+244,25,Valencia,Atlético Madrid,0.4280900657177,0,12,0,Samuel Lino,874705,M,70,Atlético Madrid,1865,Giorgi Mamardashvili,930997,85,Valencia,1618,False,10,41,10,5,assisted,strong-foot
+244,25,Valencia,Atlético Madrid,0.032670889049768,1,12,0,Julián Álvarez,944656,F,86,Atlético Madrid,1865,Giorgi Mamardashvili,930997,85,Valencia,1618,False,10,43,10,16,assisted,strong-foot
+244,25,Valencia,Atlético Madrid,0.044994279742241,0,19,-1,Pepelu,826948,M,70,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,18,24,24,41,regular,strong-foot
+244,25,Valencia,Atlético Madrid,0.030599076300859,0,22,1,Giuliano Simeone,1099352,M,70,Atlético Madrid,1865,Giorgi Mamardashvili,930997,85,Valencia,1618,False,25,52,27,25,assisted,weak-foot
+244,25,Valencia,Atlético Madrid,0.085833750665188,0,27,1,Antoine Griezmann,85859,F,87,Atlético Madrid,1865,Giorgi Mamardashvili,930997,85,Valencia,1618,False,25,53,28,27,free-kick,strong-foot
+244,25,Valencia,Atlético Madrid,0.030247634276748,0,29,1,Julián Álvarez,944656,F,86,Atlético Madrid,1865,Giorgi Mamardashvili,930997,85,Valencia,1618,False,16,49,18,29,regular,strong-foot
+244,25,Valencia,Atlético Madrid,0.12577387690544,1,30,1,Julián Álvarez,944656,F,86,Atlético Madrid,1865,Giorgi Mamardashvili,930997,85,Valencia,1618,False,8,41,8,7,assisted,head
+244,25,Valencia,Atlético Madrid,0.091186471283436,0,37,-2,Umar Sadiq,754710,F,74,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,8,46,10,36,set-piece,head
+244,25,Valencia,Atlético Madrid,0.18398329615593,0,45,2,Julián Álvarez,944656,F,86,Atlético Madrid,1865,Giorgi Mamardashvili,930997,85,Valencia,1618,False,16,43,16,10,regular,strong-foot
+244,25,Valencia,Atlético Madrid,0.085833750665188,0,45,-2,Luis Rioja,900433,M,74,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,21,49,22,23,free-kick,strong-foot
+244,25,Valencia,Atlético Madrid,0.023290924727917,0,47,-2,Iván Jaime,951986,M,73,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,13,46,14,24,assisted,head
+244,25,Valencia,Atlético Madrid,0.11660864949226,0,50,-2,Javier Guerra,1122610,M,68,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,18,40,18,0,regular,weak-foot
+244,25,Valencia,Atlético Madrid,0.13803879916668,0,50,-2,Hugo Duro,909119,F,75,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,8,40,8,0,assisted,head
+244,25,Valencia,Atlético Madrid,0.0081907566636801,0,52,-2,Enzo Barrenechea,1087316,M,62,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,28,24,32,29,regular,strong-foot
+244,25,Valencia,Atlético Madrid,0.048799179494381,0,52,-2,Enzo Barrenechea,1087316,M,62,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,29,38,29,3,assisted,weak-foot
+244,25,Valencia,Atlético Madrid,0.041091058403254,0,56,-2,Umar Sadiq,754710,F,74,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,12,43,12,14,assisted,head
+244,25,Valencia,Atlético Madrid,0.023678004741669,0,58,-2,Hugo Duro,909119,F,75,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,3,51,11,74,corner,weak-foot
+244,25,Valencia,Atlético Madrid,0.023351509124041,0,62,-2,Javier Guerra,1122610,M,68,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,28,29,30,21,assisted,strong-foot
+244,25,Valencia,Atlético Madrid,0.074833668768406,0,63,-2,Hugo Duro,909119,F,75,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,11,36,11,19,assisted,strong-foot
+244,25,Valencia,Atlético Madrid,0.01886698231101,0,64,-2,Iván Jaime,951986,M,73,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,28,33,28,14,assisted,strong-foot
+244,25,Valencia,Atlético Madrid,0.030844820663333,0,65,-2,Hugo Duro,909119,F,75,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,10,57,19,59,corner,weak-foot
+244,25,Valencia,Atlético Madrid,0.01969201490283,0,67,-2,Javier Guerra,1122610,M,68,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,27,52,29,23,corner,strong-foot
+244,25,Valencia,Atlético Madrid,0.010804206132889,0,69,-2,Umar Sadiq,754710,F,74,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,34,52,36,19,regular,strong-foot
+244,25,Valencia,Atlético Madrid,0.12841431796551,0,71,2,Julián Álvarez,944656,F,86,Atlético Madrid,1865,Giorgi Mamardashvili,930997,85,Valencia,1618,False,17,41,17,3,assisted,weak-foot
+244,25,Valencia,Atlético Madrid,0.022263972088695,0,71,2,Javi Galán,825133,D,55,Atlético Madrid,1865,Giorgi Mamardashvili,930997,85,Valencia,1618,False,28,28,30,23,regular,strong-foot
+244,25,Valencia,Atlético Madrid,0.023372240364552,0,73,-2,André Almeida,845693,F,65,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,24,57,29,35,assisted,strong-foot
+244,25,Valencia,Atlético Madrid,0.071720488369465,0,78,2,Ángel Correa,316152,F,82,Atlético Madrid,1865,Giorgi Mamardashvili,930997,85,Valencia,1618,False,11,30,14,42,assisted,strong-foot
+244,25,Valencia,Atlético Madrid,0.035552702844143,0,79,-2,Rafa Mir,825754,F,72,Valencia,1618,Jan Oblak,69768,88,Atlético Madrid,1865,True,14,38,14,8,assisted,head
+244,25,Valencia,Atlético Madrid,0.11788054555655,1,86,2,Ángel Correa,316152,F,82,Atlético Madrid,1865,Giorgi Mamardashvili,930997,85,Valencia,1618,False,13,53,18,45,fast-break,strong-foot
+245,25,Athletic Club,Real Valladolid,0.020515240728855,0,3,0,Óscar de Marcos,52663,D,63,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,33,50,34,16,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.11947870999575,0,5,0,Oihan Sancet,966801,M,79,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,9,51,14,50,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.023189555853605,0,8,0,Nico Williams,1085400,M,74,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,17,18,27,52,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.064235791563988,1,10,0,Mikel Jauregizar,1495844,M,62,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,22,31,23,22,assisted,weak-foot
+245,25,Athletic Club,Real Valladolid,0.064276307821274,0,18,1,Mikel Jauregizar,1495844,M,62,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,14,46,15,23,regular,strong-foot
+245,25,Athletic Club,Real Valladolid,0.047011967748404,0,19,1,Iñaki Williams,783374,M,80,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,21,35,21,13,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.060932397842407,0,20,1,Mikel Jauregizar,1495844,M,62,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,13,34,14,24,assisted,head
+245,25,Athletic Club,Real Valladolid,0.67266702651978,0,20,1,Maroan Sannadi,1520799,F,68,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,2,39,2,26,regular,weak-foot
+245,25,Athletic Club,Real Valladolid,0.10809750109911,1,35,1,Nico Williams,1085400,M,74,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,13,41,13,4,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.047464739531279,0,37,2,Iñaki Williams,783374,M,80,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,15,53,19,40,assisted,weak-foot
+245,25,Athletic Club,Real Valladolid,0.018365511670709,0,43,-2,Mario Martin,1154549,M,51,Real Valladolid,1542,Unai Simón,797291,86,Athletic Club,1788,False,36,37,36,4,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.59016400575638,1,43,2,Maroan Sannadi,1520799,F,68,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,7,39,7,8,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.055269233882427,1,45,3,Oihan Sancet,966801,M,79,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,12,53,17,47,corner,strong-foot
+245,25,Athletic Club,Real Valladolid,0.30206614732742,1,47,-4,Mamadou Sylla,793761,F,70,Real Valladolid,1542,Unai Simón,797291,86,Athletic Club,1788,False,17,31,19,27,fast-break,strong-foot
+245,25,Athletic Club,Real Valladolid,0.085761979222298,0,50,3,Oihan Sancet,966801,M,79,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,13,46,14,24,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.024056240916252,0,50,-3,Darwin Machís,252863,F,73,Real Valladolid,1542,Unai Simón,797291,86,Athletic Club,1788,False,21,52,24,29,assisted,weak-foot
+245,25,Athletic Club,Real Valladolid,0.12643322348595,0,63,3,Mikel Vesga,359742,M,73,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,11,28,16,47,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.075015157461166,0,65,3,Oihan Sancet,966801,M,79,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,17,42,17,6,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.19658346474171,0,66,3,Gorka Guruzeta,605672,F,78,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,14,32,16,29,regular,strong-foot
+245,25,Athletic Club,Real Valladolid,0.023003971204162,0,66,3,Mikel Vesga,359742,M,73,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,32,42,32,3,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.070033945143223,0,66,3,Oihan Sancet,966801,M,79,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,16,39,16,3,assisted,weak-foot
+245,25,Athletic Club,Real Valladolid,0.035970292985439,1,67,3,Nico Williams,1085400,M,74,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,12,25,19,51,regular,strong-foot
+245,25,Athletic Club,Real Valladolid,0.26063570380211,1,69,4,Gorka Guruzeta,605672,F,78,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,10,41,10,5,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.056677147746086,0,74,5,Iñigo Ruiz de Galarreta,96365,M,64,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,26,33,26,15,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.022036286070943,0,74,5,Yuri Berchiche,84531,D,68,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,33,34,33,10,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.031925577670336,0,76,5,Íñigo Lekue,801837,D,60,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,15,59,24,51,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.021544307470322,0,77,-5,Raúl Moro,980383,F,60,Real Valladolid,1542,Unai Simón,797291,86,Athletic Club,1788,False,34,23,38,26,fast-break,strong-foot
+245,25,Athletic Club,Real Valladolid,0.037638306617737,0,78,5,Álex Berenguer,592012,M,75,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,8,23,18,64,assisted,weak-foot
+245,25,Athletic Club,Real Valladolid,0.032650616019964,0,82,5,Gorka Guruzeta,605672,F,78,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,14,42,14,8,assisted,head
+245,25,Athletic Club,Real Valladolid,0.14559805393219,0,83,-5,Raúl Moro,980383,F,60,Real Valladolid,1542,Unai Simón,797291,86,Athletic Club,1788,False,1,31,9,83,assisted,strong-foot
+245,25,Athletic Club,Real Valladolid,0.14669919013977,0,87,5,Íñigo Lekue,801837,D,60,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,17,42,17,6,assisted,weak-foot
+245,25,Athletic Club,Real Valladolid,0.90662884712219,1,87,5,Iñaki Williams,783374,M,80,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,2,41,2,26,regular,weak-foot
+245,25,Athletic Club,Real Valladolid,0.051291882991791,0,89,6,Gorka Guruzeta,605672,F,78,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,13,37,13,12,assisted,head
+245,25,Athletic Club,Real Valladolid,0.0052869603969157,0,90,6,Iñaki Williams,783374,M,80,Athletic Club,1788,Karl Hein,991591,69,Real Valladolid,1542,True,17,66,31,56,assisted,strong-foot
+246,25,Getafe,Real Betis,0.43752750754356,1,18,0,Isco,103417,M,75,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,12,40,12,0,fast-break,strong-foot
+246,25,Getafe,Real Betis,0.049937296658754,0,24,1,Antony,958380,F,71,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,22,46,22,15,fast-break,strong-foot
+246,25,Getafe,Real Betis,0.050791427493095,0,25,1,Jesús Rodriguez,1800245,M,55,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,6,27,14,65,assisted,weak-foot
+246,25,Getafe,Real Betis,0.056153785437346,0,27,1,Diego Llorente,305278,D,39,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,10,36,10,21,corner,head
+246,25,Getafe,Real Betis,0.064821287989616,0,28,-1,Mauro Arambarri,385888,M,65,Getafe,1643,Adrián,50539,76,Real Betis,1664,True,10,38,10,11,corner,head
+246,25,Getafe,Real Betis,0.013891715556383,0,28,-1,Juan Bernat,96368,D,63,Getafe,1643,Adrián,50539,76,Real Betis,1664,True,26,48,27,17,corner,strong-foot
+246,25,Getafe,Real Betis,0.015353715978563,0,31,-1,Mauro Arambarri,385888,M,65,Getafe,1643,Adrián,50539,76,Real Betis,1664,True,36,17,42,32,regular,strong-foot
+246,25,Getafe,Real Betis,0.036389980465174,0,32,1,Diego Llorente,305278,D,39,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,11,38,11,10,corner,head
+246,25,Getafe,Real Betis,0.094466544687748,0,34,-1,Borja Mayoral,604954,F,79,Getafe,1643,Adrián,50539,76,Real Betis,1664,True,9,44,9,23,assisted,head
+246,25,Getafe,Real Betis,0.046550258994102,0,35,-1,Juanmi,96369,F,76,Getafe,1643,Adrián,50539,76,Real Betis,1664,True,12,37,12,14,assisted,head
+246,25,Getafe,Real Betis,0.06488936394453,0,39,1,Marc Bartra,99519,D,59,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,10,36,10,21,corner,head
+246,25,Getafe,Real Betis,0.13011635839939,0,45,1,Johnny,990169,M,65,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,1,46,6,80,assisted,strong-foot
+246,25,Getafe,Real Betis,0.027712674811482,0,58,1,Ricardo Rodríguez,67769,D,69,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,32,48,32,14,corner,strong-foot
+246,25,Getafe,Real Betis,0.033872064203024,0,60,-1,Mauro Arambarri,385888,M,65,Getafe,1643,Adrián,50539,76,Real Betis,1664,True,27,40,27,0,assisted,strong-foot
+246,25,Getafe,Real Betis,0.066947057843208,0,62,-1,Juanmi,96369,F,76,Getafe,1643,Adrián,50539,76,Real Betis,1664,True,15,38,15,7,assisted,strong-foot
+246,25,Getafe,Real Betis,0.21472163498402,0,63,1,Antony,958380,F,71,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,6,27,14,65,assisted,strong-foot
+246,25,Getafe,Real Betis,0.034502074122429,0,64,1,Cucho Hernández,887055,F,77,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,13,23,21,52,assisted,strong-foot
+246,25,Getafe,Real Betis,0.024907348677516,0,69,1,Isco,103417,M,75,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,29,32,30,15,assisted,strong-foot
+246,25,Getafe,Real Betis,0.12513449788094,0,72,1,Sergi Altimira,1137814,M,60,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,17,31,19,27,assisted,weak-foot
+246,25,Getafe,Real Betis,0.7884,1,77,1,Isco,103417,M,75,Real Betis,1664,David Soria,604258,81,Getafe,1643,False,13,40,13,0,penalty,strong-foot
+246,25,Getafe,Real Betis,0.76004999876022,1,82,-2,Borja Mayoral,604954,F,79,Getafe,1643,Adrián,50539,76,Real Betis,1664,True,3,42,3,33,regular,strong-foot
+246,25,Getafe,Real Betis,0.024160863831639,0,89,-1,Carles Pérez,794950,M,74,Getafe,1643,Adrián,50539,76,Real Betis,1664,True,23,45,23,12,set-piece,strong-foot
+246,25,Getafe,Real Betis,0.040918476879597,0,90,-1,Carles Pérez,794950,M,74,Getafe,1643,Adrián,50539,76,Real Betis,1664,True,24,49,25,20,regular,strong-foot
+247,25,Real Madrid,Girona FC,0.061689808964729,0,5,0,Arnau Martínez,1084081,D,48,Girona FC,1697,Thibaut Courtois,70988,89,Real Madrid,1949,False,1,32,8,82,corner,weak-foot
+247,25,Real Madrid,Girona FC,0.046379704028368,0,6,0,Kylian Mbappé,826643,F,88,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,9,23,19,62,fast-break,strong-foot
+247,25,Real Madrid,Girona FC,0.017263378947973,0,7,0,Rodrygo,910536,F,79,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,33,25,36,24,assisted,strong-foot
+247,25,Real Madrid,Girona FC,0.048550665378571,0,10,0,Vinícius Júnior,868812,F,83,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,9,27,15,55,regular,weak-foot
+247,25,Real Madrid,Girona FC,0.155582472682,0,15,0,Vinícius Júnior,868812,F,83,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,8,40,8,0,assisted,head
+247,25,Real Madrid,Girona FC,0.051671583205462,0,16,0,Viktor Tsygankov,319735,M,76,Girona FC,1697,Thibaut Courtois,70988,89,Real Madrid,1949,False,16,54,21,41,assisted,strong-foot
+247,25,Real Madrid,Girona FC,0.015250303782523,0,24,0,Aurélien Tchouaméni,859025,M,67,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,35,39,35,1,assisted,strong-foot
+247,25,Real Madrid,Girona FC,0.050524037331343,0,27,0,Luka Modrić,15466,M,75,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,26,31,27,19,assisted,weak-foot
+247,25,Real Madrid,Girona FC,0.023639706894755,0,28,0,Rodrygo,910536,F,79,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,21,24,26,37,corner,weak-foot
+247,25,Real Madrid,Girona FC,0.04713436961174,0,30,0,Donny van de Beek,361790,M,75,Girona FC,1697,Thibaut Courtois,70988,89,Real Madrid,1949,False,11,24,19,55,assisted,strong-foot
+247,25,Real Madrid,Girona FC,0.23449942469597,0,32,0,Viktor Tsygankov,319735,M,76,Girona FC,1697,Thibaut Courtois,70988,89,Real Madrid,1949,False,11,43,11,15,assisted,strong-foot
+247,25,Real Madrid,Girona FC,0.075384877622128,0,33,0,Kylian Mbappé,826643,F,88,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,25,48,26,17,assisted,strong-foot
+247,25,Real Madrid,Girona FC,0.026358785107732,0,34,0,Rodrygo,910536,F,79,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,29,51,31,20,corner,strong-foot
+247,25,Real Madrid,Girona FC,0.028964068740606,1,41,0,Luka Modrić,15466,M,75,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,30,34,30,11,corner,weak-foot
+247,25,Real Madrid,Girona FC,0.072392798960209,0,52,1,Vinícius Júnior,868812,F,83,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,3,31,9,71,corner,strong-foot
+247,25,Real Madrid,Girona FC,0.015258477069438,0,52,1,Lucas Vázquez,255239,D,72,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,27,56,31,30,corner,strong-foot
+247,25,Real Madrid,Girona FC,0.029599582776427,0,58,1,Vinícius Júnior,868812,F,83,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,25,28,27,25,assisted,strong-foot
+247,25,Real Madrid,Girona FC,0.083070822060108,0,62,1,Kylian Mbappé,826643,F,88,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,3,48,8,69,assisted,strong-foot
+247,25,Real Madrid,Girona FC,0.093780115246773,0,66,1,Aurélien Tchouaméni,859025,M,67,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,11,40,11,0,set-piece,head
+247,25,Real Madrid,Girona FC,0.1587850600481,0,74,1,Vinícius Júnior,868812,F,83,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,11,32,13,36,assisted,strong-foot
+247,25,Real Madrid,Girona FC,0.36508360505104,0,80,1,Kylian Mbappé,826643,F,88,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,17,39,17,3,assisted,weak-foot
+247,25,Real Madrid,Girona FC,0.23973922431469,0,80,1,Rodrygo,910536,F,79,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,5,41,5,11,regular,head
+247,25,Real Madrid,Girona FC,0.039327763020992,0,83,-1,Yáser Asprilla,1092769,M,71,Girona FC,1697,Thibaut Courtois,70988,89,Real Madrid,1949,False,16,53,20,39,assisted,weak-foot
+247,25,Real Madrid,Girona FC,0.20719368755817,1,83,1,Vinícius Júnior,868812,F,83,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,11,33,13,32,fast-break,strong-foot
+247,25,Real Madrid,Girona FC,0.01331221498549,0,86,-2,Yáser Asprilla,1092769,M,71,Girona FC,1697,Thibaut Courtois,70988,89,Real Madrid,1949,False,24,50,26,22,corner,strong-foot
+247,25,Real Madrid,Girona FC,0.17389385402203,0,89,2,Rodrygo,910536,F,79,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,17,38,17,6,assisted,strong-foot
+247,25,Real Madrid,Girona FC,0.019204184412956,0,90,2,Kylian Mbappé,826643,F,88,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,27,23,31,32,assisted,strong-foot
+247,25,Real Madrid,Girona FC,0.23868569731712,0,90,2,Kylian Mbappé,826643,F,88,Real Madrid,1949,Paulo Gazzaniga,164343,82,Girona FC,1697,True,14,34,15,23,assisted,weak-foot
+248,25,Real Sociedad,Leganés,0.036912947893143,0,2,0,Arsen Zakharyan,1066045,M,70,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,16,38,16,7,assisted,head
+248,25,Real Sociedad,Leganés,0.095466710627079,1,12,0,Arsen Zakharyan,1066045,M,70,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,24,45,24,11,assisted,strong-foot
+248,25,Real Sociedad,Leganés,0.030253391712904,0,15,1,Arsen Zakharyan,1066045,M,70,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,23,54,26,31,regular,strong-foot
+248,25,Real Sociedad,Leganés,0.093852087855339,0,16,1,Nayef Aguerd,877102,D,49,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,8,42,8,14,corner,head
+248,25,Real Sociedad,Leganés,0.023798234760761,0,17,-1,Dani Raba,873947,M,70,Leganés,1585,Álex Remiro,791773,84,Real Sociedad,1709,False,22,30,24,24,assisted,strong-foot
+248,25,Real Sociedad,Leganés,0.032800175249577,0,20,1,Arsen Zakharyan,1066045,M,70,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,30,41,30,1,assisted,weak-foot
+248,25,Real Sociedad,Leganés,0.016407188028097,0,25,1,Jon Aramburu,1116388,D,45,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,28,56,32,29,regular,strong-foot
+248,25,Real Sociedad,Leganés,0.044268079102039,0,37,1,Takefusa Kubo,880218,M,76,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,14,51,17,38,regular,strong-foot
+248,25,Real Sociedad,Leganés,0.040120664983988,0,45,1,Pablo Marín,1139409,M,60,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,29,47,29,13,assisted,strong-foot
+248,25,Real Sociedad,Leganés,0.079612962901592,1,48,1,Takefusa Kubo,880218,M,76,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,10,52,15,50,assisted,strong-foot
+248,25,Real Sociedad,Leganés,0.013675018213689,0,50,-2,Juan Cruz,936234,M,39,Leganés,1585,Álex Remiro,791773,84,Real Sociedad,1709,False,29,34,29,11,corner,strong-foot
+248,25,Real Sociedad,Leganés,0.020300066098571,0,50,-2,Sergio González,377234,D,40,Leganés,1585,Álex Remiro,791773,84,Real Sociedad,1709,False,13,41,13,4,corner,head
+248,25,Real Sociedad,Leganés,0.051616434007883,0,55,-2,Dani Raba,873947,M,70,Leganés,1585,Álex Remiro,791773,84,Real Sociedad,1709,False,17,54,22,39,assisted,strong-foot
+248,25,Real Sociedad,Leganés,0.015353715978563,0,61,-2,Óscar Rodríguez,794948,M,75,Leganés,1585,Álex Remiro,791773,84,Real Sociedad,1709,False,34,21,38,29,assisted,strong-foot
+248,25,Real Sociedad,Leganés,0.095668233931065,0,65,2,Jon Martin,1466116,D,25,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,9,41,9,6,corner,head
+248,25,Real Sociedad,Leganés,0.032635916024446,0,66,-2,Miguel de la Fuente,914212,F,72,Leganés,1585,Álex Remiro,791773,84,Real Sociedad,1709,False,16,54,21,41,assisted,strong-foot
+248,25,Real Sociedad,Leganés,0.089307449758053,0,77,-2,Dani Raba,873947,M,70,Leganés,1585,Álex Remiro,791773,84,Real Sociedad,1709,False,19,44,19,11,assisted,weak-foot
+248,25,Real Sociedad,Leganés,0.051952891051769,1,80,2,Jon Ander Olasagasti,1010383,M,61,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,17,47,18,22,corner,strong-foot
+248,25,Real Sociedad,Leganés,0.10809750109911,0,83,3,Mikel Oyarzabal,823622,F,82,Real Sociedad,1709,Marko Dmitrović,94527,78,Leganés,1585,True,13,38,13,8,throw-in-set-piece,weak-foot
+248,25,Real Sociedad,Leganés,0.025369750335813,0,88,-3,Roberto López,958018,M,72,Leganés,1585,Álex Remiro,791773,84,Real Sociedad,1709,False,15,56,21,46,set-piece,strong-foot
+249,25,Sevilla,Mallorca,0.084209837019444,0,9,0,Johan Mojica,344847,D,63,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,18,35,18,15,throw-in-set-piece,weak-foot
+249,25,Sevilla,Mallorca,0.021092854440212,0,15,0,Dodi Lukebakio,823631,F,79,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,22,58,28,39,assisted,strong-foot
+249,25,Sevilla,Mallorca,0.13757897913456,0,19,0,Kike Salas,1097719,D,25,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,6,33,9,49,corner,strong-foot
+249,25,Sevilla,Mallorca,0.064026862382889,0,24,0,Dodi Lukebakio,823631,F,79,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,10,46,11,30,assisted,strong-foot
+249,25,Sevilla,Mallorca,0.058526638895273,0,29,0,Ruben Vargas,872919,M,69,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,11,24,19,55,regular,weak-foot
+249,25,Sevilla,Mallorca,0.23701710999012,0,32,0,Vedat Muriqi,310874,F,80,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,4,36,5,45,assisted,head
+249,25,Sevilla,Mallorca,0.057541627436876,0,38,0,Vedat Muriqi,310874,F,80,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,11,42,11,10,assisted,head
+249,25,Sevilla,Mallorca,0.035870525985956,0,42,0,Djibril Sow,799054,M,68,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,27,34,27,12,assisted,strong-foot
+249,25,Sevilla,Mallorca,0.055905018001795,0,45,0,Isaac Romero,1018190,F,73,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,11,39,11,5,set-piece,head
+249,25,Sevilla,Mallorca,0.19414727389812,1,45,0,Kike Salas,1097719,D,25,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,8,41,8,7,set-piece,strong-foot
+249,25,Sevilla,Mallorca,0.035521566867828,0,47,-1,Omar Mascarell,255999,M,62,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,5,49,10,60,corner,head
+249,25,Sevilla,Mallorca,0.037737961858511,0,48,1,Ruben Vargas,872919,M,69,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,15,23,22,48,regular,weak-foot
+249,25,Sevilla,Mallorca,0.027514526620507,0,48,1,Saúl Ñíguez,116955,M,75,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,30,41,30,1,regular,weak-foot
+249,25,Sevilla,Mallorca,0.18740928173065,0,50,-1,Takuma Asano,309546,F,68,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,7,41,7,8,regular,head
+249,25,Sevilla,Mallorca,0.11240530014038,0,55,-1,Antonio Raíllo,807116,D,35,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,2,33,7,74,corner,head
+249,25,Sevilla,Mallorca,0.029817763715982,0,56,1,Saúl Ñíguez,116955,M,75,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,25,42,25,4,throw-in-set-piece,strong-foot
+249,25,Sevilla,Mallorca,0.054138265550137,0,58,1,Dodi Lukebakio,823631,F,79,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,20,37,20,8,assisted,strong-foot
+249,25,Sevilla,Mallorca,0.18023911118507,0,61,1,Kike Salas,1097719,D,25,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,3,46,6,63,set-piece,head
+249,25,Sevilla,Mallorca,0.032427351921797,0,61,1,Kike Salas,1097719,D,25,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,14,43,14,12,set-piece,head
+249,25,Sevilla,Mallorca,0.015353715978563,0,64,1,Adrià Pedrosa,928672,D,59,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,33,21,38,29,assisted,strong-foot
+249,25,Sevilla,Mallorca,0.11662971228361,0,66,1,Isaac Romero,1018190,F,73,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,18,41,18,3,fast-break,weak-foot
+249,25,Sevilla,Mallorca,0.016617121174932,0,68,1,Adrià Pedrosa,928672,D,59,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,23,22,29,38,assisted,strong-foot
+249,25,Sevilla,Mallorca,0.029593378305435,0,68,1,José Ángel Carmona,1015240,D,64,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,21,56,26,37,regular,strong-foot
+249,25,Sevilla,Mallorca,0.52862811088562,0,75,-1,Robert Navarro,944165,M,67,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,12,40,12,0,assisted,strong-foot
+249,25,Sevilla,Mallorca,0.21340841054916,0,78,-1,Robert Navarro,944165,M,67,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,11,35,12,24,throw-in-set-piece,weak-foot
+249,25,Sevilla,Mallorca,0.08800258487463,0,80,-1,Cyle Larin,790179,F,74,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,5,46,7,50,assisted,head
+249,25,Sevilla,Mallorca,0.53334498405457,0,84,-1,Cyle Larin,790179,F,74,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,3,40,3,0,assisted,strong-foot
+249,25,Sevilla,Mallorca,0.017040181905031,0,85,-1,Antonio Raíllo,807116,D,35,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,16,36,16,14,corner,head
+249,25,Sevilla,Mallorca,0.013859685510397,0,85,-1,Johan Mojica,344847,D,63,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,30,42,30,3,corner,strong-foot
+249,25,Sevilla,Mallorca,0.071578398346901,0,87,1,Chidera Ejuke,875890,M,68,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,15,26,20,43,fast-break,strong-foot
+249,25,Sevilla,Mallorca,0.17026861011982,1,90,-1,Martin Valjent,300522,D,35,Mallorca,1639,Ørjan Nyland,22209,76,Sevilla,1662,False,6,54,15,66,regular,strong-foot
+249,25,Sevilla,Mallorca,0.11605177074671,0,90,0,Lucien Agoumé,960006,M,53,Sevilla,1662,Dominik Greif,791046,77,Mallorca,1639,True,8,41,8,7,set-piece,head
+250,26,Real Valladolid,Las Palmas,0.033947102725506,0,20,0,Viti Rozada,1031499,D,60,Las Palmas,1597,Karl Hein,991591,69,Real Valladolid,1542,False,31,44,31,7,regular,strong-foot
+250,26,Real Valladolid,Las Palmas,0.024166662245989,1,22,0,Sandro Ramírez,188407,F,78,Las Palmas,1597,Karl Hein,991591,69,Real Valladolid,1542,False,25,57,30,34,assisted,strong-foot
+250,26,Real Valladolid,Las Palmas,0.024492297321558,0,25,-1,Selim Amallah,801211,M,73,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,22,29,24,26,assisted,strong-foot
+250,26,Real Valladolid,Las Palmas,0.14383570849895,0,26,-1,Anuar,601962,M,62,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,9,37,9,18,assisted,head
+250,26,Real Valladolid,Las Palmas,0.051837775856256,0,32,-1,Javi Sánchez,943713,D,54,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,33,44,33,6,free-kick,strong-foot
+250,26,Real Valladolid,Las Palmas,0.010583363473415,0,37,1,José Campaña,96373,M,71,Las Palmas,1597,Karl Hein,991591,69,Real Valladolid,1542,False,27,13,38,45,assisted,strong-foot
+250,26,Real Valladolid,Las Palmas,0.018311139196157,0,38,-1,Tamás Nikitscher,1393242,M,64,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,32,30,33,17,assisted,weak-foot
+250,26,Real Valladolid,Las Palmas,0.042874183505774,0,42,-1,Antonio Candela,862464,M,53,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,12,57,20,54,assisted,strong-foot
+250,26,Real Valladolid,Las Palmas,0.11033836007118,0,45,1,Dário Essugo,1110006,M,56,Las Palmas,1597,Karl Hein,991591,69,Real Valladolid,1542,False,4,46,7,56,corner,head
+250,26,Real Valladolid,Las Palmas,0.030025046318769,0,52,-1,Marcos André,880157,F,70,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,15,38,15,7,assisted,head
+250,26,Real Valladolid,Las Palmas,0.20793767273426,1,63,-1,Juanmi Latasa,966679,F,70,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,3,35,5,59,corner,strong-foot
+250,26,Real Valladolid,Las Palmas,0.17046721279621,0,65,0,Raúl Moro,980383,F,60,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,9,27,15,55,assisted,weak-foot
+250,26,Real Valladolid,Las Palmas,0.092834286391735,0,66,0,Mario Martin,1154549,M,51,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,9,35,10,29,corner,head
+250,26,Real Valladolid,Las Palmas,0.063565231859684,0,68,0,Javi Sánchez,943713,D,54,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,11,44,11,19,assisted,head
+250,26,Real Valladolid,Las Palmas,0.034360460937023,0,72,0,Raúl Moro,980383,F,60,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,21,28,24,29,corner,strong-foot
+250,26,Real Valladolid,Las Palmas,0.024195745587349,0,74,0,Mario Martin,1154549,M,51,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,30,55,33,26,assisted,strong-foot
+250,26,Real Valladolid,Las Palmas,0.026099648326635,0,76,0,Iván Sánchez,142018,M,65,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,17,57,24,45,fast-break,strong-foot
+250,26,Real Valladolid,Las Palmas,0.040203843265772,0,77,0,Mario Martin,1154549,M,51,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,12,53,17,47,throw-in-set-piece,strong-foot
+250,26,Real Valladolid,Las Palmas,0.13164089620113,0,77,0,Marcos André,880157,F,70,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,9,41,9,6,throw-in-set-piece,strong-foot
+250,26,Real Valladolid,Las Palmas,0.028358915820718,0,78,0,Raúl Moro,980383,F,60,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,18,35,18,15,corner,strong-foot
+250,26,Real Valladolid,Las Palmas,0.042517308145761,0,79,0,Florian Grillitsch,186719,M,58,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,21,44,21,10,corner,strong-foot
+250,26,Real Valladolid,Las Palmas,0.027890300378203,0,84,0,Mario Martin,1154549,M,51,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,12,42,12,9,corner,head
+250,26,Real Valladolid,Las Palmas,0.095158912241459,0,86,0,Mario Martin,1154549,M,51,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,12,49,15,36,regular,strong-foot
+250,26,Real Valladolid,Las Palmas,0.097612090408802,0,86,0,Adam Aznou,1466124,D,36,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,15,38,15,7,regular,weak-foot
+250,26,Real Valladolid,Las Palmas,0.30508449673653,0,89,0,Mario Martin,1154549,M,51,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,14,42,14,8,assisted,strong-foot
+250,26,Real Valladolid,Las Palmas,0.017893699929118,0,90,0,Mario Martin,1154549,M,51,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,26,37,26,6,corner,weak-foot
+250,26,Real Valladolid,Las Palmas,0.080309294164181,0,90,0,Juanmi Latasa,966679,F,70,Real Valladolid,1542,Jasper Cillessen,123865,78,Las Palmas,1597,True,8,44,8,26,corner,head
+251,26,Atlético Madrid,Athletic Club,0.020545709878206,0,2,0,Rodrigo de Paul,249399,M,77,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,23,55,27,33,corner,strong-foot
+251,26,Atlético Madrid,Athletic Club,0.48875251412392,0,4,0,Robin Le Normand,787751,D,28,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,5,39,5,11,corner,head
+251,26,Atlético Madrid,Athletic Club,0.074282445013523,0,11,0,Iñaki Williams,783374,M,80,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,17,51,20,32,assisted,weak-foot
+251,26,Atlético Madrid,Athletic Club,0.10083773732185,0,16,0,Iñigo Ruiz de Galarreta,96365,M,64,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,18,45,18,15,assisted,strong-foot
+251,26,Atlético Madrid,Athletic Club,0.075274594128132,0,16,0,Iñigo Ruiz de Galarreta,96365,M,64,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,15,43,15,11,regular,strong-foot
+251,26,Atlético Madrid,Athletic Club,0.52503281831741,0,18,0,Alexander Sørloth,309078,F,80,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,4,38,4,26,assisted,head
+251,26,Atlético Madrid,Athletic Club,0.052989777177572,0,22,0,Iñaki Williams,783374,M,80,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,19,40,19,0,assisted,weak-foot
+251,26,Atlético Madrid,Athletic Club,0.037524685263634,0,31,0,Robin Le Normand,787751,D,28,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,10,45,11,26,corner,head
+251,26,Atlético Madrid,Athletic Club,0.13426366448402,0,36,0,Samuel Lino,874705,M,70,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,16,35,16,17,assisted,weak-foot
+251,26,Atlético Madrid,Athletic Club,0.056873220950365,0,37,0,Alexander Sørloth,309078,F,80,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,8,44,8,26,corner,head
+251,26,Atlético Madrid,Athletic Club,0.021314619109035,0,38,0,Álex Berenguer,592012,M,75,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,27,49,28,18,assisted,weak-foot
+251,26,Atlético Madrid,Athletic Club,0.054162140935659,0,39,0,Iñaki Williams,783374,M,80,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,11,25,18,53,fast-break,weak-foot
+251,26,Atlético Madrid,Athletic Club,0.013373488560319,0,41,0,Nico Williams,1085400,M,74,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,27,52,29,23,assisted,weak-foot
+251,26,Atlético Madrid,Athletic Club,0.18295060098171,0,41,0,Alexander Sørloth,309078,F,80,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,5,44,6,38,assisted,head
+251,26,Atlético Madrid,Athletic Club,0.10312692075968,0,41,0,Álex Berenguer,592012,M,75,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,18,42,18,6,regular,weak-foot
+251,26,Atlético Madrid,Athletic Club,0.018098492175341,0,43,0,Giuliano Simeone,1099352,M,70,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,14,56,21,48,assisted,strong-foot
+251,26,Atlético Madrid,Athletic Club,0.03577509149909,0,51,0,Samuel Lino,874705,M,70,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,17,37,17,10,assisted,head
+251,26,Atlético Madrid,Athletic Club,0.11438485234976,0,60,0,Álex Berenguer,592012,M,75,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,18,41,18,3,assisted,strong-foot
+251,26,Atlético Madrid,Athletic Club,0.069304585456848,0,61,0,Mikel Jauregizar,1495844,M,62,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,22,36,22,10,regular,strong-foot
+251,26,Atlético Madrid,Athletic Club,0.6565049290657,1,66,0,Julián Álvarez,944656,F,86,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,16,40,16,0,assisted,weak-foot
+251,26,Atlético Madrid,Athletic Club,0.026328140869737,0,73,1,Ángel Correa,316152,F,82,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,13,55,19,49,regular,strong-foot
+251,26,Atlético Madrid,Athletic Club,0.073331229388714,0,75,-1,Beñat Prados,1012409,M,60,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,9,33,11,37,set-piece,head
+251,26,Atlético Madrid,Athletic Club,0.18499967455864,0,75,-1,Iñaki Williams,783374,M,80,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,3,48,8,69,set-piece,strong-foot
+251,26,Atlético Madrid,Athletic Club,0.078109472990036,0,76,-1,Beñat Prados,1012409,M,60,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,11,33,13,32,assisted,weak-foot
+251,26,Atlético Madrid,Athletic Club,0.03208539262414,0,82,-1,Iñaki Williams,783374,M,80,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,27,34,27,12,set-piece,strong-foot
+251,26,Atlético Madrid,Athletic Club,0.052520595490932,0,88,1,Julián Álvarez,944656,F,86,Atlético Madrid,1886,Unai Simón,797291,86,Athletic Club,1801,True,27,53,29,25,free-kick,strong-foot
+251,26,Atlético Madrid,Athletic Club,0.072222203016281,0,88,-1,Gorka Guruzeta,605672,F,78,Athletic Club,1801,Jan Oblak,69768,88,Atlético Madrid,1886,False,11,33,13,32,assisted,weak-foot
+252,26,Girona FC,Celta Vigo,0.078390583395958,0,6,0,Williot Swedberg,1126779,M,68,Celta Vigo,1671,Paulo Gazzaniga,164343,82,Girona FC,1689,False,12,39,12,4,assisted,strong-foot
+252,26,Girona FC,Celta Vigo,0.3100925385952,1,21,0,Viktor Tsygankov,319735,M,76,Girona FC,1689,Vicente Guaita,32023,77,Celta Vigo,1671,True,5,41,5,11,throw-in-set-piece,strong-foot
+252,26,Girona FC,Celta Vigo,0.01870447024703,0,21,1,Oriol Romeu,69416,M,53,Girona FC,1689,Vicente Guaita,32023,77,Celta Vigo,1671,True,23,54,26,31,throw-in-set-piece,weak-foot
+252,26,Girona FC,Celta Vigo,0.042128656059504,0,27,-1,Alfon González,1468090,F,66,Celta Vigo,1671,Paulo Gazzaniga,164343,82,Girona FC,1689,False,15,29,18,36,assisted,strong-foot
+252,26,Girona FC,Celta Vigo,0.06367289274931,0,29,-1,Fran Beltrán,835484,M,57,Celta Vigo,1671,Paulo Gazzaniga,164343,82,Girona FC,1689,False,22,49,23,22,assisted,strong-foot
+252,26,Girona FC,Celta Vigo,0.5938800573349,1,36,-1,Iker Losada,992331,M,71,Celta Vigo,1671,Paulo Gazzaniga,164343,82,Girona FC,1689,False,8,41,8,7,assisted,strong-foot
+252,26,Girona FC,Celta Vigo,0.013803294859827,0,38,0,Daley Blind,44864,D,62,Girona FC,1689,Vicente Guaita,32023,77,Celta Vigo,1671,True,31,34,31,10,regular,strong-foot
+252,26,Girona FC,Celta Vigo,0.06961615383625,0,45,0,Viktor Tsygankov,319735,M,76,Girona FC,1689,Vicente Guaita,32023,77,Celta Vigo,1671,True,27,49,28,18,free-kick,strong-foot
+252,26,Girona FC,Celta Vigo,0.7884,1,51,0,Marcos Alonso,69408,D,74,Celta Vigo,1671,Paulo Gazzaniga,164343,82,Girona FC,1689,False,13,40,13,0,penalty,strong-foot
+252,26,Girona FC,Celta Vigo,0.021823201328516,0,55,1,Sergio Carreira,1002764,D,44,Celta Vigo,1671,Paulo Gazzaniga,164343,82,Girona FC,1689,False,14,55,20,46,assisted,weak-foot
+252,26,Girona FC,Celta Vigo,0.012922109104693,0,59,-1,Ladislav Krejčí,856250,D,67,Girona FC,1689,Vicente Guaita,32023,77,Celta Vigo,1671,True,16,38,16,7,set-piece,head
+252,26,Girona FC,Celta Vigo,0.035354815423489,0,61,-1,Yangel Herrera,839585,M,74,Girona FC,1689,Vicente Guaita,32023,77,Celta Vigo,1671,True,11,40,11,0,corner,head
+252,26,Girona FC,Celta Vigo,0.049360051751137,0,62,1,Ilaix Moriba,962890,M,68,Celta Vigo,1671,Paulo Gazzaniga,164343,82,Girona FC,1689,False,19,33,20,20,regular,weak-foot
+252,26,Girona FC,Celta Vigo,0.023443015292287,1,68,-1,Yangel Herrera,839585,M,74,Girona FC,1689,Vicente Guaita,32023,77,Celta Vigo,1671,True,14,39,14,4,corner,head
+252,26,Girona FC,Celta Vigo,0.040645103901625,0,76,0,Bryan Gil,910026,M,70,Girona FC,1689,Vicente Guaita,32023,77,Celta Vigo,1671,True,26,31,27,19,assisted,weak-foot
+252,26,Girona FC,Celta Vigo,0.13926543295383,0,76,0,Alfon González,1468090,F,66,Celta Vigo,1671,Paulo Gazzaniga,164343,82,Girona FC,1689,False,15,42,15,7,assisted,strong-foot
+252,26,Girona FC,Celta Vigo,0.13836413621902,0,79,0,Cristhian Stuani,32048,F,78,Girona FC,1689,Vicente Guaita,32023,77,Celta Vigo,1671,True,14,39,14,4,regular,weak-foot
+252,26,Girona FC,Celta Vigo,0.063756838440895,0,83,0,Sergio Carreira,1002764,D,44,Celta Vigo,1671,Paulo Gazzaniga,164343,82,Girona FC,1689,False,9,51,14,50,assisted,strong-foot
+252,26,Girona FC,Celta Vigo,0.005358933005482,0,90,0,Borja Iglesias,785989,F,78,Celta Vigo,1671,Paulo Gazzaniga,164343,82,Girona FC,1689,False,42,21,46,24,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.016249485313892,0,1,0,Adrià Pedrosa,928672,D,59,Sevilla,1679,Augusto Batalla,358910,77,Rayo Vallecano,1661,False,35,30,36,15,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.57105040550232,0,3,0,Álvaro García,345111,M,68,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,5,40,5,0,assisted,head
+253,26,Rayo Vallecano,Sevilla,0.026778196915984,0,7,0,Adrià Pedrosa,928672,D,59,Sevilla,1679,Augusto Batalla,358910,77,Rayo Vallecano,1661,False,24,31,25,20,corner,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.028658237308264,0,9,0,Adrián Embarba,346516,M,73,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,28,46,28,12,regular,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.064201936125755,0,11,0,Ismaila Ciss,913679,M,55,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,10,40,10,0,corner,head
+253,26,Rayo Vallecano,Sevilla,0.4412816464901,0,19,0,Randy Nteka,932764,F,71,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,10,36,10,21,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.074226297438145,0,19,0,Adrián Embarba,346516,M,73,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,12,45,13,22,regular,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.0069320374168456,0,26,0,Adrián Embarba,346516,M,73,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,30,52,32,21,corner,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.05561251565814,0,29,0,Sergi Guardiola,141945,F,71,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,24,46,24,14,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.047464534640312,0,36,0,Kike Salas,1097719,D,25,Sevilla,1679,Augusto Batalla,358910,77,Rayo Vallecano,1661,False,9,35,10,29,corner,head
+253,26,Rayo Vallecano,Sevilla,0.05671776458621,0,40,0,Ruben Vargas,872919,M,69,Sevilla,1679,Augusto Batalla,358910,77,Rayo Vallecano,1661,False,18,25,23,39,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.09007503837347,0,42,0,Ruben Vargas,872919,M,69,Sevilla,1679,Augusto Batalla,358910,77,Rayo Vallecano,1661,False,9,26,16,57,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.23854115605354,0,46,0,Ruben Vargas,872919,M,69,Sevilla,1679,Augusto Batalla,358910,77,Rayo Vallecano,1661,False,6,41,6,9,corner,head
+253,26,Rayo Vallecano,Sevilla,0.072176396846771,0,49,0,Florian Lejeune,88528,D,59,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,9,37,9,18,corner,head
+253,26,Rayo Vallecano,Sevilla,0.32757696509361,0,52,0,Sergi Guardiola,141945,F,71,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,15,52,19,38,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.047357816249132,0,54,0,Álvaro García,345111,M,68,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,15,29,18,36,assisted,weak-foot
+253,26,Rayo Vallecano,Sevilla,0.058283481746912,1,55,0,Andrei Rațiu,965031,D,57,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,26,33,26,15,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.035650622099638,0,59,-1,Kike Salas,1097719,D,25,Sevilla,1679,Augusto Batalla,358910,77,Rayo Vallecano,1661,False,13,39,13,4,set-piece,head
+253,26,Rayo Vallecano,Sevilla,0.0063705425709486,0,60,-1,Adrià Pedrosa,928672,D,59,Sevilla,1679,Augusto Batalla,358910,77,Rayo Vallecano,1661,False,31,27,33,22,corner,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.051470622420311,0,61,-1,Djibril Sow,799054,M,68,Sevilla,1679,Augusto Batalla,358910,77,Rayo Vallecano,1661,False,25,51,27,23,assisted,weak-foot
+253,26,Rayo Vallecano,Sevilla,0.037010721862316,0,67,1,Andrei Rațiu,965031,D,57,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,15,56,21,46,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.018891097977757,0,69,1,Pedro Díaz,900669,M,74,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,33,52,35,19,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.024922419339418,0,80,1,Óscar Valentín,900008,M,45,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,27,43,27,6,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.055323101580143,0,81,1,Ismaila Ciss,913679,M,55,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,8,44,8,26,corner,head
+253,26,Rayo Vallecano,Sevilla,0.027975404635072,1,81,-1,Dodi Lukebakio,823631,F,79,Sevilla,1679,Augusto Batalla,358910,77,Rayo Vallecano,1661,False,18,57,24,43,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.015882330015302,0,84,0,Florian Lejeune,88528,D,59,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,39,55,41,21,assisted,strong-foot
+253,26,Rayo Vallecano,Sevilla,0.040871914476156,0,84,0,Florian Lejeune,88528,D,59,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,11,42,11,10,corner,head
+253,26,Rayo Vallecano,Sevilla,0.068498142063618,0,85,0,Álvaro García,345111,M,68,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,7,25,16,64,assisted,weak-foot
+253,26,Rayo Vallecano,Sevilla,0.12486758083105,0,85,0,Sergi Guardiola,141945,F,71,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,8,38,8,14,assisted,head
+253,26,Rayo Vallecano,Sevilla,0.73631769418716,0,90,0,Sergi Guardiola,141945,F,71,Rayo Vallecano,1661,Ørjan Nyland,22209,76,Sevilla,1679,True,4,38,4,26,assisted,head
+254,26,Real Betis,Real Madrid,0.46092388033867,1,10,0,Brahim Díaz,835485,M,72,Real Madrid,1956,Adrián,50539,76,Real Betis,1714,False,8,41,8,7,assisted,weak-foot
+254,26,Real Betis,Real Madrid,0.098179906606674,0,13,1,Rodrygo,910536,F,79,Real Madrid,1956,Adrián,50539,76,Real Betis,1714,False,5,48,9,57,assisted,head
+254,26,Real Betis,Real Madrid,0.025308545678854,0,17,1,Lucas Vázquez,255239,D,72,Real Madrid,1956,Adrián,50539,76,Real Betis,1714,False,26,52,28,24,regular,strong-foot
+254,26,Real Betis,Real Madrid,0.016377648338675,0,22,-1,Ricardo Rodríguez,67769,D,69,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,33,34,33,10,set-piece,strong-foot
+254,26,Real Betis,Real Madrid,0.031747691333294,0,26,-1,Marc Bartra,99519,D,59,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,15,33,16,25,set-piece,strong-foot
+254,26,Real Betis,Real Madrid,0.22790151834488,0,30,-1,Jesús Rodriguez,1800245,M,55,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,12,43,12,14,assisted,strong-foot
+254,26,Real Betis,Real Madrid,0.048056300729513,0,33,-1,Cucho Hernández,887055,F,77,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,25,32,26,17,assisted,strong-foot
+254,26,Real Betis,Real Madrid,0.45461308956146,1,34,-1,Johnny,990169,M,65,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,6,39,6,9,corner,head
+254,26,Real Betis,Real Madrid,0.025081753730774,0,36,0,Isco,103417,M,75,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,28,39,28,2,assisted,strong-foot
+254,26,Real Betis,Real Madrid,0.017287267372012,0,43,0,Sergi Altimira,1137814,M,60,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,24,25,28,32,assisted,weak-foot
+254,26,Real Betis,Real Madrid,0.033922340720892,0,45,0,Antony,958380,F,71,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,27,32,28,16,assisted,strong-foot
+254,26,Real Betis,Real Madrid,0.062999382615089,0,45,0,Johnny,990169,M,65,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,10,36,10,21,corner,head
+254,26,Real Betis,Real Madrid,0.086959518492222,0,47,0,Johnny,990169,M,65,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,17,44,17,13,assisted,strong-foot
+254,26,Real Betis,Real Madrid,0.0346689671278,0,47,0,Cucho Hernández,887055,F,77,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,17,28,20,35,assisted,strong-foot
+254,26,Real Betis,Real Madrid,0.0039637987501919,0,50,0,Youssouf Sabaly,111803,D,52,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,36,43,36,4,corner,strong-foot
+254,26,Real Betis,Real Madrid,0.073052227497101,0,50,0,Isco,103417,M,75,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,29,41,29,1,free-kick,strong-foot
+254,26,Real Betis,Real Madrid,0.058718048036098,0,52,0,Brahim Díaz,835485,M,72,Real Madrid,1956,Adrián,50539,76,Real Betis,1714,False,13,28,17,42,regular,weak-foot
+254,26,Real Betis,Real Madrid,0.7884,1,54,0,Isco,103417,M,75,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,13,40,13,0,penalty,strong-foot
+254,26,Real Betis,Real Madrid,0.048038590699434,0,58,1,Ricardo Rodríguez,67769,D,69,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,32,42,32,3,free-kick,strong-foot
+254,26,Real Betis,Real Madrid,0.033420525491238,0,59,1,Marc Bartra,99519,D,59,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,13,37,13,12,corner,head
+254,26,Real Betis,Real Madrid,0.038849640637636,0,61,-1,Arda Güler,1091116,M,73,Real Madrid,1956,Adrián,50539,76,Real Betis,1714,False,15,53,19,40,assisted,strong-foot
+254,26,Real Betis,Real Madrid,0.30858597159386,0,67,1,Cucho Hernández,887055,F,77,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,7,51,13,57,assisted,strong-foot
+254,26,Real Betis,Real Madrid,0.092516727745533,0,73,1,Marc Bartra,99519,D,59,Real Betis,1714,Thibaut Courtois,70988,89,Real Madrid,1956,True,6,34,8,45,corner,head
+254,26,Real Betis,Real Madrid,0.048316817730665,0,79,-1,Arda Güler,1091116,M,73,Real Madrid,1956,Adrián,50539,76,Real Betis,1714,False,25,43,25,6,regular,strong-foot
+254,26,Real Betis,Real Madrid,0.11249317228794,0,79,-1,Endrick,1174937,F,76,Real Madrid,1956,Adrián,50539,76,Real Betis,1714,False,12,30,15,39,assisted,strong-foot
+254,26,Real Betis,Real Madrid,0.026442060247064,0,83,-1,Vinícius Júnior,868812,F,83,Real Madrid,1956,Adrián,50539,76,Real Betis,1714,False,30,28,32,21,assisted,strong-foot
+254,26,Real Betis,Real Madrid,0.05314964056015,0,90,-1,Endrick,1174937,F,76,Real Madrid,1956,Adrián,50539,76,Real Betis,1714,False,21,37,21,8,set-piece,strong-foot
+255,26,Barcelona,Real Sociedad,0.13749605417252,0,21,0,Dani Olmo,789071,M,79,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,15,45,15,18,assisted,weak-foot
+255,26,Barcelona,Real Sociedad,0.01065088249743,0,22,0,Gerard Martín,1094827,D,44,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,12,19,24,60,regular,strong-foot
+255,26,Barcelona,Real Sociedad,0.11416655778885,1,25,0,Gerard Martín,1094827,D,44,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,10,30,14,45,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.051542941480875,0,27,1,Pedri,992587,M,67,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,15,54,20,43,regular,strong-foot
+255,26,Barcelona,Real Sociedad,0.042181249707937,0,29,1,Dani Olmo,789071,M,79,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,22,46,22,15,corner,strong-foot
+255,26,Barcelona,Real Sociedad,0.11078633368015,1,29,1,Marc Casadó,1000483,M,57,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,12,38,12,9,corner,weak-foot
+255,26,Barcelona,Real Sociedad,0.067905783653259,0,37,2,Robert Lewandowski,41789,F,88,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,13,47,14,28,regular,strong-foot
+255,26,Barcelona,Real Sociedad,0.1019039824605,0,38,2,Robert Lewandowski,41789,F,88,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,15,47,16,25,regular,strong-foot
+255,26,Barcelona,Real Sociedad,0.096120215952396,0,39,2,Pedri,992587,M,67,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,21,41,21,2,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.026028232648969,0,44,2,Raphinha,831005,M,82,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,30,40,30,0,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.058509193360806,0,44,2,Dani Olmo,789071,M,79,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,18,38,18,6,corner,strong-foot
+255,26,Barcelona,Real Sociedad,0.071233257651329,0,45,2,Dani Olmo,789071,M,79,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,17,51,20,32,regular,strong-foot
+255,26,Barcelona,Real Sociedad,0.044383160769939,0,45,2,Lamine Yamal,1402912,F,77,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,19,47,20,20,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.043767850846052,0,50,2,Raphinha,831005,M,82,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,27,57,31,32,free-kick,strong-foot
+255,26,Barcelona,Real Sociedad,0.028053803369403,0,55,2,Pedri,992587,M,67,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,25,27,28,27,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.049953319132328,0,56,2,Robert Lewandowski,41789,F,88,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,8,45,9,32,corner,head
+255,26,Barcelona,Real Sociedad,0.37775859236717,1,56,2,Ronald Araújo,925097,D,51,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,4,39,4,14,corner,head
+255,26,Barcelona,Real Sociedad,0.016641551628709,0,60,3,Ronald Araújo,925097,D,51,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,33,46,33,10,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.30294093489647,1,61,3,Robert Lewandowski,41789,F,88,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,15,39,15,3,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.03087143599987,0,63,4,Robert Lewandowski,41789,F,88,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,17,49,19,27,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.071692571043968,0,63,4,Gerard Martín,1094827,D,44,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,11,29,15,45,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.08147956430912,0,64,4,Dani Olmo,789071,M,79,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,11,25,18,53,corner,weak-foot
+255,26,Barcelona,Real Sociedad,0.029567899182439,0,65,4,Lamine Yamal,1402912,F,77,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,25,55,29,30,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.11759697645903,0,67,4,Ferran Torres,855833,F,77,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,18,40,18,0,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.042238309979439,0,79,4,Ferran Torres,855833,F,77,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,5,53,13,68,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.46937042474747,0,80,4,Robert Lewandowski,41789,F,88,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,5,38,5,21,corner,head
+255,26,Barcelona,Real Sociedad,0.019330345094204,0,83,4,Lamine Yamal,1402912,F,77,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,16,57,23,46,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.036707315593958,0,84,4,Ferran Torres,855833,F,77,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,29,19,35,35,free-kick,strong-foot
+255,26,Barcelona,Real Sociedad,0.11592377722263,0,86,4,Ferran Torres,855833,F,77,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,6,48,10,53,corner,weak-foot
+255,26,Barcelona,Real Sociedad,0.040872756391764,0,88,4,Robert Lewandowski,41789,F,88,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,27,32,28,16,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.019292313605547,0,89,4,Lamine Yamal,1402912,F,77,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,16,56,22,45,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.029251022264361,0,90,4,Hector Fort,1402908,D,33,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,21,56,26,37,assisted,strong-foot
+255,26,Barcelona,Real Sociedad,0.012229121290147,0,90,4,Lamine Yamal,1402912,F,77,Barcelona,1925,Álex Remiro,791773,84,Real Sociedad,1721,True,22,58,28,39,assisted,strong-foot
+256,26,Leganés,Getafe,0.13027353584766,0,2,0,Borja Mayoral,604954,F,79,Getafe,1665,Marko Dmitrović,94527,78,Leganés,1590,False,10,42,10,11,set-piece,head
+256,26,Leganés,Getafe,0.056915424764156,0,15,0,Christantus Uche,1884145,M,62,Getafe,1665,Marko Dmitrović,94527,78,Leganés,1590,False,9,35,10,29,corner,head
+256,26,Leganés,Getafe,0.0095237186178565,0,30,0,Ramón Terrats,1088565,M,63,Getafe,1665,Marko Dmitrović,94527,78,Leganés,1590,False,34,23,38,26,throw-in-set-piece,weak-foot
+256,26,Leganés,Getafe,0.012996840290725,0,33,0,Juan Iglesias,949707,D,37,Getafe,1665,Marko Dmitrović,94527,78,Leganés,1590,False,36,48,36,12,set-piece,strong-foot
+256,26,Leganés,Getafe,0.016847779974341,0,35,0,Christantus Uche,1884145,M,62,Getafe,1665,Marko Dmitrović,94527,78,Leganés,1590,False,22,30,24,24,set-piece,weak-foot
+256,26,Leganés,Getafe,0.024391185492277,0,38,0,Juan Berrocal,851226,D,37,Getafe,1665,Marko Dmitrović,94527,78,Leganés,1590,False,14,44,14,15,set-piece,head
+256,26,Leganés,Getafe,0.19628067314625,0,41,0,Sergio González,377234,D,40,Leganés,1590,David Soria,604258,81,Getafe,1665,True,3,44,5,53,corner,head
+256,26,Leganés,Getafe,0.084718786180019,0,44,0,Jorge Sáenz,592098,D,41,Leganés,1590,David Soria,604258,81,Getafe,1665,True,9,38,9,12,set-piece,head
+256,26,Leganés,Getafe,0.013705338351429,0,67,0,Diego Rico,350560,D,55,Getafe,1665,Marko Dmitrović,94527,78,Leganés,1590,False,34,39,34,1,throw-in-set-piece,strong-foot
+256,26,Leganés,Getafe,0.013403872959316,0,75,0,Juan Iglesias,949707,D,37,Getafe,1665,Marko Dmitrović,94527,78,Leganés,1590,False,36,44,36,6,corner,strong-foot
+256,26,Leganés,Getafe,0.182308152318,0,76,0,Dani Raba,873947,M,70,Leganés,1590,David Soria,604258,81,Getafe,1665,True,16,46,17,20,fast-break,strong-foot
+256,26,Leganés,Getafe,0.25498223304749,0,81,0,Seydouba Cisse,906065,M,65,Leganés,1590,David Soria,604258,81,Getafe,1665,True,8,41,8,7,assisted,head
+256,26,Leganés,Getafe,0.061549484729767,0,88,0,Óscar Rodríguez,794948,M,75,Leganés,1590,David Soria,604258,81,Getafe,1665,True,28,50,29,19,free-kick,strong-foot
+256,26,Leganés,Getafe,0.0521619617939,0,90,0,Juanmi,96369,F,76,Getafe,1665,Marko Dmitrović,94527,78,Leganés,1590,False,11,37,11,15,corner,head
+256,26,Leganés,Getafe,0.21288946270943,1,90,0,Diego Garcia,1121475,F,69,Leganés,1590,David Soria,604258,81,Getafe,1665,True,11,42,11,10,regular,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.032834995537996,1,9,0,Takuma Asano,309546,F,68,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,18,46,18,18,throw-in-set-piece,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.047740444540977,0,16,-1,Manuel Sánchez,984789,D,42,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,12,24,20,53,regular,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.02680879086256,0,18,-1,Carles Aleñá,794937,M,69,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,29,41,29,1,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.099852532148361,0,21,1,Vedat Muriqi,310874,F,80,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,23,39,23,2,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.013230396434665,0,22,1,Sergi Darder,110783,M,75,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,33,36,33,6,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.41893780231476,0,26,1,Vedat Muriqi,310874,F,80,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,15,29,18,36,fast-break,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.029103359207511,0,29,1,Dani Rodríguez,349526,M,72,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,23,47,24,16,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.060330029577017,0,30,-1,Kike García,84972,F,77,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,11,27,17,49,regular,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.024185171350837,0,32,1,Robert Navarro,944165,M,67,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,30,48,31,14,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.03421688824892,0,42,-1,Carlos Martín,1131581,F,23,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,16,52,20,36,set-piece,weak-foot
+257,26,Mallorca,Deportivo Alavés,0.08980119228363,0,49,-1,Carles Aleñá,794937,M,69,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,14,41,14,4,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.024511586874723,0,53,-1,Antonio Blanco,855832,M,55,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,29,46,29,11,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.022192334756255,0,55,-1,Abdelkabir Abqar,1101232,D,31,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,11,32,13,36,corner,head
+257,26,Mallorca,Deportivo Alavés,0.059091482311487,0,56,-1,Kike García,84972,F,77,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,17,28,20,35,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.04056453332305,0,58,-1,Carles Aleñá,794937,M,69,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,25,46,25,13,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.19745299220085,0,58,-1,Kike García,84972,F,77,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,8,38,8,14,corner,head
+257,26,Mallorca,Deportivo Alavés,0.028143804520369,0,60,-1,Carlos Martín,1131581,F,23,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,17,21,25,48,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.10820388048887,0,62,1,Vedat Muriqi,310874,F,80,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,1,47,7,81,assisted,head
+257,26,Mallorca,Deportivo Alavés,0.030355658382177,0,63,1,Dani Rodríguez,349526,M,72,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,13,48,15,31,corner,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.23380152881145,0,63,1,Vedat Muriqi,310874,F,80,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,9,40,9,0,corner,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.068112403154373,0,63,1,Vedat Muriqi,310874,F,80,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,11,41,11,5,corner,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.01696639508009,0,65,1,Vedat Muriqi,310874,F,80,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,13,49,15,34,throw-in-set-piece,head
+257,26,Mallorca,Deportivo Alavés,0.13466247916222,0,67,-1,Abdelkabir Abqar,1101232,D,31,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,5,44,6,38,set-piece,head
+257,26,Mallorca,Deportivo Alavés,0.030176766216755,0,68,-1,Carlos Martín,1131581,F,23,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,15,24,21,46,corner,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.81111633777618,1,68,-1,Kike García,84972,F,77,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,2,41,2,26,corner,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.040412824600935,0,73,0,Toni Martínez,831253,F,75,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,12,35,13,22,assisted,head
+257,26,Mallorca,Deportivo Alavés,0.019287154078484,0,75,0,Sergi Darder,110783,M,75,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,34,38,34,3,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.037017181515694,0,76,0,Carlos Martín,1131581,F,23,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,19,23,25,41,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.0071462765336037,0,84,0,Antonio Raíllo,807116,D,35,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,11,51,15,45,corner,head
+257,26,Mallorca,Deportivo Alavés,0.018611721694469,0,89,0,Toni Martínez,831253,F,75,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,25,25,29,30,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.034083664417267,0,90,0,Abdón Prats,146852,F,74,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,14,44,14,15,assisted,head
+257,26,Mallorca,Deportivo Alavés,0.040086220949888,0,90,0,Samú Costa,988351,M,64,Mallorca,1659,Antonio Sivera,369004,76,Deportivo Alavés,1618,True,11,48,13,36,assisted,head
+257,26,Mallorca,Deportivo Alavés,0.012605521827936,0,90,0,Carles Aleñá,794937,M,69,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,25,26,28,29,assisted,strong-foot
+257,26,Mallorca,Deportivo Alavés,0.031475678086281,0,90,0,Carlos Martín,1131581,F,23,Deportivo Alavés,1618,Dominik Greif,791046,77,Mallorca,1659,False,17,23,24,45,assisted,strong-foot
+258,26,Osasuna,Valencia,0.019047532230616,0,1,0,Javier Guerra,1122610,M,68,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,31,51,32,19,regular,strong-foot
+258,26,Osasuna,Valencia,0.044712103903294,0,4,0,Enzo Barrenechea,1087316,M,62,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,22,39,22,2,regular,strong-foot
+258,26,Osasuna,Valencia,0.019469752907753,0,11,0,Flavien Boyomo,1067582,D,37,Osasuna,1672,Giorgi Mamardashvili,930997,85,Valencia,1642,True,15,37,15,11,set-piece,head
+258,26,Osasuna,Valencia,0.55463069677353,1,14,0,Diego López,998950,M,68,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,5,53,13,68,assisted,strong-foot
+258,26,Osasuna,Valencia,0.045433394610882,0,23,-1,Bryan Zaragoza,1084730,F,71,Osasuna,1672,Giorgi Mamardashvili,930997,85,Valencia,1642,True,13,20,23,56,assisted,strong-foot
+258,26,Osasuna,Valencia,0.17224149405956,1,26,-1,Aimar Oroz,985329,M,73,Osasuna,1672,Giorgi Mamardashvili,930997,85,Valencia,1642,True,6,34,8,45,assisted,strong-foot
+258,26,Osasuna,Valencia,0.64122372865677,1,32,0,Umar Sadiq,754710,F,74,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,5,38,5,21,assisted,strong-foot
+258,26,Osasuna,Valencia,0.21876434981823,0,37,1,Diego López,998950,M,68,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,12,36,12,18,assisted,strong-foot
+258,26,Osasuna,Valencia,0.020137466490269,0,38,-1,Bryan Zaragoza,1084730,F,71,Osasuna,1672,Giorgi Mamardashvili,930997,85,Valencia,1642,True,27,24,31,30,assisted,strong-foot
+258,26,Osasuna,Valencia,0.058038186281919,1,39,-1,Aimar Oroz,985329,M,73,Osasuna,1672,Giorgi Mamardashvili,930997,85,Valencia,1642,True,22,44,22,10,assisted,strong-foot
+258,26,Osasuna,Valencia,0.7884,1,45,0,Ante Budimir,37318,F,79,Osasuna,1672,Giorgi Mamardashvili,930997,85,Valencia,1642,True,13,40,13,0,penalty,strong-foot
+258,26,Osasuna,Valencia,0.0077971634455025,0,45,-1,José Luis Gayà,227922,D,60,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,41,17,47,29,regular,strong-foot
+258,26,Osasuna,Valencia,0.13531140983105,0,45,1,Ante Budimir,37318,F,79,Osasuna,1672,Giorgi Mamardashvili,930997,85,Valencia,1642,True,22,47,23,17,fast-break,strong-foot
+258,26,Osasuna,Valencia,0.035795003175735,0,51,-1,Iván Jaime,951986,M,73,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,26,32,27,17,assisted,strong-foot
+258,26,Osasuna,Valencia,0.014603190124035,0,52,1,Bryan Zaragoza,1084730,F,71,Osasuna,1672,Giorgi Mamardashvili,930997,85,Valencia,1642,True,17,19,27,51,assisted,strong-foot
+258,26,Osasuna,Valencia,0.028344908729196,0,54,-1,Luis Rioja,900433,M,74,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,18,58,25,45,assisted,strong-foot
+258,26,Osasuna,Valencia,0.03065998852253,0,59,1,Kike Barja,591132,F,64,Osasuna,1672,Giorgi Mamardashvili,930997,85,Valencia,1642,True,12,20,23,59,assisted,strong-foot
+258,26,Osasuna,Valencia,0.014548685401678,0,60,1,Ante Budimir,37318,F,79,Osasuna,1672,Giorgi Mamardashvili,930997,85,Valencia,1642,True,34,42,34,3,regular,strong-foot
+258,26,Osasuna,Valencia,0.070574000477791,0,64,-1,Rafa Mir,825754,F,72,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,8,34,10,36,corner,head
+258,26,Osasuna,Valencia,0.022968357428908,0,65,-1,Luis Rioja,900433,M,74,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,28,51,30,21,assisted,strong-foot
+258,26,Osasuna,Valencia,0.021426411345601,0,83,-1,Rafa Mir,825754,F,72,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,28,34,28,12,assisted,strong-foot
+258,26,Osasuna,Valencia,0.067158751189709,1,87,-1,Umar Sadiq,754710,F,74,Valencia,1642,Sergio Herrera,294377,78,Osasuna,1672,False,13,33,14,28,assisted,weak-foot
+258,26,Osasuna,Valencia,0.22802001237869,0,90,0,Alejandro Catena,900792,D,39,Osasuna,1672,Giorgi Mamardashvili,930997,85,Valencia,1642,True,5,39,5,11,corner,head
+259,27,Celta Vigo,Leganés,0.046691909432411,0,8,0,Alfon González,1468090,F,66,Celta Vigo,1671,Marko Dmitrović,94527,78,Leganés,1590,True,16,31,18,29,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.32648277282715,1,19,0,Valentin Rosier,842419,D,50,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,10,46,11,30,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.058361887931824,1,26,-1,Óscar Mingueza,859773,M,57,Celta Vigo,1671,Marko Dmitrović,94527,78,Leganés,1590,True,10,26,17,54,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.02656221576035,0,28,0,Óscar Rodríguez,794948,M,75,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,32,32,32,14,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.036039799451828,0,31,0,Diego Garcia,1121475,F,69,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,17,55,22,41,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.13311895728111,0,32,0,Renato Tapia,352376,M,65,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,8,40,8,0,corner,head
+259,27,Celta Vigo,Leganés,0.036683693528175,0,36,0,Borja Iglesias,785989,F,78,Celta Vigo,1671,Marko Dmitrović,94527,78,Leganés,1590,True,18,30,20,29,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.59686464071274,1,45,0,Alfon González,1468090,F,66,Celta Vigo,1671,Marko Dmitrović,94527,78,Leganés,1590,True,11,34,12,28,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.020005498081446,0,45,-1,Diego Garcia,1121475,F,69,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,9,52,15,53,assisted,head
+259,27,Celta Vigo,Leganés,0.05260868370533,0,49,-1,Diego Garcia,1121475,F,69,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,9,45,10,29,corner,head
+259,27,Celta Vigo,Leganés,0.089708760380745,0,51,1,Sergio Carreira,1002764,D,44,Celta Vigo,1671,Marko Dmitrović,94527,78,Leganés,1590,True,9,53,15,55,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.057960018515587,0,56,-1,Valentin Rosier,842419,D,50,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,23,53,26,29,assisted,weak-foot
+259,27,Celta Vigo,Leganés,0.033562421798706,0,58,1,Borja Iglesias,785989,F,78,Celta Vigo,1671,Marko Dmitrović,94527,78,Leganés,1590,True,10,55,18,56,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.021007684990764,0,72,-1,Miguel de la Fuente,914212,F,72,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,26,49,27,19,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.044706825166941,0,73,-1,Miguel de la Fuente,914212,F,72,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,18,40,18,0,regular,strong-foot
+259,27,Celta Vigo,Leganés,0.026271495968103,0,78,1,Alfon González,1468090,F,66,Celta Vigo,1671,Marko Dmitrović,94527,78,Leganés,1590,True,27,49,28,18,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.10865372419357,0,90,-1,Javier Hernández,1031658,D,75,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,9,34,10,33,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.033973343670368,0,90,-1,Julián Chicco,822594,M,54,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,22,28,25,28,assisted,strong-foot
+259,27,Celta Vigo,Leganés,0.19670061767101,0,90,-1,Dani Raba,873947,M,70,Leganés,1590,Vicente Guaita,32023,77,Celta Vigo,1671,False,11,42,11,10,regular,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.006966186221689,0,3,0,Antonio Blanco,855832,M,55,Deportivo Alavés,1618,Diego Conde,951008,77,Villarreal,1769,True,35,41,35,1,corner,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.96940660476685,1,11,0,Manuel Sánchez,984789,D,42,Deportivo Alavés,1618,Diego Conde,951008,77,Villarreal,1769,True,1,40,1,0,regular,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.1675963550806,0,11,1,Manuel Sánchez,984789,D,42,Deportivo Alavés,1618,Diego Conde,951008,77,Villarreal,1769,True,10,38,10,11,assisted,head
+260,27,Deportivo Alavés,Villarreal,0.046624418348074,0,16,-1,Ayoze Pérez,345195,F,77,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,15,40,15,0,set-piece,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.020796088501811,0,16,-1,Pape Gueye,879694,M,61,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,25,42,25,4,set-piece,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.10831543058157,0,23,-1,Nicolas Pépé,593526,F,76,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,21,29,23,27,fast-break,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.037328027188778,0,34,1,Carlos Martín,1131581,F,23,Deportivo Alavés,1618,Diego Conde,951008,77,Villarreal,1769,True,13,25,19,49,set-piece,weak-foot
+260,27,Deportivo Alavés,Villarreal,0.32043418288231,0,37,-1,Ayoze Pérez,345195,F,77,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,12,44,12,18,fast-break,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.44496116042137,0,37,-1,Yéremy Pino,984624,M,73,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,9,44,9,23,assisted,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.12063216418028,0,42,-1,Ayoze Pérez,345195,F,77,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,6,34,8,45,set-piece,head
+260,27,Deportivo Alavés,Villarreal,0.021467655897141,0,44,1,Pau Cabanes De La Torre,1863206,F,67,Deportivo Alavés,1618,Diego Conde,951008,77,Villarreal,1769,True,27,57,31,32,fast-break,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.022679602727294,0,47,-1,Juan Foyth,873189,D,45,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,28,53,30,24,assisted,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.1377504914999,0,49,-1,Ayoze Pérez,345195,F,77,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,8,38,8,14,corner,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.49648931622505,0,50,-1,Ayoze Pérez,345195,F,77,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,26,29,28,22,fast-break,weak-foot
+260,27,Deportivo Alavés,Villarreal,0.037405297160149,0,60,-1,Alejandro Baena,910031,M,74,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,31,29,32,19,free-kick,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.011646521277726,0,63,-1,Alejandro Baena,910031,M,74,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,27,19,34,37,corner,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.015166134573519,0,64,-1,Pape Gueye,879694,M,61,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,29,46,29,11,set-piece,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.030554035678506,0,69,-1,Alejandro Baena,910031,M,74,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,28,34,28,12,assisted,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.055904511362314,0,77,-1,Juan Foyth,873189,D,45,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,21,39,21,2,set-piece,weak-foot
+260,27,Deportivo Alavés,Villarreal,0.045295193791389,0,90,-1,Dani Parejo,39182,M,79,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,19,27,23,34,assisted,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.010517071001232,0,90,-1,Logan Costa,911853,D,40,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,33,23,37,27,assisted,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.054196942597628,0,90,-1,Nicolas Pépé,593526,F,76,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,8,55,17,61,assisted,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.021651735529304,0,90,-1,Willy Kambwala,1136721,D,28,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,13,36,13,17,corner,head
+260,27,Deportivo Alavés,Villarreal,0.13747903704643,0,90,-1,Ayoze Pérez,345195,F,77,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,4,33,8,60,corner,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.084597177803516,0,90,-1,Santi Comesaña,843678,M,68,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,9,43,9,18,assisted,head
+260,27,Deportivo Alavés,Villarreal,0.019704606384039,0,90,-1,Dani Parejo,39182,M,79,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,34,30,35,16,assisted,strong-foot
+260,27,Deportivo Alavés,Villarreal,0.11507039517164,0,90,-1,Ayoze Pérez,345195,F,77,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,3,46,6,63,assisted,head
+260,27,Deportivo Alavés,Villarreal,0.37430813908577,0,90,-1,Santi Comesaña,843678,M,68,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,9,40,9,0,assisted,weak-foot
+260,27,Deportivo Alavés,Villarreal,0.11662834137678,0,90,-1,Juan Foyth,873189,D,45,Villarreal,1769,Antonio Sivera,369004,76,Deportivo Alavés,1618,False,10,35,11,26,assisted,head
+261,27,Valencia,Real Valladolid,0.018208771944046,0,5,0,Diego López,998950,M,68,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,12,22,21,56,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.31861877441406,1,7,0,Diego López,998950,M,68,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,14,32,16,29,regular,strong-foot
+261,27,Valencia,Real Valladolid,0.039226531982422,0,9,1,André Almeida,845693,F,65,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,35,40,35,0,free-kick,strong-foot
+261,27,Valencia,Real Valladolid,0.039347298443317,0,11,1,Luis Rioja,900433,M,74,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,16,55,21,43,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.058536529541016,0,15,1,Umar Sadiq,754710,F,74,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,12,46,13,26,assisted,head
+261,27,Valencia,Real Valladolid,0.011631119064987,0,26,-1,Marcos André,880157,F,70,Real Valladolid,1531,Giorgi Mamardashvili,930997,85,Valencia,1642,False,35,27,37,20,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.040118250995874,0,30,1,Umar Sadiq,754710,F,74,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,14,47,15,26,assisted,head
+261,27,Valencia,Real Valladolid,0.31087240576744,0,33,1,Umar Sadiq,754710,F,74,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,8,41,8,7,set-piece,strong-foot
+261,27,Valencia,Real Valladolid,0.045867744833231,0,35,-1,Juanmi Latasa,966679,F,70,Real Valladolid,1531,Giorgi Mamardashvili,930997,85,Valencia,1642,False,11,35,12,24,assisted,head
+261,27,Valencia,Real Valladolid,0.20173379778862,0,37,1,Umar Sadiq,754710,F,74,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,12,36,12,18,assisted,head
+261,27,Valencia,Real Valladolid,0.069708988070488,0,39,1,Enzo Barrenechea,1087316,M,62,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,17,40,17,0,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.4895775616169,1,40,-1,Juanmi Latasa,966679,F,70,Real Valladolid,1531,Giorgi Mamardashvili,930997,85,Valencia,1642,False,17,46,18,19,regular,weak-foot
+261,27,Valencia,Real Valladolid,0.064822196960449,0,42,0,José Luis Gayà,227922,D,60,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,5,32,9,57,assisted,head
+261,27,Valencia,Real Valladolid,0.036330804228783,0,45,0,Luis Rioja,900433,M,74,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,15,60,25,53,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.029288314282894,0,45,0,Javier Guerra,1122610,M,68,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,27,33,27,14,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.027509476989508,0,45,0,Raúl Moro,980383,F,60,Real Valladolid,1531,Giorgi Mamardashvili,930997,85,Valencia,1642,False,32,37,32,5,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.018070058897138,0,50,0,José Luis Gayà,227922,D,60,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,24,25,28,32,regular,strong-foot
+261,27,Valencia,Real Valladolid,0.32718190550804,1,58,0,Umar Sadiq,754710,F,74,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,12,35,13,22,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.10485392808914,0,61,-1,Juanmi Latasa,966679,F,70,Real Valladolid,1531,Giorgi Mamardashvili,930997,85,Valencia,1642,False,8,46,10,36,assisted,head
+261,27,Valencia,Real Valladolid,0.013506641611457,0,63,1,Luis Rioja,900433,M,74,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,18,61,27,49,regular,strong-foot
+261,27,Valencia,Real Valladolid,0.056100707501173,0,63,-1,Juanmi Latasa,966679,F,70,Real Valladolid,1531,Giorgi Mamardashvili,930997,85,Valencia,1642,False,10,35,11,26,assisted,head
+261,27,Valencia,Real Valladolid,0.013985242694616,0,64,-1,Marcos André,880157,F,70,Real Valladolid,1531,Giorgi Mamardashvili,930997,85,Valencia,1642,False,20,20,28,45,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.042922455817461,0,68,-1,Selim Amallah,801211,M,73,Real Valladolid,1531,Giorgi Mamardashvili,930997,85,Valencia,1642,False,19,26,23,36,assisted,weak-foot
+261,27,Valencia,Real Valladolid,0.027874551713467,0,77,-1,Mamadou Sylla,793761,F,70,Real Valladolid,1531,Giorgi Mamardashvili,930997,85,Valencia,1642,False,6,53,14,65,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.02010808326304,0,89,1,César Tárrega,996928,D,40,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,13,40,13,0,corner,head
+261,27,Valencia,Real Valladolid,0.30660501122475,0,90,1,Iván Jaime,951986,M,73,Valencia,1642,Karl Hein,991591,69,Real Valladolid,1531,True,11,43,11,15,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.015035855583847,0,90,-1,Raúl Moro,980383,F,60,Real Valladolid,1531,Giorgi Mamardashvili,930997,85,Valencia,1642,False,16,19,26,52,assisted,strong-foot
+261,27,Valencia,Real Valladolid,0.036228213459253,0,90,-1,Mamadou Sylla,793761,F,70,Real Valladolid,1531,Giorgi Mamardashvili,930997,85,Valencia,1642,False,9,33,11,37,throw-in-set-piece,head
+262,27,Athletic Club,Mallorca,0.039595052599907,0,2,0,Nico Williams,1085400,M,74,Athletic Club,1801,Dominik Greif,791046,77,Mallorca,1659,True,21,27,24,31,assisted,strong-foot
+262,27,Athletic Club,Mallorca,0.076274015009403,0,3,0,Gorka Guruzeta,605672,F,78,Athletic Club,1801,Dominik Greif,791046,77,Mallorca,1659,True,10,38,10,11,assisted,head
+262,27,Athletic Club,Mallorca,0.06757153570652,0,7,0,Vedat Muriqi,310874,F,80,Mallorca,1659,Unai Simón,797291,86,Athletic Club,1801,False,12,48,14,33,assisted,strong-foot
+262,27,Athletic Club,Mallorca,0.035420421510935,0,10,0,Nico Williams,1085400,M,74,Athletic Club,1801,Dominik Greif,791046,77,Mallorca,1659,True,30,44,30,7,fast-break,strong-foot
+262,27,Athletic Club,Mallorca,0.019394217059016,0,35,0,Samú Costa,988351,M,64,Mallorca,1659,Unai Simón,797291,86,Athletic Club,1801,False,13,32,15,31,assisted,other
+262,27,Athletic Club,Mallorca,0.030842175707221,0,40,0,Omar Mascarell,255999,M,62,Mallorca,1659,Unai Simón,797291,86,Athletic Club,1801,False,20,46,20,16,throw-in-set-piece,weak-foot
+262,27,Athletic Club,Mallorca,0.027491768822074,0,42,0,Sergi Darder,110783,M,75,Mallorca,1659,Unai Simón,797291,86,Athletic Club,1801,False,25,50,26,21,regular,strong-foot
+262,27,Athletic Club,Mallorca,0.10531758517027,1,56,0,Antonio Raíllo,807116,D,35,Mallorca,1659,Unai Simón,797291,86,Athletic Club,1801,False,8,41,8,7,corner,head
+262,27,Athletic Club,Mallorca,0.40722852945328,1,58,-1,Nico Williams,1085400,M,74,Athletic Club,1801,Dominik Greif,791046,77,Mallorca,1659,True,5,37,5,30,assisted,head
+262,27,Athletic Club,Mallorca,0.016031697392464,0,61,0,Antonio Sánchez,949722,M,65,Mallorca,1659,Unai Simón,797291,86,Athletic Club,1801,False,23,38,23,4,set-piece,weak-foot
+262,27,Athletic Club,Mallorca,0.0065098125487566,0,62,0,Antonio Raíllo,807116,D,35,Mallorca,1659,Unai Simón,797291,86,Athletic Club,1801,False,40,36,40,5,throw-in-set-piece,strong-foot
+262,27,Athletic Club,Mallorca,0.2401796579361,0,66,0,Samú Costa,988351,M,64,Mallorca,1659,Unai Simón,797291,86,Athletic Club,1801,False,12,42,12,9,assisted,strong-foot
+262,27,Athletic Club,Mallorca,0.029566278681159,0,70,0,Iñaki Williams,783374,M,80,Athletic Club,1801,Dominik Greif,791046,77,Mallorca,1659,True,14,58,22,52,assisted,strong-foot
+262,27,Athletic Club,Mallorca,0.02175310254097,0,75,0,Nico Williams,1085400,M,74,Athletic Club,1801,Dominik Greif,791046,77,Mallorca,1659,True,20,20,28,45,regular,strong-foot
+262,27,Athletic Club,Mallorca,0.036273267120123,0,76,0,Antonio Raíllo,807116,D,35,Mallorca,1659,Unai Simón,797291,86,Athletic Club,1801,False,11,50,14,42,set-piece,head
+262,27,Athletic Club,Mallorca,0.029380347579718,0,83,0,Unai Gómez,1391375,M,64,Athletic Club,1801,Dominik Greif,791046,77,Mallorca,1659,True,6,69,29,78,free-kick,strong-foot
+262,27,Athletic Club,Mallorca,0.070322602987289,0,88,0,Unai Gómez,1391375,M,64,Athletic Club,1801,Dominik Greif,791046,77,Mallorca,1659,True,10,36,10,21,assisted,head
+263,27,Getafe,Atlético Madrid,0.022003145888448,0,29,0,Antoine Griezmann,85859,F,87,Atlético Madrid,1886,David Soria,604258,81,Getafe,1665,False,12,52,16,45,corner,strong-foot
+263,27,Getafe,Atlético Madrid,0.025214498862624,0,32,0,Coba da Costa,1392054,M,55,Getafe,1665,Jan Oblak,69768,88,Atlético Madrid,1886,True,21,38,21,5,corner,strong-foot
+263,27,Getafe,Atlético Madrid,0.11533033102751,0,40,0,Christantus Uche,1884145,M,62,Getafe,1665,Jan Oblak,69768,88,Atlético Madrid,1886,True,8,39,8,7,set-piece,head
+263,27,Getafe,Atlético Madrid,0.047971561551094,0,51,0,Robin Le Normand,787751,D,28,Atlético Madrid,1886,David Soria,604258,81,Getafe,1665,False,3,48,8,69,corner,strong-foot
+263,27,Getafe,Atlético Madrid,0.16280247271061,0,71,0,Robin Le Normand,787751,D,28,Atlético Madrid,1886,David Soria,604258,81,Getafe,1665,False,8,42,8,14,set-piece,head
+263,27,Getafe,Atlético Madrid,0.7884,1,75,0,Alexander Sørloth,309078,F,80,Atlético Madrid,1886,David Soria,604258,81,Getafe,1665,False,13,40,13,0,penalty,strong-foot
+263,27,Getafe,Atlético Madrid,0.10253835469484,0,78,-1,Mauro Arambarri,385888,M,65,Getafe,1665,Jan Oblak,69768,88,Atlético Madrid,1886,True,8,42,8,14,corner,head
+263,27,Getafe,Atlético Madrid,0.083060018718243,0,78,-1,Juan Bernat,96368,D,63,Getafe,1665,Jan Oblak,69768,88,Atlético Madrid,1886,True,10,30,14,45,assisted,strong-foot
+263,27,Getafe,Atlético Madrid,0.032558228820562,0,86,-1,Omar Alderete,805137,D,60,Getafe,1665,Jan Oblak,69768,88,Atlético Madrid,1886,True,20,23,26,40,throw-in-set-piece,strong-foot
+263,27,Getafe,Atlético Madrid,0.55356526374817,1,88,-1,Mauro Arambarri,385888,M,65,Getafe,1665,Jan Oblak,69768,88,Atlético Madrid,1886,True,4,37,5,36,set-piece,strong-foot
+263,27,Getafe,Atlético Madrid,0.09620913118124,0,88,0,Mauro Arambarri,385888,M,65,Getafe,1665,Jan Oblak,69768,88,Atlético Madrid,1886,True,10,36,10,21,set-piece,strong-foot
+263,27,Getafe,Atlético Madrid,0.010041848756373,0,90,0,Ramón Terrats,1088565,M,63,Getafe,1665,Jan Oblak,69768,88,Atlético Madrid,1886,True,27,66,37,43,set-piece,weak-foot
+263,27,Getafe,Atlético Madrid,0.015179195441306,0,90,0,Diego Rico,350560,D,55,Getafe,1665,Jan Oblak,69768,88,Atlético Madrid,1886,True,36,34,36,9,assisted,strong-foot
+263,27,Getafe,Atlético Madrid,0.21747578680515,1,90,0,Mauro Arambarri,385888,M,65,Getafe,1665,Jan Oblak,69768,88,Atlético Madrid,1886,True,13,39,13,4,assisted,weak-foot
+263,27,Getafe,Atlético Madrid,0.016653025522828,0,90,1,Diego Rico,350560,D,55,Getafe,1665,Jan Oblak,69768,88,Atlético Madrid,1886,True,27,23,31,32,assisted,strong-foot
+264,27,Real Betis,Las Palmas,0.061303183436394,0,3,0,Jesús Rodriguez,1800245,M,55,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,15,24,21,46,assisted,strong-foot
+264,27,Real Betis,Las Palmas,0.062604643404484,0,5,0,Fábio Silva,954076,F,73,Las Palmas,1591,Adrián,50539,76,Real Betis,1714,False,8,26,16,60,assisted,strong-foot
+264,27,Real Betis,Las Palmas,0.39016756415367,0,17,0,Cucho Hernández,887055,F,77,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,4,43,5,36,corner,head
+264,27,Real Betis,Las Palmas,0.21938294172287,0,20,0,Juanma Herzog,1513451,D,34,Las Palmas,1591,Adrián,50539,76,Real Betis,1714,False,9,41,9,6,set-piece,head
+264,27,Real Betis,Las Palmas,0.041097674518824,0,26,0,Pablo Fornals,816763,M,71,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,21,52,24,29,assisted,weak-foot
+264,27,Real Betis,Las Palmas,0.061090663075447,0,41,0,Ricardo Rodríguez,67769,D,69,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,27,49,28,18,free-kick,strong-foot
+264,27,Real Betis,Las Palmas,0.016288321465254,0,42,0,Antony,958380,F,71,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,22,48,23,19,corner,strong-foot
+264,27,Real Betis,Las Palmas,0.55012178421021,0,43,0,Jesús Rodriguez,1800245,M,55,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,12,49,15,36,fast-break,strong-foot
+264,27,Real Betis,Las Palmas,0.016206953674555,0,44,0,Álex Muñoz,273227,D,68,Las Palmas,1591,Adrián,50539,76,Real Betis,1714,False,37,35,37,7,assisted,strong-foot
+264,27,Real Betis,Las Palmas,0.077370956540108,0,46,0,Fábio Silva,954076,F,73,Las Palmas,1591,Adrián,50539,76,Real Betis,1714,False,13,23,21,52,fast-break,strong-foot
+264,27,Real Betis,Las Palmas,0.015353715978563,0,52,0,Javier Muñoz,353154,M,64,Las Palmas,1591,Adrián,50539,76,Real Betis,1714,False,34,17,41,34,assisted,strong-foot
+264,27,Real Betis,Las Palmas,0.02488205768168,0,55,0,Viti Rozada,1031499,D,60,Las Palmas,1591,Adrián,50539,76,Real Betis,1714,False,12,59,22,57,assisted,strong-foot
+264,27,Real Betis,Las Palmas,0.065760090947151,0,59,0,Fábio Silva,954076,F,73,Las Palmas,1591,Adrián,50539,76,Real Betis,1714,False,11,33,13,32,assisted,weak-foot
+264,27,Real Betis,Las Palmas,0.060384605079889,1,65,0,Diego Llorente,305278,D,39,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,17,38,17,6,corner,strong-foot
+264,27,Real Betis,Las Palmas,0.034383218735456,0,73,1,Sergi Altimira,1137814,M,60,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,25,25,29,30,assisted,strong-foot
+264,27,Real Betis,Las Palmas,0.029579196125269,0,75,1,Isco,103417,M,75,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,22,57,27,37,assisted,strong-foot
+264,27,Real Betis,Las Palmas,0.058075953274965,0,75,1,Isco,103417,M,75,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,25,45,25,11,regular,weak-foot
+264,27,Real Betis,Las Palmas,0.15304553508759,0,77,-1,Oliver McBurnie,367228,F,70,Las Palmas,1591,Adrián,50539,76,Real Betis,1714,False,11,36,11,19,set-piece,head
+264,27,Real Betis,Las Palmas,0.084672890603542,0,81,1,Abdessamad Ezzalzouli,1011375,M,70,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,21,30,23,25,assisted,strong-foot
+264,27,Real Betis,Las Palmas,0.10131079703569,0,83,1,Isco,103417,M,75,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,14,45,14,19,corner,weak-foot
+264,27,Real Betis,Las Palmas,0.033344514667988,0,90,1,Cédric Bakambu,115665,F,74,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,15,57,22,48,regular,strong-foot
+264,27,Real Betis,Las Palmas,0.7884,0,90,1,Isco,103417,M,75,Real Betis,1714,Jasper Cillessen,123865,78,Las Palmas,1591,True,13,40,13,0,penalty,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.015135603956878,0,4,0,Vinícius Júnior,868812,F,83,Real Madrid,1956,Augusto Batalla,358910,77,Rayo Vallecano,1661,True,15,21,24,51,assisted,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.1530944108963,0,7,0,Aridane Hernández,41013,D,36,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,4,44,5,45,corner,head
+265,27,Real Madrid,Rayo Vallecano,0.0305185187608,0,7,0,Álvaro García,345111,M,68,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,18,22,25,45,assisted,weak-foot
+265,27,Real Madrid,Rayo Vallecano,0.06721293181181,0,9,0,Rodrygo,910536,F,79,Real Madrid,1956,Augusto Batalla,358910,77,Rayo Vallecano,1661,True,10,38,10,11,assisted,head
+265,27,Real Madrid,Rayo Vallecano,0.069956578314304,0,14,0,Vinícius Júnior,868812,F,83,Real Madrid,1956,Augusto Batalla,358910,77,Rayo Vallecano,1661,True,21,32,22,20,assisted,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.11047457158566,0,14,0,Kylian Mbappé,826643,F,88,Real Madrid,1956,Augusto Batalla,358910,77,Rayo Vallecano,1661,True,14,28,18,40,regular,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.044767577201128,0,27,0,Andrei Rațiu,965031,D,57,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,11,59,21,59,regular,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.15733002126217,0,27,0,Gerard Gumbau,326471,M,66,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,17,44,17,13,regular,weak-foot
+265,27,Real Madrid,Rayo Vallecano,0.11843798309565,0,28,0,Pedro Díaz,900669,M,74,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,17,47,18,22,regular,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.14323411881924,1,30,0,Kylian Mbappé,826643,F,88,Real Madrid,1956,Augusto Batalla,358910,77,Rayo Vallecano,1661,True,12,27,17,47,regular,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.036682385951281,0,32,-1,Adrián Embarba,346516,M,73,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,27,37,27,6,assisted,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.049394439905882,1,34,1,Vinícius Júnior,868812,F,83,Real Madrid,1956,Augusto Batalla,358910,77,Rayo Vallecano,1661,True,11,27,17,49,assisted,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.50554865598679,0,35,2,Kylian Mbappé,826643,F,88,Real Madrid,1956,Augusto Batalla,358910,77,Rayo Vallecano,1661,True,16,38,16,7,regular,weak-foot
+265,27,Real Madrid,Rayo Vallecano,0.066485330462456,0,39,-2,Andrei Rațiu,965031,D,57,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,16,45,16,17,assisted,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.03219598159194,0,39,-2,Pedro Díaz,900669,M,74,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,16,56,22,45,regular,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.043169673532248,0,39,-2,Gerard Gumbau,326471,M,66,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,27,36,27,8,regular,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.025326138362288,0,41,2,Fran García,851271,D,47,Real Madrid,1956,Augusto Batalla,358910,77,Rayo Vallecano,1661,True,11,22,21,58,assisted,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.063032805919647,0,45,-2,Álvaro García,345111,M,68,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,8,28,14,56,assisted,weak-foot
+265,27,Real Madrid,Rayo Vallecano,0.066528826951981,0,45,-2,Álvaro García,345111,M,68,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,13,43,13,12,assisted,weak-foot
+265,27,Real Madrid,Rayo Vallecano,0.03564440086484,1,45,-2,Pedro Díaz,900669,M,74,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,22,33,23,17,assisted,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.006901687476784,0,48,-1,Adrián Embarba,346516,M,73,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,29,26,32,25,set-piece,weak-foot
+265,27,Real Madrid,Rayo Vallecano,0.076044835150242,0,54,1,Kylian Mbappé,826643,F,88,Real Madrid,1956,Augusto Batalla,358910,77,Rayo Vallecano,1661,True,15,31,17,30,set-piece,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.016407188028097,0,74,-1,Álvaro García,345111,M,68,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,28,23,32,31,assisted,weak-foot
+265,27,Real Madrid,Rayo Vallecano,0.48915687203407,0,76,1,Vinícius Júnior,868812,F,83,Real Madrid,1956,Augusto Batalla,358910,77,Rayo Vallecano,1661,True,8,35,9,32,assisted,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.020878484472632,0,80,-1,Álvaro García,345111,M,68,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,25,45,25,11,corner,weak-foot
+265,27,Real Madrid,Rayo Vallecano,0.042181439697742,0,80,-1,Ismaila Ciss,913679,M,55,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,16,37,16,10,corner,weak-foot
+265,27,Real Madrid,Rayo Vallecano,0.018356040120125,0,88,-1,Óscar Trejo,21949,M,74,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,14,24,21,48,set-piece,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.010583363473415,0,90,-1,Florian Lejeune,88528,D,59,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,29,65,38,40,assisted,strong-foot
+265,27,Real Madrid,Rayo Vallecano,0.047579519450665,0,90,-1,Aridane Hernández,41013,D,36,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,10,35,11,26,corner,head
+265,27,Real Madrid,Rayo Vallecano,0.015353629365563,0,90,-1,Unai López,588566,M,70,Rayo Vallecano,1661,Andriy Lunin,857574,81,Real Madrid,1956,False,36,50,37,15,assisted,strong-foot
+266,27,Real Sociedad,Sevilla,0.11563664674759,0,16,0,Igor Zubeldia,838159,D,62,Real Sociedad,1721,Ørjan Nyland,22209,76,Sevilla,1679,True,9,42,9,12,corner,head
+266,27,Real Sociedad,Sevilla,0.20846289396286,0,21,0,Nayef Aguerd,877102,D,49,Real Sociedad,1721,Ørjan Nyland,22209,76,Sevilla,1679,True,10,33,12,34,set-piece,strong-foot
+266,27,Real Sociedad,Sevilla,0.20650337636471,0,24,0,Sheraldo Becker,352544,F,73,Real Sociedad,1721,Ørjan Nyland,22209,76,Sevilla,1679,True,14,52,18,40,assisted,strong-foot
+266,27,Real Sociedad,Sevilla,0.061194308102131,0,32,0,Orri Steinn Óskarsson,1026015,F,70,Real Sociedad,1721,Ørjan Nyland,22209,76,Sevilla,1679,True,27,39,27,2,regular,strong-foot
+266,27,Real Sociedad,Sevilla,0.18906964361668,0,33,0,Isaac Romero,1018190,F,73,Sevilla,1679,Unai Marrero,1094782,67,Real Sociedad,1721,False,11,36,11,19,regular,strong-foot
+266,27,Real Sociedad,Sevilla,0.04913779720664,0,33,0,Adrià Pedrosa,928672,D,59,Sevilla,1679,Unai Marrero,1094782,67,Real Sociedad,1721,False,19,23,25,41,assisted,strong-foot
+266,27,Real Sociedad,Sevilla,0.031977724283934,0,34,0,Chidera Ejuke,875890,M,68,Sevilla,1679,Unai Marrero,1094782,67,Real Sociedad,1721,False,21,24,26,37,assisted,strong-foot
+266,27,Real Sociedad,Sevilla,0.029994556680322,0,43,0,Jon Aramburu,1116388,D,45,Real Sociedad,1721,Ørjan Nyland,22209,76,Sevilla,1679,True,25,35,25,11,corner,strong-foot
+266,27,Real Sociedad,Sevilla,0.051283355802298,1,46,0,Chidera Ejuke,875890,M,68,Sevilla,1679,Unai Marrero,1094782,67,Real Sociedad,1721,False,18,28,21,33,assisted,strong-foot
+266,27,Real Sociedad,Sevilla,0.012490652501583,0,54,1,Lucien Agoumé,960006,M,53,Sevilla,1679,Unai Marrero,1094782,67,Real Sociedad,1721,False,27,29,29,22,assisted,strong-foot
+266,27,Real Sociedad,Sevilla,0.099909380078316,0,62,1,Isaac Romero,1018190,F,73,Sevilla,1679,Unai Marrero,1094782,67,Real Sociedad,1721,False,14,53,19,42,fast-break,strong-foot
+266,27,Real Sociedad,Sevilla,0.020185079425573,0,67,-1,Pablo Marín,1139409,M,60,Real Sociedad,1721,Ørjan Nyland,22209,76,Sevilla,1679,True,28,45,28,10,assisted,weak-foot
+266,27,Real Sociedad,Sevilla,0.029847089201212,0,75,-1,Orri Steinn Óskarsson,1026015,F,70,Real Sociedad,1721,Ørjan Nyland,22209,76,Sevilla,1679,True,12,33,13,30,corner,head
+266,27,Real Sociedad,Sevilla,0.096754372119904,0,77,1,Albert Sambi Lokonga,901892,M,57,Sevilla,1679,Unai Marrero,1094782,67,Real Sociedad,1721,False,9,28,15,53,fast-break,weak-foot
+266,27,Real Sociedad,Sevilla,0.039520140737295,0,78,1,Saúl Ñíguez,116955,M,75,Sevilla,1679,Unai Marrero,1094782,67,Real Sociedad,1721,False,7,32,10,48,corner,head
+266,27,Real Sociedad,Sevilla,0.017745340242982,0,90,1,Stanis Idumbo Muzambo,1149152,F,60,Sevilla,1679,Unai Marrero,1094782,67,Real Sociedad,1721,False,13,58,22,54,assisted,strong-foot
+267,27,Espanyol,Girona FC,0.020532075315714,0,2,0,Viktor Tsygankov,319735,M,76,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,7,55,16,64,assisted,weak-foot
+267,27,Espanyol,Girona FC,0.030820889398456,0,5,0,Bojan Miovski,945768,F,74,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,9,30,13,48,corner,strong-foot
+267,27,Espanyol,Girona FC,0.019334871321917,0,7,0,Bojan Miovski,945768,F,74,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,8,22,19,66,assisted,strong-foot
+267,27,Espanyol,Girona FC,0.1118096113205,0,10,0,Yangel Herrera,839585,M,74,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,9,41,9,6,assisted,head
+267,27,Espanyol,Girona FC,0.02688117697835,0,25,0,Javi Puado,891511,M,75,Espanyol,1618,Paulo Gazzaniga,164343,82,Girona FC,1689,True,28,47,28,14,assisted,strong-foot
+267,27,Espanyol,Girona FC,0.019474804401398,0,26,0,Yangel Herrera,839585,M,74,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,25,57,30,34,assisted,strong-foot
+267,27,Espanyol,Girona FC,0.057120904326439,0,31,0,Miguel Gutiérrez,908716,D,68,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,26,52,28,24,free-kick,strong-foot
+267,27,Espanyol,Girona FC,0.0077813784591854,0,32,0,Arthur,794927,M,65,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,30,44,30,7,corner,strong-foot
+267,27,Espanyol,Girona FC,0.036316391080618,0,33,0,Javi Puado,891511,M,75,Espanyol,1618,Paulo Gazzaniga,164343,82,Girona FC,1689,True,9,54,16,57,regular,strong-foot
+267,27,Espanyol,Girona FC,0.022038199007511,0,34,0,Roberto Fernández,1392592,F,69,Espanyol,1618,Paulo Gazzaniga,164343,82,Girona FC,1689,True,7,51,13,57,corner,strong-foot
+267,27,Espanyol,Girona FC,0.0077486485242844,0,37,0,Pol Lozano,826010,M,57,Espanyol,1618,Paulo Gazzaniga,164343,82,Girona FC,1689,True,31,21,36,31,corner,strong-foot
+267,27,Espanyol,Girona FC,0.099549472332001,0,42,0,Arthur,794927,M,65,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,22,29,24,26,free-kick,strong-foot
+267,27,Espanyol,Girona FC,0.017697496339679,0,42,0,Arnau Martínez,1084081,D,48,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,7,54,15,63,set-piece,strong-foot
+267,27,Espanyol,Girona FC,0.061178028583527,1,49,0,Jofre Carreras,1019236,M,68,Espanyol,1618,Paulo Gazzaniga,164343,82,Girona FC,1689,True,26,48,27,17,fast-break,strong-foot
+267,27,Espanyol,Girona FC,0.030069610103965,0,49,-1,Yangel Herrera,839585,M,74,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,14,41,14,4,assisted,head
+267,27,Espanyol,Girona FC,0.027502181008458,0,52,-1,Iván Martín,973699,M,74,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,16,40,16,0,throw-in-set-piece,head
+267,27,Espanyol,Girona FC,0.033711165189743,0,55,-1,Viktor Tsygankov,319735,M,76,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,29,45,29,9,assisted,strong-foot
+267,27,Espanyol,Girona FC,0.049146350473166,0,56,1,Alex Král,825740,M,66,Espanyol,1618,Paulo Gazzaniga,164343,82,Girona FC,1689,True,25,41,25,2,assisted,strong-foot
+267,27,Espanyol,Girona FC,0.038045987486839,0,63,1,Alex Král,825740,M,66,Espanyol,1618,Paulo Gazzaniga,164343,82,Girona FC,1689,True,19,27,23,34,fast-break,strong-foot
+267,27,Espanyol,Girona FC,0.027366168797016,0,74,-1,Arnau Martínez,1084081,D,48,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,24,54,27,30,assisted,strong-foot
+267,27,Espanyol,Girona FC,0.048094566911459,0,83,-1,Viktor Tsygankov,319735,M,76,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,17,56,23,43,assisted,strong-foot
+267,27,Espanyol,Girona FC,0.10818465799093,0,84,-1,Yangel Herrera,839585,M,74,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,11,33,13,32,corner,strong-foot
+267,27,Espanyol,Girona FC,0.091330274939537,0,84,-1,Cristhian Stuani,32048,F,78,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,12,36,12,18,corner,strong-foot
+267,27,Espanyol,Girona FC,0.020774755626917,0,85,-1,Arnaut Danjuma,827064,F,74,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,12,23,20,54,assisted,strong-foot
+267,27,Espanyol,Girona FC,0.7884,1,88,-1,Cristhian Stuani,32048,F,78,Girona FC,1689,Joan García,930267,78,Espanyol,1618,False,13,40,13,0,penalty,strong-foot

@@ -1241,7 +1241,7 @@ def displayXg(sxg, mxg):
 
 st.title("Top 5 Leagues 2024/25")
 st.subheader("Filter for League, Match and Shot to see the shotmap and the xG differences!")
-st.write("Last Update: February 19th, 2025")
+st.write("Last Update: March 12th, 2025")
 
 
 

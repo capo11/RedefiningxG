@@ -4933,3 +4933,705 @@ index,round,homeTeam,awayTeam,xg,goal,minute,goalDifference,player,playerID,posi
 197,22,Stade de Reims,Angers,0.018631834536791,0,90,-1,Amadou Kone,1586875,M,52,Stade de Reims,1612,Yahia Fofana,877977,74,Angers,1536,True,32,47,32,12,regular,weak-foot
 197,22,Stade de Reims,Angers,0.032202638685703,0,90,-1,Hiroki Sekine,1500627,D,30,Stade de Reims,1612,Yahia Fofana,877977,74,Angers,1536,True,14,42,14,8,set-piece,head
 197,22,Stade de Reims,Angers,0.30056428909302,0,90,1,Sidiki Cherif,1514916,F,59,Angers,1536,Yehvann Diouf,845183,77,Stade de Reims,1612,False,33,45,33,8,fast-break,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.11763362586498,0,2,0,Seko Fofana,191188,M,76,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,10,28,15,50,assisted,weak-foot
+198,23,Stade Rennais,Stade de Reims,0.026942357420921,0,3,0,Adrien Truffert,999028,D,55,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,14,36,14,15,assisted,head
+198,23,Stade Rennais,Stade de Reims,0.031102742999792,0,8,0,Mousa Al-Taamari,876600,F,68,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,17,56,23,43,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.015425080433488,0,8,0,Lorenz Assignon,1009334,D,50,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,27,54,30,27,corner,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.7884,1,10,0,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,13,40,13,0,penalty,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.12355823814869,0,16,1,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,15,35,15,18,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.022822126746178,0,16,1,Mousa Al-Taamari,876600,F,68,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,5,50,11,63,corner,head
+198,23,Stade Rennais,Stade de Reims,0.11687751859426,0,22,1,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,17,40,17,0,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.045597404241562,0,26,1,Seko Fofana,191188,M,76,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,24,26,27,30,regular,weak-foot
+198,23,Stade Rennais,Stade de Reims,0.037522427737713,0,26,1,Jordan James,1136409,M,65,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,22,39,22,2,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.19972178339958,0,30,1,Mousa Al-Taamari,876600,F,68,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,15,39,15,3,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.023632070049644,0,35,1,Hans Hateboer,356352,D,62,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,27,60,33,36,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.070598945021629,0,39,1,Jordan James,1136409,M,65,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,24,40,24,0,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.025896934792399,0,40,1,Lilian Brassier,988907,D,36,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,28,24,32,29,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.095792688429356,0,44,1,Jordan James,1136409,M,65,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,11,33,13,32,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.05852872133255,0,44,1,Jérémy Jacquet,1445625,D,34,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,11,37,11,15,corner,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.020766900852323,0,48,1,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,19,26,23,36,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.066365271806717,0,49,1,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,15,45,15,18,assisted,weak-foot
+198,23,Stade Rennais,Stade de Reims,0.22466912865639,0,52,1,Jérémy Jacquet,1445625,D,34,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,8,40,8,0,corner,head
+198,23,Stade Rennais,Stade de Reims,0.018233919516206,0,54,-1,Teddy Teuma,829643,M,77,Stade de Reims,1612,Steve Mandanda,27029,76,Stade Rennais,1640,False,13,22,22,54,throw-in-set-piece,weak-foot
+198,23,Stade Rennais,Stade de Reims,0.12124553322792,0,56,1,Seko Fofana,191188,M,76,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,10,36,10,21,assisted,head
+198,23,Stade Rennais,Stade de Reims,0.024128278717399,0,57,1,Seko Fofana,191188,M,76,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,29,23,33,30,assisted,weak-foot
+198,23,Stade Rennais,Stade de Reims,0.036622036248446,0,59,-1,Keito Nakamura,905352,F,73,Stade de Reims,1612,Steve Mandanda,27029,76,Stade Rennais,1640,False,13,51,17,40,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.020414831116796,0,69,1,Lilian Brassier,988907,D,36,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,28,32,29,15,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.06380807608366,0,72,-1,Keito Nakamura,905352,F,73,Stade de Reims,1612,Steve Mandanda,27029,76,Stade Rennais,1640,False,13,49,15,34,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.021082563325763,0,76,1,Ismael Koné,1134351,M,62,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,15,26,20,43,assisted,strong-foot
+198,23,Stade Rennais,Stade de Reims,0.022277761250734,0,78,1,Andrés Gómez,1160386,M,68,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,28,52,30,23,assisted,weak-foot
+198,23,Stade Rennais,Stade de Reims,0.041710328310728,0,82,1,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,14,40,14,0,assisted,head
+198,23,Stade Rennais,Stade de Reims,0.016613544896245,0,90,1,Kazeem Olaigbe,1004346,F,59,Stade Rennais,1640,Yehvann Diouf,845183,77,Stade de Reims,1612,True,26,25,30,29,assisted,strong-foot
+199,23,Auxerre,Olympique de Marseille,0.030419776216149,0,9,0,Amine Gouiri,859026,F,78,Olympique de Marseille,1753,Donovan Léon,159837,72,Auxerre,1581,False,16,22,24,48,assisted,strong-foot
+199,23,Auxerre,Olympique de Marseille,0.027672149240971,0,13,0,Mason Greenwood,942116,M,81,Olympique de Marseille,1753,Donovan Léon,159837,72,Auxerre,1581,False,28,46,28,12,assisted,weak-foot
+199,23,Auxerre,Olympique de Marseille,0.065963849425316,1,34,0,Gaëtan Perrin,827506,M,68,Auxerre,1581,Gerónimo Rulli,128383,81,Olympique de Marseille,1753,True,17,52,20,35,fast-break,weak-foot
+199,23,Auxerre,Olympique de Marseille,0.081945307552814,0,39,1,Gabriel Osho,920680,D,29,Auxerre,1581,Gerónimo Rulli,128383,81,Olympique de Marseille,1753,True,16,36,16,14,set-piece,strong-foot
+199,23,Auxerre,Olympique de Marseille,0.057333536446095,0,41,1,Jubal,329195,D,41,Auxerre,1581,Gerónimo Rulli,128383,81,Olympique de Marseille,1753,True,10,36,10,21,corner,head
+199,23,Auxerre,Olympique de Marseille,0.065255232155323,0,45,-1,Amine Gouiri,859026,F,78,Olympique de Marseille,1753,Donovan Léon,159837,72,Auxerre,1581,False,18,37,18,9,assisted,strong-foot
+199,23,Auxerre,Olympique de Marseille,0.072672687470913,0,48,1,Thelonius Bair,936848,F,66,Auxerre,1581,Gerónimo Rulli,128383,81,Olympique de Marseille,1753,True,14,27,19,42,fast-break,strong-foot
+199,23,Auxerre,Olympique de Marseille,0.15133447945118,0,49,-1,Amine Gouiri,859026,F,78,Olympique de Marseille,1753,Donovan Léon,159837,72,Auxerre,1581,False,21,27,24,31,fast-break,strong-foot
+199,23,Auxerre,Olympique de Marseille,0.32341673970222,0,66,1,Hamed Junior Traorè,892924,M,69,Auxerre,1581,Gerónimo Rulli,128383,81,Olympique de Marseille,1753,True,10,50,14,45,regular,strong-foot
+199,23,Auxerre,Olympique de Marseille,0.092855960130692,0,66,1,Hamed Junior Traorè,892924,M,69,Auxerre,1581,Gerónimo Rulli,128383,81,Olympique de Marseille,1753,True,8,51,13,53,regular,weak-foot
+199,23,Auxerre,Olympique de Marseille,0.055924136191607,0,70,-1,Geoffrey Kondogbia,96544,M,69,Olympique de Marseille,1753,Donovan Léon,159837,72,Auxerre,1581,False,11,35,12,24,corner,head
+199,23,Auxerre,Olympique de Marseille,0.7884,1,77,1,Jubal,329195,D,41,Auxerre,1581,Gerónimo Rulli,128383,81,Olympique de Marseille,1753,True,13,40,13,0,penalty,strong-foot
+199,23,Auxerre,Olympique de Marseille,0.042988859117031,0,80,-2,Geoffrey Kondogbia,96544,M,69,Olympique de Marseille,1753,Donovan Léon,159837,72,Auxerre,1581,False,10,35,11,26,corner,head
+199,23,Auxerre,Olympique de Marseille,0.23973953723907,0,80,-2,Mason Greenwood,942116,M,81,Olympique de Marseille,1753,Donovan Léon,159837,72,Auxerre,1581,False,4,46,7,56,corner,weak-foot
+199,23,Auxerre,Olympique de Marseille,0.048256259411573,0,86,-2,Jonathan Rowe,1065261,F,71,Olympique de Marseille,1753,Donovan Léon,159837,72,Auxerre,1581,False,14,42,14,8,corner,weak-foot
+199,23,Auxerre,Olympique de Marseille,0.47756537795067,1,90,2,Jubal,329195,D,41,Auxerre,1581,Gerónimo Rulli,128383,81,Olympique de Marseille,1753,True,6,40,6,0,corner,head
+199,23,Auxerre,Olympique de Marseille,0.026867428794503,0,90,3,Ado Onaiwu,489180,F,68,Auxerre,1581,Gerónimo Rulli,128383,81,Olympique de Marseille,1753,True,21,25,25,35,fast-break,strong-foot
+200,23,Lille,AS Monaco,0.34208789467812,0,9,0,Mika Biereth,1083007,F,73,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,23,42,23,4,assisted,strong-foot
+200,23,Lille,AS Monaco,0.10224439948797,0,12,0,Ngal'ayel Mukau,1391541,M,49,Lille,1805,Radosław Majecki,849114,78,AS Monaco,1764,True,18,45,18,15,assisted,strong-foot
+200,23,Lille,AS Monaco,0.018572652712464,0,21,0,Chuba Akpom,190867,F,74,Lille,1805,Radosław Majecki,849114,78,AS Monaco,1764,True,7,56,17,66,assisted,strong-foot
+200,23,Lille,AS Monaco,0.10736175626516,1,22,0,Hakon Arnar Haraldsson,1138804,M,64,Lille,1805,Radosław Majecki,849114,78,AS Monaco,1764,True,15,30,18,33,assisted,weak-foot
+200,23,Lille,AS Monaco,0.13164089620113,0,31,-1,Eliesse Ben Seghir,1394353,M,72,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,9,39,9,6,regular,strong-foot
+200,23,Lille,AS Monaco,0.11915246397257,0,42,1,Hakon Arnar Haraldsson,1138804,M,64,Lille,1805,Radosław Majecki,849114,78,AS Monaco,1764,True,12,49,15,36,regular,strong-foot
+200,23,Lille,AS Monaco,0.52692848443985,1,43,1,Hakon Arnar Haraldsson,1138804,M,64,Lille,1805,Radosław Majecki,849114,78,AS Monaco,1764,True,7,44,8,29,regular,strong-foot
+200,23,Lille,AS Monaco,0.089333705604076,0,45,-2,Maghnes Akliouche,1130939,M,67,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,8,44,8,26,assisted,head
+200,23,Lille,AS Monaco,0.66683745384216,1,45,-2,Takumi Minamino,155818,M,73,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,5,41,5,11,assisted,weak-foot
+200,23,Lille,AS Monaco,0.11687751859426,0,46,1,Ngal'ayel Mukau,1391541,M,49,Lille,1805,Radosław Majecki,849114,78,AS Monaco,1764,True,16,41,16,3,assisted,strong-foot
+200,23,Lille,AS Monaco,0.12938572466373,0,54,1,Thomas Meunier,128587,D,73,Lille,1805,Radosław Majecki,849114,78,AS Monaco,1764,True,18,45,18,15,assisted,strong-foot
+200,23,Lille,AS Monaco,0.059539224952459,0,56,-1,Eliesse Ben Seghir,1394353,M,72,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,22,41,22,2,regular,weak-foot
+200,23,Lille,AS Monaco,0.014003205113113,0,60,-1,Vanderson,1090694,D,61,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,9,56,18,60,assisted,strong-foot
+200,23,Lille,AS Monaco,0.18951536715031,0,61,-1,Wilfried Singo,978285,D,58,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,5,42,5,21,corner,head
+200,23,Lille,AS Monaco,0.016792967915535,0,64,1,Jonathan David,935564,F,81,Lille,1805,Radosław Majecki,849114,78,AS Monaco,1764,True,30,36,30,7,assisted,weak-foot
+200,23,Lille,AS Monaco,0.037286248058081,0,67,1,Ngal'ayel Mukau,1391541,M,49,Lille,1805,Radosław Majecki,849114,78,AS Monaco,1764,True,31,32,32,14,fast-break,strong-foot
+200,23,Lille,AS Monaco,0.060890093445778,0,74,-1,Lamine Camara,1389846,M,64,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,25,42,25,4,assisted,strong-foot
+200,23,Lille,AS Monaco,0.046956658363342,0,82,-1,Mutassim Al-Musrati,868958,M,58,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,10,37,10,16,corner,head
+200,23,Lille,AS Monaco,0.22273518145084,0,82,-1,George Ilenikhena,1462434,F,70,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,5,39,5,11,corner,head
+200,23,Lille,AS Monaco,0.4217075407505,0,86,-1,George Ilenikhena,1462434,F,70,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,14,35,14,19,regular,strong-foot
+200,23,Lille,AS Monaco,0.049132082611322,0,86,-1,Takumi Minamino,155818,M,73,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,1,47,7,81,regular,strong-foot
+200,23,Lille,AS Monaco,0.063653364777565,0,90,-1,George Ilenikhena,1462434,F,70,AS Monaco,1764,Lucas Chevalier,996953,82,Lille,1805,False,23,38,23,4,assisted,strong-foot
+201,23,Saint-Étienne,Angers,0.7884,1,7,0,Himad Abdelli,945830,M,68,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,13,40,13,0,penalty,weak-foot
+201,23,Saint-Étienne,Angers,0.026941884309053,0,9,-1,Yvann Maçon,1006486,D,48,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,10,57,19,59,assisted,weak-foot
+201,23,Saint-Étienne,Angers,0.051116574555635,0,17,1,Ibrahima Niane,880775,F,66,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,8,32,11,45,assisted,head
+201,23,Saint-Étienne,Angers,0.47556242346764,1,17,1,Himad Abdelli,945830,M,68,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,3,33,7,66,regular,weak-foot
+201,23,Saint-Étienne,Angers,0.087646625936031,0,25,2,Jim Allevinah,988632,M,69,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,9,38,9,12,regular,head
+201,23,Saint-Étienne,Angers,0.023757629096508,0,29,2,Lilian Raolisoa,1462778,D,38,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,27,59,33,35,assisted,weak-foot
+201,23,Saint-Étienne,Angers,0.027032792568207,0,30,-2,Irvin Cardona,605552,F,72,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,18,58,25,45,assisted,weak-foot
+201,23,Saint-Étienne,Angers,0.20558999478817,1,36,-2,Irvin Cardona,605552,F,72,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,6,36,7,33,corner,head
+201,23,Saint-Étienne,Angers,0.095410235226154,0,40,1,Jim Allevinah,988632,M,69,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,11,40,11,0,assisted,strong-foot
+201,23,Saint-Étienne,Angers,0.05792661011219,0,44,-1,Irvin Cardona,605552,F,72,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,25,40,25,0,assisted,strong-foot
+201,23,Saint-Étienne,Angers,0.055282264947891,0,45,1,Pierrick Capelle,209768,M,71,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,15,40,15,0,assisted,head
+201,23,Saint-Étienne,Angers,0.019648054614663,0,45,1,Zinedine Ferhat,842400,M,62,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,12,60,23,59,assisted,strong-foot
+201,23,Saint-Étienne,Angers,0.021604580804706,0,45,-1,Yvann Maçon,1006486,D,48,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,23,53,26,29,regular,weak-foot
+201,23,Saint-Étienne,Angers,0.04438740760088,0,45,-1,Benjamin Bouchouari,1046446,M,58,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,23,40,23,0,set-piece,strong-foot
+201,23,Saint-Étienne,Angers,0.035415928810835,0,45,-1,Irvin Cardona,605552,F,72,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,18,49,20,26,set-piece,weak-foot
+201,23,Saint-Étienne,Angers,0.47283259034157,0,46,1,Jim Allevinah,988632,M,69,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,10,39,10,5,assisted,weak-foot
+201,23,Saint-Étienne,Angers,0.031868550926447,1,52,-1,Pierre Ekwah,996908,M,65,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,24,33,25,16,assisted,weak-foot
+201,23,Saint-Étienne,Angers,0.056945662945509,0,55,0,Jim Allevinah,988632,M,69,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,13,27,18,45,assisted,weak-foot
+201,23,Saint-Étienne,Angers,0.020277179777622,0,56,0,Benjamin Bouchouari,1046446,M,58,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,26,24,30,31,assisted,strong-foot
+201,23,Saint-Étienne,Angers,0.020108841359615,0,61,0,Pierrick Capelle,209768,M,71,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,27,24,31,30,regular,strong-foot
+201,23,Saint-Étienne,Angers,0.02605009637773,0,63,0,Florent Hanin,170129,D,42,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,23,24,28,34,regular,weak-foot
+201,23,Saint-Étienne,Angers,0.039701256901026,0,66,0,Lucas Stassin,1126521,F,71,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,14,53,19,42,corner,strong-foot
+201,23,Saint-Étienne,Angers,0.041281584650278,0,70,0,Maxime Bernauer,802137,D,52,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,15,43,15,11,assisted,head
+201,23,Saint-Étienne,Angers,0.047710776329041,0,72,0,Léo Pétrot,827504,D,32,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,16,31,18,29,assisted,strong-foot
+201,23,Saint-Étienne,Angers,0.28068342804909,0,72,0,Lucas Stassin,1126521,F,71,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,7,39,7,8,regular,strong-foot
+201,23,Saint-Étienne,Angers,0.65280032157898,1,73,0,Irvin Cardona,605552,F,72,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,3,37,4,45,throw-in-set-piece,weak-foot
+201,23,Saint-Étienne,Angers,0.05425439029932,0,83,1,Zuriko Davitashvili,921369,F,62,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,14,30,17,35,assisted,strong-foot
+201,23,Saint-Étienne,Angers,0.018141491338611,0,84,1,Pierre Ekwah,996908,M,65,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,27,31,28,18,regular,weak-foot
+201,23,Saint-Étienne,Angers,0.064651124179363,0,85,1,Zuriko Davitashvili,921369,F,62,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,13,27,18,45,fast-break,weak-foot
+201,23,Saint-Étienne,Angers,0.016787961125374,0,86,1,Augustine Boakye,1138352,F,60,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,22,55,26,34,assisted,strong-foot
+201,23,Saint-Étienne,Angers,0.015125122852623,0,87,1,Louis Mouton,1172936,M,48,Saint-Étienne,1515,Yahia Fofana,877977,74,Angers,1536,True,27,56,31,30,corner,strong-foot
+201,23,Saint-Étienne,Angers,0.7884,1,90,-1,Ahmadou Bamba Dieng,1102503,F,72,Angers,1536,Gautier Larsonneur,810526,74,Saint-Étienne,1515,False,13,40,13,0,penalty,strong-foot
+202,23,Le Havre,Toulouse,0.075647167861462,1,9,0,Zakaria Aboukhlal,856737,F,71,Toulouse,1651,Mathieu Gorgelin,123226,70,Le Havre,1505,False,16,42,16,7,assisted,weak-foot
+202,23,Le Havre,Toulouse,0.045295193791389,0,37,1,Aron Dønnum,863133,M,62,Toulouse,1651,Mathieu Gorgelin,123226,70,Le Havre,1505,False,18,52,21,33,regular,strong-foot
+202,23,Le Havre,Toulouse,0.02204936183989,0,39,-1,Gautier Lloris,287887,D,36,Le Havre,1505,Kjetil Haug,792318,68,Toulouse,1651,True,14,42,14,8,set-piece,head
+202,23,Le Havre,Toulouse,0.019499350339174,0,40,-1,Issa Soumaré,1001458,F,62,Le Havre,1505,Kjetil Haug,792318,68,Toulouse,1651,True,17,47,18,22,set-piece,weak-foot
+202,23,Le Havre,Toulouse,0.13316228985786,0,45,-1,Antoine Joujou,1463265,F,64,Le Havre,1505,Kjetil Haug,792318,68,Toulouse,1651,True,9,39,9,6,regular,strong-foot
+202,23,Le Havre,Toulouse,0.062771543860435,0,45,-1,Yassine Kechta,1000442,M,58,Le Havre,1505,Kjetil Haug,792318,68,Toulouse,1651,True,27,36,27,8,assisted,weak-foot
+202,23,Le Havre,Toulouse,0.021066857501864,0,45,-1,Josué Casimir,1035986,F,67,Le Havre,1505,Kjetil Haug,792318,68,Toulouse,1651,True,22,54,26,32,assisted,strong-foot
+202,23,Le Havre,Toulouse,0.01881393417716,0,46,1,Zakaria Aboukhlal,856737,F,71,Toulouse,1651,Mathieu Gorgelin,123226,70,Le Havre,1505,False,31,38,31,3,regular,weak-foot
+202,23,Le Havre,Toulouse,0.24478167295456,0,50,1,Zakaria Aboukhlal,856737,F,71,Toulouse,1651,Mathieu Gorgelin,123226,70,Le Havre,1505,False,22,48,23,19,fast-break,weak-foot
+202,23,Le Havre,Toulouse,0.3499604165554,1,51,-1,Issa Soumaré,1001458,F,62,Le Havre,1505,Kjetil Haug,792318,68,Toulouse,1651,True,8,42,8,14,assisted,head
+202,23,Le Havre,Toulouse,0.7884,1,56,0,Vincent Sierro,794412,M,65,Toulouse,1651,Mathieu Gorgelin,123226,70,Le Havre,1505,False,13,40,13,0,penalty,strong-foot
+202,23,Le Havre,Toulouse,0.27769938111305,1,63,1,Aron Dønnum,863133,M,62,Toulouse,1651,Mathieu Gorgelin,123226,70,Le Havre,1505,False,12,35,13,22,set-piece,strong-foot
+202,23,Le Havre,Toulouse,0.022523514926434,0,71,-2,Abdoulaye Touré,149732,M,59,Le Havre,1505,Kjetil Haug,792318,68,Toulouse,1651,True,34,41,34,1,assisted,weak-foot
+202,23,Le Havre,Toulouse,0.51829731464386,1,78,2,Frank Magri,1169436,F,71,Toulouse,1651,Mathieu Gorgelin,123226,70,Le Havre,1505,False,16,44,16,14,assisted,strong-foot
+202,23,Le Havre,Toulouse,0.025407275184989,0,82,3,Aron Dønnum,863133,M,62,Toulouse,1651,Mathieu Gorgelin,123226,70,Le Havre,1505,False,15,59,24,51,assisted,strong-foot
+202,23,Le Havre,Toulouse,0.046379093080759,0,84,3,Miha Zajc,139256,M,74,Toulouse,1651,Mathieu Gorgelin,123226,70,Le Havre,1505,False,21,29,23,27,assisted,strong-foot
+202,23,Le Havre,Toulouse,0.18269115686417,0,85,3,Noah Edjouma,1512354,F,59,Toulouse,1651,Mathieu Gorgelin,123226,70,Le Havre,1505,False,4,45,6,51,throw-in-set-piece,weak-foot
+202,23,Le Havre,Toulouse,0.15549333393574,0,86,3,Rafik Messali,1198264,M,39,Toulouse,1651,Mathieu Gorgelin,123226,70,Le Havre,1505,False,6,47,9,49,assisted,strong-foot
+202,23,Le Havre,Toulouse,0.075665891170502,0,89,-3,Abdoulaye Touré,149732,M,59,Le Havre,1505,Kjetil Haug,792318,68,Toulouse,1651,True,9,42,9,12,corner,head
+202,23,Le Havre,Toulouse,0.0093522053211927,0,89,-3,Ilyes Housni,1154632,F,66,Le Havre,1505,Kjetil Haug,792318,68,Toulouse,1651,True,4,23,17,76,corner,weak-foot
+202,23,Le Havre,Toulouse,0.043113816529512,0,90,-3,Mahamadou Diawara,1402751,M,55,Le Havre,1505,Kjetil Haug,792318,68,Toulouse,1651,True,26,45,26,10,assisted,strong-foot
+202,23,Le Havre,Toulouse,0.015051052905619,0,90,-3,Mahamadou Diawara,1402751,M,55,Le Havre,1505,Kjetil Haug,792318,68,Toulouse,1651,True,30,50,31,18,corner,strong-foot
+203,23,Nantes,RC Lens,0.20325119793415,0,5,0,Douglas Augusto,809034,M,68,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,8,42,8,14,assisted,head
+203,23,Nantes,RC Lens,0.024647351354361,0,17,0,Goduine Koyalipou,891505,F,70,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,24,55,28,32,assisted,strong-foot
+203,23,Nantes,RC Lens,0.027622917667031,0,24,0,Mostafa Mohamed,873551,F,73,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,26,36,26,8,assisted,strong-foot
+203,23,Nantes,RC Lens,0.072359085083008,0,33,0,Facundo Medina,860307,D,34,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,5,47,8,54,corner,weak-foot
+203,23,Nantes,RC Lens,0.09771852940321,0,35,0,Adrien Thomasson,231946,M,72,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,12,37,12,14,assisted,weak-foot
+203,23,Nantes,RC Lens,0.13609682023525,0,36,0,Douglas Augusto,809034,M,68,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,8,42,8,14,assisted,head
+203,23,Nantes,RC Lens,0.26658454537392,1,36,0,Louis Leroux,1405998,M,53,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,11,39,11,5,regular,strong-foot
+203,23,Nantes,RC Lens,0.11261713504791,0,48,1,Louis Leroux,1405998,M,53,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,18,37,18,9,assisted,weak-foot
+203,23,Nantes,RC Lens,0.1420384645462,0,50,1,Mostafa Mohamed,873551,F,73,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,9,42,9,12,assisted,head
+203,23,Nantes,RC Lens,0.70236057043076,0,50,1,Kelvin Amian,802143,D,47,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,3,44,5,53,regular,strong-foot
+203,23,Nantes,RC Lens,0.12057932466269,0,52,1,Saïdou Sow,1063237,D,39,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,10,39,10,5,set-piece,head
+203,23,Nantes,RC Lens,0.40706530213356,0,52,1,Nicolas Pallois,106496,D,55,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,1,45,5,78,set-piece,head
+203,23,Nantes,RC Lens,0.070524863898754,0,57,-1,Malang Sarr,826203,D,44,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,15,37,15,11,corner,strong-foot
+203,23,Nantes,RC Lens,0.060842763632536,0,57,1,Moses Simon,330051,F,71,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,5,29,12,65,assisted,weak-foot
+203,23,Nantes,RC Lens,0.037470456212759,0,58,1,Jean-Charles Castelletto,191204,D,31,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,17,50,19,30,corner,weak-foot
+203,23,Nantes,RC Lens,0.7884,1,60,1,Moses Simon,330051,F,71,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,13,40,13,0,penalty,weak-foot
+203,23,Nantes,RC Lens,0.14325051009655,0,62,-2,M'Bala Nzola,788061,F,72,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,9,37,9,18,assisted,strong-foot
+203,23,Nantes,RC Lens,0.7884,1,65,-2,Neil El Aynaoui,1128530,M,60,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,13,40,13,0,penalty,strong-foot
+203,23,Nantes,RC Lens,0.034279186278582,0,68,-1,M'Bala Nzola,788061,F,72,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,15,27,19,40,fast-break,strong-foot
+203,23,Nantes,RC Lens,0.036256827414036,0,74,1,Mostafa Mohamed,873551,F,73,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,24,47,25,16,assisted,strong-foot
+203,23,Nantes,RC Lens,0.01235540304333,0,75,-1,Florian Sotoca,788921,F,73,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,34,36,34,6,assisted,strong-foot
+203,23,Nantes,RC Lens,0.025598032400012,0,76,-1,Anass Zaroury,877036,M,65,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,30,39,30,1,assisted,strong-foot
+203,23,Nantes,RC Lens,0.056447215378284,0,90,1,Francis Coquelin,40672,M,64,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,24,27,27,28,regular,weak-foot
+203,23,Nantes,RC Lens,0.10538301616907,0,90,1,Matthis Abline,999070,F,74,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,12,44,12,18,regular,weak-foot
+203,23,Nantes,RC Lens,0.30279988050461,0,90,-1,Tom Pouilly,1387163,M,44,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,9,39,9,6,regular,strong-foot
+203,23,Nantes,RC Lens,0.15386818349361,0,90,-1,Angelo Fulgini,787540,F,68,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,4,48,8,63,regular,strong-foot
+203,23,Nantes,RC Lens,0.046340238302946,0,90,-1,Florian Sotoca,788921,F,73,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,11,40,11,0,corner,head
+203,23,Nantes,RC Lens,0.49317008256912,0,90,1,Francis Coquelin,40672,M,64,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,4,36,5,45,assisted,strong-foot
+203,23,Nantes,RC Lens,0.84614533185959,1,90,1,Meschack Elia,862078,F,67,Nantes,1570,Mathew Ryan,134029,78,RC Lens,1716,True,2,43,3,56,assisted,strong-foot
+203,23,Nantes,RC Lens,0.0078698126599193,0,90,-2,Florian Sotoca,788921,F,73,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,25,63,33,42,assisted,strong-foot
+203,23,Nantes,RC Lens,0.039853770285845,0,90,-2,Tom Pouilly,1387163,M,44,RC Lens,1716,Anthony Lopes,48535,77,Nantes,1570,False,21,39,21,2,corner,weak-foot
+204,23,Nice,Montpellier,0.22251251339912,0,4,0,Evann Guessand,930245,F,75,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,6,41,6,9,assisted,strong-foot
+204,23,Nice,Montpellier,0.024739945307374,0,8,0,Khalil Fayad,1387157,M,58,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,27,41,27,2,regular,strong-foot
+204,23,Nice,Montpellier,0.030419776216149,0,9,0,Tanguy Coulibaly,954060,M,59,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,16,58,24,48,assisted,strong-foot
+204,23,Nice,Montpellier,0.025735374540091,0,9,0,Khalil Fayad,1387157,M,58,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,28,32,29,15,regular,weak-foot
+204,23,Nice,Montpellier,0.34695526957512,0,10,0,Evann Guessand,930245,F,75,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,10,50,14,45,assisted,strong-foot
+204,23,Nice,Montpellier,0.04906402528286,0,11,0,Teji Savanier,156682,M,74,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,26,56,30,31,free-kick,strong-foot
+204,23,Nice,Montpellier,0.016636963933706,0,16,0,Baptiste Santamaria,344751,M,66,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,33,23,37,27,assisted,strong-foot
+204,23,Nice,Montpellier,0.018769992515445,0,25,0,Andy Delort,84744,F,77,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,12,46,13,26,set-piece,head
+204,23,Nice,Montpellier,0.091334171593189,0,26,0,Evann Guessand,930245,F,75,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,7,34,9,40,set-piece,head
+204,23,Nice,Montpellier,0.10635577887297,1,30,0,Jonathan Clauss,821728,D,67,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,11,55,18,53,assisted,strong-foot
+204,23,Nice,Montpellier,0.16005335748196,0,34,1,Gaëtan Laborde,149730,F,77,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,16,42,16,7,assisted,weak-foot
+204,23,Nice,Montpellier,0.040803760290146,0,39,1,Baptiste Santamaria,344751,M,66,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,30,44,30,7,regular,strong-foot
+204,23,Nice,Montpellier,0.047121662646532,0,39,1,Gaëtan Laborde,149730,F,77,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,5,31,10,60,corner,weak-foot
+204,23,Nice,Montpellier,0.06018391251564,0,40,1,Evann Guessand,930245,F,75,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,14,49,16,32,corner,weak-foot
+204,23,Nice,Montpellier,0.011105342768133,0,44,-1,Andy Delort,84744,F,77,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,32,26,34,23,assisted,strong-foot
+204,23,Nice,Montpellier,0.007114271633327,0,45,-1,Andy Delort,84744,F,77,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,28,26,31,26,set-piece,strong-foot
+204,23,Nice,Montpellier,0.026447892189026,0,47,1,Mohamed-Ali Cho,1063235,F,68,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,10,62,24,65,corner,strong-foot
+204,23,Nice,Montpellier,0.047522906213999,0,57,-1,Tanguy Coulibaly,954060,M,59,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,6,54,15,66,assisted,weak-foot
+204,23,Nice,Montpellier,0.1645322740078,0,62,1,Mohamed-Ali Cho,1063235,F,68,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,10,40,10,0,assisted,weak-foot
+204,23,Nice,Montpellier,0.2265485227108,1,65,1,Hicham Boudaoui,985923,M,64,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,12,43,12,14,assisted,weak-foot
+204,23,Nice,Montpellier,0.01899740472436,0,67,-2,Tanguy Coulibaly,954060,M,59,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,32,31,33,15,regular,strong-foot
+204,23,Nice,Montpellier,0.053209364414215,0,70,2,Mohamed-Ali Cho,1063235,F,68,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,16,26,21,41,assisted,strong-foot
+204,23,Nice,Montpellier,0.048018664121628,0,74,-2,Nicolas Pays,1622129,M,51,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,13,51,17,40,assisted,weak-foot
+204,23,Nice,Montpellier,0.017096411436796,0,75,-2,Teji Savanier,156682,M,74,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,34,45,34,8,assisted,strong-foot
+204,23,Nice,Montpellier,0.074485182762146,0,80,2,Gaëtan Laborde,149730,F,77,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,24,35,24,11,assisted,weak-foot
+204,23,Nice,Montpellier,0.021155154332519,0,83,2,Moise Bombito,1469180,D,46,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,31,34,31,10,corner,weak-foot
+204,23,Nice,Montpellier,0.012171288952231,0,86,-2,Jordan Ferri,123229,M,64,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,26,52,28,24,corner,strong-foot
+204,23,Nice,Montpellier,0.25553703308105,0,88,-2,Junior Ndiaye,1195700,F,57,Montpellier,1577,Marcin Bułka,889590,79,Nice,1679,False,5,40,5,0,assisted,head
+204,23,Nice,Montpellier,0.11507628113031,0,90,2,Jérémie Boga,367056,F,69,Nice,1679,Benjamin Lecomte,123207,75,Montpellier,1577,True,16,42,16,7,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.89576363563538,0,13,0,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,7,32,10,48,assisted,weak-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.60552006959915,0,26,0,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,2,45,5,68,assisted,weak-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.1819055378437,0,26,0,Khvicha Kvaratskhelia,889259,F,77,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,9,29,14,50,assisted,weak-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.045315288007259,0,29,0,Saël Kumbedi,1155226,D,41,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,6,52,13,63,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.066515490412712,0,30,0,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,14,50,17,35,fast-break,weak-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.041791014373302,0,35,0,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,27,36,27,8,assisted,weak-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.0097009241580963,0,40,0,Désiré Doué,1154605,M,69,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,30,36,30,7,set-piece,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.010667321272194,0,41,0,Désiré Doué,1154605,M,69,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,24,21,30,38,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.02526268362999,0,46,0,Khvicha Kvaratskhelia,889259,F,77,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,29,49,30,17,regular,weak-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.072404481470585,0,46,0,João Neves,1190933,M,68,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,10,37,10,16,assisted,head
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.05658295750618,0,48,0,Corentin Tolisso,343067,M,77,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,3,52,12,75,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.10895035415888,1,53,0,Achraf Hakimi,814594,D,75,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,16,48,17,26,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.051592323929071,0,58,1,Vitinha,902029,M,14,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,7,51,13,57,assisted,weak-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.078503206372261,1,59,1,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,16,50,18,32,assisted,weak-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.065635785460472,0,62,2,João Neves,1190933,M,68,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,9,54,16,57,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.046825118362904,0,66,-2,Tanner Tessmann,1022084,M,61,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,27,45,27,10,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.083543084561825,0,69,-2,Corentin Tolisso,343067,M,77,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,24,31,25,20,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.10515553504229,0,80,-2,Ainsley Maitland-Niles,352768,D,65,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,3,54,14,77,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.027680201455951,0,81,-2,Thiago Almada,944660,M,72,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,27,32,28,16,corner,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.4679408967495,1,83,-2,Rayan Cherki,979128,M,70,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,10,36,10,21,fast-break,weak-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.11818870902061,1,85,1,Achraf Hakimi,814594,D,75,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,11,52,16,47,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.031056499108672,0,88,2,Kang-in Lee,917087,M,75,Paris Saint-Germain,1922,Lucas Perri,871290,80,Olympique Lyonnais,1728,False,21,55,25,35,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.088534042239189,0,89,-2,Georges Mikautadze,1009372,F,78,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,12,41,12,4,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.23077511787415,0,89,-2,Ainsley Maitland-Niles,352768,D,65,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,5,50,11,63,regular,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.027012940496206,0,90,-2,Nicolás Tagliafico,158243,D,54,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,10,32,12,38,corner,head
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.015136491507292,0,90,-2,Thiago Almada,944660,M,72,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,27,24,31,30,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.49073961377144,1,90,-2,Corentin Tolisso,343067,M,77,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,6,42,6,18,assisted,head
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.026765611022711,0,90,-1,Tanner Tessmann,1022084,M,61,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,32,30,33,17,assisted,strong-foot
+205,23,Olympique Lyonnais,Paris Saint-Germain,0.0839803814888,0,90,-1,Georges Mikautadze,1009372,F,78,Olympique Lyonnais,1728,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1922,True,14,41,14,4,assisted,weak-foot
+206,23,RC Strasbourg,Stade Brestois,0.045918416231871,0,5,0,Hugo Magnetti,861324,M,48,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,22,25,26,34,assisted,weak-foot
+206,23,RC Strasbourg,Stade Brestois,0.019669102504849,0,19,0,Mama Baldé,557166,F,70,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,31,42,31,3,regular,weak-foot
+206,23,RC Strasbourg,Stade Brestois,0.24456863105297,0,26,0,Emanuel Emegha,1048333,F,73,RC Strasbourg,1653,Marco Bizot,100390,79,Stade Brestois,1682,True,20,50,22,26,regular,strong-foot
+206,23,RC Strasbourg,Stade Brestois,0.037651244550943,0,30,0,Mama Baldé,557166,F,70,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,15,38,15,7,throw-in-set-piece,head
+206,23,RC Strasbourg,Stade Brestois,0.02419993467629,0,33,0,Mahdi Camara,916041,M,66,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,5,49,10,60,corner,head
+206,23,RC Strasbourg,Stade Brestois,0.035610783845186,0,37,0,Soumaila Coulibaly,1001858,D,36,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,12,41,12,4,corner,head
+206,23,RC Strasbourg,Stade Brestois,0.019159730523825,0,55,0,Mahdi Camara,916041,M,66,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,15,56,21,46,regular,strong-foot
+206,23,RC Strasbourg,Stade Brestois,0.090855211019516,0,55,0,Mathias Pereira Lage,831400,M,72,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,13,46,14,24,assisted,strong-foot
+206,23,RC Strasbourg,Stade Brestois,0.049702320247889,0,69,0,Mathias Pereira Lage,831400,M,72,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,22,45,22,12,assisted,strong-foot
+206,23,RC Strasbourg,Stade Brestois,0.073898360133171,0,82,0,Mathias Pereira Lage,831400,M,72,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,10,26,17,54,assisted,weak-foot
+206,23,RC Strasbourg,Stade Brestois,0.10464745014906,0,86,0,Mahdi Camara,916041,M,66,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,16,46,17,20,fast-break,strong-foot
+206,23,RC Strasbourg,Stade Brestois,0.047157365828753,0,87,0,Romain Faivre,913942,M,71,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,15,45,15,18,assisted,head
+206,23,RC Strasbourg,Stade Brestois,0.25217765569687,0,89,0,Emanuel Emegha,1048333,F,73,RC Strasbourg,1653,Marco Bizot,100390,79,Stade Brestois,1682,True,17,37,17,10,assisted,weak-foot
+206,23,RC Strasbourg,Stade Brestois,0.10279091447592,0,90,0,Sebastian Nanasi,962068,M,64,RC Strasbourg,1653,Marco Bizot,100390,79,Stade Brestois,1682,True,12,29,16,42,assisted,strong-foot
+206,23,RC Strasbourg,Stade Brestois,0.015172716230154,0,90,0,Pierre Lees Melou,801306,M,71,Stade Brestois,1682,Đorđe Petrović,882604,79,RC Strasbourg,1653,False,33,50,34,16,regular,strong-foot
+207,24,AS Monaco,Stade de Reims,0.097554206848145,0,1,0,Mika Biereth,1083007,F,73,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,9,42,9,12,regular,head
+207,24,AS Monaco,Stade de Reims,0.028109900653362,0,10,0,Maghnes Akliouche,1130939,M,67,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,30,45,30,9,assisted,strong-foot
+207,24,AS Monaco,Stade de Reims,0.077876560389996,0,11,0,Junya Ito,783278,F,69,Stade de Reims,1612,Radosław Majecki,849114,78,AS Monaco,1764,False,16,49,18,29,fast-break,strong-foot
+207,24,AS Monaco,Stade de Reims,0.013664822094142,0,14,0,Denis Zakaria,770677,M,65,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,31,35,31,9,assisted,strong-foot
+207,24,AS Monaco,Stade de Reims,0.048268631100655,0,15,0,Mutassim Al-Musrati,868958,M,58,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,10,35,11,26,corner,head
+207,24,AS Monaco,Stade de Reims,0.014137492515147,0,16,0,Mutassim Al-Musrati,868958,M,58,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,12,45,13,22,corner,head
+207,24,AS Monaco,Stade de Reims,0.082555912435055,0,19,0,Mika Biereth,1083007,F,73,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,9,43,9,18,set-piece,head
+207,24,AS Monaco,Stade de Reims,0.087226308882236,0,20,0,Takumi Minamino,155818,M,73,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,17,38,17,6,assisted,weak-foot
+207,24,AS Monaco,Stade de Reims,0.045010969042778,0,24,0,Mutassim Al-Musrati,868958,M,58,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,20,37,20,8,regular,weak-foot
+207,24,AS Monaco,Stade de Reims,0.093288332223892,0,27,0,Breel Embolo,352296,F,75,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,9,41,9,6,assisted,head
+207,24,AS Monaco,Stade de Reims,0.68605500459671,0,32,0,Mika Biereth,1083007,F,73,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,5,41,5,11,assisted,strong-foot
+207,24,AS Monaco,Stade de Reims,0.50215935707092,1,34,0,Mika Biereth,1083007,F,73,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,5,43,5,30,assisted,strong-foot
+207,24,AS Monaco,Stade de Reims,0.072109699249268,0,37,1,Breel Embolo,352296,F,75,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,9,40,9,0,corner,head
+207,24,AS Monaco,Stade de Reims,0.11555885523558,0,38,1,Breel Embolo,352296,F,75,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,16,40,16,0,regular,strong-foot
+207,24,AS Monaco,Stade de Reims,0.28015729784966,1,39,1,Mika Biereth,1083007,F,73,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,8,38,8,14,assisted,strong-foot
+207,24,AS Monaco,Stade de Reims,0.4267258644104,0,43,2,Mika Biereth,1083007,F,73,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,3,39,3,18,regular,strong-foot
+207,24,AS Monaco,Stade de Reims,0.11089953035116,0,49,2,Takumi Minamino,155818,M,73,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,12,41,12,4,assisted,strong-foot
+207,24,AS Monaco,Stade de Reims,0.84294402599335,1,51,2,Mika Biereth,1083007,F,73,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,3,39,3,18,regular,strong-foot
+207,24,AS Monaco,Stade de Reims,0.093526378273964,0,51,3,Breel Embolo,352296,F,75,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,11,45,12,24,regular,strong-foot
+207,24,AS Monaco,Stade de Reims,0.12357756495476,0,54,-3,Junya Ito,783278,F,69,Stade de Reims,1612,Radosław Majecki,849114,78,AS Monaco,1764,False,11,41,11,5,assisted,head
+207,24,AS Monaco,Stade de Reims,0.016961814835668,0,57,-3,Sergio Akieme,827942,D,45,Stade de Reims,1612,Radosław Majecki,849114,78,AS Monaco,1764,False,31,28,33,21,assisted,strong-foot
+207,24,AS Monaco,Stade de Reims,0.09324861317873,0,61,-3,Keito Nakamura,905352,F,73,Stade de Reims,1612,Radosław Majecki,849114,78,AS Monaco,1764,False,14,27,19,42,assisted,weak-foot
+207,24,AS Monaco,Stade de Reims,0.089491240680218,0,65,-3,Keito Nakamura,905352,F,73,Stade de Reims,1612,Radosław Majecki,849114,78,AS Monaco,1764,False,18,31,20,26,assisted,strong-foot
+207,24,AS Monaco,Stade de Reims,0.011583366431296,0,71,3,Maghnes Akliouche,1130939,M,67,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,23,55,27,33,corner,strong-foot
+207,24,AS Monaco,Stade de Reims,0.088950239121914,0,72,-3,Valentin Atangana Edoa,1154611,M,54,Stade de Reims,1612,Radosław Majecki,849114,78,AS Monaco,1764,False,23,34,23,14,regular,weak-foot
+207,24,AS Monaco,Stade de Reims,0.043132327497005,0,75,-3,Keito Nakamura,905352,F,73,Stade de Reims,1612,Radosław Majecki,849114,78,AS Monaco,1764,False,13,26,19,47,regular,strong-foot
+207,24,AS Monaco,Stade de Reims,0.044712103903294,0,76,3,Eliesse Ben Seghir,1394353,M,72,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,22,41,22,2,assisted,strong-foot
+207,24,AS Monaco,Stade de Reims,0.085497759282589,0,83,-3,Oumar Diakité,1188191,F,70,Stade de Reims,1612,Radosław Majecki,849114,78,AS Monaco,1764,False,21,37,21,8,assisted,strong-foot
+207,24,AS Monaco,Stade de Reims,0.036182995885611,0,84,3,Denis Zakaria,770677,M,65,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,23,53,26,29,assisted,strong-foot
+207,24,AS Monaco,Stade de Reims,0.024559775367379,0,84,3,Lucas Michal,1154647,F,57,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,11,35,12,24,corner,head
+207,24,AS Monaco,Stade de Reims,0.074436880648136,0,86,3,Maghnes Akliouche,1130939,M,67,AS Monaco,1764,Yehvann Diouf,845183,77,Stade de Reims,1612,True,18,43,18,9,regular,strong-foot
+207,24,AS Monaco,Stade de Reims,0.031128734350204,0,90,-3,Sergio Akieme,827942,D,45,Stade de Reims,1612,Radosław Majecki,849114,78,AS Monaco,1764,False,17,40,17,0,corner,strong-foot
+208,24,Paris Saint-Germain,Lille,0.063893385231495,0,1,0,Bradley Barcola,996952,F,76,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,17,24,23,43,assisted,strong-foot
+208,24,Paris Saint-Germain,Lille,0.74769693613052,1,6,0,Bradley Barcola,996952,F,76,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,7,34,9,40,regular,strong-foot
+208,24,Paris Saint-Germain,Lille,0.061444465070963,0,6,1,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,17,55,22,41,assisted,weak-foot
+208,24,Paris Saint-Germain,Lille,0.035358436405659,0,11,1,João Neves,1190933,M,68,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,9,50,13,48,corner,head
+208,24,Paris Saint-Germain,Lille,0.044471677392721,0,11,1,Nuno Mendes,989768,D,56,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,26,27,29,26,assisted,strong-foot
+208,24,Paris Saint-Germain,Lille,0.10264523327351,0,12,1,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,19,48,20,22,assisted,weak-foot
+208,24,Paris Saint-Germain,Lille,0.088938549160957,0,16,1,Lucas Beraldo,1108441,D,38,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,8,35,9,32,corner,head
+208,24,Paris Saint-Germain,Lille,0.045894369482994,0,18,1,Fabián Ruiz,784655,M,74,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,22,41,22,2,assisted,strong-foot
+208,24,Paris Saint-Germain,Lille,0.074987947940826,0,19,1,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,27,48,28,16,fast-break,weak-foot
+208,24,Paris Saint-Germain,Lille,0.11231967061758,0,19,1,Achraf Hakimi,814594,D,75,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,4,53,13,72,regular,strong-foot
+208,24,Paris Saint-Germain,Lille,0.010042432695627,0,20,1,Nuno Mendes,989768,D,56,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,28,25,31,28,corner,strong-foot
+208,24,Paris Saint-Germain,Lille,0.32544729113579,0,21,1,João Neves,1190933,M,68,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,12,44,12,18,assisted,strong-foot
+208,24,Paris Saint-Germain,Lille,0.3505508005619,1,22,1,Marquinhos,155995,D,54,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,3,45,5,59,corner,head
+208,24,Paris Saint-Germain,Lille,0.27968221902847,1,28,2,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,9,47,11,37,assisted,weak-foot
+208,24,Paris Saint-Germain,Lille,0.093132771551609,0,35,3,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,16,52,20,36,fast-break,weak-foot
+208,24,Paris Saint-Germain,Lille,0.090332254767418,1,37,3,Désiré Doué,1154605,M,69,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,16,53,20,39,assisted,strong-foot
+208,24,Paris Saint-Germain,Lille,0.12540712952614,0,45,4,Gonçalo Ramos,934510,F,77,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,8,38,8,14,assisted,head
+208,24,Paris Saint-Germain,Lille,0.049329314380884,0,48,4,Achraf Hakimi,814594,D,75,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,26,23,31,33,free-kick,strong-foot
+208,24,Paris Saint-Germain,Lille,0.2459022551775,0,50,-4,Alexsandro Ribeiro,1049775,D,31,Lille,1793,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1944,False,5,31,10,60,corner,head
+208,24,Paris Saint-Germain,Lille,0.051455441862345,0,51,4,Gonçalo Ramos,934510,F,77,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,13,43,13,12,assisted,head
+208,24,Paris Saint-Germain,Lille,0.076842091977596,0,54,4,João Neves,1190933,M,68,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,15,50,18,33,regular,weak-foot
+208,24,Paris Saint-Germain,Lille,0.090214774012566,0,65,4,Bradley Barcola,996952,F,76,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,10,30,14,45,assisted,strong-foot
+208,24,Paris Saint-Germain,Lille,0.14410699903965,0,66,4,Gonçalo Ramos,934510,F,77,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,18,43,18,9,assisted,strong-foot
+208,24,Paris Saint-Germain,Lille,0.029687270522118,0,67,-4,Ethan Mbappé,1402698,M,53,Lille,1793,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1944,False,23,58,29,38,assisted,strong-foot
+208,24,Paris Saint-Germain,Lille,0.050292756408453,0,73,-4,Nabil Bentaleb,368120,M,72,Lille,1793,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1944,False,24,54,27,30,free-kick,strong-foot
+208,24,Paris Saint-Germain,Lille,0.026126757264137,0,76,-4,Benjamin André,51665,M,63,Lille,1793,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1944,False,33,47,33,11,assisted,strong-foot
+208,24,Paris Saint-Germain,Lille,0.028468878939748,0,80,-4,Ethan Mbappé,1402698,M,53,Lille,1793,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1944,False,24,25,28,32,assisted,strong-foot
+208,24,Paris Saint-Germain,Lille,0.72409898042679,1,80,-4,Jonathan David,935564,F,81,Lille,1793,Gianluigi Donnarumma,824509,87,Paris Saint-Germain,1944,False,6,41,6,9,regular,weak-foot
+208,24,Paris Saint-Germain,Lille,0.32033187150955,0,83,3,Gonçalo Ramos,934510,F,77,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,14,42,14,8,assisted,weak-foot
+208,24,Paris Saint-Germain,Lille,0.080354034900665,0,84,3,Lucas Beraldo,1108441,D,38,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,9,42,9,12,corner,head
+208,24,Paris Saint-Germain,Lille,0.15635018050671,0,89,3,Gonçalo Ramos,934510,F,77,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,17,40,17,0,assisted,weak-foot
+208,24,Paris Saint-Germain,Lille,0.011349059641361,0,90,3,Warren Zaïre-Emery,1142672,M,66,Paris Saint-Germain,1944,Lucas Chevalier,996953,82,Lille,1793,True,24,52,26,26,corner,strong-foot
+209,24,RC Lens,Le Havre,0.7884,1,3,0,Neil El Aynaoui,1128530,M,60,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,13,40,13,0,penalty,strong-foot
+209,24,RC Lens,Le Havre,0.016410565003753,0,4,1,Florian Sotoca,788921,F,73,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,21,23,27,38,assisted,strong-foot
+209,24,RC Lens,Le Havre,0.047494381666183,0,9,1,Jonathan Gradit,369650,D,27,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,17,39,17,3,corner,strong-foot
+209,24,RC Lens,Le Havre,0.0094390399754047,0,10,1,Florian Sotoca,788921,F,73,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,16,33,17,23,corner,head
+209,24,RC Lens,Le Havre,0.13039362430573,1,19,1,Ruben Aguilar,579576,M,52,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,10,41,10,5,assisted,weak-foot
+209,24,RC Lens,Le Havre,0.013962510041893,0,23,2,Deiver Machado,822110,M,68,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,30,24,34,28,corner,strong-foot
+209,24,RC Lens,Le Havre,0.042063012719154,0,23,2,Deiver Machado,822110,M,68,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,6,27,14,65,corner,strong-foot
+209,24,RC Lens,Le Havre,0.021385692059994,1,28,-2,Issa Soumaré,1001458,F,62,Le Havre,1514,Mathew Ryan,134029,78,RC Lens,1658,False,31,33,31,12,assisted,strong-foot
+209,24,RC Lens,Le Havre,0.011982864700258,0,30,1,Facundo Medina,860307,D,34,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,14,25,20,46,corner,strong-foot
+209,24,RC Lens,Le Havre,0.0099981063976884,0,30,1,Ruben Aguilar,579576,M,52,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,26,48,27,17,corner,strong-foot
+209,24,RC Lens,Le Havre,0.12851946055889,1,33,-1,André Ayew,27035,F,73,Le Havre,1514,Mathew Ryan,134029,78,RC Lens,1658,False,8,36,8,26,assisted,head
+209,24,RC Lens,Le Havre,0.062063705176115,0,36,0,Mahamadou Diawara,1402751,M,55,Le Havre,1514,Mathew Ryan,134029,78,RC Lens,1658,False,10,54,17,54,regular,weak-foot
+209,24,RC Lens,Le Havre,0.022653697058558,0,39,0,Adrien Thomasson,231946,M,72,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,13,45,13,21,corner,head
+209,24,RC Lens,Le Havre,0.06840917468071,0,40,0,Ahmed Hassan,1143587,F,71,Le Havre,1514,Mathew Ryan,134029,78,RC Lens,1658,False,23,42,23,4,assisted,strong-foot
+209,24,RC Lens,Le Havre,0.1474198102951,0,45,0,Wesley Saïd,227862,F,74,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,10,41,10,5,assisted,head
+209,24,RC Lens,Le Havre,0.11108735948801,1,48,0,Florian Sotoca,788921,F,73,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,8,42,8,14,assisted,head
+209,24,RC Lens,Le Havre,0.047128450125456,0,53,1,Anass Zaroury,877036,M,65,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,24,47,25,16,assisted,weak-foot
+209,24,RC Lens,Le Havre,0.035301800817251,0,56,1,Adrien Thomasson,231946,M,72,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,27,34,27,12,assisted,strong-foot
+209,24,RC Lens,Le Havre,0.30881771445274,1,62,-1,Josué Casimir,1035986,F,67,Le Havre,1514,Mathew Ryan,134029,78,RC Lens,1658,False,3,41,3,18,regular,strong-foot
+209,24,RC Lens,Le Havre,0.12625013291836,0,66,0,Wesley Saïd,227862,F,74,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,8,39,8,7,set-piece,head
+209,24,RC Lens,Le Havre,0.020613539963961,0,82,0,Antoine Joujou,1463265,F,64,Le Havre,1514,Mathew Ryan,134029,78,RC Lens,1658,False,11,22,21,58,fast-break,strong-foot
+209,24,RC Lens,Le Havre,0.055429942905903,0,82,0,Issa Soumaré,1001458,F,62,Le Havre,1514,Mathew Ryan,134029,78,RC Lens,1658,False,25,39,25,2,regular,weak-foot
+209,24,RC Lens,Le Havre,0.026652004569769,0,83,0,Facundo Medina,860307,D,34,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,29,36,29,7,assisted,strong-foot
+209,24,RC Lens,Le Havre,0.043613970279694,0,87,0,Jonathan Gradit,369650,D,27,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,11,43,11,15,corner,head
+209,24,RC Lens,Le Havre,0.7884,1,90,0,Ahmed Hassan,1143587,F,71,Le Havre,1514,Mathew Ryan,134029,78,RC Lens,1658,False,13,40,13,0,penalty,strong-foot
+209,24,RC Lens,Le Havre,0.13396753370762,0,90,-1,Jonathan Gradit,369650,D,27,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,14,45,14,19,assisted,strong-foot
+209,24,RC Lens,Le Havre,0.041811116039753,0,90,-1,Andy Diouf,1048889,M,67,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,21,45,21,13,regular,strong-foot
+209,24,RC Lens,Le Havre,0.069752305746078,0,90,-1,Jonathan Gradit,369650,D,27,RC Lens,1658,Mathieu Gorgelin,123226,70,Le Havre,1514,True,9,43,9,18,corner,head
+210,24,Saint-Étienne,Nice,0.061043199151754,0,6,0,Baptiste Santamaria,344751,M,66,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,11,39,11,5,set-piece,head
+210,24,Saint-Étienne,Nice,0.39134329557419,0,6,0,Gaëtan Laborde,149730,F,77,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,5,32,9,57,set-piece,weak-foot
+210,24,Saint-Étienne,Nice,0.60574120283127,0,6,0,Pablo Rosario,804472,M,63,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,2,39,2,26,set-piece,strong-foot
+210,24,Saint-Étienne,Nice,0.24068102240562,0,10,0,Jonathan Clauss,821728,D,67,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,11,49,14,39,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.17810949683189,1,10,0,Pablo Rosario,804472,M,63,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,8,38,8,14,regular,head
+210,24,Saint-Étienne,Nice,0.035900454968214,0,12,-1,Lucas Stassin,1126521,F,71,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,17,23,24,45,regular,strong-foot
+210,24,Saint-Étienne,Nice,0.025382768362761,0,13,-1,Irvin Cardona,605552,F,72,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,9,32,12,41,corner,head
+210,24,Saint-Étienne,Nice,0.026328140869737,0,17,-1,Aimen Moueffek,990227,M,54,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,13,25,19,49,throw-in-set-piece,weak-foot
+210,24,Saint-Étienne,Nice,0.10255869477987,0,24,1,Jonathan Clauss,821728,D,67,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,12,50,15,39,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.22730849683285,1,32,-1,Lucas Stassin,1126521,F,71,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,11,41,11,5,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.029302565380931,0,40,0,Yvann Maçon,1006486,D,48,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,12,54,18,49,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.10159505903721,0,43,0,Gaëtan Laborde,149730,F,77,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,8,36,8,26,corner,head
+210,24,Saint-Étienne,Nice,0.038762766867876,0,43,0,Pablo Rosario,804472,M,63,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,22,41,22,2,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.069459438323975,0,48,0,Lucas Stassin,1126521,F,71,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,10,56,18,57,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.036597464233637,0,51,0,Baptiste Santamaria,344751,M,66,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,29,41,29,1,assisted,strong-foot
+210,24,Saint-Étienne,Nice,,1,52,0,Mickael Nade,865847,D,30,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,2,42,2,45,corner,strong-foot
+210,24,Saint-Étienne,Nice,0.061311852186918,0,53,1,Mohamed-Ali Cho,1063235,F,68,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,15,22,23,50,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.047176517546177,0,56,1,Melvin Bard,906075,D,50,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,15,25,21,45,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.050048675388098,0,58,-1,Aimen Moueffek,990227,M,54,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,10,53,16,52,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.02879723906517,0,58,1,Mohamed-Ali Cho,1063235,F,68,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,29,41,29,1,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.07721184194088,0,59,1,Mohamed-Ali Cho,1063235,F,68,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,11,26,17,51,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.023886328563094,0,67,1,Baptiste Santamaria,344751,M,66,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,22,31,23,22,regular,strong-foot
+210,24,Saint-Étienne,Nice,0.072994396090508,0,68,-1,Zuriko Davitashvili,921369,F,62,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,8,31,12,48,assisted,head
+210,24,Saint-Étienne,Nice,0.11521364748478,1,70,1,Evann Guessand,930245,F,75,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,15,35,15,18,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.014705250039697,0,77,-2,Augustine Boakye,1138352,F,60,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,26,22,31,34,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.046573642641306,0,82,2,Evann Guessand,930245,F,75,Nice,1706,Gautier Larsonneur,810526,74,Saint-Étienne,1493,False,4,24,16,75,assisted,weak-foot
+210,24,Saint-Étienne,Nice,0.065160244703293,0,83,-2,Lucas Stassin,1126521,F,71,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,18,30,20,29,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.024704506620765,0,85,-2,Benjamin Bouchouari,1046446,M,58,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,28,28,30,23,assisted,strong-foot
+210,24,Saint-Étienne,Nice,0.25047236680984,0,86,-2,Augustine Boakye,1138352,F,60,Saint-Étienne,1493,Marcin Bułka,889590,79,Nice,1706,True,22,44,22,10,assisted,weak-foot
+211,24,Angers,Toulouse,0.2573379278183,0,6,0,Vincent Sierro,794412,M,65,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,5,40,5,0,corner,strong-foot
+211,24,Angers,Toulouse,0.084303982555866,0,6,0,Himad Abdelli,945830,M,68,Angers,1527,Kjetil Haug,792318,68,Toulouse,1654,True,22,32,23,19,fast-break,weak-foot
+211,24,Angers,Toulouse,0.022685559466481,0,10,0,Charlie Cresswell,1020744,D,30,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,14,44,14,15,set-piece,head
+211,24,Angers,Toulouse,0.038762498646975,0,16,0,Farid El Melali,930584,M,60,Angers,1527,Kjetil Haug,792318,68,Toulouse,1654,True,33,40,33,0,free-kick,weak-foot
+211,24,Angers,Toulouse,0.052138555794954,0,19,0,Shavy Warren Babicka,1136280,F,62,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,17,24,23,43,fast-break,strong-foot
+211,24,Angers,Toulouse,0.13845689594746,0,23,0,Aron Dønnum,863133,M,62,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,15,34,16,21,assisted,strong-foot
+211,24,Angers,Toulouse,0.22428698837757,0,25,0,Charlie Cresswell,1020744,D,30,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,5,40,5,0,corner,head
+211,24,Angers,Toulouse,0.034170053899288,0,31,0,Frank Magri,1169436,F,71,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,31,42,31,3,regular,strong-foot
+211,24,Angers,Toulouse,0.1258195489645,0,43,0,Vincent Sierro,794412,M,65,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,15,36,15,14,regular,weak-foot
+211,24,Angers,Toulouse,0.090303160250187,0,43,0,Shavy Warren Babicka,1136280,F,62,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,11,39,11,5,regular,strong-foot
+211,24,Angers,Toulouse,0.15935319662094,0,45,0,Mark McKenzie,922759,D,35,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,10,35,11,26,set-piece,strong-foot
+211,24,Angers,Toulouse,0.060334458947182,0,48,0,Frank Magri,1169436,F,71,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,14,33,15,26,assisted,weak-foot
+211,24,Angers,Toulouse,0.14058518409729,0,49,0,Ibrahima Niane,880775,F,66,Angers,1527,Kjetil Haug,792318,68,Toulouse,1654,True,17,41,17,3,fast-break,strong-foot
+211,24,Angers,Toulouse,0.16647531092167,1,51,0,Frank Magri,1169436,F,71,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,15,45,15,18,fast-break,strong-foot
+211,24,Angers,Toulouse,0.11075711995363,0,57,1,Charlie Cresswell,1020744,D,30,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,7,44,8,29,corner,head
+211,24,Angers,Toulouse,0.56017911434174,1,57,1,Vincent Sierro,794412,M,65,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,1,42,2,63,corner,strong-foot
+211,24,Angers,Toulouse,0.44887182116508,0,61,2,Gabriel Suazo,818986,D,57,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,13,36,13,17,regular,strong-foot
+211,24,Angers,Toulouse,0.05319357290864,0,65,-2,Ibrahima Niane,880775,F,66,Angers,1527,Kjetil Haug,792318,68,Toulouse,1654,True,18,28,21,33,fast-break,strong-foot
+211,24,Angers,Toulouse,0.23236498236656,0,68,2,Shavy Warren Babicka,1136280,F,62,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,10,28,15,50,fast-break,strong-foot
+211,24,Angers,Toulouse,0.21616232395172,1,71,2,Charlie Cresswell,1020744,D,30,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,6,41,6,9,set-piece,strong-foot
+211,24,Angers,Toulouse,0.034438643604517,0,75,-3,Pierrick Capelle,209768,M,71,Angers,1527,Kjetil Haug,792318,68,Toulouse,1654,True,25,33,25,15,regular,strong-foot
+211,24,Angers,Toulouse,0.1664933860302,0,90,3,Noah Edjouma,1512354,F,59,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,14,33,15,26,assisted,strong-foot
+211,24,Angers,Toulouse,0.061881188303232,0,90,3,Gabriel Suazo,818986,D,57,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,13,27,18,45,assisted,strong-foot
+211,24,Angers,Toulouse,0.47113394737244,1,90,3,Noah Edjouma,1512354,F,59,Toulouse,1654,Yahia Fofana,877977,74,Angers,1527,False,15,36,15,14,fast-break,strong-foot
+212,24,Auxerre,RC Strasbourg,0.073571041226387,0,8,0,Andrey Santos,1105779,M,65,RC Strasbourg,1664,Donovan Léon,159837,72,Auxerre,1594,False,32,30,33,17,assisted,strong-foot
+212,24,Auxerre,RC Strasbourg,0.0094433790072799,0,17,0,Elisha Owusu,904424,M,52,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,27,26,30,27,set-piece,strong-foot
+212,24,Auxerre,RC Strasbourg,0.026759350672364,0,23,0,Gaëtan Perrin,827506,M,68,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,14,22,22,52,fast-break,strong-foot
+212,24,Auxerre,RC Strasbourg,0.32484716176987,0,27,0,Thelonius Bair,936848,F,66,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,7,52,13,59,throw-in-set-piece,strong-foot
+212,24,Auxerre,RC Strasbourg,0.097243599593639,0,33,0,Habib Diarra,1128532,M,64,RC Strasbourg,1664,Donovan Léon,159837,72,Auxerre,1594,False,15,54,20,43,assisted,strong-foot
+212,24,Auxerre,RC Strasbourg,0.25882357358932,0,45,0,Mamadou Sarr,1154657,D,30,RC Strasbourg,1664,Donovan Léon,159837,72,Auxerre,1594,False,6,40,6,0,corner,strong-foot
+212,24,Auxerre,RC Strasbourg,0.12320052087307,0,46,0,Hamed Junior Traorè,892924,M,69,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,15,29,18,36,assisted,strong-foot
+212,24,Auxerre,RC Strasbourg,0.42535150051117,1,47,0,Emanuel Emegha,1048333,F,73,RC Strasbourg,1664,Donovan Léon,159837,72,Auxerre,1594,False,14,49,16,32,assisted,strong-foot
+212,24,Auxerre,RC Strasbourg,0.15718893706799,0,53,-1,Thelonius Bair,936848,F,66,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,8,41,8,7,assisted,head
+212,24,Auxerre,RC Strasbourg,0.041587226092815,0,60,-1,Gaëtan Perrin,827506,M,68,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,13,55,19,49,assisted,weak-foot
+212,24,Auxerre,RC Strasbourg,0.28225147724152,0,62,-1,Jubal,329195,D,41,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,9,40,9,0,corner,strong-foot
+212,24,Auxerre,RC Strasbourg,0.048434749245644,0,70,-1,Lassine Sinayoko,927005,F,69,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,13,56,20,50,fast-break,strong-foot
+212,24,Auxerre,RC Strasbourg,0.87190532684326,0,75,-1,Lassine Sinayoko,927005,F,69,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,9,41,9,6,fast-break,weak-foot
+212,24,Auxerre,RC Strasbourg,0.09314750880003,0,87,-1,Ado Onaiwu,489180,F,68,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,10,42,10,11,corner,strong-foot
+212,24,Auxerre,RC Strasbourg,0.097540035843849,0,87,-1,Gabriel Osho,920680,D,29,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,12,38,12,9,corner,weak-foot
+212,24,Auxerre,RC Strasbourg,0.026027785614133,0,90,-1,Fredrik Oppegård,1005648,D,50,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,12,23,20,54,regular,strong-foot
+212,24,Auxerre,RC Strasbourg,0.073529571294785,0,90,-1,Kévin Danois,1151803,M,56,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,19,35,19,14,regular,weak-foot
+212,24,Auxerre,RC Strasbourg,0.06698052585125,0,90,-1,Jubal,329195,D,41,Auxerre,1594,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,6,33,9,49,corner,head
+212,24,Auxerre,RC Strasbourg,0.22237820923328,0,90,1,Diego Moreira,1142233,F,62,RC Strasbourg,1664,Donovan Léon,159837,72,Auxerre,1594,False,9,54,16,57,fast-break,weak-foot
+212,24,Auxerre,RC Strasbourg,0.29583355784416,0,90,1,Félix Lemaréchal,1130942,M,59,RC Strasbourg,1664,Donovan Léon,159837,72,Auxerre,1594,False,10,44,10,21,throw-in-set-piece,weak-foot
+213,24,Montpellier,Stade Rennais,0.015047079883516,0,3,0,Wahbi Khazri,51640,F,74,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,41,35,41,6,regular,strong-foot
+213,24,Montpellier,Stade Rennais,0.043871279805899,0,5,0,Djaoui Cissé,1445628,M,58,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,31,41,31,1,assisted,weak-foot
+213,24,Montpellier,Stade Rennais,0.02377594448626,0,6,0,Wahbi Khazri,51640,F,74,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,9,57,19,62,assisted,weak-foot
+213,24,Montpellier,Stade Rennais,0.024252586066723,0,6,0,Boubakar Kouyaté,848537,D,35,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,16,38,16,7,corner,head
+213,24,Montpellier,Stade Rennais,0.37115526199341,0,10,0,Wahbi Khazri,51640,F,74,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,50,75,61,34,fast-break,strong-foot
+213,24,Montpellier,Stade Rennais,0.15356105566025,0,14,0,Lilian Brassier,988907,D,36,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,5,42,5,21,corner,head
+213,24,Montpellier,Stade Rennais,0.090316563844681,0,15,0,Jérémy Jacquet,1445625,D,34,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,9,41,9,6,corner,head
+213,24,Montpellier,Stade Rennais,0.33696314692497,0,15,0,Andy Delort,84744,F,77,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,9,46,10,33,assisted,strong-foot
+213,24,Montpellier,Stade Rennais,0.064810171723366,0,19,0,Anthony Rouault,991479,D,30,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,11,42,11,10,set-piece,head
+213,24,Montpellier,Stade Rennais,0.10954741388559,0,22,0,Teji Savanier,156682,M,74,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,31,34,31,10,regular,strong-foot
+213,24,Montpellier,Stade Rennais,0.086115181446075,0,27,0,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,3,32,8,69,assisted,strong-foot
+213,24,Montpellier,Stade Rennais,0.075616247951984,1,28,0,Seko Fofana,191188,M,76,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,21,36,21,10,assisted,weak-foot
+213,24,Montpellier,Stade Rennais,0.009754303842783,0,30,1,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,28,21,33,34,assisted,strong-foot
+213,24,Montpellier,Stade Rennais,0.04388776794076,0,46,-1,Wahbi Khazri,51640,F,74,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,22,41,22,2,set-piece,strong-foot
+213,24,Montpellier,Stade Rennais,0.028206057846546,0,52,-1,Wahbi Khazri,51640,F,74,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,14,21,23,53,assisted,strong-foot
+213,24,Montpellier,Stade Rennais,0.044918414205313,0,53,1,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,18,32,19,23,assisted,strong-foot
+213,24,Montpellier,Stade Rennais,0.014455120079219,1,56,1,Djaoui Cissé,1445628,M,58,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,30,28,32,21,corner,strong-foot
+213,24,Montpellier,Stade Rennais,0.08428830653429,0,61,-2,Boubakar Kouyaté,848537,D,35,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,9,42,9,12,corner,head
+213,24,Montpellier,Stade Rennais,0.056756038218737,0,62,-2,Boubakar Kouyaté,848537,D,35,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,19,40,19,0,regular,weak-foot
+213,24,Montpellier,Stade Rennais,0.044940952211618,0,66,2,Jérémy Jacquet,1445625,D,34,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,9,33,11,37,set-piece,head
+213,24,Montpellier,Stade Rennais,0.027683705091476,0,68,-2,Khalil Fayad,1387157,M,58,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,18,22,25,45,assisted,weak-foot
+213,24,Montpellier,Stade Rennais,0.29251706600189,1,69,2,Lorenz Assignon,1009334,D,50,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,4,40,4,0,assisted,head
+213,24,Montpellier,Stade Rennais,0.01704072393477,0,71,-3,Rabby Nzingoula,1492676,M,46,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,30,53,32,23,assisted,strong-foot
+213,24,Montpellier,Stade Rennais,0.10500702261925,0,71,-3,Theo Sainte Luce,901152,D,46,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,9,35,10,29,corner,head
+213,24,Montpellier,Stade Rennais,0.24222241342068,0,75,3,Mousa Al-Taamari,876600,F,68,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,16,40,16,0,assisted,strong-foot
+213,24,Montpellier,Stade Rennais,0.063205868005753,0,77,-3,Andy Delort,84744,F,77,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,4,31,9,66,assisted,head
+213,24,Montpellier,Stade Rennais,0.22610439360142,0,78,-3,Andy Delort,84744,F,77,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,8,37,8,20,assisted,head
+213,24,Montpellier,Stade Rennais,0.7884,0,87,3,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,13,40,13,0,penalty,strong-foot
+213,24,Montpellier,Stade Rennais,0.88990068435669,1,87,3,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,3,39,3,18,set-piece,weak-foot
+213,24,Montpellier,Stade Rennais,0.058087851852179,0,90,-4,Nicolas Pays,1622129,M,51,Montpellier,1539,Brice Samba,164055,82,Stade Rennais,1643,True,18,38,18,6,assisted,weak-foot
+213,24,Montpellier,Stade Rennais,0.32075268030167,0,90,4,Mousa Al-Taamari,876600,F,68,Stade Rennais,1643,Benjamin Lecomte,123207,75,Montpellier,1539,False,15,50,18,33,fast-break,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.037422213703394,0,3,0,Mathias Pereira Lage,831400,M,72,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,28,55,31,28,regular,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.1777086108923,0,6,0,Mathias Pereira Lage,831400,M,72,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,15,45,15,18,assisted,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.7884,1,15,0,Kenny Lala,141080,D,60,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,13,40,13,0,penalty,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.047946501523256,0,17,1,Ludovic Ajorque,343971,F,75,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,9,22,20,63,assisted,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.31681552529335,0,19,1,Abdallah Sima,1029018,F,73,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,25,41,25,2,assisted,weak-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.35432082414627,1,24,-1,Alexandre Lacazette,50070,F,82,Olympique Lyonnais,1732,Marco Bizot,100390,79,Stade Brestois,1678,True,9,27,15,55,assisted,weak-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.10522898286581,0,31,0,Abdallah Sima,1029018,F,73,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,9,39,9,6,assisted,head
+214,24,Olympique Lyonnais,Stade Brestois,0.058528028428555,0,38,0,Mahdi Camara,916041,M,66,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,12,29,16,42,assisted,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.019214285537601,0,39,0,Thiago Almada,944660,M,72,Olympique Lyonnais,1732,Marco Bizot,100390,79,Stade Brestois,1678,True,34,28,36,19,assisted,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.065217547118664,0,43,0,Pierre Lees Melou,801306,M,71,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,16,48,17,26,set-piece,weak-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.06003724783659,0,44,0,Mahdi Camara,916041,M,66,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,13,44,13,17,corner,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.042415052652359,0,52,0,Alexandre Lacazette,50070,F,82,Olympique Lyonnais,1732,Marco Bizot,100390,79,Stade Brestois,1678,True,6,53,14,65,assisted,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.058994472026825,0,53,0,Georges Mikautadze,1009372,F,78,Olympique Lyonnais,1732,Marco Bizot,100390,79,Stade Brestois,1678,True,11,32,13,36,assisted,head
+214,24,Olympique Lyonnais,Stade Brestois,0.034456618130207,0,58,0,Abdallah Sima,1029018,F,73,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,4,25,15,75,fast-break,weak-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.066105790436268,0,60,0,Tanner Tessmann,1022084,M,61,Olympique Lyonnais,1732,Marco Bizot,100390,79,Stade Brestois,1678,True,17,40,17,0,throw-in-set-piece,weak-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.0090281125158072,0,65,0,Ainsley Maitland-Niles,352768,D,65,Olympique Lyonnais,1732,Marco Bizot,100390,79,Stade Brestois,1678,True,26,26,29,28,corner,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.015370038338006,0,67,0,Hugo Magnetti,861324,M,48,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,30,23,34,29,assisted,weak-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.024266486987472,0,72,0,Corentin Tolisso,343067,M,77,Olympique Lyonnais,1732,Marco Bizot,100390,79,Stade Brestois,1678,True,33,39,33,1,assisted,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.079427681863308,0,75,0,Georges Mikautadze,1009372,F,78,Olympique Lyonnais,1732,Marco Bizot,100390,79,Stade Brestois,1678,True,18,30,20,29,assisted,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.097811482846737,0,77,0,Hugo Magnetti,861324,M,48,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,21,38,21,5,throw-in-set-piece,weak-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.55544549226761,1,82,0,Alexandre Lacazette,50070,F,82,Olympique Lyonnais,1732,Marco Bizot,100390,79,Stade Brestois,1678,True,4,40,4,0,assisted,weak-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.10858698934317,0,87,1,Malick Fofana,1195784,F,64,Olympique Lyonnais,1732,Marco Bizot,100390,79,Stade Brestois,1678,True,25,36,25,9,regular,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.035791125148535,0,89,-1,Mathias Pereira Lage,831400,M,72,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,6,56,17,69,throw-in-set-piece,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.061508242040873,0,90,-1,Jonas Martin,123264,M,63,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,17,42,17,6,assisted,strong-foot
+214,24,Olympique Lyonnais,Stade Brestois,0.097489789128304,0,90,-1,Kamory Doumbia,1156353,M,67,Stade Brestois,1678,Lucas Perri,871290,80,Olympique Lyonnais,1732,False,22,41,22,2,regular,strong-foot
+215,24,Olympique de Marseille,Nantes,0.038720645010471,0,2,0,Pierre-Emile Højbjerg,149593,M,72,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,28,39,28,2,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.02011557854712,0,8,0,Matthis Abline,999070,F,74,Nantes,1562,Gerónimo Rulli,128383,81,Olympique de Marseille,1746,False,46,47,46,8,fast-break,strong-foot
+215,24,Olympique de Marseille,Nantes,0.067246079444885,0,14,0,Mason Greenwood,942116,M,81,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,23,44,23,9,fast-break,weak-foot
+215,24,Olympique de Marseille,Nantes,0.16064536571503,0,17,0,Johann Lepenant,963299,M,60,Nantes,1562,Gerónimo Rulli,128383,81,Olympique de Marseille,1746,False,14,46,15,23,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.083329193294048,0,19,0,Louis Leroux,1405998,M,53,Nantes,1562,Gerónimo Rulli,128383,81,Olympique de Marseille,1746,False,13,31,15,34,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.042535658925772,0,21,0,Matthis Abline,999070,F,74,Nantes,1562,Gerónimo Rulli,128383,81,Olympique de Marseille,1746,False,11,35,12,24,set-piece,head
+215,24,Olympique de Marseille,Nantes,0.020486114546657,0,25,0,Mason Greenwood,942116,M,81,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,25,61,32,40,fast-break,weak-foot
+215,24,Olympique de Marseille,Nantes,0.0168775357306,0,27,0,Luís Henrique,977679,M,71,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,24,54,27,30,assisted,weak-foot
+215,24,Olympique de Marseille,Nantes,0.070452734827995,0,34,0,Mason Greenwood,942116,M,81,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,27,48,28,16,free-kick,weak-foot
+215,24,Olympique de Marseille,Nantes,0.048464417457581,0,43,0,Mason Greenwood,942116,M,81,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,12,51,16,42,assisted,weak-foot
+215,24,Olympique de Marseille,Nantes,0.024651821702719,0,45,0,Moses Simon,330051,F,71,Nantes,1562,Gerónimo Rulli,128383,81,Olympique de Marseille,1746,False,9,22,20,63,assisted,weak-foot
+215,24,Olympique de Marseille,Nantes,0.035298243165016,0,48,0,Pierre-Emile Højbjerg,149593,M,72,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,23,39,23,2,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.050565298646688,0,48,0,Mason Greenwood,942116,M,81,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,18,49,20,26,assisted,weak-foot
+215,24,Olympique de Marseille,Nantes,0.26030597090721,0,49,0,Amine Gouiri,859026,F,78,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,10,39,10,5,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.10427866876125,0,57,0,Mason Greenwood,942116,M,81,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,21,37,21,8,assisted,weak-foot
+215,24,Olympique de Marseille,Nantes,0.25674906373024,0,57,0,Adrien Rabiot,250737,M,76,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,11,37,11,15,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.36772432923317,0,63,0,Louis Leroux,1405998,M,53,Nantes,1562,Gerónimo Rulli,128383,81,Olympique de Marseille,1746,False,10,33,12,34,assisted,weak-foot
+215,24,Olympique de Marseille,Nantes,0.074009418487549,0,64,0,Amine Gouiri,859026,F,78,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,16,50,18,32,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.014173098839819,0,69,0,Pol Lirola,844480,D,60,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,35,46,35,9,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.08484398573637,0,69,0,Amine Gouiri,859026,F,78,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,12,42,12,9,assisted,head
+215,24,Olympique de Marseille,Nantes,0.058700773864985,0,71,0,Amine Gouiri,859026,F,78,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,24,36,24,9,fast-break,strong-foot
+215,24,Olympique de Marseille,Nantes,0.099323116242886,0,72,0,Mostafa Mohamed,873551,F,73,Nantes,1562,Gerónimo Rulli,128383,81,Olympique de Marseille,1746,False,12,31,15,36,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.020019380375743,0,72,0,Meschack Elia,862078,F,67,Nantes,1562,Gerónimo Rulli,128383,81,Olympique de Marseille,1746,False,24,23,29,35,regular,strong-foot
+215,24,Olympique de Marseille,Nantes,0.45318487286568,1,73,0,Amine Gouiri,859026,F,78,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,10,45,11,26,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.30984976887703,1,77,1,Mason Greenwood,942116,M,81,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,16,44,16,14,regular,weak-foot
+215,24,Olympique de Marseille,Nantes,0.077326394617558,0,81,2,Amine Gouiri,859026,F,78,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,22,41,22,2,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.047948766499758,0,85,2,Amar Dedić,1102791,D,58,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,27,35,27,10,regular,weak-foot
+215,24,Olympique de Marseille,Nantes,0.0294617600739,0,90,2,Amine Gouiri,859026,F,78,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,15,54,20,43,assisted,strong-foot
+215,24,Olympique de Marseille,Nantes,0.03293963521719,0,90,2,Amar Dedić,1102791,D,58,Olympique de Marseille,1746,Anthony Lopes,48535,77,Nantes,1562,True,8,25,17,61,assisted,weak-foot
+216,25,Toulouse,AS Monaco,0.2996751666069,0,4,0,Mika Biereth,1083007,F,73,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,7,36,8,29,assisted,strong-foot
+216,25,Toulouse,AS Monaco,0.020638257265091,0,12,0,Vincent Sierro,794412,M,65,Toulouse,1654,Radosław Majecki,849114,78,AS Monaco,1753,True,30,45,30,9,assisted,strong-foot
+216,25,Toulouse,AS Monaco,0.072775200009346,0,13,0,Shavy Warren Babicka,1136280,F,62,Toulouse,1654,Radosław Majecki,849114,78,AS Monaco,1753,True,17,37,17,10,regular,strong-foot
+216,25,Toulouse,AS Monaco,0.96767127513885,1,17,0,Takumi Minamino,155818,M,73,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,3,40,3,0,assisted,weak-foot
+216,25,Toulouse,AS Monaco,0.14839139580727,0,21,1,Mika Biereth,1083007,F,73,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,3,47,7,66,assisted,strong-foot
+216,25,Toulouse,AS Monaco,0.54510885477066,0,26,1,Lamine Camara,1389846,M,64,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,10,37,10,16,assisted,strong-foot
+216,25,Toulouse,AS Monaco,0.028320588171482,0,28,1,Vanderson,1090694,D,61,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,14,54,19,45,fast-break,strong-foot
+216,25,Toulouse,AS Monaco,0.008504718542099,0,50,1,Caio Henrique,845170,D,56,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,26,22,31,34,assisted,strong-foot
+216,25,Toulouse,AS Monaco,0.071547381579876,0,58,-1,Frank Magri,1169436,F,71,Toulouse,1654,Radosław Majecki,849114,78,AS Monaco,1753,True,18,41,18,3,assisted,weak-foot
+216,25,Toulouse,AS Monaco,0.16799537837505,0,61,1,Maghnes Akliouche,1130939,M,67,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,16,37,16,10,assisted,weak-foot
+216,25,Toulouse,AS Monaco,0.011401515454054,0,68,-1,Aron Dønnum,863133,M,62,Toulouse,1654,Radosław Majecki,849114,78,AS Monaco,1753,True,34,53,36,20,set-piece,strong-foot
+216,25,Toulouse,AS Monaco,0.14517477154732,0,69,-1,Frank Magri,1169436,F,71,Toulouse,1654,Radosław Majecki,849114,78,AS Monaco,1753,True,9,39,9,6,assisted,head
+216,25,Toulouse,AS Monaco,0.039414446800947,0,70,1,Mika Biereth,1083007,F,73,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,12,27,17,47,assisted,weak-foot
+216,25,Toulouse,AS Monaco,0.097664713859558,0,73,1,Thilo Kehrer,281277,D,42,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,8,45,9,32,corner,head
+216,25,Toulouse,AS Monaco,0.026378439739347,0,73,1,Breel Embolo,352296,F,75,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,2,30,10,78,corner,head
+216,25,Toulouse,AS Monaco,0.040207266807556,0,75,1,Maghnes Akliouche,1130939,M,67,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,13,25,19,49,assisted,strong-foot
+216,25,Toulouse,AS Monaco,0.083620131015778,0,84,-1,Noah Edjouma,1512354,F,59,Toulouse,1654,Radosław Majecki,849114,78,AS Monaco,1753,True,11,38,11,10,corner,weak-foot
+216,25,Toulouse,AS Monaco,0.033691134303808,0,87,1,Lamine Camara,1389846,M,64,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,29,38,29,3,assisted,weak-foot
+216,25,Toulouse,AS Monaco,0.028393046930432,0,88,1,Wilfried Singo,978285,D,58,AS Monaco,1753,Kjetil Haug,792318,68,Toulouse,1654,False,12,43,12,14,corner,head
+216,25,Toulouse,AS Monaco,0.1145975664258,1,90,-1,Frank Magri,1169436,F,71,Toulouse,1654,Radosław Majecki,849114,78,AS Monaco,1753,True,12,31,15,36,assisted,strong-foot
+216,25,Toulouse,AS Monaco,0.051730718463659,0,90,0,Miha Zajc,139256,M,74,Toulouse,1654,Radosław Majecki,849114,78,AS Monaco,1753,True,11,44,11,19,assisted,head
+217,25,Lille,Montpellier,0.016062542796135,0,3,0,Teji Savanier,156682,M,74,Montpellier,1539,Lucas Chevalier,996953,82,Lille,1793,False,27,58,32,33,assisted,strong-foot
+217,25,Lille,Montpellier,0.052074946463108,0,5,0,Thomas Meunier,128587,D,73,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,12,53,17,47,assisted,weak-foot
+217,25,Lille,Montpellier,0.055090375244617,0,7,0,Hakon Arnar Haraldsson,1138804,M,64,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,19,34,19,17,set-piece,strong-foot
+217,25,Lille,Montpellier,0.033316854387522,0,7,0,Hakon Arnar Haraldsson,1138804,M,64,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,22,28,25,28,set-piece,strong-foot
+217,25,Lille,Montpellier,0.044305332005024,0,10,0,Teji Savanier,156682,M,74,Montpellier,1539,Lucas Chevalier,996953,82,Lille,1793,False,19,14,32,53,free-kick,strong-foot
+217,25,Lille,Montpellier,0.068145275115967,0,16,0,Jonathan David,935564,F,81,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,16,36,16,14,assisted,weak-foot
+217,25,Lille,Montpellier,0.031786154955626,0,20,0,Rémy Cabella,72998,M,70,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,26,50,27,21,assisted,weak-foot
+217,25,Lille,Montpellier,0.070508718490601,0,21,0,Tanguy Coulibaly,954060,M,59,Montpellier,1539,Lucas Chevalier,996953,82,Lille,1793,False,13,42,13,8,assisted,head
+217,25,Lille,Montpellier,0.031743332743645,0,27,0,Hakon Arnar Haraldsson,1138804,M,64,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,26,39,26,2,regular,strong-foot
+217,25,Lille,Montpellier,0.019629128277302,0,27,0,Andy Delort,84744,F,77,Montpellier,1539,Lucas Chevalier,996953,82,Lille,1793,False,31,33,31,12,assisted,strong-foot
+217,25,Lille,Montpellier,0.034669294953346,0,29,0,Tanguy Coulibaly,954060,M,59,Montpellier,1539,Lucas Chevalier,996953,82,Lille,1793,False,23,51,25,25,fast-break,strong-foot
+217,25,Lille,Montpellier,0.079200625419617,0,30,0,Mitchel Bakker,856638,D,58,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,22,34,22,15,assisted,strong-foot
+217,25,Lille,Montpellier,0.094595439732075,0,37,0,André Gomes,235460,M,65,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,23,50,25,23,free-kick,strong-foot
+217,25,Lille,Montpellier,0.045802097767591,0,45,0,André Gomes,235460,M,65,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,26,45,26,10,assisted,strong-foot
+217,25,Lille,Montpellier,0.044000715017319,0,45,0,Rémy Cabella,72998,M,70,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,23,42,23,4,corner,strong-foot
+217,25,Lille,Montpellier,0.048615884035826,0,48,0,Joris Chotard,976396,M,56,Montpellier,1539,Lucas Chevalier,996953,82,Lille,1793,False,23,50,25,23,regular,strong-foot
+217,25,Lille,Montpellier,0.03790595382452,0,50,0,Ismaily,78352,D,63,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,15,27,19,40,corner,strong-foot
+217,25,Lille,Montpellier,0.60925585031509,1,50,0,Jonathan David,935564,F,81,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,3,39,3,18,corner,weak-foot
+217,25,Lille,Montpellier,0.015403334982693,0,53,-1,Teji Savanier,156682,M,74,Montpellier,1539,Lucas Chevalier,996953,82,Lille,1793,False,35,36,35,6,assisted,strong-foot
+217,25,Lille,Montpellier,0.079486683011055,0,55,1,Benjamin André,51665,M,63,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,16,32,17,26,assisted,weak-foot
+217,25,Lille,Montpellier,0.053114771842957,0,62,1,Jonathan David,935564,F,81,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,9,46,10,33,assisted,head
+217,25,Lille,Montpellier,0.059423491358757,0,63,1,Ismaily,78352,D,63,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,17,28,20,35,corner,strong-foot
+217,25,Lille,Montpellier,0.059329643845558,0,72,1,Chuba Akpom,190867,F,74,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,21,29,23,27,assisted,weak-foot
+217,25,Lille,Montpellier,0.019023770466447,0,75,-1,Teji Savanier,156682,M,74,Montpellier,1539,Lucas Chevalier,996953,82,Lille,1793,False,32,48,32,14,assisted,strong-foot
+217,25,Lille,Montpellier,0.015725689008832,0,77,-1,Wahbi Khazri,51640,F,74,Montpellier,1539,Lucas Chevalier,996953,82,Lille,1793,False,30,31,31,16,assisted,strong-foot
+217,25,Lille,Montpellier,0.0466093942523,0,81,1,Matias Fernandez,1149144,F,65,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,18,29,21,31,assisted,strong-foot
+217,25,Lille,Montpellier,0.027167966589332,0,89,-1,Othmane Maamma,1515917,F,56,Montpellier,1539,Lucas Chevalier,996953,82,Lille,1793,False,18,21,26,46,assisted,strong-foot
+217,25,Lille,Montpellier,0.082152597606182,0,90,1,Matias Fernandez,1149144,F,65,Lille,1793,Benjamin Lecomte,123207,75,Montpellier,1539,True,22,39,22,2,assisted,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.056762129068375,0,1,0,Amar Dedić,1102791,D,58,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,11,53,17,49,assisted,weak-foot
+218,25,Olympique de Marseille,RC Lens,0.22948503494263,0,9,0,Amine Gouiri,859026,F,78,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,9,43,9,18,assisted,head
+218,25,Olympique de Marseille,RC Lens,0.042207263410091,0,10,0,Amine Gouiri,859026,F,78,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,7,54,15,63,assisted,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.065255232155323,0,21,0,Amine Gouiri,859026,F,78,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,18,37,18,9,assisted,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.027037229388952,0,21,0,Pierre-Emile Højbjerg,149593,M,72,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,31,50,32,17,assisted,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.41420030593872,0,26,0,Andy Diouf,1048889,M,67,RC Lens,1658,Gerónimo Rulli,128383,81,Olympique de Marseille,1746,False,11,51,15,45,assisted,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.050877794623375,0,28,0,Bilal Nadir,1129527,M,58,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,19,52,22,32,assisted,weak-foot
+218,25,Olympique de Marseille,RC Lens,0.086103029549122,0,30,0,Amine Gouiri,859026,F,78,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,9,30,13,48,assisted,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.025515507906675,0,31,0,Leonardo Balerdi,928236,D,44,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,11,44,11,19,corner,head
+218,25,Olympique de Marseille,RC Lens,0.066982582211494,0,34,0,Bilal Nadir,1129527,M,58,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,21,52,24,29,assisted,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.01408789306879,0,40,0,Quentin Merlin,1102502,D,58,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,29,36,29,7,corner,weak-foot
+218,25,Olympique de Marseille,RC Lens,0.028550017625093,0,40,0,Ismaël Bennacer,823733,M,71,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,26,37,26,6,assisted,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.12779152393341,0,58,0,Wesley Saïd,227862,F,74,RC Lens,1658,Gerónimo Rulli,128383,81,Olympique de Marseille,1746,False,12,43,12,14,regular,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.025642992928624,0,63,0,Mason Greenwood,942116,M,81,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,27,49,28,18,assisted,weak-foot
+218,25,Olympique de Marseille,RC Lens,0.071404114365578,0,83,0,Luís Henrique,977679,M,71,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,5,50,11,63,assisted,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.18400648236275,0,85,0,Neal Maupay,268903,F,76,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,13,49,15,34,assisted,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.32927361130714,1,90,0,Neil El Aynaoui,1128530,M,60,RC Lens,1658,Gerónimo Rulli,128383,81,Olympique de Marseille,1746,False,12,36,12,18,fast-break,strong-foot
+218,25,Olympique de Marseille,RC Lens,0.031711459159851,0,90,-1,Mason Greenwood,942116,M,81,Olympique de Marseille,1746,Mathew Ryan,134029,78,RC Lens,1658,True,19,55,24,38,regular,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.058713182806969,0,4,0,João Neves,1190933,M,68,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,21,35,21,13,regular,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.062165334820747,0,24,0,Warren Zaïre-Emery,1142672,M,66,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,23,40,23,0,regular,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.045016914606094,0,25,0,Désiré Doué,1154605,M,69,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,26,47,26,15,assisted,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.279481112957,0,27,0,Gonçalo Ramos,934510,F,77,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,10,32,12,38,assisted,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.019392965361476,0,27,0,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,18,23,24,43,assisted,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.3557385802269,1,27,0,Bradley Barcola,996952,F,76,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,9,29,14,50,set-piece,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.093318693339825,0,30,-1,Ludovic Blas,806076,M,77,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,6,25,16,68,assisted,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.12327869236469,0,38,1,Kang-in Lee,917087,M,75,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,18,48,19,23,fast-break,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.91995108127594,0,38,1,Gonçalo Ramos,934510,F,77,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,10,36,10,21,fast-break,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.020723823457956,0,39,1,Bradley Barcola,996952,F,76,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,26,25,30,29,assisted,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.12276937067509,0,41,-1,Mohamed Kader Meite,1606642,F,59,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,8,39,8,7,assisted,head
+219,25,Stade Rennais,Paris Saint-Germain,0.018802773207426,0,48,1,Senny Mayulu,1473491,M,63,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,13,23,21,52,assisted,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.26636919379234,1,50,1,Gonçalo Ramos,934510,F,77,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,10,38,10,11,assisted,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.2120770663023,0,52,-2,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,9,43,9,18,assisted,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.72874397039413,1,53,-2,Lilian Brassier,988907,D,36,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,3,38,3,33,corner,head
+219,25,Stade Rennais,Paris Saint-Germain,0.037010721862316,0,54,1,Bradley Barcola,996952,F,76,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,14,23,22,50,assisted,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.029621373862028,0,55,-1,Arnaud Kalimuendo,954061,F,76,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,11,24,19,55,assisted,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.1577874571085,0,57,-1,Mohamed Kader Meite,1606642,F,59,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,8,37,8,20,regular,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.05868773534894,0,59,-1,Mohamed Kader Meite,1606642,F,59,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,9,47,11,37,assisted,head
+219,25,Stade Rennais,Paris Saint-Germain,0.033302757889032,0,63,-1,Ismael Koné,1134351,M,62,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,20,34,20,16,assisted,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.087810337543488,0,66,1,Khvicha Kvaratskhelia,889259,F,77,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,22,41,22,2,assisted,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.019628698006272,0,67,1,Khvicha Kvaratskhelia,889259,F,77,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,26,57,31,33,assisted,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.15387439727783,0,73,-1,Mohamed Kader Meite,1606642,F,59,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,13,37,13,12,regular,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.036599516868591,0,76,1,Désiré Doué,1154605,M,69,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,18,24,24,41,assisted,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.071998350322247,0,79,-1,Ludovic Blas,806076,M,77,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,15,44,15,14,assisted,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.12331590801477,0,85,1,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,12,29,16,42,fast-break,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.81322413682938,0,87,1,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,13,43,13,12,fast-break,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.55843514204025,1,90,1,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,9,29,14,50,assisted,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.039995815604925,0,90,-2,Lorenz Assignon,1009334,D,50,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,6,55,16,68,assisted,strong-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.073078982532024,0,90,2,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,22,42,22,5,assisted,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.062490217387676,1,90,2,Ousmane Dembélé,818244,F,79,Paris Saint-Germain,1944,Brice Samba,164055,82,Stade Rennais,1643,False,17,50,19,30,assisted,weak-foot
+219,25,Stade Rennais,Paris Saint-Germain,0.045895725488663,0,90,-3,Mousa Al-Taamari,876600,F,68,Stade Rennais,1643,Matvey Safonov,800749,77,Paris Saint-Germain,1944,True,25,23,30,34,free-kick,strong-foot
+220,25,Le Havre,Saint-Étienne,0.013963244855404,0,10,0,Yvann Maçon,1006486,D,48,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,34,49,35,14,assisted,strong-foot
+220,25,Le Havre,Saint-Étienne,0.88487666845322,1,10,0,Lucas Stassin,1126521,F,71,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,2,38,2,45,regular,strong-foot
+220,25,Le Havre,Saint-Étienne,0.17888702452183,0,10,1,Irvin Cardona,605552,F,72,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,8,43,8,20,assisted,strong-foot
+220,25,Le Havre,Saint-Étienne,0.048438508063555,0,12,-1,Abdoulaye Touré,149732,M,59,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,25,34,25,13,assisted,weak-foot
+220,25,Le Havre,Saint-Étienne,0.04636949673295,0,19,1,Pierre Ekwah,996908,M,65,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,27,44,27,8,assisted,strong-foot
+220,25,Le Havre,Saint-Étienne,0.025270264595747,0,26,1,Benjamin Bouchouari,1046446,M,58,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,32,50,33,17,assisted,strong-foot
+220,25,Le Havre,Saint-Étienne,0.070624187588692,0,28,-1,Ahmed Hassan,1143587,F,71,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,17,36,17,13,regular,strong-foot
+220,25,Le Havre,Saint-Étienne,0.019218204542994,0,28,-1,Ahmed Hassan,1143587,F,71,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,17,38,17,6,assisted,head
+220,25,Le Havre,Saint-Étienne,0.088699288666248,0,30,-1,Étienne Youte Kinkoue,980406,D,31,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,6,51,12,61,set-piece,strong-foot
+220,25,Le Havre,Saint-Étienne,0.67560803890228,0,31,-1,Ahmed Hassan,1143587,F,71,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,2,36,4,63,corner,head
+220,25,Le Havre,Saint-Étienne,0.059473346918821,0,34,-1,Mahamadou Diawara,1402751,M,55,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,17,44,17,13,assisted,strong-foot
+220,25,Le Havre,Saint-Étienne,0.7884,0,45,-1,Abdoulaye Touré,149732,M,59,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,13,40,13,0,penalty,strong-foot
+220,25,Le Havre,Saint-Étienne,0.71728390455246,1,45,-1,Abdoulaye Touré,149732,M,59,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,7,41,7,8,set-piece,strong-foot
+220,25,Le Havre,Saint-Étienne,0.10456528514624,0,48,0,Aimen Moueffek,990227,M,54,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,19,39,19,3,regular,weak-foot
+220,25,Le Havre,Saint-Étienne,0.084961302578449,0,55,0,Lucas Stassin,1126521,F,71,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,10,53,16,52,fast-break,strong-foot
+220,25,Le Havre,Saint-Étienne,0.038099862635136,0,62,0,Yvann Maçon,1006486,D,48,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,15,55,21,45,assisted,weak-foot
+220,25,Le Havre,Saint-Étienne,0.040938887745142,0,65,0,Josué Casimir,1035986,F,67,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,18,53,22,35,fast-break,strong-foot
+220,25,Le Havre,Saint-Étienne,0.035860493779182,0,65,0,Abdoulaye Touré,149732,M,59,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,8,46,10,36,corner,head
+220,25,Le Havre,Saint-Étienne,0.018456049263477,0,66,0,Josué Casimir,1035986,F,67,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,28,53,30,24,corner,weak-foot
+220,25,Le Havre,Saint-Étienne,0.035821810364723,0,66,0,Yvann Maçon,1006486,D,48,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,21,54,25,33,assisted,strong-foot
+220,25,Le Havre,Saint-Étienne,0.03225526586175,0,70,0,Yanis Zouaoui,1397882,D,51,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,35,50,36,15,free-kick,strong-foot
+220,25,Le Havre,Saint-Étienne,0.016283761709929,0,75,0,Florian Tardieu,234142,M,56,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,9,29,14,50,corner,head
+220,25,Le Havre,Saint-Étienne,0.051871504634619,0,90,0,Yanis Zouaoui,1397882,D,51,Le Havre,1514,Gautier Larsonneur,810526,74,Saint-Étienne,1493,True,27,53,29,25,free-kick,strong-foot
+220,25,Le Havre,Saint-Étienne,0.19937843084335,0,90,0,Irvin Cardona,605552,F,72,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,5,35,7,45,regular,weak-foot
+220,25,Le Havre,Saint-Étienne,0.037317909300327,0,90,0,Florian Tardieu,234142,M,56,Saint-Étienne,1493,Mathieu Gorgelin,123226,70,Le Havre,1514,False,12,29,16,42,assisted,weak-foot
+221,25,Nantes,RC Strasbourg,0.03509858995676,0,14,0,Matthis Abline,999070,F,74,Nantes,1562,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,24,38,24,4,assisted,strong-foot
+221,25,Nantes,RC Strasbourg,0.079915672540665,0,18,0,Louis Leroux,1405998,M,53,Nantes,1562,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,11,26,17,51,assisted,strong-foot
+221,25,Nantes,RC Strasbourg,0.12766587734222,0,19,0,Mostafa Mohamed,873551,F,73,Nantes,1562,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,14,30,17,35,assisted,strong-foot
+221,25,Nantes,RC Strasbourg,0.16743791103363,0,25,0,Mostafa Mohamed,873551,F,73,Nantes,1562,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,19,36,19,11,fast-break,strong-foot
+221,25,Nantes,RC Strasbourg,0.028975505381823,0,27,0,Douglas Augusto,809034,M,68,Nantes,1562,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,23,52,25,27,throw-in-set-piece,strong-foot
+221,25,Nantes,RC Strasbourg,0.094701535999775,0,31,0,Sebastian Nanasi,962068,M,64,RC Strasbourg,1664,Anthony Lopes,48535,77,Nantes,1562,False,11,42,11,10,regular,strong-foot
+221,25,Nantes,RC Strasbourg,0.032055355608463,0,38,0,Dilane Bakwa,963298,M,67,RC Strasbourg,1664,Anthony Lopes,48535,77,Nantes,1562,False,26,45,26,10,assisted,weak-foot
+221,25,Nantes,RC Strasbourg,0.088556066155434,0,45,0,Matthis Abline,999070,F,74,Nantes,1562,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,18,41,18,3,assisted,strong-foot
+221,25,Nantes,RC Strasbourg,0.028245359659195,0,51,0,Douglas Augusto,809034,M,68,Nantes,1562,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,20,33,21,19,regular,head
+221,25,Nantes,RC Strasbourg,0.18347366154194,0,59,0,Diego Moreira,1142233,F,62,RC Strasbourg,1664,Anthony Lopes,48535,77,Nantes,1562,False,9,40,9,0,regular,strong-foot
+221,25,Nantes,RC Strasbourg,0.033852510154247,0,59,0,Andrey Santos,1105779,M,65,RC Strasbourg,1664,Anthony Lopes,48535,77,Nantes,1562,False,29,42,29,3,regular,strong-foot
+221,25,Nantes,RC Strasbourg,0.13841831684113,0,63,0,Emanuel Emegha,1048333,F,73,RC Strasbourg,1664,Anthony Lopes,48535,77,Nantes,1562,False,5,34,7,50,corner,strong-foot
+221,25,Nantes,RC Strasbourg,0.2069117128849,0,64,0,Félix Lemaréchal,1130942,M,59,RC Strasbourg,1664,Anthony Lopes,48535,77,Nantes,1562,False,7,38,7,15,assisted,strong-foot
+221,25,Nantes,RC Strasbourg,0.033722825348377,0,67,0,Valentín Barco,1127057,D,48,RC Strasbourg,1664,Anthony Lopes,48535,77,Nantes,1562,False,27,27,29,25,assisted,strong-foot
+221,25,Nantes,RC Strasbourg,0.099081516265869,0,77,0,Mamadou Sarr,1154657,D,30,RC Strasbourg,1664,Anthony Lopes,48535,77,Nantes,1562,False,6,45,7,39,corner,head
+221,25,Nantes,RC Strasbourg,0.16169841587543,1,79,0,Félix Lemaréchal,1130942,M,59,RC Strasbourg,1664,Anthony Lopes,48535,77,Nantes,1562,False,12,43,12,14,assisted,strong-foot
+221,25,Nantes,RC Strasbourg,0.025810934603214,0,81,-1,Jean-Charles Castelletto,191204,D,31,Nantes,1562,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,13,30,16,37,set-piece,head
+221,25,Nantes,RC Strasbourg,0.057781748473644,0,90,-1,Jean-Charles Castelletto,191204,D,31,Nantes,1562,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,10,42,10,11,corner,head
+221,25,Nantes,RC Strasbourg,0.070924386382103,0,90,-1,Bahereba Guirassy,1406007,F,58,Nantes,1562,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,12,38,12,9,assisted,strong-foot
+221,25,Nantes,RC Strasbourg,0.056883223354816,0,90,-1,Bahereba Guirassy,1406007,F,58,Nantes,1562,Đorđe Petrović,882604,79,RC Strasbourg,1664,True,14,44,14,15,set-piece,head
+222,25,Nice,Olympique Lyonnais,0.073947586119175,0,5,0,Gaëtan Laborde,149730,F,77,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,14,36,14,15,set-piece,weak-foot
+222,25,Nice,Olympique Lyonnais,0.059978485107422,0,5,0,Hicham Boudaoui,985923,M,64,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,18,47,19,21,corner,strong-foot
+222,25,Nice,Olympique Lyonnais,0.022486066445708,0,5,0,Moise Bombito,1469180,D,46,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,30,43,30,5,corner,strong-foot
+222,25,Nice,Olympique Lyonnais,0.1233841329813,0,5,0,Gaëtan Laborde,149730,F,77,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,13,35,13,21,corner,weak-foot
+222,25,Nice,Olympique Lyonnais,0.038732752203941,0,6,0,Jonathan Clauss,821728,D,67,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,30,26,33,25,free-kick,strong-foot
+222,25,Nice,Olympique Lyonnais,0.28855618834496,0,18,0,Mohamed-Ali Cho,1063235,F,68,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,10,44,10,21,assisted,weak-foot
+222,25,Nice,Olympique Lyonnais,0.011803833767772,0,21,0,Melvin Bard,906075,D,50,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,27,30,28,20,corner,strong-foot
+222,25,Nice,Olympique Lyonnais,0.012137578800321,0,31,0,Hicham Boudaoui,985923,M,64,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,30,27,32,23,assisted,strong-foot
+222,25,Nice,Olympique Lyonnais,0.32100597023964,0,32,0,Gaëtan Laborde,149730,F,77,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,4,43,5,36,assisted,head
+222,25,Nice,Olympique Lyonnais,0.17898488044739,0,33,0,Mohamed-Ali Cho,1063235,F,68,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,16,46,17,20,regular,strong-foot
+222,25,Nice,Olympique Lyonnais,0.030278267338872,0,36,0,Nicolás Tagliafico,158243,D,54,Olympique Lyonnais,1732,Marcin Bułka,889590,79,Nice,1706,False,24,34,24,14,throw-in-set-piece,strong-foot
+222,25,Nice,Olympique Lyonnais,0.025675693526864,0,42,0,Gaëtan Laborde,149730,F,77,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,21,38,21,5,set-piece,strong-foot
+222,25,Nice,Olympique Lyonnais,0.029371593147516,0,43,0,Gaëtan Laborde,149730,F,77,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,9,27,15,55,set-piece,strong-foot
+222,25,Nice,Olympique Lyonnais,0.026124669238925,0,47,0,Thiago Almada,944660,M,72,Olympique Lyonnais,1732,Marcin Bułka,889590,79,Nice,1706,False,29,53,31,24,regular,strong-foot
+222,25,Nice,Olympique Lyonnais,0.020379384979606,0,48,0,Baptiste Santamaria,344751,M,66,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,23,27,26,29,assisted,strong-foot
+222,25,Nice,Olympique Lyonnais,0.017412656918168,0,58,0,Nicolás Tagliafico,158243,D,54,Olympique Lyonnais,1732,Marcin Bułka,889590,79,Nice,1706,False,30,26,33,25,assisted,strong-foot
+222,25,Nice,Olympique Lyonnais,0.32709121704102,0,59,0,Corentin Tolisso,343067,M,77,Olympique Lyonnais,1732,Marcin Bułka,889590,79,Nice,1706,False,9,43,9,18,assisted,head
+222,25,Nice,Olympique Lyonnais,0.047727659344673,0,60,0,Evann Guessand,930245,F,75,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,21,43,21,8,assisted,weak-foot
+222,25,Nice,Olympique Lyonnais,0.046727687120438,0,73,0,Thiago Almada,944660,M,72,Olympique Lyonnais,1732,Marcin Bułka,889590,79,Nice,1706,False,25,41,25,2,assisted,strong-foot
+222,25,Nice,Olympique Lyonnais,0.027557445690036,0,73,0,Sofiane Diop,944164,M,69,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,24,19,31,41,assisted,strong-foot
+222,25,Nice,Olympique Lyonnais,0.54767590761185,1,78,0,Rayan Cherki,979128,M,70,Olympique Lyonnais,1732,Marcin Bułka,889590,79,Nice,1706,False,11,37,11,15,assisted,weak-foot
+222,25,Nice,Olympique Lyonnais,0.096234761178493,0,80,-1,Evann Guessand,930245,F,75,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,9,52,15,53,assisted,strong-foot
+222,25,Nice,Olympique Lyonnais,0.019888993352652,0,80,-1,Dante,3577,D,51,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,13,35,13,21,corner,head
+222,25,Nice,Olympique Lyonnais,0.048025324940681,1,83,1,Ernest Nuamah,1202024,F,66,Olympique Lyonnais,1732,Marcin Bułka,889590,79,Nice,1706,False,27,41,27,2,assisted,strong-foot
+222,25,Nice,Olympique Lyonnais,0.05965743213892,0,87,2,Georges Mikautadze,1009372,F,78,Olympique Lyonnais,1732,Marcin Bułka,889590,79,Nice,1706,False,12,55,19,51,assisted,strong-foot
+222,25,Nice,Olympique Lyonnais,0.045195154845715,0,90,-2,Jérémie Boga,367056,F,69,Nice,1706,Lucas Perri,871290,80,Olympique Lyonnais,1732,True,28,31,29,17,assisted,strong-foot
+223,25,Stade Brestois,Angers,0.030734188854694,0,2,0,Esteban Lepaul,966621,F,71,Angers,1527,Marco Bizot,100390,79,Stade Brestois,1678,False,14,57,22,50,throw-in-set-piece,strong-foot
+223,25,Stade Brestois,Angers,0.27467316389084,0,9,0,Abdallah Sima,1029018,F,73,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,4,37,5,36,regular,strong-foot
+223,25,Stade Brestois,Angers,0.041502077132463,0,19,0,Kenny Lala,141080,D,60,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,23,51,25,25,assisted,strong-foot
+223,25,Stade Brestois,Angers,0.09691459685564,1,19,0,Abdallah Sima,1029018,F,73,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,8,42,8,14,corner,head
+223,25,Stade Brestois,Angers,0.032647855579853,0,21,1,Abdallah Sima,1029018,F,73,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,15,23,22,48,assisted,strong-foot
+223,25,Stade Brestois,Angers,0.28077200055122,0,21,1,Ludovic Ajorque,343971,F,75,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,5,39,5,11,assisted,head
+223,25,Stade Brestois,Angers,0.087507396936417,0,21,1,Mathias Pereira Lage,831400,M,72,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,13,41,13,4,regular,head
+223,25,Stade Brestois,Angers,0.10069737583399,0,24,1,Ludovic Ajorque,343971,F,75,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,8,42,8,14,corner,head
+223,25,Stade Brestois,Angers,0.024487415328622,0,32,-1,Lilian Raolisoa,1462778,D,38,Angers,1527,Marco Bizot,100390,79,Stade Brestois,1678,False,11,48,13,36,assisted,head
+223,25,Stade Brestois,Angers,0.59653407335281,0,40,1,Mathias Pereira Lage,831400,M,72,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,4,26,14,74,fast-break,strong-foot
+223,25,Stade Brestois,Angers,0.99304574728012,0,40,1,Abdallah Sima,1029018,F,73,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,5,38,5,21,fast-break,weak-foot
+223,25,Stade Brestois,Angers,0.28976994752884,0,45,1,Ludovic Ajorque,343971,F,75,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,6,38,6,18,fast-break,weak-foot
+223,25,Stade Brestois,Angers,0.05976015329361,0,45,-1,Esteban Lepaul,966621,F,71,Angers,1527,Marco Bizot,100390,79,Stade Brestois,1678,False,18,38,18,6,corner,strong-foot
+223,25,Stade Brestois,Angers,0.13178130984306,0,52,-1,Florent Hanin,170129,D,42,Angers,1527,Marco Bizot,100390,79,Stade Brestois,1678,False,17,36,17,13,regular,weak-foot
+223,25,Stade Brestois,Angers,0.035920981317759,0,53,1,Ludovic Ajorque,343971,F,75,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,12,42,12,9,set-piece,head
+223,25,Stade Brestois,Angers,0.027898762375116,0,57,1,Pierre Lees Melou,801306,M,71,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,27,37,27,6,regular,weak-foot
+223,25,Stade Brestois,Angers,0.018962994217873,0,59,1,Romain Faivre,913942,M,71,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,19,59,26,45,assisted,strong-foot
+223,25,Stade Brestois,Angers,0.29068213701248,0,60,1,Romain Faivre,913942,M,71,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,13,53,18,45,assisted,strong-foot
+223,25,Stade Brestois,Angers,0.39594665169716,1,60,1,Romain Faivre,913942,M,71,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,5,49,10,60,regular,strong-foot
+223,25,Stade Brestois,Angers,0.37546119093895,0,62,2,Ludovic Ajorque,343971,F,75,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,9,35,10,29,fast-break,head
+223,25,Stade Brestois,Angers,0.033302865922451,0,71,-2,Farid El Melali,930584,M,60,Angers,1527,Marco Bizot,100390,79,Stade Brestois,1678,False,3,26,14,77,assisted,weak-foot
+223,25,Stade Brestois,Angers,0.03177473321557,0,77,-2,Himad Abdelli,945830,M,68,Angers,1527,Marco Bizot,100390,79,Stade Brestois,1678,False,24,54,27,30,throw-in-set-piece,weak-foot
+223,25,Stade Brestois,Angers,0.10355507582426,0,89,-2,Jean-Eudes Aholou,156004,M,62,Angers,1527,Marco Bizot,100390,79,Stade Brestois,1678,False,10,43,10,16,corner,head
+223,25,Stade Brestois,Angers,0.074962273240089,0,90,2,Mahdi Camara,916041,M,66,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,10,51,14,47,assisted,strong-foot
+223,25,Stade Brestois,Angers,0.22659008204937,0,90,2,Ludovic Ajorque,343971,F,75,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,6,42,6,18,regular,head
+223,25,Stade Brestois,Angers,0.034358333796263,0,90,2,Mahdi Camara,916041,M,66,Stade Brestois,1678,Yahia Fofana,877977,74,Angers,1527,True,5,48,9,57,corner,head
+224,25,Stade de Reims,Auxerre,0.31935158371925,0,5,0,Junya Ito,783278,F,69,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,5,44,6,38,assisted,head
+224,25,Stade de Reims,Auxerre,0.29090029001236,0,6,0,Kévin Danois,1151803,M,56,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,17,44,17,13,fast-break,weak-foot
+224,25,Stade de Reims,Auxerre,0.088034056127071,0,8,0,Jubal,329195,D,41,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,8,38,8,14,corner,head
+224,25,Stade de Reims,Auxerre,0.2669585943222,0,8,0,Kévin Danois,1151803,M,56,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,2,33,7,74,corner,head
+224,25,Stade de Reims,Auxerre,0.11679004132748,1,15,0,Thelonius Bair,936848,F,66,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,8,38,8,14,corner,head
+224,25,Stade de Reims,Auxerre,0.080241277813911,0,21,1,Hamed Junior Traorè,892924,M,69,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,26,37,26,6,assisted,weak-foot
+224,25,Stade de Reims,Auxerre,0.099113531410694,0,24,1,Thelonius Bair,936848,F,66,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,5,53,13,68,fast-break,strong-foot
+224,25,Stade de Reims,Auxerre,0.98601400852203,1,24,1,Hamed Junior Traorè,892924,M,69,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,3,40,3,0,fast-break,strong-foot
+224,25,Stade de Reims,Auxerre,0.012828530743718,0,26,2,Jubal,329195,D,41,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,12,32,14,33,corner,head
+224,25,Stade de Reims,Auxerre,0.015561293810606,0,42,-2,Sergio Akieme,827942,D,45,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,36,24,39,23,assisted,strong-foot
+224,25,Stade de Reims,Auxerre,0.093806684017181,0,43,-2,Keito Nakamura,905352,F,73,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,3,31,9,71,assisted,weak-foot
+224,25,Stade de Reims,Auxerre,0.094559036195278,0,44,2,Thelonius Bair,936848,F,66,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,12,53,17,47,fast-break,weak-foot
+224,25,Stade de Reims,Auxerre,0.1337161809206,0,50,2,Gaëtan Perrin,827506,M,68,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,17,32,18,25,assisted,weak-foot
+224,25,Stade de Reims,Auxerre,0.023112379014492,0,51,-2,John Patrick,1100831,M,54,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,29,50,30,19,assisted,weak-foot
+224,25,Stade de Reims,Auxerre,0.056412734091282,0,56,-2,Keito Nakamura,905352,F,73,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,30,49,31,16,free-kick,strong-foot
+224,25,Stade de Reims,Auxerre,0.10240726917982,0,59,-2,Oumar Diakité,1188191,F,70,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,11,42,11,10,assisted,head
+224,25,Stade de Reims,Auxerre,0.032271813601255,0,62,2,Gabriel Osho,920680,D,29,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,12,34,13,26,corner,head
+224,25,Stade de Reims,Auxerre,0.0232960190624,0,71,-2,Valentin Atangana Edoa,1154611,M,54,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,19,54,23,36,assisted,strong-foot
+224,25,Stade de Reims,Auxerre,0.062881030142307,0,72,-2,Joseph Okumu,985933,D,40,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,13,33,14,28,corner,weak-foot
+224,25,Stade de Reims,Auxerre,0.014568668790162,0,72,-2,Valentin Atangana Edoa,1154611,M,54,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,12,45,13,22,corner,head
+224,25,Stade de Reims,Auxerre,0.060169834643602,0,73,-2,Amadou Kone,1586875,M,52,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,25,48,26,17,assisted,weak-foot
+224,25,Stade de Reims,Auxerre,0.18473945558071,0,75,-2,Junya Ito,783278,F,69,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,14,38,14,8,assisted,weak-foot
+224,25,Stade de Reims,Auxerre,0.31725469231606,0,75,-2,Junya Ito,783278,F,69,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,8,38,8,14,regular,weak-foot
+224,25,Stade de Reims,Auxerre,0.094249844551086,0,75,-2,Keito Nakamura,905352,F,73,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,12,39,12,4,regular,strong-foot
+224,25,Stade de Reims,Auxerre,0.10695093870163,0,75,-2,Hafiz Umar Ibrahim,1984921,F,56,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,11,43,11,15,regular,weak-foot
+224,25,Stade de Reims,Auxerre,0.072347886860371,0,82,-2,Hafiz Umar Ibrahim,1984921,F,56,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,9,39,9,6,corner,head
+224,25,Stade de Reims,Auxerre,0.0092345830053091,0,88,2,Elisha Owusu,904424,M,52,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,30,25,33,26,throw-in-set-piece,strong-foot
+224,25,Stade de Reims,Auxerre,0.017726557329297,0,90,-2,Mamadou Diakhon,1495876,F,58,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,18,25,23,39,assisted,strong-foot
+224,25,Stade de Reims,Auxerre,0.028750160709023,0,90,2,Han-Noah Massengo,927340,M,47,Auxerre,1594,Yehvann Diouf,845183,77,Stade de Reims,1578,False,28,38,28,4,set-piece,strong-foot
+224,25,Stade de Reims,Auxerre,0.018982661888003,0,90,-2,Amadou Kone,1586875,M,52,Stade de Reims,1578,Donovan Léon,159837,72,Auxerre,1594,True,35,32,35,12,assisted,weak-foot
