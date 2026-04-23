@@ -41,6 +41,13 @@ for the proposed models</b>, in some cases, proving how it takes only a handful 
 are provided.
 
 <img width="1103" height="367" alt="image" src="https://github.com/user-attachments/assets/a14ddb4e-5ecd-46fe-81ef-4674e4199f5a" />
+<br></br>
+Looking at the impact player-specific and team-related features have on the models, it turns out how these feature impact positively the model, but their influence is quite small, compared to the one other factors have (distance, opposition positioning...), so eventually this study highlighted how a player-specific model
+would not change considerably the scoring probabilities.
+<br></br>
+
+<img width="875" height="607" alt="top5" src="https://github.com/user-attachments/assets/0d1612f0-0529-4d6e-a931-61d5a3de0a65" />
+
 
 <br></br>
 
